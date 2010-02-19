@@ -2974,7 +2974,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="a" status="status">tanska</lemma>
+      <lemma pos="a" status="sjekk">tanska</lemma>
       <mgr>
          <trgr>
             <trans decl="a2">dansk</trans>
@@ -3172,7 +3172,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="a" status="skjekk">tuollainen</lemma>
+      <lemma pos="a" status="sjekk">tuollainen</lemma>
       <stem>tuollaise</stem>
       <stem>tuollais</stem>
       <mgr>
@@ -3957,7 +3957,7 @@ For the full license text, see the link above.</lic>
       <stem>kahđeksenkanttis</stem>
       <mgr>
          <trgr>
-            <trans decl="a3/a4">åttekantet</trans>
+            <trans decl="a3">åttekantet</trans>
          </trgr>
       </mgr>
    </entry>
