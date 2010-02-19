@@ -1,0 +1,53 @@
+<!--
+DTD for sana-aitta.db
+
+This part quasicode only, to describe the source.
+
+The sana-aitta.db.xml was generated from the .docx with 
+antiword -x db
+
+The structure is (content is marked in BOLD):
+
+1 <para>
+2 <emphasis role="bold">
+3   LEMMA
+4 </emphasis>
+5 nothing
+6 TRANSLATION TO NORWEGIAN OR FINNISH OR LATIN
+7 ;
+8 EXAMPLE FROM THE NOVEL.
+9 the string &gt;
+10 REFERENCE TO ANOTHER LEMMA
+11one of the strings " AR " or " KT "
+12 a page number
+13 ;
+14 </para>
+
+The boundary signal for the translation is eihter parentheses (around the translation)
+or semicolon (after it).
+8 need not be present if there is a reference to another lemma in the article
+9, 10 is a reference to another lemma.
+11, 12 is source infomation, reference to novel (AR or KT) and to page number.
+Then either boundary 13 and loop back to 5, or go to 14.
+Only the lemma and the boundaries para and emphasis are compulsatory.
+
+The goal is not to give a full parse of the input data, but to parse
+down to a basic tripartition of the string.
+
+
+çs -> š
+çc -> č
+çz -> ž
+    
+-->
+
+<!ELEMENT rootdict (entry+) >
+<!ELEMENT entry (lemma, mgr*, refgr?) >
+<!ELEMENT lemma (#) >
+<!ELEMENT mgr (trgr*, exgr*, syngr*) >
+<!ELEMENT trgr (#PCDATA) >
+<!ELEMENT exgr (#PCDATA) >
+<!ELEMENT syngr (#PCDATA) >
+
+  
+

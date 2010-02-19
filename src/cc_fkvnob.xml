@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma pos="cc">eli</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="cc">eller</trans>
+            <syngr>
+               <syn>elikkä</syn>
+               <syn>tahi</syn>
+            </syngr>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">ette</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">at</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">ja</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">og</trans>
+            <trans decl="x">samt</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">jos</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">dersom</trans>
+            <trans decl="x">om</trans>
+            <trans decl="x">viss</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">mutta</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">men</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">tahi</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="cc">eller</trans>
+            <syngr>
+               <syn>tai</syn>
+               <syn>vai</syn>
+            </syngr>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="cc">vaikka</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="konj">selv om</trans>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

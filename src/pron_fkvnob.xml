@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma pos="pron">sama</lemma>
+      <stem>samma</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">samme</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron" status="sjekk">tämä</lemma>
+      <stem>tä</stem>
+      <mgr>
+         <trgr>
+            <trans decl="x">den her</trans>
+            <trans decl="pron">denne her</trans>
+            <trans decl="pron">dette her</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">hän</lemma>
+      <stem>häne</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">han</trans>
+            <trans decl="pron">hun</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">itte</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pron">selv</trans>
+            <trans decl="pron">sjøl</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">kaikki</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">alle</trans>
+            <trans decl="x">alt</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">kuka</lemma>
+      <stem>kene</stem>
+      <stem>ke</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">hvem</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">met</lemma>
+      <stem>mei</stem>
+      <stem>mei</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">vi</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">mie</lemma>
+      <stem>minu</stem>
+      <stem>minnu</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">jeg</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">mikä</lemma>
+      <stem>mi</stem>
+      <stem>mi</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">hva</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">net</lemma>
+      <stem>nii</stem>
+      <stem>nii</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">de</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">nämät</lemma>
+      <stem>näi</stem>
+      <stem>näi</stem>
+      <mgr>
+         <trgr>
+            <trans decl="x">disse her</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">se</lemma>
+      <stem>se</stem>
+      <stem>si</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">den</trans>
+            <trans decl="pron">det</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">sie</lemma>
+      <stem>sinu</stem>
+      <stem>sinnu</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">du</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">tet</lemma>
+      <stem>tei</stem>
+      <mgr>
+         <trgr>
+            <trans decl="pron">dere</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">tuo</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">den der</trans>
+            <trans decl="x">det der</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="pron">yksi</lemma>
+      <stem>yhđe</stem>
+      <stem>yh</stem>
+      <mgr>
+         <trgr>
+            <trans decl="x">en</trans>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

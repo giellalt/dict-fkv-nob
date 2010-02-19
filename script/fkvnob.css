@@ -1,0 +1,110 @@
+rootdict {
+    display: block;
+    border: 1 solid gray;
+    margin-bottom: 1.33ex;
+    background-color: #eeeeee;
+}
+
+entry {
+    display: block;
+    collapsible: yes;
+    not-collapsible-head: 1;
+    margin-bottom: 1.33ex;
+    background-color: #eeeeee;
+}
+
+lemma {
+	font-weight: bold;
+	color: blue;
+}
+
+lemma:after {
+    display: inline;
+    content: " " attr(POS) ', ' ;
+    font-style: italic;
+    font-size: smaller;
+}
+
+stem
+ 	{
+	font-style: italic;
+}
+
+stem:before {
+    content: " stamme: ";
+    font-style: normal;
+    font-size:small;
+}
+
+stem:after {
+    content: '-  ';
+}
+
+
+entry > mgr:before {
+	display: inline;
+    content: counter(n, decimal) ". ";
+    font-weight: bold;
+}
+
+mgr {
+    display: block;
+    collapsible: yes;
+    border: 1 solid gray;
+    margin-bottom: 1.33ex;
+    background-color: #ffffff;
+}
+
+restrict {
+	display: inline;
+	font-style: italic;
+	font-size: small;
+}
+
+restrict:before {
+	content: " (";
+}
+
+restrict:after {
+	content: ") ";
+}
+
+trgr + trgr:before {
+    content: "; ";
+}
+
+trans + trans:before {
+    content: ", ";
+}
+
+trans[decl]:after {
+    display: inline;
+    content: attr(decl);
+    font-style: italic;
+    color: gray;
+    vertical-align: super;
+}
+
+exgr {
+    display: block;
+}
+
+exgr ex {
+    font-style: italic;
+}
+
+exgr extr:before {
+    content: " ";
+}
+
+syngr  {
+    display: block;
+}
+
+trgr syngr syn {
+    font-style: italic;
+}
+
+syn:before {
+    content: " Synonym: ";
+}

@@ -1,0 +1,56 @@
+State of the art of the fkv:nob resource
+
+goal: compilation of a fkv:nob-nob:fkv dict (all formats) and merging with the kven glossary
+      by the end of February 2010
+
+time left: one week
+
+1. fkv:nob
+
+/Users/cipriangerstenberger/gtsvn/kvensk/fkvnob/src
+src>grep -h "<lemma " *xml | grep 'pos="x"' | wc -l
+     283
+
+grep -h "<lemma " *xml | sort | uniq -c | sort -nr | less
+   1       <lemma pos="x">öystä</lemma>
+   1       <lemma pos="x">äskön</lemma>
+   1       <lemma pos="x">yötä päivää</lemma>
+   1       <lemma pos="x">ympäri</lemma>
+   1       <lemma pos="x">ymmärrettäävä</lemma>
+   1       <lemma pos="x">ylöspäin</lemma>
+   1       <lemma pos="x">ylös</lemma>
+   1       <lemma pos="x">ylistetty olkhoon</lemma>
+
+No doublings, but they might be introduces by correcting the x-pos value!!!
+
+
+2. nob:fkv
+
+src>grep -h "<lemma " *xml | grep 'decl="x"' | wc -l 
+     155
+
+   2       <lemma decl="x">så</lemma>
+   2       <lemma decl="x">enn</lemma>
+   2       <lemma decl="x">at</lemma>
+   2       <lemma decl="v">få</lemma>
+   2       <lemma decl="pron">annen</lemma>
+   2       <lemma decl="adv">allerede</lemma>
+   2       <lemma decl="a2">tett</lemma>
+   2       <lemma decl="a2">hemmelig</lemma>
+   2       <lemma decl="a2">forsiktig</lemma>
+   2       <lemma decl="a2">dårlig</lemma>
+   2       <lemma decl="a2">disig</lemma>
+   2       <lemma decl="a2">billig</lemma>
+   2       <lemma decl="a1">hel</lemma>
+   2       <lemma decl="a1">fin</lemma>
+   1       <lemma decl="x">øverst</lemma>
+   1       <lemma decl="x">ytre</lemma>
+   1       <lemma decl="x">verst</lemma>
+   1       <lemma decl="x">verre</lemma>
+   1       <lemma decl="x">verdifull</lemma>
+
+3. still needed: a mapping of the nob-pos-values into meaninful descriptions for the users
+
+
+
+

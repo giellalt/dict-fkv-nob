@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <entry>
+      <lemma pos="po">vuoksi</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="p">for – skyld</trans>
+            <exgr>
+               <ex>Se oli minun vuoksi</ex>
+               <extr>Det var for min skyld</extr>
+            </exgr>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="po">alla</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="pr">under</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="po">päälä</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">på</trans>
+            <trans decl="x">oppe på</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="po">takana</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="x">bak</trans>
+            <trans decl="x">bakenfor</trans>
+            <trans decl="x">bakom</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
+      <lemma pos="po">välilä</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="po">mellom</trans>
+         </trgr>
+      </mgr>
+   </entry>
+</r>

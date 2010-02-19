@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="rootdict">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="entry"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="entry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="lemma"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="stem"/>
+        <xs:element maxOccurs="unbounded" ref="mgr"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lemma">
+    <xs:complexType mixed="true">
+      <xs:attribute name="POS" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="stem" type="xs:string"/>
+  <xs:element name="mgr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="trgr"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="trgr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="trans"/>
+        <xs:choice minOccurs="0">
+          <xs:element ref="exgr"/>
+          <xs:element ref="syngr"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="trans">
+    <xs:complexType mixed="true">
+      <xs:attribute name="decl" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="exgr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ex"/>
+        <xs:element ref="extr"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ex" type="xs:string"/>
+  <xs:element name="extr" type="xs:string"/>
+  <xs:element name="syngr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="syn"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="syn" type="xs:string"/>
+</xs:schema>

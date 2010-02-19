@@ -1,0 +1,39 @@
+<!ELEMENT rootdict (entry+) >
+<!ELEMENT entry (lemma, stem*, mgr+, refgr?) >
+<!ELEMENT lemma (#PCDATA) >
+<!ATTLIST lemma 
+      POS ( adj | subst | verb | adv | po | pr | num | x ) #IMPLIED
+>      
+<!--
+<!ATTLIST lemma geo ( eva | por | rai | pva)  #IMPLIED >
+-->
+<!-- tenke høgt...
+    stemclass ( 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) >
+-->
+
+
+<!ELEMENT stem (#PCDATA)>
+<!ELEMENT mgr (restrict?, trgr+)>
+<!ELEMENT restrict (#PCDATA)>
+<!ELEMENT trgr (trans+, exgr*, syngr*)>
+<!ELEMENT trans (#PCDATA)>
+<!ATTLIST trans 
+     decl (  -  | d  | f  | fx | f1 | f1x | f3 | 
+             m  | mx | mo | m1 | m1b | mix | m2 | m3 | m3x | m4 | 
+             n  | nx | no | n1 | n1b | n2 | n2c | n3 | n3b | n3c | n4 | n4b |
+             a1 | a2 | a3 | a4 | a5 | ax | adv | p | num |
+             v1 | v2 | v3 | v4 | vx | interj | x ) #IMPLIED
+    geo  ( eva | por | rai | pva)  #IMPLIED 
+ >
+<!ELEMENT exgr (ex, extr)>
+<!ELEMENT ex (#PCDATA)>
+<!ATTLIST ex geo ( eva | por | rai | pva)  #IMPLIED >
+<!ELEMENT extr (#PCDATA)>
+
+<!ELEMENT syngr (syn+)>
+<!ELEMENT syn (#PCDATA)>
+
+<!ELEMENT refgr (ref+)>
+<!ELEMENT ref (#PCDATA)>
+
+
