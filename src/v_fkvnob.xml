@@ -392,10 +392,16 @@ For the full license text, see the link above.</lic>
             <exgr>
                <ex>Hän ei ole kotona</ex>
                <extr/>
+            </exgr>
+            <exgr>
                <ex>En ole ostanu leippää</ex>
                <extr/>
+            </exgr>
+            <exgr>
                <ex>Het eivät ole</ex>
                <extr/>
+            </exgr>
+            <exgr>
                <ex>Emmä ole käynheet sielä</ex>
                <extr/>
             </exgr>
@@ -2079,7 +2085,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="v" stem="keritte">keritä</lemma>
+      <lemma pos="v">keritä</lemma>
       <stem>keritte</stem>
       <stem>keritte</stem>
       <mgr>
@@ -2089,7 +2095,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="v" stem="kerkkii">keritä</lemma>
+      <lemma pos="v">keritä</lemma>
       <stem>kerkkii</stem>
       <stem>kerin</stem>
       <mgr>
@@ -7976,7 +7982,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="v" stem="taiđa">taittaat</lemma>
+      <lemma pos="v">taittaat</lemma>
       <stem>taiđa</stem>
       <mgr>
          <trgr>
@@ -7986,7 +7992,7 @@ For the full license text, see the link above.</lic>
       </mgr>
    </entry>
    <entry>
-      <lemma pos="v" stem="taita">taittaat</lemma>
+      <lemma pos="v">taittaat</lemma>
       <stem>taita</stem>
       <mgr>
          <trgr>

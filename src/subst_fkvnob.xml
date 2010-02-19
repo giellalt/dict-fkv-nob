@@ -1627,6 +1627,13 @@ For the full license text, see the link above.</lic>
    </entry>
    <entry>
       <lemma pos="subst">halttija</lemma>
+      <mgr>
+         <trgr>
+            <trans decl="n">underjordisk vesen</trans>
+         </trgr>
+      </mgr>
+   </entry>
+   <entry>
       <lemma pos="subst">haltija</lemma>
       <mgr>
          <trgr>
@@ -8620,6 +8627,8 @@ For the full license text, see the link above.</lic>
             <syngr>
                <syn>Haasinkuurto</syn>
             </syngr>
+         </trgr>
+         <trgr>
             <trans decl="n">stag</trans>
          </trgr>
       </mgr>
@@ -12396,6 +12405,8 @@ For the full license text, see the link above.</lic>
             <syngr>
                <syn>peninkulma</syn>
             </syngr>
+         </trgr>
+         <trgr>            
             <trans decl="f">mølle</trans>
          </trgr>
       </mgr>
@@ -15562,7 +15573,7 @@ For the full license text, see the link above.</lic>
       <lemma pos="subst">paula&gt;</lemma>
       <mgr>
          <trgr>
-            <trans decl="m/f">telne</trans>
+            <trans decl="f">telne</trans>
             <trans decl="n">komagband</trans>
          </trgr>
       </mgr>
