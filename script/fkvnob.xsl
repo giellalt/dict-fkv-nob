@@ -8,7 +8,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 
 <xsl:output method="html"/>
 
-<xsl:template match="rootdict">
+<xsl:template match="r">
 <html>
  <head><meta charset="UTF-8"/>
  </head>
