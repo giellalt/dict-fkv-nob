@@ -1,9 +1,10 @@
 <!ELEMENT r (lics, entry+) >
 <!ELEMENT lics (lic, ref*, sourcenote*) >
-<!ELEMENT lic (#PCDATA) >
+<!ELEMENT lic (#PCDATA|a)*>
 <!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
-<!ELEMENT ref (#PCDATA) >
-<!ELEMENT sourcenote (#PCDATA) >
+<!ELEMENT ref (#PCDATA|a)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
 
 <!ELEMENT entry (lemma, stem*, mgr+, refgr?) >
 <!ELEMENT lemma (#PCDATA) >
