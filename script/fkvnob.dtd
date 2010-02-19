@@ -1,8 +1,13 @@
-<!ELEMENT rootdict (entry+) >
+<!ELEMENT r (lics, entry+) >
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ELEMENT lic (#PCDATA) >
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA) >
+<!ELEMENT sourcenote (#PCDATA) >
+
 <!ELEMENT entry (lemma, stem*, mgr+, refgr?) >
 <!ELEMENT lemma (#PCDATA) >
-<!ATTLIST lemma 
-      POS ( adj | subst | verb | adv | po | pr | num | x ) #IMPLIED
+<!ATTLIST lemma pos ( adj | subst | verb | adv | po | pr | num | cc | x ) #IMPLIED
 >      
 <!--
 <!ATTLIST lemma geo ( eva | por | rai | pva)  #IMPLIED >
@@ -17,12 +22,12 @@
 <!ELEMENT restrict (#PCDATA)>
 <!ELEMENT trgr (trans+, exgr*, syngr*)>
 <!ELEMENT trans (#PCDATA)>
-<!ATTLIST trans 
-     decl (  -  | d  | f  | fx | f1 | f1x | f3 | 
+<!ATTLIST trans decl (
+             -  | d  | f  | fx | f1 | f1x | f3 | 
              m  | mx | mo | m1 | m1b | mix | m2 | m3 | m3x | m4 | 
              n  | nx | no | n1 | n1b | n2 | n2c | n3 | n3b | n3c | n4 | n4b |
              a1 | a2 | a3 | a4 | a5 | ax | adv | p | num |
-             v1 | v2 | v3 | v4 | vx | interj | x ) #IMPLIED
+             v1 | v2 | v3 | v4 | vx | cc | interj | x ) #IMPLIED
     geo  ( eva | por | rai | pva)  #IMPLIED 
  >
 <!ELEMENT exgr (ex, extr)>
@@ -32,8 +37,5 @@
 
 <!ELEMENT syngr (syn+)>
 <!ELEMENT syn (#PCDATA)>
-
-<!ELEMENT refgr (ref+)>
-<!ELEMENT ref (#PCDATA)>
 
 
