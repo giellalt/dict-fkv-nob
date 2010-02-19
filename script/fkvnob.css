@@ -1,4 +1,6 @@
-rootdict {
+import "../../scripts/gt_dictionary.css";
+
+r, rootdict {
     display: block;
     border: 1 solid gray;
     margin-bottom: 1.33ex;
