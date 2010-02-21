@@ -92,4 +92,11 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
   ▸ <xsl:apply-templates/>
 </xsl:template>
 
+<xsl:template match="syn[not( position() = last() )]">
+  <xsl:apply-templates/>,
+</xsl:template>
+<xsl:template match="syn">
+  <xsl:apply-templates/>
+</xsl:template>
+
 </xsl:stylesheet>
