@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
             <t decl="v">forsøke</t>
             <t decl="v">prøve</t>
             <xg>
-               <ex>Mie rännäsin kylle teehä hyvin</ex>
+               <x>Mie rännäsin kylle teehä hyvin</x>
                <xt>Jeg forsøkte å gjøre det bra</xt>
             </xg>
          </tg>
@@ -181,8 +181,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">få til å nyse</t>
             <xg>
-               <ex>Minnuu aivastuttaa</ex>
-               <extr/>
+               <x>Minnuu aivastuttaa</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -354,7 +354,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v1">fortne</t>
             <xg>
-               <ex>Kello eđistää</ex>
+               <x>Kello eđistää</x>
                <xt>Klokka går for fort</xt>
             </xg>
          </tg>
@@ -378,8 +378,8 @@ For the full license text, see the link above.</lic>
             <t decl="v">ta slutt</t>
             <t decl="v">tørke inn</t>
             <xg>
-               <ex>Lehmä ehtyi</ex>
-               <extr/>
+               <x>Lehmä ehtyi</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -390,20 +390,20 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="adv">ikke</t>
             <xg>
-               <ex>Hän ei ole kotona</ex>
-               <extr/>
+               <x>Hän ei ole kotona</x>
+               <xt/>
             </xg>
             <xg>
-               <ex>En ole ostanu leippää</ex>
-               <extr/>
+               <x>En ole ostanu leippää</x>
+               <xt/>
             </xg>
             <xg>
-               <ex>Het eivät ole</ex>
-               <extr/>
+               <x>Het eivät ole</x>
+               <xt/>
             </xg>
             <xg>
-               <ex>Emmä ole käynheet sielä</ex>
-               <extr/>
+               <x>Emmä ole käynheet sielä</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -487,8 +487,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">ikke</t>
             <xg>
-               <ex>Et saa mennä ulos</ex>
-               <extr/>
+               <x>Et saa mennä ulos</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -499,8 +499,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">ikke</t>
             <xg>
-               <ex>Että ole saanheet luppaa</ex>
-               <extr/>
+               <x>Että ole saanheet luppaa</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1410,8 +1410,8 @@ For the full license text, see the link above.</lic>
             <t decl="v">sitte</t>
             <t decl="v">småsitte</t>
             <xg>
-               <ex>Hän istuskeli siinä koko päivän</ex>
-               <extr/>
+               <x>Hän istuskeli siinä koko päivän</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1481,8 +1481,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">tørste</t>
             <xg>
-               <ex>Minnuu jannottaa</ex>
-               <extr/>
+               <x>Minnuu jannottaa</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1530,8 +1530,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">drikke</t>
             <xg>
-               <ex>Hän juopi vettä</ex>
-               <extr/>
+               <x>Hän juopi vettä</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1822,7 +1822,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">kviste</t>
             <xg>
-               <ex>karssiit jonku pääle</ex>
+               <x>karssiit jonku pääle</x>
                <xt>angripe</xt>
             </xg>
          </tg>
@@ -2085,7 +2085,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="v" stem="keritte">keritä</l>
+      <l pos="v" stem="3syll">keritä</l>
       <stem>keritte</stem>
       <stem>keritte</stem>
       <mg>
@@ -2095,7 +2095,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="v" stem="kerkkii">keritä</l>
+      <l pos="v" stem="2syll">keritä</l>
       <stem>kerkkii</stem>
       <stem>kerin</stem>
       <mg>
@@ -3062,8 +3062,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">gyte</t>
             <xg>
-               <ex>Lohi mennee jokheen kutemhaan</ex>
-               <extr/>
+               <x>Lohi mennee jokheen kutemhaan</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -3395,8 +3395,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">binde fast med tau</t>
             <xg>
-               <ex>Kaaristamako heinäkuorman?</ex>
-               <extr/>
+               <x>Kaaristamako heinäkuorman?</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4225,8 +4225,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">slå</t>
             <xg>
-               <ex>Hän lyöpi vasarala</ex>
-               <extr/>
+               <x>Hän lyöpi vasarala</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -5228,8 +5228,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">se</t>
             <xg>
-               <ex>Hän näkkee</ex>
-               <extr/>
+               <x>Hän näkkee</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -5371,8 +5371,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">være</t>
             <xg>
-               <ex>Hän oon poika/Het ovvat täälä</ex>
-               <extr/>
+               <x>Hän oon poika/Het ovvat täälä</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -5510,7 +5510,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">ta</t>
             <xg>
-               <ex>ottaat taltheen</ex>
+               <x>ottaat taltheen</x>
                <xt>ta vare på</xt>
             </xg>
          </tg>
@@ -5817,11 +5817,11 @@ For the full license text, see the link above.</lic>
             <t decl="v">legge</t>
             <t decl="v">sette</t>
             <xg>
-               <ex>panna kokhoon</ex>
+               <x>panna kokhoon</x>
                <xt>sette sammen</xt>
             </xg>
             <xg>
-               <ex>panna likhoon</ex>
+               <x>panna likhoon</x>
                <xt>legge i bløt</xt>
             </xg>
          </tg>
@@ -6048,8 +6048,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">vaske</t>
             <xg>
-               <ex>Poika pessee astiita</ex>
-               <extr/>
+               <x>Poika pessee astiita</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -7419,11 +7419,11 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">regne</t>
             <xg>
-               <ex>sattaa lunta</ex>
+               <x>sattaa lunta</x>
                <xt>det snør</xt>
             </xg>
             <xg>
-               <ex>sattaa vettä</ex>
+               <x>sattaa vettä</x>
                <xt>det regner</xt>
             </xg>
          </tg>
@@ -7574,8 +7574,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">flytte</t>
             <xg>
-               <ex>Mie olen siirtyny kothiin</ex>
-               <extr/>
+               <x>Mie olen siirtyny kothiin</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -7588,8 +7588,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">flytte</t>
             <xg>
-               <ex>Mie olen siirtäny toolin</ex>
-               <extr/>
+               <x>Mie olen siirtäny toolin</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -7982,7 +7982,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="v" stem=">taiđa">taittaat</l>
+      <l pos="v" stem="weak">taittaat</l>
       <stem>taiđa</stem>
       <mg>
          <tg>
@@ -7992,7 +7992,7 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-      <l pos="v" stem="taita">taittaat</l>
+      <l pos="v" >taittaat</l>
       <stem>taita</stem>
       <mg>
          <tg>
@@ -8826,8 +8826,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">svømme</t>
             <xg>
-               <ex>Hän uipi niinko kala</ex>
-               <extr/>
+               <x>Hän uipi niinko kala</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9005,8 +9005,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">fylle i</t>
             <xg>
-               <ex>Maanantaina makkarat vallaat</ex>
-               <extr/>
+               <x>Maanantaina makkarat vallaat</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9107,8 +9107,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">felle blader</t>
             <xg>
-               <ex>Puu oon varvottunu</ex>
-               <extr/>
+               <x>Puu oon varvottunu</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9230,8 +9230,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">renne</t>
             <xg>
-               <ex>Silmät vesistäävät</ex>
-               <extr/>
+               <x>Silmät vesistäävät</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9267,8 +9267,8 @@ For the full license text, see the link above.</lic>
             <t decl="v">føre</t>
             <t decl="v">lede</t>
             <xg>
-               <ex>Hän viepi hevosen navethaan</ex>
-               <extr/>
+               <x>Hän viepi hevosen navethaan</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9392,8 +9392,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">fryse</t>
             <xg>
-               <ex>Minnuu vilustaa</ex>
-               <extr/>
+               <x>Minnuu vilustaa</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9503,8 +9503,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">kunne</t>
             <xg>
-               <ex>Hän voipi hyvin</ex>
-               <extr/>
+               <x>Hän voipi hyvin</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -9758,8 +9758,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="v">forfriskne</t>
             <xg>
-               <ex>Reisussa reppainttuu</ex>
-               <extr/>
+               <x>Reisussa reppainttuu</x>
+               <xt/>
             </xg>
          </tg>
       </mg>
