@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:import href="../../scripts/gt_dictionary.xsl"/>
 
@@ -20,12 +20,12 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 </html>
 </xsl:template>
 
-<xsl:template match="entry">
+<xsl:template match="e">
   <xsl:apply-templates/>
  <br/>
 </xsl:template>
 
-<xsl:template match="lemma">
+<xsl:template match="l">
  <b>
   <xsl:apply-templates/>
  </b>
@@ -45,7 +45,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
   <xsl:text>)</xsl:text>
 </xsl:template>
 
-<xsl:template match="mgr">
+<xsl:template match="mg">
   <xsl:apply-templates/>
 </xsl:template>
 
@@ -55,14 +55,14 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
   <xsl:text>)</xsl:text>
 </xsl:template>
 
-<xsl:template match="trgr">
+<xsl:template match="tg">
   <xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="trans[not( position() = last() )]">
   <xsl:apply-templates/>,
 </xsl:template>
-<xsl:template match="trans">
+<xsl:template match="t">
   <xsl:apply-templates/>
 </xsl:template>
 
@@ -74,7 +74,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 </xsl:template>
 -->
 
-<xsl:template match="exgr">
+<xsl:template match="xg">
   <xsl:apply-templates/>
 </xsl:template>
 
@@ -84,11 +84,11 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
  </small></b></i>
 </xsl:template>
 
-<xsl:template match="extr">
+<xsl:template match="xt">
   <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="syngr">
+<xsl:template match="syng">
   ▸ <xsl:apply-templates/>
 </xsl:template>
 
