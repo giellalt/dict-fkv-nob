@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
-  <xs:element name="rootdict">
+  <xs:element name="r">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="entry"/>
+        <xs:element maxOccurs="unbounded" ref="e"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="entry">
+  <xs:element name="e">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="lemma"/>
+        <xs:element ref="l"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="stem"/>
-        <xs:element maxOccurs="unbounded" ref="mgr"/>
+        <xs:element maxOccurs="unbounded" ref="mg"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="lemma">
+  <xs:element name="l">
     <xs:complexType mixed="true">
       <xs:attribute name="POS" type="xs:NCName"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="stem" type="xs:string"/>
-  <xs:element name="mgr">
+  <xs:element name="mg">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="trgr"/>
+        <xs:element maxOccurs="unbounded" ref="tg"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="trgr">
+  <xs:element name="tg">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="trans"/>
+        <xs:element maxOccurs="unbounded" ref="t"/>
         <xs:choice minOccurs="0">
-          <xs:element ref="exgr"/>
-          <xs:element ref="syngr"/>
+          <xs:element ref="xg"/>
+          <xs:element ref="syng"/>
         </xs:choice>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="trans">
+  <xs:element name="t">
     <xs:complexType mixed="true">
       <xs:attribute name="decl" type="xs:NMTOKEN"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="exgr">
+  <xs:element name="xg">
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="ex"/>
-        <xs:element ref="extr"/>
+        <xs:element ref="xt"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="ex" type="xs:string"/>
-  <xs:element name="extr" type="xs:string"/>
-  <xs:element name="syngr">
+  <xs:element name="xt" type="xs:string"/>
+  <xs:element name="syng">
     <xs:complexType>
       <xs:sequence>
         <xs:element maxOccurs="unbounded" ref="syn"/>
