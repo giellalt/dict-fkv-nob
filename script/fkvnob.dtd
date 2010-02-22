@@ -1,4 +1,4 @@
-<!ELEMENT r (lics, entry+) >
+<!ELEMENT r (lics, e+) >
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ELEMENT lic (#PCDATA|a)*>
 <!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
@@ -6,12 +6,17 @@
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
 
-<!ELEMENT entry (lemma, stem*, mgr+, refgr?) >
-<!ELEMENT lemma (#PCDATA) >
-<!ATTLIST lemma pos ( adj | subst | verb | adv | po | pr | num | cc | x ) #IMPLIED
+<!ELEMENT e (l, stem*, mg+, refg?) >
+<!ELEMENT l (#PCDATA) >
+<!ATTLIST l pos ( a | subst | verb | adv | po | pr | num | cc | cs | i | pron | v | x ) #IMPLIED
 >      
+<!ATTLIST l status ( sjekk | ok ) #IMPLIED>
+<!ATTLIST l type (ord) #IMPLIED>
+<!ATTLIST l nr (sg|pl) #IMPLIED>
+<!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED>
+
 <!--
-<!ATTLIST lemma geo ( eva | por | rai | pva)  #IMPLIED >
+<!ATTLIST l geo ( eva | por | rai | pva)  #IMPLIED >
 -->
 <!-- tenke høgt...
     stemclass ( 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ) >
@@ -19,24 +24,24 @@
 
 
 <!ELEMENT stem (#PCDATA)>
-<!ELEMENT mgr (restrict?, trgr+)>
-<!ELEMENT restrict (#PCDATA)>
-<!ELEMENT trgr (trans+, exgr*, syngr*)>
-<!ELEMENT trans (#PCDATA)>
-<!ATTLIST trans decl (
+<!ELEMENT mg (re?, tg+)>
+<!ELEMENT re (#PCDATA)>
+<!ELEMENT tg (t+, xg*, syng*)>
+<!ELEMENT t (#PCDATA)>
+<!ATTLIST t decl (
              -  | d  | f  | fx | f1 | f1x | f3 | 
              m  | mx | mo | m1 | m1b | mix | m2 | m3 | m3x | m4 | 
              n  | nx | no | n1 | n1b | n2 | n2c | n3 | n3b | n3c | n4 | n4b |
-             a1 | a2 | a3 | a4 | a5 | ax | adv | p | num |
-             v1 | v2 | v3 | v4 | vx | cc | interj | x ) #IMPLIED
+             a | a1 | a2 | a3 | a4 | a5 | ax | adv | pr | num | pron | 
+             v | v1 | v2 | v3 | v4 | vx | cc | cs | i | x ) #IMPLIED
     geo  ( eva | por | rai | pva)  #IMPLIED 
  >
-<!ELEMENT exgr (ex, extr)>
-<!ELEMENT ex (#PCDATA)>
-<!ATTLIST ex geo ( eva | por | rai | pva)  #IMPLIED >
-<!ELEMENT extr (#PCDATA)>
+<!ELEMENT xg (x, xt)>
+<!ELEMENT x (#PCDATA)>
+<!ATTLIST x geo ( eva | por | rai | pva)  #IMPLIED >
+<!ELEMENT xt (#PCDATA)>
 
-<!ELEMENT syngr (syn+)>
+<!ELEMENT syng (syn+)>
 <!ELEMENT syn (#PCDATA)>
 
 
