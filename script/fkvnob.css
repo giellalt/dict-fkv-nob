@@ -7,7 +7,7 @@ r, rootdict {
     background-color: #eeeeee;
 }
 
-entry {
+e {
     display: block;
     collapsible: yes;
     not-collapsible-head: 1;
@@ -15,12 +15,12 @@ entry {
     background-color: #eeeeee;
 }
 
-lemma {
+l {
 	font-weight: bold;
 	color: blue;
 }
 
-lemma:after {
+l:after {
     display: inline;
     content: " " attr(POS) ', ' ;
     font-style: italic;
@@ -43,13 +43,13 @@ stem:after {
 }
 
 
-entry > mgr:before {
+e > mg:before {
 	display: inline;
     content: counter(n, decimal) ". ";
     font-weight: bold;
 }
 
-mgr {
+mg {
     display: block;
     collapsible: yes;
     border: 1 solid gray;
@@ -57,29 +57,29 @@ mgr {
     background-color: #ffffff;
 }
 
-restrict {
+re {
 	display: inline;
 	font-style: italic;
 	font-size: small;
 }
 
-restrict:before {
+re:before {
 	content: " (";
 }
 
-restrict:after {
+re:after {
 	content: ") ";
 }
 
-trgr + trgr:before {
+tg + tg:before {
     content: "; ";
 }
 
-trans + trans:before {
+t + t:before {
     content: ", ";
 }
 
-trans[decl]:after {
+t[decl]:after {
     display: inline;
     content: attr(decl);
     font-style: italic;
@@ -87,23 +87,23 @@ trans[decl]:after {
     vertical-align: super;
 }
 
-exgr {
+xg {
     display: block;
 }
 
-exgr ex {
+xg x {
     font-style: italic;
 }
 
-exgr extr:before {
+xg xt:before {
     content: " ";
 }
 
-syngr  {
+syng  {
     display: block;
 }
 
-trgr syngr syn {
+tg syng syn {
     font-style: italic;
 }
 
