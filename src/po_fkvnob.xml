@@ -32,51 +32,51 @@ For the full license text, see the link above.</lic>
    </lics>
 
 
-   <entry>
-      <lemma pos="po">vuoksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="pr">for – skyld</trans>
-            <exgr>
+   <e>
+      <l pos="po">vuoksi</l>
+      <mg>
+         <tg>
+            <t decl="pr">for – skyld</t>
+            <xg>
                <ex>Se oli minun vuoksi</ex>
-               <extr>Det var for min skyld</extr>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="po">alla</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="pr">under</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="po">päälä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">på</trans>
-            <trans decl="x">oppe på</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="po">takana</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">bak</trans>
-            <trans decl="x">bakenfor</trans>
-            <trans decl="x">bakom</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="po">välilä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="pr">mellom</trans>
-         </trgr>
-      </mgr>
-   </entry>
+               <xt>Det var for min skyld</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="po">alla</l>
+      <mg>
+         <tg>
+            <t decl="pr">under</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="po">päälä</l>
+      <mg>
+         <tg>
+            <t decl="x">på</t>
+            <t decl="x">oppe på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="po">takana</l>
+      <mg>
+         <tg>
+            <t decl="x">bak</t>
+            <t decl="x">bakenfor</t>
+            <t decl="x">bakom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="po">välilä</l>
+      <mg>
+         <tg>
+            <t decl="pr">mellom</t>
+         </tg>
+      </mg>
+   </e>
 </r>

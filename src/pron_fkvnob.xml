@@ -32,161 +32,161 @@ For the full license text, see the link above.</lic>
    </lics>
 
 
-   <entry>
-      <lemma pos="pron">sama</lemma>
+   <e>
+      <l pos="pron">sama</l>
       <stem>samma</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">samme</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron" status="sjekk">tämä</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">samme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron" status="sjekk">tämä</l>
       <stem>tä</stem>
-      <mgr>
-         <trgr>
-            <trans decl="x">den her</trans>
-            <trans decl="pron">denne her</trans>
-            <trans decl="pron">dette her</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">hän</lemma>
+      <mg>
+         <tg>
+            <t decl="x">den her</t>
+            <t decl="pron">denne her</t>
+            <t decl="pron">dette her</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">hän</l>
       <stem>häne</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">han</trans>
-            <trans decl="pron">hun</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">itte</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="pron">selv</trans>
-            <trans decl="pron">sjøl</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">kaikki</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">alle</trans>
-            <trans decl="x">alt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">kuka</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">han</t>
+            <t decl="pron">hun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">itte</l>
+      <mg>
+         <tg>
+            <t decl="pron">selv</t>
+            <t decl="pron">sjøl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">kaikki</l>
+      <mg>
+         <tg>
+            <t decl="x">alle</t>
+            <t decl="x">alt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">kuka</l>
       <stem>kene</stem>
       <stem>ke</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">hvem</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">met</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">hvem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">met</l>
       <stem>mei</stem>
       <stem>mei</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">vi</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">mie</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">vi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">mie</l>
       <stem>minu</stem>
       <stem>minnu</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">jeg</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">mikä</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">jeg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">mikä</l>
       <stem>mi</stem>
       <stem>mi</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">hva</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">net</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">hva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">net</l>
       <stem>nii</stem>
       <stem>nii</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">de</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">nämät</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">de</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">nämät</l>
       <stem>näi</stem>
       <stem>näi</stem>
-      <mgr>
-         <trgr>
-            <trans decl="x">disse her</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">se</lemma>
+      <mg>
+         <tg>
+            <t decl="x">disse her</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">se</l>
       <stem>se</stem>
       <stem>si</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">den</trans>
-            <trans decl="pron">det</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">sie</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">den</t>
+            <t decl="pron">det</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">sie</l>
       <stem>sinu</stem>
       <stem>sinnu</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">du</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">tet</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">du</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">tet</l>
       <stem>tei</stem>
-      <mgr>
-         <trgr>
-            <trans decl="pron">dere</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">tuo</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">den der</trans>
-            <trans decl="x">det der</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="pron">yksi</lemma>
+      <mg>
+         <tg>
+            <t decl="pron">dere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">tuo</l>
+      <mg>
+         <tg>
+            <t decl="x">den der</t>
+            <t decl="x">det der</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="pron">yksi</l>
       <stem>yhđe</stem>
       <stem>yh</stem>
-      <mgr>
-         <trgr>
-            <trans decl="x">en</trans>
-         </trgr>
-      </mgr>
-   </entry>
+      <mg>
+         <tg>
+            <t decl="x">en</t>
+         </tg>
+      </mg>
+   </e>
 </r>

@@ -32,1185 +32,1185 @@ For the full license text, see the link above.</lic>
    </lics>
 
 
-   <entry>
-      <lemma pos="adv">hithaasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">langsomt</trans>
-            <trans decl="adv">sakte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kunnossa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">i orden</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">melkkeen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ganske</trans>
-            <trans decl="adv">temmelig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">pois</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">bort</trans>
-            <trans decl="adv">vekk</trans>
-            <syngr>
+   <e>
+      <l pos="adv">hithaasti</l>
+      <mg>
+         <tg>
+            <t decl="adv">langsomt</t>
+            <t decl="adv">sakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kunnossa</l>
+      <mg>
+         <tg>
+            <t decl="adv">i orden</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">melkkeen</l>
+      <mg>
+         <tg>
+            <t decl="adv">ganske</t>
+            <t decl="adv">temmelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">pois</l>
+      <mg>
+         <tg>
+            <t decl="adv">bort</t>
+            <t decl="adv">vekk</t>
+            <syng>
                <syn>poijes</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tänne</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hit</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">naken</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alemppaa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">lenger nede</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alhaala</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">nede</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alhaale</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">ned</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alhaalta</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">nedenfra</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alusta</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">først</trans>
-            <trans decl="x">fra først av</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">arkisin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">på hverdager</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">eđelä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">foran</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">eđessä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">foran</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">eđestä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">forfra</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">eilen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">i går</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">enniimitten</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">for det meste</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">enniitten</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">mest</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ennää</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">mer</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ensiksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">først</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ensin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">først</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ensisti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">først</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">harvoin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">sjelden</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">helposti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">enkelt</trans>
-            <trans decl="x">lett</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">heti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">snart</trans>
-            <trans decl="x">straks</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">humalossa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">beruset</trans>
-            <trans decl="x">full</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tänne</l>
+      <mg>
+         <tg>
+            <t decl="adv">hit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alasti</l>
+      <mg>
+         <tg>
+            <t decl="x">naken</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alemppaa</l>
+      <mg>
+         <tg>
+            <t decl="x">lenger nede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alhaala</l>
+      <mg>
+         <tg>
+            <t decl="x">nede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alhaale</l>
+      <mg>
+         <tg>
+            <t decl="x">ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alhaalta</l>
+      <mg>
+         <tg>
+            <t decl="x">nedenfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alusta</l>
+      <mg>
+         <tg>
+            <t decl="x">først</t>
+            <t decl="x">fra først av</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">arkisin</l>
+      <mg>
+         <tg>
+            <t decl="x">på hverdager</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">eđelä</l>
+      <mg>
+         <tg>
+            <t decl="x">foran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">eđessä</l>
+      <mg>
+         <tg>
+            <t decl="x">foran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">eđestä</l>
+      <mg>
+         <tg>
+            <t decl="x">forfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">eilen</l>
+      <mg>
+         <tg>
+            <t decl="x">i går</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">enniimitten</l>
+      <mg>
+         <tg>
+            <t decl="x">for det meste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">enniitten</l>
+      <mg>
+         <tg>
+            <t decl="x">mest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ennää</l>
+      <mg>
+         <tg>
+            <t decl="x">mer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ensiksi</l>
+      <mg>
+         <tg>
+            <t decl="x">først</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ensin</l>
+      <mg>
+         <tg>
+            <t decl="x">først</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ensisti</l>
+      <mg>
+         <tg>
+            <t decl="x">først</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">harvoin</l>
+      <mg>
+         <tg>
+            <t decl="x">sjelden</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">helposti</l>
+      <mg>
+         <tg>
+            <t decl="x">enkelt</t>
+            <t decl="x">lett</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">heti</l>
+      <mg>
+         <tg>
+            <t decl="x">snart</t>
+            <t decl="x">straks</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">humalossa</l>
+      <mg>
+         <tg>
+            <t decl="x">beruset</t>
+            <t decl="x">full</t>
+            <syng>
                <syn>päissä</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">huomena</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">i morgen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">huonot välit</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">dårlige forhold</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">huomena</l>
+      <mg>
+         <tg>
+            <t decl="x">i morgen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">huonot välit</l>
+      <mg>
+         <tg>
+            <t decl="x">dårlige forhold</t>
+            <syng>
                <syn>väli</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">hyvin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">godt</trans>
-            <trans decl="x">bra</trans>
-            <trans decl="x">vel</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">hyvästi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">adjø</trans>
-            <trans decl="x">farvel</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ijäksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">for livet</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">yhtheisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">i fellesskap</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kamalasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">rart</trans>
-            <trans decl="x">underlig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">yksin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">alene</trans>
-            <trans decl="a5">ensom</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">aina</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ennå</trans>
-            <trans decl="adv">fremdeles</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ainua</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">eneste</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alas</lemma>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">hyvin</l>
+      <mg>
+         <tg>
+            <t decl="x">godt</t>
+            <t decl="x">bra</t>
+            <t decl="x">vel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">hyvästi</l>
+      <mg>
+         <tg>
+            <t decl="x">adjø</t>
+            <t decl="x">farvel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ijäksi</l>
+      <mg>
+         <tg>
+            <t decl="x">for livet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">yhtheisesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">i fellesskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kamalasti</l>
+      <mg>
+         <tg>
+            <t decl="x">rart</t>
+            <t decl="x">underlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">yksin</l>
+      <mg>
+         <tg>
+            <t decl="adv">alene</t>
+            <t decl="a5">ensom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">aina</l>
+      <mg>
+         <tg>
+            <t decl="adv">ennå</t>
+            <t decl="adv">fremdeles</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ainua</l>
+      <mg>
+         <tg>
+            <t decl="adv">eneste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alas</l>
       <stem>alhaa</stem>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ned</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">alaspäin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">nedover</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">asti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="pr">inntil</trans>
-            <trans decl="pr">til</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">auki</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a1">åpen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">enämen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">mer</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">enämpi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">mer</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">esimerkiksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">for eksempel</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">etelä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">sør</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">etheen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">framover</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">etukätheen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">på forhånd</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">itä</lemma>
+      <mg>
+         <tg>
+            <t decl="adv">ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">alaspäin</l>
+      <mg>
+         <tg>
+            <t decl="x">nedover</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">asti</l>
+      <mg>
+         <tg>
+            <t decl="pr">inntil</t>
+            <t decl="pr">til</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">auki</l>
+      <mg>
+         <tg>
+            <t decl="a1">åpen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">enämen</l>
+      <mg>
+         <tg>
+            <t decl="adv">mer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">enämpi</l>
+      <mg>
+         <tg>
+            <t decl="adv">mer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">esimerkiksi</l>
+      <mg>
+         <tg>
+            <t decl="adv">for eksempel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">etelä</l>
+      <mg>
+         <tg>
+            <t decl="adv">sør</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">etheen</l>
+      <mg>
+         <tg>
+            <t decl="adv">framover</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">etukätheen</l>
+      <mg>
+         <tg>
+            <t decl="adv">på forhånd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">itä</l>
       <stem>iđä</stem>
       <stem>ittä</stem>
-      <mgr>
-         <trgr>
-            <trans decl="adv">øst</trans>
-            <syngr>
+      <mg>
+         <tg>
+            <t decl="adv">øst</t>
+            <syng>
                <syn>öystä</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">jo</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">allerede</trans>
-            <trans decl="adv">alt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">joutisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">?</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">justhiin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">akkurat</trans>
-            <trans decl="adv">just</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">juuri</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">akkurat</trans>
-            <trans decl="adv">just</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kahđesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">to ganger</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kainhuuksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">på kvænsk</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kauheen</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">veldig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kauheesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">forferdelig</trans>
-            <trans decl="adv">fryktelig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kaukana</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">langt borte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kaukkaa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">langt borte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kerrala</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">på en gang</trans>
-            <trans decl="adv">om gangen</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kerran</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">engang</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">keskelä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">midt i</trans>
-            <trans decl="adv">uferdig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kesken</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">blant</trans>
-            <exgr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">jo</l>
+      <mg>
+         <tg>
+            <t decl="adv">allerede</t>
+            <t decl="adv">alt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">joutisesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">?</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">justhiin</l>
+      <mg>
+         <tg>
+            <t decl="adv">akkurat</t>
+            <t decl="adv">just</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">juuri</l>
+      <mg>
+         <tg>
+            <t decl="adv">akkurat</t>
+            <t decl="adv">just</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kahđesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">to ganger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kainhuuksi</l>
+      <mg>
+         <tg>
+            <t decl="adv">på kvænsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kauheen</l>
+      <mg>
+         <tg>
+            <t decl="adv">veldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kauheesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">forferdelig</t>
+            <t decl="adv">fryktelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kaukana</l>
+      <mg>
+         <tg>
+            <t decl="adv">langt borte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kaukkaa</l>
+      <mg>
+         <tg>
+            <t decl="adv">langt borte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kerrala</l>
+      <mg>
+         <tg>
+            <t decl="adv">på en gang</t>
+            <t decl="adv">om gangen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kerran</l>
+      <mg>
+         <tg>
+            <t decl="adv">engang</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">keskelä</l>
+      <mg>
+         <tg>
+            <t decl="adv">midt i</t>
+            <t decl="adv">uferdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kesken</l>
+      <mg>
+         <tg>
+            <t decl="adv">blant</t>
+            <xg>
                <ex>Kahđen kesken</ex>
                <extr/>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">keskikesälä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">midtsommers</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">keskitalvela</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">midtvinters</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kesässä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">på en sommer</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kevveesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">lett</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kevväilä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">om våren</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kiini</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">fast</trans>
-            <trans decl="adv">helt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">knapisti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">knapt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kolosti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">forferdelig</trans>
-            <trans decl="adv">stygt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">koskhaan</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">noen gang</trans>
-            <trans decl="adv">noensinne</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kothiin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hjem</trans>
-            <exgr>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">keskikesälä</l>
+      <mg>
+         <tg>
+            <t decl="adv">midtsommers</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">keskitalvela</l>
+      <mg>
+         <tg>
+            <t decl="adv">midtvinters</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kesässä</l>
+      <mg>
+         <tg>
+            <t decl="adv">på en sommer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kevveesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">lett</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kevväilä</l>
+      <mg>
+         <tg>
+            <t decl="adv">om våren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kiini</l>
+      <mg>
+         <tg>
+            <t decl="adv">fast</t>
+            <t decl="adv">helt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">knapisti</l>
+      <mg>
+         <tg>
+            <t decl="adv">knapt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kolosti</l>
+      <mg>
+         <tg>
+            <t decl="adv">forferdelig</t>
+            <t decl="adv">stygt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">koskhaan</l>
+      <mg>
+         <tg>
+            <t decl="adv">noen gang</t>
+            <t decl="adv">noensinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kothiin</l>
+      <mg>
+         <tg>
+            <t decl="adv">hjem</t>
+            <xg>
                <ex>Mie menen kothiin</ex>
                <extr/>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kotona</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hjemme</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kotosin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hjemmehørende</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">koukussa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">kroket</trans>
-            <trans decl="adv">på kroken</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kovasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">mye</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kovin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">sterkt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kummasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">merkelig</trans>
-            <trans decl="adv">underlig</trans>
-            <trans decl="adv">rart</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kumo</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">opp ned</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kumossa</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">opp ned</trans>
-            <trans decl="adv">veltet</trans>
-            <trans decl="adv">om kull</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lasittain</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">lastvis</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">laukkon</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">løpende</trans>
-            <trans decl="adv">springende</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">leikilisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">spøkefullt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">liikuttamatta</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">urørt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">likelä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a1">nær</trans>
-            <trans decl="adv">like ved</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">liki</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a1">nær</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lisäksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">i tillegg</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lopphuun</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">til slutt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lopuksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">til slutt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lujasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">fast</trans>
-            <trans decl="adv">hardt</trans>
-            <trans decl="adv">sterkt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">luontolisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">naturligvis</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">luultavasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">antakelig</trans>
-            <trans decl="adv">trolig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">lämpimästi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">varmt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">mahđolisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">muligens</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">mikhään</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ikke noe</trans>
-            <trans decl="adv">ingenting</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">miksi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvorfor</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">millainen</lemma>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kotona</l>
+      <mg>
+         <tg>
+            <t decl="adv">hjemme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kotosin</l>
+      <mg>
+         <tg>
+            <t decl="adv">hjemmehørende</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">koukussa</l>
+      <mg>
+         <tg>
+            <t decl="adv">kroket</t>
+            <t decl="adv">på kroken</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kovasti</l>
+      <mg>
+         <tg>
+            <t decl="adv">mye</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kovin</l>
+      <mg>
+         <tg>
+            <t decl="adv">sterkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kummasti</l>
+      <mg>
+         <tg>
+            <t decl="adv">merkelig</t>
+            <t decl="adv">underlig</t>
+            <t decl="adv">rart</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kumo</l>
+      <mg>
+         <tg>
+            <t decl="adv">opp ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kumossa</l>
+      <mg>
+         <tg>
+            <t decl="adv">opp ned</t>
+            <t decl="adv">veltet</t>
+            <t decl="adv">om kull</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lasittain</l>
+      <mg>
+         <tg>
+            <t decl="adv">lastvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">laukkon</l>
+      <mg>
+         <tg>
+            <t decl="adv">løpende</t>
+            <t decl="adv">springende</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">leikilisesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">spøkefullt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">liikuttamatta</l>
+      <mg>
+         <tg>
+            <t decl="adv">urørt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">likelä</l>
+      <mg>
+         <tg>
+            <t decl="a1">nær</t>
+            <t decl="adv">like ved</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">liki</l>
+      <mg>
+         <tg>
+            <t decl="a1">nær</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lisäksi</l>
+      <mg>
+         <tg>
+            <t decl="adv">i tillegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lopphuun</l>
+      <mg>
+         <tg>
+            <t decl="adv">til slutt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lopuksi</l>
+      <mg>
+         <tg>
+            <t decl="adv">til slutt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lujasti</l>
+      <mg>
+         <tg>
+            <t decl="adv">fast</t>
+            <t decl="adv">hardt</t>
+            <t decl="adv">sterkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">luontolisesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">naturligvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">luultavasti</l>
+      <mg>
+         <tg>
+            <t decl="adv">antakelig</t>
+            <t decl="adv">trolig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">lämpimästi</l>
+      <mg>
+         <tg>
+            <t decl="adv">varmt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">mahđolisesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">muligens</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">mikhään</l>
+      <mg>
+         <tg>
+            <t decl="adv">ikke noe</t>
+            <t decl="adv">ingenting</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">miksi</l>
+      <mg>
+         <tg>
+            <t decl="adv">hvorfor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">millainen</l>
       <stem>millaise</stem>
       <stem>millais</stem>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvordan</trans>
-            <trans decl="adv">hvorledes</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">millälailla</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvordan</trans>
-            <trans decl="adv">på hvilken måte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">minkälainen</lemma>
+      <mg>
+         <tg>
+            <t decl="adv">hvordan</t>
+            <t decl="adv">hvorledes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">millälailla</l>
+      <mg>
+         <tg>
+            <t decl="adv">hvordan</t>
+            <t decl="adv">på hvilken måte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">minkälainen</l>
       <stem>minkälaise</stem>
       <stem>minkälais</stem>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvordan</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">minne</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvorhen</trans>
-            <trans decl="adv">hvor</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">missä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvor</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">mistä</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">hvorfra</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">mithään</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ingenting</trans>
-            <exgr>
+      <mg>
+         <tg>
+            <t decl="adv">hvordan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">minne</l>
+      <mg>
+         <tg>
+            <t decl="adv">hvorhen</t>
+            <t decl="adv">hvor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">missä</l>
+      <mg>
+         <tg>
+            <t decl="adv">hvor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">mistä</l>
+      <mg>
+         <tg>
+            <t decl="adv">hvorfra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">mithään</l>
+      <mg>
+         <tg>
+            <t decl="adv">ingenting</t>
+            <xg>
                <ex>Ei mithään</ex>
                <extr/>
-            </exgr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">monesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">mange ganger</trans>
-            <trans decl="adv">mang en gang</trans>
-            <trans decl="adv">ofte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">kolmesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">tre ganger</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">noppeesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">fort</trans>
-            <trans decl="x">raskt</trans>
-            <trans decl="x">hurtig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">pahasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">ille</trans>
-            <trans decl="x">ondt</trans>
-            <trans decl="x">stygt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">pirusti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">forbannet</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">rajattomasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">ubegrenset</trans>
-            <trans decl="x">umåtelig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">riethaasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">djevelsk</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">sikkaristi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">sikkert</trans>
-            <syngr>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">monesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">mange ganger</t>
+            <t decl="adv">mang en gang</t>
+            <t decl="adv">ofte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">kolmesti</l>
+      <mg>
+         <tg>
+            <t decl="x">tre ganger</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">noppeesti</l>
+      <mg>
+         <tg>
+            <t decl="x">fort</t>
+            <t decl="x">raskt</t>
+            <t decl="x">hurtig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">pahasti</l>
+      <mg>
+         <tg>
+            <t decl="x">ille</t>
+            <t decl="x">ondt</t>
+            <t decl="x">stygt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">pirusti</l>
+      <mg>
+         <tg>
+            <t decl="x">forbannet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">rajattomasti</l>
+      <mg>
+         <tg>
+            <t decl="x">ubegrenset</t>
+            <t decl="x">umåtelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">riethaasti</l>
+      <mg>
+         <tg>
+            <t decl="x">djevelsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">sikkaristi</l>
+      <mg>
+         <tg>
+            <t decl="x">sikkert</t>
+            <syng>
                <syn>varmasti</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tarkhaasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">nøyaktig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tavalisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">vanligvis</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tietysti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">selvfølgelig</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tarkhaasti</l>
+      <mg>
+         <tg>
+            <t decl="x">nøyaktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tavalisesti</l>
+      <mg>
+         <tg>
+            <t decl="x">vanligvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tietysti</l>
+      <mg>
+         <tg>
+            <t decl="x">selvfølgelig</t>
+            <syng>
                <syn>tietenki</syn>
                <syn>tietekki</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tođesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">bestemt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">täyđesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">fullstendig</trans>
-            <trans decl="x">totalt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">usheemasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">oftere</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">usheesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">ofte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">uuđesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">på nytt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">varmasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">sikkert</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tođesti</l>
+      <mg>
+         <tg>
+            <t decl="x">bestemt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">täyđesti</l>
+      <mg>
+         <tg>
+            <t decl="x">fullstendig</t>
+            <t decl="x">totalt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">usheemasti</l>
+      <mg>
+         <tg>
+            <t decl="x">oftere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">usheesti</l>
+      <mg>
+         <tg>
+            <t decl="adv">ofte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">uuđesti</l>
+      <mg>
+         <tg>
+            <t decl="x">på nytt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">varmasti</l>
+      <mg>
+         <tg>
+            <t decl="x">sikkert</t>
+            <syng>
                <syn>sikkaristi</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">varovaisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a2">forsiktig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">velvolisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a2">ansvarlig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">viljasti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">rikelig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">ylheisesti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a">allment</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">parhaiten</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">best</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">peräkkäin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">etter hverandre</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">varovaisesti</l>
+      <mg>
+         <tg>
+            <t decl="a2">forsiktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">velvolisesti</l>
+      <mg>
+         <tg>
+            <t decl="a2">ansvarlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">viljasti</l>
+      <mg>
+         <tg>
+            <t decl="x">rikelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">ylheisesti</l>
+      <mg>
+         <tg>
+            <t decl="a">allment</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">parhaiten</l>
+      <mg>
+         <tg>
+            <t decl="x">best</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">peräkkäin</l>
+      <mg>
+         <tg>
+            <t decl="x">etter hverandre</t>
+            <syng>
                <syn>pöräkkäin</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">pöräkkäin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">etter hverandre</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">pöräkkäin</l>
+      <mg>
+         <tg>
+            <t decl="x">etter hverandre</t>
+            <syng>
                <syn>peräkkäin</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">rinnakkain</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">jamnsides</trans>
-            <trans decl="x">side ved side</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">sekasin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="a4">blandet</trans>
-            <trans decl="a3">rotete</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">siiheen asti</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">så langt</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">rinnakkain</l>
+      <mg>
+         <tg>
+            <t decl="x">jamnsides</t>
+            <t decl="x">side ved side</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">sekasin</l>
+      <mg>
+         <tg>
+            <t decl="a4">blandet</t>
+            <t decl="a3">rotete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">siiheen asti</l>
+      <mg>
+         <tg>
+            <t decl="x">så langt</t>
+            <syng>
                <syn>asti</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">tuola</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">der borte</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">vain</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="adv">bare</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">tuola</l>
+      <mg>
+         <tg>
+            <t decl="x">der borte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">vain</l>
+      <mg>
+         <tg>
+            <t decl="adv">bare</t>
+            <syng>
                <syn>vaan</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">varkhaisin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">i smug</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">vasiten</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">nøye</trans>
-            <trans decl="x">nøyaktig</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">vastakkain</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">front mot front</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="adv">väkisin</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">med tvang</trans>
-         </trgr>
-      </mgr>
-   </entry>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">varkhaisin</l>
+      <mg>
+         <tg>
+            <t decl="x">i smug</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">vasiten</l>
+      <mg>
+         <tg>
+            <t decl="x">nøye</t>
+            <t decl="x">nøyaktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">vastakkain</l>
+      <mg>
+         <tg>
+            <t decl="x">front mot front</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="adv">väkisin</l>
+      <mg>
+         <tg>
+            <t decl="x">med tvang</t>
+         </tg>
+      </mg>
+   </e>
 </r>

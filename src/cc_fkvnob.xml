@@ -32,71 +32,71 @@ For the full license text, see the link above.</lic>
    </lics>
 
 
-   <entry>
-      <lemma pos="cc">eli</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="cc">eller</trans>
-            <syngr>
+   <e>
+      <l pos="cc">eli</l>
+      <mg>
+         <tg>
+            <t decl="cc">eller</t>
+            <syng>
                <syn>elikkä</syn>
                <syn>tahi</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">ette</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">at</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">ja</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">og</trans>
-            <trans decl="x">samt</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">jos</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">dersom</trans>
-            <trans decl="x">om</trans>
-            <trans decl="x">viss</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">mutta</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="x">men</trans>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">tahi</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="cc">eller</trans>
-            <syngr>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">ette</l>
+      <mg>
+         <tg>
+            <t decl="x">at</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">ja</l>
+      <mg>
+         <tg>
+            <t decl="x">og</t>
+            <t decl="x">samt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">jos</l>
+      <mg>
+         <tg>
+            <t decl="x">dersom</t>
+            <t decl="x">om</t>
+            <t decl="x">viss</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">mutta</l>
+      <mg>
+         <tg>
+            <t decl="x">men</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">tahi</l>
+      <mg>
+         <tg>
+            <t decl="cc">eller</t>
+            <syng>
                <syn>tai</syn>
                <syn>vai</syn>
-            </syngr>
-         </trgr>
-      </mgr>
-   </entry>
-   <entry>
-      <lemma pos="cc">vaikka</lemma>
-      <mgr>
-         <trgr>
-            <trans decl="cc">selv om</trans>
-         </trgr>
-      </mgr>
-   </entry>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l pos="cc">vaikka</l>
+      <mg>
+         <tg>
+            <t decl="cc">selv om</t>
+         </tg>
+      </mg>
+   </e>
 </r>
