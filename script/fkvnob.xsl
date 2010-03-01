@@ -59,7 +59,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
   <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="trans[not( position() = last() )]">
+<xsl:template match="t[not( position() = last() )]">
   <xsl:apply-templates/>,
 </xsl:template>
 <xsl:template match="t">
