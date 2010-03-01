@@ -40,9 +40,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 -->
 
 <xsl:template match="stem">
-  <xsl:text>(</xsl:text>
-  <xsl:apply-templates/>
-  <xsl:text>)</xsl:text>
+  (<xsl:apply-templates/>)
 </xsl:template>
 
 <xsl:template match="mg">
@@ -50,9 +48,7 @@ xsltproc fkvnob.xsl fkvnob.xml > ../bin/fkvnob.html
 </xsl:template>
 
 <xsl:template match="restrict">
-  <xsl:text>(</xsl:text>
-  <xsl:apply-templates/>
-  <xsl:text>)</xsl:text>
+  (<xsl:apply-templates/>)
 </xsl:template>
 
 <xsl:template match="tg">
