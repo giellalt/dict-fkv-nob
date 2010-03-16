@@ -1,33 +1,6 @@
 @charset "utf-8";
 @import "../../scripts/gt_dictionary.css";
 
-r, rootdict {
-    display: block;
-    border: 1 solid gray;
-    margin-bottom: 1.33ex;
-    background-color: #eeeeee;
-}
-
-e {
-    display: block;
-    collapsible: yes;
-    not-collapsible-head: 1;
-    margin-bottom: 1.33ex;
-    background-color: #eeeeee;
-}
-
-l {
-	font-weight: bold;
-	color: blue;
-}
-
-l:after {
-    display: inline;
-    content: " " attr(POS) ', ' ;
-    font-style: italic;
-    font-size: smaller;
-}
-
 stem
  	{
 	font-style: italic;
@@ -43,61 +16,12 @@ stem:after {
     content: '-  ';
 }
 
-
-e > mg:before {
-	display: inline;
-    content: counter(n, decimal) ". ";
-    font-weight: bold;
-}
-
-mg {
-    display: block;
-    collapsible: yes;
-    border: 1 solid gray;
-    margin-bottom: 1.33ex;
-    background-color: #ffffff;
-}
-
-re {
-	display: inline;
-	font-style: italic;
-	font-size: small;
-}
-
-re:before {
-	content: " (";
-}
-
-re:after {
-	content: ") ";
-}
-
-tg + tg:before {
-    content: "; ";
-}
-
-t + t:before {
-    content: ", ";
-}
-
 t[decl]:after {
     display: inline;
     content: attr(decl);
     font-style: italic;
     color: gray;
     vertical-align: super;
-}
-
-xg {
-    display: block;
-}
-
-xg x {
-    font-style: italic;
-}
-
-xg xt:before {
-    content: " ";
 }
 
 syng  {
