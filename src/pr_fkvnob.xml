@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../script/fkvnob.css"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <?xml-stylesheet type="text/xsl" href="../script/fkvnob.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD fkvnob//SE" "../script/fkvnob.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r>
   <lics>
     <lic xml:lang="en">
@@ -32,11 +32,13 @@ For the full license text, see the link above.</lic>
 
 
    <e>
+      <lg>
       <l pos="pr">ennen</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="pr">før</t>
-            <t decl="pr">tidligere</t>
+            <t pos="pr">før</t>
+            <t pos="pr">tidligere</t>
          </tg>
       </mg>
    </e>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../script/fkvnob.css"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <?xml-stylesheet type="text/xsl" href="../script/fkvnob.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD fkvnob//SE" "../script/fkvnob.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r>
   <lics>
     <lic xml:lang="en">
@@ -32,10 +32,12 @@ For the full license text, see the link above.</lic>
 
 
    <e>
+      <lg>
       <l pos="cc">eli</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="cc">eller</t>
+            <t pos="cc">eller</t>
             <syng>
                <syn>elikkä</syn>
                <syn>tahi</syn>
@@ -44,45 +46,55 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">ette</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">at</t>
+            <t pos="x">at</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">ja</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">og</t>
-            <t decl="x">samt</t>
+            <t pos="x">og</t>
+            <t pos="x">samt</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">jos</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">dersom</t>
-            <t decl="x">om</t>
-            <t decl="x">viss</t>
+            <t pos="x">dersom</t>
+            <t pos="x">om</t>
+            <t pos="x">viss</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">mutta</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">men</t>
+            <t pos="x">men</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">tahi</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="cc">eller</t>
+            <t pos="cc">eller</t>
             <syng>
                <syn>tai</syn>
                <syn>vai</syn>
@@ -91,10 +103,12 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="cc">vaikka</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="cc">selv om</t>
+            <t pos="cc">selv om</t>
          </tg>
       </mg>
    </e>

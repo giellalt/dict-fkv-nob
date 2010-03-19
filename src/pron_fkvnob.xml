@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../script/fkvnob.css"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <?xml-stylesheet type="text/xsl" href="../script/fkvnob.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD fkvnob//SE" "../script/fkvnob.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r>
   <lics>
     <lic xml:lang="en">
@@ -32,159 +32,191 @@ For the full license text, see the link above.</lic>
 
 
    <e>
+      <lg>
       <l pos="pron">sama</l>
-      <stem>samma</stem>
+      <lc>samma</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">samme</t>
+            <t pos="pron">samme</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron" status="sjekk">tämä</l>
-      <stem>tä</stem>
+      <lc>tä</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">den her</t>
-            <t decl="pron">denne her</t>
-            <t decl="pron">dette her</t>
+            <t pos="x">den her</t>
+            <t pos="pron">denne her</t>
+            <t pos="pron">dette her</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">hän</l>
-      <stem>häne</stem>
+      <lc>häne</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">han</t>
-            <t decl="pron">hun</t>
+            <t pos="pron">han</t>
+            <t pos="pron">hun</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">itte</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">selv</t>
-            <t decl="pron">sjøl</t>
+            <t pos="pron">selv</t>
+            <t pos="pron">sjøl</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">kaikki</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">alle</t>
-            <t decl="x">alt</t>
+            <t pos="x">alle</t>
+            <t pos="x">alt</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">kuka</l>
-      <stem>kene</stem>
-      <stem>ke</stem>
+      <lc>kene</lc>
+      <lc>ke</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">hvem</t>
+            <t pos="pron">hvem</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">met</l>
-      <stem>mei</stem>
-      <stem>mei</stem>
+      <lc>mei</lc>
+      <lc>mei</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">vi</t>
+            <t pos="pron">vi</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">mie</l>
-      <stem>minu</stem>
-      <stem>minnu</stem>
+      <lc>minu</lc>
+      <lc>minnu</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">jeg</t>
+            <t pos="pron">jeg</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">mikä</l>
-      <stem>mi</stem>
-      <stem>mi</stem>
+      <lc>mi</lc>
+      <lc>mi</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">hva</t>
+            <t pos="pron">hva</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">net</l>
-      <stem>nii</stem>
-      <stem>nii</stem>
+      <lc>nii</lc>
+      <lc>nii</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">de</t>
+            <t pos="pron">de</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">nämät</l>
-      <stem>näi</stem>
-      <stem>näi</stem>
+      <lc>näi</lc>
+      <lc>näi</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">disse her</t>
+            <t pos="x">disse her</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">se</l>
-      <stem>se</stem>
-      <stem>si</stem>
+      <lc>se</lc>
+      <lc>si</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">den</t>
-            <t decl="pron">det</t>
+            <t pos="pron">den</t>
+            <t pos="pron">det</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">sie</l>
-      <stem>sinu</stem>
-      <stem>sinnu</stem>
+      <lc>sinu</lc>
+      <lc>sinnu</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">du</t>
+            <t pos="pron">du</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">tet</l>
-      <stem>tei</stem>
+      <lc>tei</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="pron">dere</t>
+            <t pos="pron">dere</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">tuo</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">den der</t>
-            <t decl="x">det der</t>
+            <t pos="x">den der</t>
+            <t pos="x">det der</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="pron">yksi</l>
-      <stem>yhđe</stem>
-      <stem>yh</stem>
+      <lc>yhđe</lc>
+      <lc>yh</lc>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">en</t>
+            <t pos="x">en</t>
          </tg>
       </mg>
    </e>

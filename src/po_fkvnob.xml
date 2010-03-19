@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../script/fkvnob.css"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
 <?xml-stylesheet type="text/xsl" href="../script/fkvnob.xsl"?>
 <!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD fkvnob//SE" "../script/fkvnob.dtd">
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r>
   <lics>
     <lic xml:lang="en">
@@ -32,10 +32,12 @@ For the full license text, see the link above.</lic>
 
 
    <e>
+      <lg>
       <l pos="po">vuoksi</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="pr">for – skyld</t>
+            <t pos="pr">for – skyld</t>
             <xg>
                <x>Se oli minun vuoksi</x>
                <xt>Det var for min skyld</xt>
@@ -44,37 +46,45 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="po">alla</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="pr">under</t>
+            <t pos="pr">under</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="po">päälä</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">på</t>
-            <t decl="x">oppe på</t>
+            <t pos="x">på</t>
+            <t pos="x">oppe på</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="po">takana</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="x">bak</t>
-            <t decl="x">bakenfor</t>
-            <t decl="x">bakom</t>
+            <t pos="x">bak</t>
+            <t pos="x">bakenfor</t>
+            <t pos="x">bakom</t>
          </tg>
       </mg>
    </e>
    <e>
+      <lg>
       <l pos="po">välilä</l>
+      </lg>
       <mg>
          <tg>
-            <t decl="pr">mellom</t>
+            <t pos="pr">mellom</t>
          </tg>
       </mg>
    </e>
