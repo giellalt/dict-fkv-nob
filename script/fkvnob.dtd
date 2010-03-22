@@ -8,7 +8,7 @@
 
 <!ELEMENT e (l, stem*, mg+, refg?) >
 <!ELEMENT l (#PCDATA) >
-<!ATTLIST l pos ( a | subst | verb | adv | po | pr | num | cc | cs | i | pron | v | x ) #IMPLIED
+<!ATTLIST l pos ( a | subst | adv | po | pr | num | cc | cs | i | pron | v | x ) #IMPLIED
 >      
 <!ATTLIST l status ( sjekk | ok ) #IMPLIED>
 <!ATTLIST l type (ord) #IMPLIED>
