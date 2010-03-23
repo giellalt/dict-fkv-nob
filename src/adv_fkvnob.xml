@@ -388,7 +388,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="adv">alene</t>
-            <t pos="a5">ensom</t>
+            <t decl="a1" pos="a">ensom</t>
          </tg>
       </mg>
    </e>
@@ -416,7 +416,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="adv">alas</l>
-         <lc>alhaa</lc>
+         <stem>alhaa</stem>
       </lg>
       <mg>
          <tg>
@@ -451,7 +451,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">åpen</t>
+            <t decl="ax" pos="a">åpen</t>
          </tg>
       </mg>
    </e>
@@ -518,8 +518,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="adv">itä</l>
-         <lc>iđä</lc>
-         <lc>ittä</lc>
+         <stem>iđä</stem>
+         <stem>ittä</stem>
       </lg>
       <mg>
          <tg>
@@ -675,7 +675,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">blant</t>
             <xg>
                <x>Kahđen kesken</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -782,7 +782,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">hjem</t>
             <xg>
                <x>Mie menen kothiin</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -919,7 +919,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">nær</t>
+            <t decl="a1" pos="a">nær</t>
             <t pos="adv">like ved</t>
          </tg>
       </mg>
@@ -930,7 +930,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">nær</t>
+            <t decl="a1" pos="a">nær</t>
          </tg>
       </mg>
    </e>
@@ -1041,8 +1041,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="adv">millainen</l>
-         <lc>millaise</lc>
-         <lc>millais</lc>
+         <stem>millaise</stem>
+         <stem>millais</stem>
       </lg>
       <mg>
          <tg>
@@ -1065,8 +1065,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="adv">minkälainen</l>
-         <lc>minkälaise</lc>
-         <lc>minkälais</lc>
+         <stem>minkälaise</stem>
+         <stem>minkälais</stem>
       </lg>
       <mg>
          <tg>
@@ -1114,7 +1114,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">ingenting</t>
             <xg>
                <x>Ei mithään</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1313,7 +1313,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">forsiktig</t>
+            <t decl="a2" pos="a">forsiktig</t>
          </tg>
       </mg>
    </e>
@@ -1323,7 +1323,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">ansvarlig</t>
+            <t decl="a2" pos="a">ansvarlig</t>
          </tg>
       </mg>
    </e>
@@ -1400,8 +1400,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a4">blandet</t>
-            <t pos="a3">rotete</t>
+            <t decl="a4" pos="a">blandet</t>
+            <t decl="a3" pos="a">rotete</t>
          </tg>
       </mg>
    </e>

@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">sama</l>
-         <lc>samma</lc>
+         <stem>samma</stem>
       </lg>
       <mg>
          <tg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron" status="sjekk">tämä</l>
-         <lc>tä</lc>
+         <stem>tä</stem>
       </lg>
       <mg>
          <tg>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">hän</l>
-         <lc>häne</lc>
+         <stem>häne</stem>
       </lg>
       <mg>
          <tg>
@@ -88,8 +88,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">kuka</l>
-         <lc>kene</lc>
-         <lc>ke</lc>
+         <stem>kene</stem>
+         <stem>ke</stem>
       </lg>
       <mg>
          <tg>
@@ -100,8 +100,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">met</l>
-         <lc>mei</lc>
-         <lc>mei</lc>
+         <stem>mei</stem>
+         <stem>mei</stem>
       </lg>
       <mg>
          <tg>
@@ -112,8 +112,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">mie</l>
-         <lc>minu</lc>
-         <lc>minnu</lc>
+         <stem>minu</stem>
+         <stem>minnu</stem>
       </lg>
       <mg>
          <tg>
@@ -124,8 +124,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">mikä</l>
-         <lc>mi</lc>
-         <lc>mi</lc>
+         <stem>mi</stem>
+         <stem>mi</stem>
       </lg>
       <mg>
          <tg>
@@ -136,8 +136,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">net</l>
-         <lc>nii</lc>
-         <lc>nii</lc>
+         <stem>nii</stem>
+         <stem>nii</stem>
       </lg>
       <mg>
          <tg>
@@ -148,8 +148,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">nämät</l>
-         <lc>näi</lc>
-         <lc>näi</lc>
+         <stem>näi</stem>
+         <stem>näi</stem>
       </lg>
       <mg>
          <tg>
@@ -160,8 +160,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">se</l>
-         <lc>se</lc>
-         <lc>si</lc>
+         <stem>se</stem>
+         <stem>si</stem>
       </lg>
       <mg>
          <tg>
@@ -173,8 +173,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">sie</l>
-         <lc>sinu</lc>
-         <lc>sinnu</lc>
+         <stem>sinu</stem>
+         <stem>sinnu</stem>
       </lg>
       <mg>
          <tg>
@@ -185,7 +185,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">tet</l>
-         <lc>tei</lc>
+         <stem>tei</stem>
       </lg>
       <mg>
          <tg>
@@ -207,8 +207,8 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="pron">yksi</l>
-         <lc>yhđe</lc>
-         <lc>yh</lc>
+         <stem>yhđe</stem>
+         <stem>yh</stem>
       </lg>
       <mg>
          <tg>
