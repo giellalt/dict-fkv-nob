@@ -456,11 +456,11 @@ For the full license text, see the link above.</lic>
             <t pos="adv">ikke</t>
             <xg>
                <x>Hän ei ole kotona</x>
-               <xt></xt>
+               <xt>Han er ikke hjemme</xt>
             </xg>
             <xg>
                <x>En ole ostanu leippää</x>
-               <xt></xt>
+               <xt>Jeg har ikke kjøpt brød</xt>
             </xg>
             <xg>
                <x>Het eivät ole</x>
@@ -468,7 +468,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Emmä ole käynheet sielä</x>
-               <xt></xt>
+               <xt>Vi har ikke vært der</xt>
             </xg>
          </tg>
       </mg>
@@ -1761,7 +1761,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">tørste</t>
             <xg>
                <x>Minnuu jannottaa</x>
-               <xt></xt>
+               <xt>Jeg er tørst</xt>
             </xg>
          </tg>
       </mg>
@@ -1950,7 +1950,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">etterlate</t>
-            <t pos="vx">la bli igjen</t>
+            <t pos="v">la bli igjen</t>
             <t pos="v">elte</t>
          </tg>
       </mg>
