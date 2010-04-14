@@ -687,13 +687,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">niin</l>
+         <l pos="adv">niin</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">slik</t>
-            <t pos="x">så</t>
-            <t pos="x">sånn</t>
+            <t pos="adv">slik</t>
+            <t pos="adv">så</t>
+            <t pos="adv">sånn</t>
          </tg>
       </mg>
    </e>
@@ -720,11 +720,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">norjaksi</l>
+         <l pos="adv">norjaksi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på norsk</t>
+            <t pos="adv">på norsk</t>
             <syng>
                <syn>ruiđaksi</syn>
             </syng>
@@ -746,13 +746,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">nuot</l>
+         <l pos="pron">nuot</l>
          <stem>nuoi</stem>
          <stem>nuoi</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="x">de der</t>
+            <t pos="pron">de der</t>
          </tg>
       </mg>
    </e>
@@ -795,9 +795,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">grundig</t>
+            <t pos="a2">grundig</t>
             <t pos="a1">kresen –t</t>
-            <t pos="x">nøye</t>
+            <t pos="a3">nøye</t>
          </tg>
       </mg>
    </e>
@@ -844,7 +844,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">näpperä</l>
+         <l pos="a">näpperä</l>
       </lg>
       <mg>
          <tg>
@@ -879,9 +879,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">rett</t>
-            <t pos="x">riktig</t>
-            <t pos="x">korrekt</t>
+            <t pos="a2">rett</t>
+            <t pos="a2">riktig</t>
+            <t pos="a2">korrekt</t>
          </tg>
       </mg>
    </e>
@@ -891,7 +891,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">egentlig</t>
+            <t pos="a2">egentlig</t>
          </tg>
       </mg>
    </e>
@@ -1007,7 +1007,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">paha tapa</l>
+         <l pos="n">paha tapa</l>
       </lg>
       <mg>
          <tg>
@@ -1079,7 +1079,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">trykkende</t>
-            <t pos="x">tung</t>
+            <t pos="a1">tung</t>
          </tg>
       </mg>
    </e>
@@ -1313,12 +1313,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">pois</l>
+         <l pos="adv">pois</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">bort</t>
-            <t pos="x">vekk</t>
+            <t pos="adv">bort</t>
+            <t pos="adv">vekk</t>
             <t pos="x">poijes</t>
          </tg>
       </mg>
