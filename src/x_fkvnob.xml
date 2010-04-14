@@ -338,25 +338,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">ko</l>
+         <l pos="cc">ko</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">da</t>
-            <t pos="adv">når</t>
-            <t pos="x">enn</t>
-            <t pos="x">som</t>
+            <t pos="cc">da</t>
+            <t pos="cc">når</t>
+            <t pos="cc">enn</t>
+            <t pos="cc">som</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">koska</l>
+         <l pos="cc">koska</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">fordi</t>
-            <t pos="x">når</t>
+            <t pos="cc">fordi</t>
+            <t pos="cc">når</t>
          </tg>
       </mg>
    </e>
@@ -376,7 +376,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hvordan</t>
+            <t pos="adv">hvordan</t>
          </tg>
       </mg>
    </e>
@@ -411,7 +411,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">altfor</t>
+            <t pos="adv">altfor</t>
          </tg>
       </mg>
    </e>
@@ -421,8 +421,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">gjennom</t>
-            <t pos="x">via</t>
+            <t pos="po">gjennom</t>
+            <t pos="po">via</t>
          </tg>
       </mg>
    </e>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">krympe</t>
+            <t pos="v">krympe</t>
          </tg>
       </mg>
    </e>
@@ -465,7 +465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">flykte</t>
+            <t pos="v">flykte</t>
          </tg>
       </mg>
    </e>
@@ -482,7 +482,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">menot</l>
+         <l pos="n">menot</l>
       </lg>
       <mg>
          <tg>
@@ -566,11 +566,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">mitä</l>
+         <l pos="pron">mitä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hva</t>
+            <t pos="pron">hva</t>
             <syng>
                <syn>mikä</syn>
             </syng>
@@ -579,13 +579,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">molemat</l>
+         <l pos="pron">molemat</l>
          <stem>molemii</stem>
          <stem>molemii</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="x">begge</t>
+            <t pos="pron">begge</t>
          </tg>
       </mg>
    </e>
@@ -634,13 +634,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">muutampi</l>
+         <l pos="pron">muutampi</l>
          <stem>muutamma</stem>
          <stem>muutampa</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="x">noen</t>
+            <t pos="pron">noen</t>
          </tg>
       </mg>
    </e>
