@@ -407,7 +407,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">liijan</l>
+         <l pos="adv">liijan</l>
       </lg>
       <mg>
          <tg>
@@ -1052,12 +1052,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">paikala</l>
+         <l pos="adv">paikala</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">straks</t>
-            <t pos="x">umiddelbart</t>
+            <t pos="adv">straks</t>
+            <t pos="adv">umiddelbart</t>
          </tg>
       </mg>
    </e>
@@ -1488,12 +1488,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">pöräti</l>
+         <l pos="adv">pöräti</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">alldeles</t>
-            <t pos="x">altfor</t>
+            <t pos="adv">aldeles</t>
+            <t pos="adv">altfor</t>
             <syng>
                <syn>peräti</syn>
             </syng>
@@ -1623,7 +1623,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">voksen person</t>
+            <t pos="n">voksen person</t>
             <syng>
                <syn>raavas</syn>
                <syn>ihminen</syn>
@@ -1633,12 +1633,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">sala</l>
+         <l pos="a">sala</l>
          <stem>salla</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hemmelig</t>
+            <t pos="a2">hemmelig</t>
          </tg>
       </mg>
    </e>
@@ -1668,8 +1668,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">særdeles</t>
-            <t pos="x">veldig</t>
+            <t pos="adv">særdeles</t>
+            <t pos="adv">veldig</t>
          </tg>
       </mg>
    </e>
@@ -1774,11 +1774,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">sijalensa</l>
+         <l pos="adv">sijalensa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på plass</t>
+            <t pos="adv">på plass</t>
          </tg>
       </mg>
    </e>
@@ -1957,18 +1957,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">på siden av</t>
-            <t pos="x">avsides</t>
-            <t pos="x">i utkanten</t>
+            <t pos="adv">avsides</t>
+            <t pos="adv">i utkanten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">saađa selvile</l>
+         <l pos="v">saađa selvile</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">få klarhet i</t>
+            <t pos="v">få klarhet i</t>
             <syng>
                <syn>saađa</syn>
             </syng>
@@ -2119,11 +2119,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">tiimottan</l>
+         <l pos="adv">tiimottan</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i timevis</t>
+            <t pos="adv">i timevis</t>
          </tg>
       </mg>
    </e>
@@ -2149,12 +2149,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">toissapäivänä</l>
+         <l pos="adv">toissapäivänä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i forgårs</t>
-            <t pos="x">forleden dag</t>
+            <t pos="adv">i forgårs</t>
+            <t pos="adv">forleden dag</t>
          </tg>
       </mg>
    </e>
@@ -2247,7 +2247,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">hos</t>
+            <t pos="prep">hos</t>
             <xg>
                <x>Hän oon minun tykköö</x>
                <xt>Hun er hos meg</xt>
@@ -2321,11 +2321,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">tänä päivänä</l>
+         <l pos="adv">tänä päivänä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i dag</t>
+            <t pos="adv">i dag</t>
             <syng>
                <syn>tääpänä</syn>
             </syng>
@@ -2388,7 +2388,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">taas</l>
+         <l pos="adv">taas</l>
       </lg>
       <mg>
          <tg>
@@ -2451,7 +2451,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">ulos</l>
+         <l pos="adv">ulos</l>
       </lg>
       <mg>
          <tg>
@@ -2464,11 +2464,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">ulvos</l>
+         <l pos="adv">ulvos</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ut</t>
+            <t pos="adv">ut</t>
             <syng>
                <syn>ulos</syn>
             </syng>
@@ -2769,21 +2769,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">vuorothaan</l>
+         <l pos="adv">vuorothaan</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">turvis</t>
+            <t pos="adv">turvis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">vuosithaan</l>
+         <l pos="adv">vuosithaan</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">årvis</t>
+            <t pos="adv">årvis</t>
          </tg>
       </mg>
    </e>
@@ -2974,12 +2974,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">yhtheen</l>
+         <l pos="adv">yhtheen</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">tilsammens</t>
-            <t pos="x">i hop</t>
+            <t pos="adv">tilsammens</t>
+            <t pos="adv">i hop</t>
          </tg>
       </mg>
    </e>
@@ -3094,11 +3094,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">ylös</l>
+         <l pos="adv">ylös</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">opp</t>
+            <t pos="adv">opp</t>
          </tg>
       </mg>
    </e>
