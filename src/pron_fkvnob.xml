@@ -217,4 +217,75 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="pron">kenen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem sin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">minun</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">min</t>
+            <t pos="pron">mitt</t>
+            <t pos="pron">mine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mitä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva</t>
+            <syng>
+               <syn>mikä</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">molemat</l>
+         <stem>molemii</stem>
+         <stem>molemii</stem>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">begge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">muutampi</l>
+         <stem>muutamma</stem>
+         <stem>muutampa</stem>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">nuot</l>
+         <stem>nuoi</stem>
+         <stem>nuoi</stem>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de der</t>
+         </tg>
+      </mg>
+   </e>
 </r>

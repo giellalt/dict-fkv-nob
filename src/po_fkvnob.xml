@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +13,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,11 +27,9 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-
    <e>
       <lg>
-      <l pos="po">vuoksi</l>
+         <l pos="po">vuoksi</l>
       </lg>
       <mg>
          <tg>
@@ -47,7 +43,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="po">alla</l>
+         <l pos="po">alla</l>
       </lg>
       <mg>
          <tg>
@@ -57,7 +53,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="po">päälä</l>
+         <l pos="po">päälä</l>
       </lg>
       <mg>
          <tg>
@@ -68,7 +64,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="po">takana</l>
+         <l pos="po">takana</l>
       </lg>
       <mg>
          <tg>
@@ -80,11 +76,37 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="po">välilä</l>
+         <l pos="po">välilä</l>
       </lg>
       <mg>
          <tg>
             <t pos="pr">mellom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">kansa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">med</t>
+            <xg>
+               <x>Hän tuli pojan kansa</x>
+               <xt>Han kom med gutten</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="po">kautta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">gjennom</t>
+            <t pos="po">om</t>
+            <t pos="po">via</t>
          </tg>
       </mg>
    </e>

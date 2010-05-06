@@ -442,7 +442,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">tørke inn</t>
             <xg>
                <x>Lehmä ehtyi</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -464,7 +464,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Het eivät ole</x>
-               <xt></xt>
+               <xt/>
             </xg>
             <xg>
                <x>Emmä ole käynheet sielä</x>
@@ -1676,7 +1676,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">småsitte</t>
             <xg>
                <x>Hän istuskeli siinä koko päivän</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1820,7 +1820,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">drikke</t>
             <xg>
                <x>Hän juopi vettä</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -4059,7 +4059,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">binde fast med tau</t>
             <xg>
                <x>Kaaristamako heinäkuorman?</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -6256,7 +6256,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">se</t>
             <xg>
                <x>Hän näkkee</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -10564,7 +10564,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">svømme</t>
             <xg>
                <x>Hän uipi niinko kala</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -10779,7 +10779,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">fylle i</t>
             <xg>
                <x>Maanantaina makkarat vallaat</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11048,7 +11048,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">renne</t>
             <xg>
                <x>Silmät vesistäävät</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11091,7 +11091,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">lede</t>
             <xg>
                <x>Hän viepi hevosen navethaan</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11371,7 +11371,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">kunne</t>
             <xg>
                <x>Hän voipi hyvin</x>
-               <xt></xt>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -11676,8 +11676,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">forfriskne</t>
             <xg>
                <x>Reisussa reppainttuu</x>
-               <xt></xt>
+               <xt/>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">saađa selvile</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">få klarhet i</t>
+            <syng>
+               <syn>saađa</syn>
+            </syng>
          </tg>
       </mg>
    </e>

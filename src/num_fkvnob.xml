@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
-  <lics>
-    <lic xml:lang="en">
+   <lics>
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +13,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,12 +27,10 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-
    <e>
       <lg>
-      <l pos="num">kahđeksenkymmentä</l>
-      <stem>kahđeksenkymmene</stem>
+         <l pos="num">kahđeksenkymmentä</l>
+         <stem>kahđeksenkymmene</stem>
       </lg>
       <mg>
          <tg>
@@ -44,8 +40,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kahđeksen</l>
-      <stem>kahđeksene</stem>
+         <l pos="num">kahđeksen</l>
+         <stem>kahđeksene</stem>
       </lg>
       <mg>
          <tg>
@@ -55,8 +51,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kahđeksensattaa</l>
-      <stem>kahđeksensađa</stem>
+         <l pos="num">kahđeksensattaa</l>
+         <stem>kahđeksensađa</stem>
       </lg>
       <mg>
          <tg>
@@ -66,9 +62,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kaksi</l>
-      <stem>kahđe</stem>
-      <stem>kah</stem>
+         <l pos="num">kaksi</l>
+         <stem>kahđe</stem>
+         <stem>kah</stem>
       </lg>
       <mg>
          <tg>
@@ -78,8 +74,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kakskymmentä</l>
-      <stem>kakskymmene</stem>
+         <l pos="num">kakskymmentä</l>
+         <stem>kakskymmene</stem>
       </lg>
       <mg>
          <tg>
@@ -90,7 +86,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kakstoista</l>
+         <l pos="num">kakstoista</l>
       </lg>
       <mg>
          <tg>
@@ -100,7 +96,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kakstuhatta</l>
+         <l pos="num">kakstuhatta</l>
       </lg>
       <mg>
          <tg>
@@ -110,7 +106,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kolmekymmentä</l>
+         <l pos="num">kolmekymmentä</l>
       </lg>
       <mg>
          <tg>
@@ -120,7 +116,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kolme</l>
+         <l pos="num">kolme</l>
       </lg>
       <mg>
          <tg>
@@ -130,7 +126,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kolmesattaa</l>
+         <l pos="num">kolmesattaa</l>
       </lg>
       <mg>
          <tg>
@@ -140,9 +136,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num" type="ord">kuuđes</l>
-      <stem>kuuđenne</stem>
-      <stem>kuuđet</stem>
+         <l pos="num" type="ord">kuuđes</l>
+         <stem>kuuđenne</stem>
+         <stem>kuuđet</stem>
       </lg>
       <mg>
          <tg>
@@ -152,7 +148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuusikymmentä</l>
+         <l pos="num">kuusikymmentä</l>
       </lg>
       <mg>
          <tg>
@@ -162,9 +158,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuusi</l>
-      <stem>kuuđe</stem>
-      <stem>kuut</stem>
+         <l pos="num">kuusi</l>
+         <stem>kuuđe</stem>
+         <stem>kuut</stem>
       </lg>
       <mg>
          <tg>
@@ -177,7 +173,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuusisattaa</l>
+         <l pos="num">kuusisattaa</l>
       </lg>
       <mg>
          <tg>
@@ -187,7 +183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuusitoista</l>
+         <l pos="num">kuusitoista</l>
       </lg>
       <mg>
          <tg>
@@ -197,7 +193,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuusituhatta</l>
+         <l pos="num">kuusituhatta</l>
       </lg>
       <mg>
          <tg>
@@ -207,9 +203,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kuus</l>
-      <stem>kuuđe</stem>
-      <stem>kuut</stem>
+         <l pos="num">kuus</l>
+         <stem>kuuđe</stem>
+         <stem>kuut</stem>
       </lg>
       <mg>
          <tg>
@@ -222,7 +218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">kymmenen</l>
+         <l pos="num">kymmenen</l>
       </lg>
       <mg>
          <tg>
@@ -232,9 +228,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num" type="ord">kymmenes</l>
-      <stem>kymmenenne</stem>
-      <stem>kymmenet</stem>
+         <l pos="num" type="ord">kymmenes</l>
+         <stem>kymmenenne</stem>
+         <stem>kymmenet</stem>
       </lg>
       <mg>
          <tg>
@@ -244,7 +240,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">nelje</l>
+         <l pos="num">nelje</l>
       </lg>
       <mg>
          <tg>
@@ -254,9 +250,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num" type="ord">neljes</l>
-      <stem>neljenhee</stem>
-      <stem>neljet</stem>
+         <l pos="num" type="ord">neljes</l>
+         <stem>neljenhee</stem>
+         <stem>neljet</stem>
       </lg>
       <mg>
          <tg>
@@ -266,7 +262,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">seittemen</l>
+         <l pos="num">seittemen</l>
       </lg>
       <mg>
          <tg>
@@ -280,7 +276,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">seittemän</l>
+         <l pos="num">seittemän</l>
       </lg>
       <mg>
          <tg>
@@ -294,8 +290,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viisikymmentä</l>
-      <stem>viisikymmene</stem>
+         <l pos="num">viisikymmentä</l>
+         <stem>viisikymmene</stem>
       </lg>
       <mg>
          <tg>
@@ -308,8 +304,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viiskymmentä</l>
-      <stem>viiskymmene</stem>
+         <l pos="num">viiskymmentä</l>
+         <stem>viiskymmene</stem>
       </lg>
       <mg>
          <tg>
@@ -322,7 +318,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viisitoista</l>
+         <l pos="num">viisitoista</l>
       </lg>
       <mg>
          <tg>
@@ -335,7 +331,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viistoista</l>
+         <l pos="num">viistoista</l>
       </lg>
       <mg>
          <tg>
@@ -348,9 +344,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viis</l>
-      <stem>viiđe</stem>
-      <stem>viit</stem>
+         <l pos="num">viis</l>
+         <stem>viiđe</stem>
+         <stem>viit</stem>
       </lg>
       <mg>
          <tg>
@@ -363,9 +359,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-      <l pos="num">viisi</l>
-      <stem>viiđe</stem>
-      <stem>viit</stem>
+         <l pos="num">viisi</l>
+         <stem>viiđe</stem>
+         <stem>viit</stem>
       </lg>
       <mg>
          <tg>
