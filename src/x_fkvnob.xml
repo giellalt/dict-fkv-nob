@@ -2285,7 +2285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="x">tähđen: -n</l>
+         <l pos="x" status="sjekk tähđen: -n">tähđen</l>
       </lg>
       <mg>
          <tg>
@@ -2539,11 +2539,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a/ subst" status="sjekk">vaisto (om været)</l>
+         <l pos="a" status="sjekk pos adj eller subst">vaisto</l>
       </lg>
       <mg>
          <tg>
-            <t pos="x">stille</t>
+            <t pos="x">stille (om været)</t>
          </tg>
       </mg>
    </e>
