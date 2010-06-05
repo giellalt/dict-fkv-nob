@@ -51,7 +51,7 @@
   
   <xsl:template match="/" name="main">
     
-    <xsl:for-each-group select="doc($file)/r/entry" group-by="./lemma/@pos">
+    <xsl:for-each-group select="doc($file)/r/e" group-by="./lg/l/@pos">
       <xsl:result-document href="{$outputDir}/{current-grouping-key()}_fkvnob.{$e}">
 	<r>
 	  <xsl:copy-of select="current-group()"/>
