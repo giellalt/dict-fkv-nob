@@ -1211,7 +1211,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">engelskmann</t>
-            <t pos="n" decl="x">engelsk</t>
+            <t pos="n" decl="a">engelsk</t>
             <syng>
                <syn>engelskmanni</syn>
             </syng>
@@ -1246,7 +1246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">avsides liggende sted</t>
+            <t pos="n" decl="n">avsidesliggende sted</t>
             <xg>
                <x>Mene enturhiin</x>
                <xt/>
@@ -1509,7 +1509,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">fange</t>
-            <t pos="n" decl="x">innsatt</t>
+            <t pos="n" decl="m">innsatt</t>
          </tg>
       </mg>
    </e>
@@ -2285,7 +2285,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">skulder</t>
-            <t pos="n" decl="x">aksel –sla</t>
+            <t pos="n" decl="f">aksel</t>
          </tg>
       </mg>
    </e>
@@ -2319,11 +2319,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">hauki</l>
          <stem>haue</stem>
+         <stem>haukke</stem>
       </lg>
       <mg>
          <tg>
             <t pos="n" decl="f">gjedde</t>
-            <t pos="n" decl="x">haukke-</t>
          </tg>
       </mg>
    </e>
@@ -2511,7 +2511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">innbergning av høy</t>
+            <t pos="n" decl="f">høybergning</t>
          </tg>
       </mg>
    </e>
@@ -5252,7 +5252,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">båt brukt på et tjern</t>
+            <t pos="n" decl="m">båt brukt på et tjern</t>
          </tg>
       </mg>
    </e>
@@ -5394,8 +5394,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">kvænsk</t>
             <t pos="n" decl="n">kvænsk språk</t>
+            <t pos="n" decl="a">kvænsk</t>
          </tg>
       </mg>
    </e>
@@ -5439,7 +5439,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">kvænsk</t>
+            <t pos="n" decl="a">kvænsk</t>
          </tg>
       </mg>
    </e>
@@ -5504,7 +5504,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">andre</t>
+            <t pos="n" decl="m">toer</t>
          </tg>
       </mg>
    </e>
@@ -6767,7 +6767,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">fellesord for gule blomster</t>
+            <t pos="n" decl="m">gul blomst</t>
          </tg>
       </mg>
    </e>
@@ -7348,7 +7348,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">krøllet hår</t>
+            <t pos="n" decl="n">krøllet hår</t>
          </tg>
       </mg>
    </e>
@@ -7543,7 +7543,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">kapp</t>
+            <t pos="n" decl="n">kapp</t>
             <xg>
                <x>Met juoksima kilppaa</x>
                <xt/>
@@ -7858,7 +7858,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">kattesøvn</t>
-            <t pos="n" decl="x">late-som-søvn</t>
+            <t pos="n" decl="m">late-som-søvn</t>
          </tg>
       </mg>
    </e>
@@ -8194,10 +8194,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">xxx_correct-me_xxx</t>
-            <syng>
-               <syn>naaraspontti</syn>
-            </syng>
+            <t pos="n" decl="f">fjær</t>
+            <xg>
+              <x>not og fjær</x>
+              <xt>naaraspontti ja koiraspontti</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15288,13 +15289,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">muijeta</l>
+         <l pos="v">muijeta</l>
          <stem>muikene</stem>
          <stem>muijen</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">surne</t>
+            <t pos="n" decl="v">surne</t>
          </tg>
       </mg>
    </e>
@@ -15742,7 +15743,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">figur</t>
-            <t pos="n" decl="x">mønster –ret</t>
+            <t pos="n" decl="n">mønster</t>
          </tg>
       </mg>
    </e>
@@ -15789,7 +15790,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">medstrøm –men</t>
+            <t pos="n" decl="m">medstrøm</t>
          </tg>
       </mg>
    </e>
@@ -15879,8 +15880,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">tuete</t>
-            <t pos="n" decl="x">område med store tuer</t>
+            <t pos="n" decl="a">tuete</t>
+            <t pos="n" decl="n">område med store tuer</t>
          </tg>
       </mg>
    </e>
@@ -16681,7 +16682,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">nordmann</t>
-            <t pos="n" decl="x">norsk</t>
+            <t pos="n" decl="a">norsk</t>
          </tg>
       </mg>
    </e>
@@ -16950,7 +16951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">gressbevokst eng</t>
+            <t pos="n" decl="f">gresseng</t>
             <t pos="n" decl="m">plen</t>
          </tg>
       </mg>
@@ -17136,7 +17137,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">kvise på øyelokkranden</t>
+            <t pos="n" decl="f">kvise på øyelokkranden</t>
          </tg>
       </mg>
    </e>
@@ -17207,10 +17208,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">xxx_correct-me_xxx</t>
-            <syng>
-               <syn>koiraspontti</syn>
-            </syng>
+            <t pos="n" decl="f">not</t>
+            <xg>
+              <x>not og fjær</x>
+              <xt>naaraspontti ja koiraspontti</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17425,7 +17427,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">selvgjort</t>
+            <t pos="n" decl="a">selvgjort</t>
          </tg>
       </mg>
    </e>
@@ -17715,7 +17717,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">foreldreløst barn</t>
+            <t pos="n" decl="n">foreldreløst barn</t>
          </tg>
       </mg>
    </e>
@@ -17727,7 +17729,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">foreldreløs</t>
+            <t pos="n" decl="a">foreldreløs</t>
          </tg>
       </mg>
    </e>
@@ -18620,7 +18622,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">bot og bedring</t>
             <t pos="n" decl="f">forbedring</t>
             <t pos="n" decl="m">helbredelse</t>
          </tg>
@@ -18692,7 +18693,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">mann med skjegg</t>
+            <t pos="n" decl="m">mann med skjegg</t>
          </tg>
       </mg>
    </e>
@@ -20071,7 +20072,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">xxx_correct-me_xxx</t>
+            <t pos="n" decl="m">dvergfalk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n" decl="f">haukugle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n" decl="m">sinnatagg</t>
+            <t pos="n" decl="m">kranglefant</t>
          </tg>
       </mg>
    </e>
@@ -20520,7 +20532,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">xxx_correct-me_xxx</t>
+            <t pos="n" decl="m">not-og-fjær-planke</t>
          </tg>
       </mg>
    </e>
@@ -20531,10 +20543,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">not og fjær</t>
+            <t pos="n" decl="f">not og fjær</t>
             <xg>
-               <x>Naaras ja koiras pontti</x>
-               <xt/>
+               <x>Naaras- ja koiraspontti</x>
+               <xt>not- og fjær-planke</xt>
             </xg>
          </tg>
       </mg>
@@ -23843,7 +23855,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="m">kropp</t>
-            <t pos="n" decl="x">legeme –t</t>
+            <t pos="n" decl="n">legeme –t</t>
             <t pos="n" decl="n">lik</t>
             <syng>
                <syn>kroppi</syn>
@@ -24306,7 +24318,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n" decl="n">sund</t>
-            <t pos="n" decl="x">salme-</t>
             <syng>
                <syn>nuora</syn>
             </syng>
@@ -24993,7 +25004,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">rom i båt</t>
+            <t pos="n" decl="n">rom i båt</t>
+            <t pos="n" decl="m">sess</t>
          </tg>
       </mg>
    </e>
@@ -32429,7 +32441,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">Gud</t>
+            <t pos="n" decl="m">Gud</t>
          </tg>
       </mg>
    </e>
@@ -32449,7 +32461,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">Marias budskapsdag</t>
+            <t pos="n" decl="m">Marias budskapsdag</t>
          </tg>
       </mg>
    </e>
@@ -32525,7 +32537,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="n" decl="x">ullvotter –ne</t>
+            <t pos="n" decl="x">ullvotter</t>
             <syng>
                <syn>vantut</syn>
             </syng>
