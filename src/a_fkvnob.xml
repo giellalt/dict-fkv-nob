@@ -5035,8 +5035,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">fiks</t>
-            <t pos="a1">snop</t>
+            <t decl="a1" pos="a">fiks</t>
+            <t decl="a1" pos="a">snop</t>
          </tg>
       </mg>
    </e>
@@ -5046,8 +5046,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a3">mye</t>
-            <t pos="a3">mange</t>
+            <t decl="a3" pos="a">mye</t>
+            <t decl="a3" pos="a">mange</t>
          </tg>
       </mg>
    </e>
@@ -5058,7 +5058,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">hemmelig</t>
+            <t decl="a2" pos="a">hemmelig</t>
          </tg>
       </mg>
    </e>

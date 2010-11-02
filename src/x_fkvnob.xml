@@ -522,9 +522,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">grundig</t>
-            <t pos="a1">kresen –t</t>
-            <t pos="a3">nøye</t>
+            <t decl="a2" pos="a">grundig</t>
+            <t decl="a1" pos="a">kresen –t</t>
+            <t decl="a3" pos="a">nøye</t>
          </tg>
       </mg>
    </e>
@@ -544,7 +544,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">tynn</t>
+            <t decl="a1" pos="a">tynn</t>
          </tg>
       </mg>
    </e>
@@ -554,9 +554,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">rett</t>
-            <t pos="a2">riktig</t>
-            <t pos="a2">korrekt</t>
+            <t decl="a2" pos="a">rett</t>
+            <t decl="a2" pos="a">riktig</t>
+            <t decl="a2" pos="a">korrekt</t>
          </tg>
       </mg>
    </e>
@@ -566,7 +566,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">egentlig</t>
+            <t decl="a2" pos="a">egentlig</t>
          </tg>
       </mg>
    </e>
@@ -688,7 +688,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">trykkende</t>
-            <t pos="a1">tung</t>
+            <t decl="a1" pos="a">tung</t>
          </tg>
       </mg>
    </e>
@@ -791,7 +791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">bunnløs</t>
+            <t decl="a1" pos="a">bunnløs</t>
          </tg>
       </mg>
    </e>
@@ -884,7 +884,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="x">loddrett</t>
             <t pos="x">oppreist</t>
-            <t pos="a1">vertikal</t>
+            <t decl="a1" pos="a">vertikal</t>
             <xg>
                <x>Poika istui korvat pystössä</x>
                <xt/>
@@ -1095,7 +1095,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">klar</t>
+            <t decl="a1" pos="a">klar</t>
             <t pos="x">edru</t>
          </tg>
       </mg>
@@ -1217,7 +1217,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">rett</t>
-            <t pos="a1">strak</t>
+            <t decl="a1" pos="a">strak</t>
             <t pos="x">direkte</t>
          </tg>
       </mg>
@@ -1487,7 +1487,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a1">full</t>
+            <t decl="a1" pos="a">full</t>
          </tg>
       </mg>
    </e>
@@ -1690,7 +1690,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a3">forfriskende</t>
+            <t decl="a3" pos="a">forfriskende</t>
          </tg>
       </mg>
    </e>
@@ -1834,7 +1834,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a2">plutselig</t>
+            <t decl="a2" pos="a">plutselig</t>
          </tg>
       </mg>
    </e>
