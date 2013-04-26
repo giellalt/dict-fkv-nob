@@ -29,142 +29,142 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="num">kahđeksenkymmentä</l>
+         <l pos="Num">kahđeksenkymmentä</l>
          <stem>kahđeksenkymmene</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">åtti</t>
+            <t pos="Num">åtti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kahđeksen</l>
+         <l pos="Num">kahđeksen</l>
          <stem>kahđeksene</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">åtte</t>
+            <t pos="Num">åtte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kahđeksensattaa</l>
+         <l pos="Num">kahđeksensattaa</l>
          <stem>kahđeksensađa</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">åttehundre</t>
+            <t pos="Num">åttehundre</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kaksi</l>
+         <l pos="Num">kaksi</l>
          <stem>kahđe</stem>
          <stem>kah</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">to</t>
+            <t pos="Num">to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kakskymmentä</l>
+         <l pos="Num">kakskymmentä</l>
          <stem>kakskymmene</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tjue</t>
-            <t pos="num">tyve</t>
+            <t pos="Num">tjue</t>
+            <t pos="Num">tyve</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kakstoista</l>
+         <l pos="Num">kakstoista</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tolv</t>
+            <t pos="Num">tolv</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kakstuhatta</l>
+         <l pos="Num">kakstuhatta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">totusen</t>
+            <t pos="Num">totusen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kolmekymmentä</l>
+         <l pos="Num">kolmekymmentä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tretti</t>
+            <t pos="Num">tretti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kolme</l>
+         <l pos="Num">kolme</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tre</t>
+            <t pos="Num">tre</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kolmesattaa</l>
+         <l pos="Num">kolmesattaa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">trehundre</t>
+            <t pos="Num">trehundre</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num" type="ord">kuuđes</l>
+         <l pos="Num" type="ord">kuuđes</l>
          <stem>kuuđenne</stem>
          <stem>kuuđet</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sjette</t>
+            <t pos="Num">sjette</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kuusikymmentä</l>
+         <l pos="Num">kuusikymmentä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seksti</t>
+            <t pos="Num">seksti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kuusi</l>
+         <l pos="Num">kuusi</l>
          <stem>kuuđe</stem>
          <stem>kuut</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seks</t>
+            <t pos="Num">seks</t>
             <syng>
                <syn>kuus</syn>
             </syng>
@@ -173,43 +173,43 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">kuusisattaa</l>
+         <l pos="Num">kuusisattaa</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sekshundre</t>
+            <t pos="Num">sekshundre</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kuusitoista</l>
+         <l pos="Num">kuusitoista</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seksten</t>
+            <t pos="Num">seksten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kuusituhatta</l>
+         <l pos="Num">kuusituhatta</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sekstusen</t>
+            <t pos="Num">sekstusen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">kuus</l>
+         <l pos="Num">kuus</l>
          <stem>kuuđe</stem>
          <stem>kuut</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">seks</t>
+            <t pos="Num">seks</t>
             <syng>
                <syn>kuusi</syn>
             </syng>
@@ -218,56 +218,56 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">kymmenen</l>
+         <l pos="Num">kymmenen</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">ti</t>
+            <t pos="Num">ti</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num" type="ord">kymmenes</l>
+         <l pos="Num" type="ord">kymmenes</l>
          <stem>kymmenenne</stem>
          <stem>kymmenet</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">tiende</t>
+            <t pos="Num">tiende</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">nelje</l>
+         <l pos="Num">nelje</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">fire</t>
+            <t pos="Num">fire</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num" type="ord">neljes</l>
+         <l pos="Num" type="ord">neljes</l>
          <stem>neljenhee</stem>
          <stem>neljet</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">fjerde</t>
+            <t pos="Num">fjerde</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="num">seittemen</l>
+         <l pos="Num">seittemen</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sju</t>
-            <t pos="num">syv</t>
+            <t pos="Num">sju</t>
+            <t pos="Num">syv</t>
             <syng>
                <syn>seittemän</syn>
             </syng>
@@ -276,12 +276,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">seittemän</l>
+         <l pos="Num">seittemän</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">sju</t>
-            <t pos="num">syv</t>
+            <t pos="Num">sju</t>
+            <t pos="Num">syv</t>
             <syng>
                <syn>seittemen</syn>
             </syng>
@@ -290,12 +290,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viisikymmentä</l>
+         <l pos="Num">viisikymmentä</l>
          <stem>viisikymmene</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">femti</t>
+            <t pos="Num">femti</t>
             <syng>
                <syn>viiskymmentä</syn>
             </syng>
@@ -304,12 +304,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viiskymmentä</l>
+         <l pos="Num">viiskymmentä</l>
          <stem>viiskymmene</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">femti</t>
+            <t pos="Num">femti</t>
             <syng>
                <syn>viisikymmentä</syn>
             </syng>
@@ -318,11 +318,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viisitoista</l>
+         <l pos="Num">viisitoista</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">femten</t>
+            <t pos="Num">femten</t>
             <syng>
                <syn>viistoista</syn>
             </syng>
@@ -331,11 +331,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viistoista</l>
+         <l pos="Num">viistoista</l>
       </lg>
       <mg>
          <tg>
-            <t pos="num">femten</t>
+            <t pos="Num">femten</t>
             <syng>
                <syn>viisitoista</syn>
             </syng>
@@ -344,13 +344,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viis</l>
+         <l pos="Num">viis</l>
          <stem>viiđe</stem>
          <stem>viit</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">fem</t>
+            <t pos="Num">fem</t>
             <syng>
                <syn>viisi</syn>
             </syng>
@@ -359,13 +359,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num">viisi</l>
+         <l pos="Num">viisi</l>
          <stem>viiđe</stem>
          <stem>viit</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="num">fem</t>
+            <t pos="Num">fem</t>
             <syng>
                <syn>viis</syn>
             </syng>

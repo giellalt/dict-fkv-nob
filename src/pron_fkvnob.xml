@@ -29,223 +29,223 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="pron">sama</l>
+         <l pos="Pron">sama</l>
          <stem>samma</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">samme</t>
+            <t pos="Pron">samme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" status="sjekk">tämä</l>
+         <l pos="Pron" status="sjekk">tämä</l>
          <stem>tä</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den her</t>
-            <t pos="pron">denne her</t>
-            <t pos="pron">dette her</t>
+            <t pos="Pron">den her</t>
+            <t pos="Pron">denne her</t>
+            <t pos="Pron">dette her</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">hän</l>
+         <l pos="Pron">hän</l>
          <stem>häne</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">hun</t>
+            <t pos="Pron">han</t>
+            <t pos="Pron">hun</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">itte</l>
+         <l pos="Pron">itte</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">selv</t>
-            <t pos="pron">sjøl</t>
+            <t pos="Pron">selv</t>
+            <t pos="Pron">sjøl</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">kaikki</l>
+         <l pos="Pron">kaikki</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">all</t>
-            <t pos="pron">alle</t>
+            <t pos="Pron">all</t>
+            <t pos="Pron">alle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">kuka</l>
+         <l pos="Pron">kuka</l>
          <stem>kene</stem>
          <stem>ke</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem</t>
+            <t pos="Pron">hvem</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">met</l>
+         <l pos="Pron">met</l>
          <stem>mei</stem>
          <stem>mei</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">vi</t>
+            <t pos="Pron">vi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mie</l>
+         <l pos="Pron">mie</l>
          <stem>minu</stem>
          <stem>minnu</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">jeg</t>
+            <t pos="Pron">jeg</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mikä</l>
+         <l pos="Pron">mikä</l>
          <stem>mi</stem>
          <stem>mi</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva</t>
+            <t pos="Pron">hva</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">net</l>
+         <l pos="Pron">net</l>
          <stem>nii</stem>
          <stem>nii</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de</t>
+            <t pos="Pron">de</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">nämät</l>
+         <l pos="Pron">nämät</l>
          <stem>näi</stem>
          <stem>näi</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">disse her</t>
+            <t pos="Pron">disse her</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">se</l>
+         <l pos="Pron">se</l>
          <stem>se</stem>
          <stem>si</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den</t>
-            <t pos="pron">det</t>
+            <t pos="Pron">den</t>
+            <t pos="Pron">det</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">sie</l>
+         <l pos="Pron">sie</l>
          <stem>sinu</stem>
          <stem>sinnu</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">du</t>
+            <t pos="Pron">du</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">tet</l>
+         <l pos="Pron">tet</l>
          <stem>tei</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">dere</t>
+            <t pos="Pron">dere</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">tuo</l>
+         <l pos="Pron">tuo</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">den der</t>
-            <t pos="pron">det der</t>
+            <t pos="Pron">den der</t>
+            <t pos="Pron">det der</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">yksi</l>
+         <l pos="Pron">yksi</l>
          <stem>yhđe</stem>
          <stem>yh</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">en</t>
-            <t pos="pron">et</t>
+            <t pos="Pron">en</t>
+            <t pos="Pron">et</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">kenen</l>
+         <l pos="Pron">kenen</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem sin</t>
+            <t pos="Pron">hvem sin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">minun</l>
+         <l pos="Pron">minun</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">min</t>
-            <t pos="pron">mitt</t>
-            <t pos="pron">mine</t>
+            <t pos="Pron">min</t>
+            <t pos="Pron">mitt</t>
+            <t pos="Pron">mine</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">mitä</l>
+         <l pos="Pron">mitä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva</t>
+            <t pos="Pron">hva</t>
             <syng>
                <syn>mikä</syn>
             </syng>
@@ -254,37 +254,37 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron">molemat</l>
+         <l pos="Pron">molemat</l>
          <stem>molemii</stem>
          <stem>molemii</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">begge</t>
+            <t pos="Pron">begge</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">muutampi</l>
+         <l pos="Pron">muutampi</l>
          <stem>muutamma</stem>
          <stem>muutampa</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">noen</t>
+            <t pos="Pron">noen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">nuot</l>
+         <l pos="Pron">nuot</l>
          <stem>nuoi</stem>
          <stem>nuoi</stem>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de der</t>
+            <t pos="Pron">de der</t>
          </tg>
       </mg>
    </e>
