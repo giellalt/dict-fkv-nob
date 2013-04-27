@@ -1,4 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r>
+   <lics>
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
    <e>
     <lg>
      <l pos="N">aalto</l>
@@ -71,7 +99,7 @@
 
    <e>
     <lg>
-     <l pos="N">aapa</l> 
+     <l pos="N">aapa</l>
     </lg>
     <mg>
      <tg>
@@ -252,7 +280,7 @@
 
    <e>
     <lg>
-     <l pos="N">ahven</l> 
+     <l pos="N">ahven</l>
     </lg>
     <mg>
      <tg>
@@ -604,7 +632,7 @@
 
    <e>
     <lg>
-     <l pos="N">aita</l> 
+     <l pos="N">aita</l>
     </lg>
     <mg>
      <tg>
@@ -796,7 +824,7 @@
 
    <e>
     <lg>
-     <l pos="N">alakerta</l> 
+     <l pos="N">alakerta</l>
     </lg>
     <mg>
      <tg>
@@ -1130,7 +1158,7 @@
 
    <e>
     <lg>
-     <l pos="N">alus</l> 
+     <l pos="N">alus</l>
     </lg>
     <mg>
      <tg>
@@ -1382,7 +1410,7 @@
 
    <e>
     <lg>
-     <l pos="V">anttaat</l> 
+     <l pos="V">anttaat</l>
     </lg>
     <mg>
      <tg>
@@ -1702,7 +1730,7 @@
 
    <e>
     <lg>
-     <l pos="V">armattaat</l> 
+     <l pos="V">armattaat</l>
     </lg>
     <mg>
      <tg>
@@ -1740,7 +1768,7 @@
 
    <e>
     <lg>
-     <l pos="N">arpa</l> 
+     <l pos="N">arpa</l>
     </lg>
     <mg>
      <tg>
@@ -1964,7 +1992,7 @@
 
    <e>
     <lg>
-     <l pos="N">aset</l> 
+     <l pos="N">aset</l>
     </lg>
     <mg>
      <tg>
@@ -2110,7 +2138,7 @@
 
    <e>
     <lg>
-     <l>astma</l>
+     <l pos="N">astma</l>
     </lg>
     <mg>
      <tg>
@@ -2594,7 +2622,7 @@
 
    <e>
     <lg>
-     <l pos="N">bolševiikki</l> 
+     <l pos="N">bolševiikki</l>
     </lg>
     <mg>
      <tg>
@@ -2781,7 +2809,7 @@
 
    <e>
     <lg>
-     <l pos="N">dongerihousut</l>pl. 
+     <l nr="Pl" pos="N">dongerihousut</l>
     </lg>
     <mg>
      <tg>
@@ -3334,7 +3362,7 @@
 
    <e>
     <lg>
-     <l pos="Pron">enimät</l>pl. 
+     <l nr="Pl" pos="Pron">enimät</l>
     </lg>
     <mg>
      <tg>
@@ -3389,7 +3417,7 @@
 
    <e>
     <lg>
-     <l pos="Pr">ennen</l> 
+     <l pos="Pr">ennen</l>
     </lg>
     <mg>
      <tg>
@@ -3492,7 +3520,7 @@
 
    <e>
     <lg>
-     <l pos="N">eno</l> 
+     <l pos="N">eno</l>
     </lg>
     <mg>
      <tg>
@@ -3938,7 +3966,7 @@
 
    <e>
     <lg>
-     <l pos="N">ero</l> 
+     <l pos="N">ero</l>
     </lg>
     <mg>
      <tg>
@@ -3965,7 +3993,7 @@
 
    <e>
     <lg>
-     <l pos="N">erotus</l> 
+     <l pos="N">erotus</l>
     </lg>
     <mg>
      <tg>
@@ -4562,7 +4590,7 @@
 
    <e>
     <lg>
-     <l pos="N">fiili</l> 
+     <l pos="N">fiili</l>
     </lg>
     <mg>
      <tg>
@@ -4699,7 +4727,7 @@
 
    <e>
     <lg>
-     <l pos="N">fisku</l> 
+     <l pos="N">fisku</l>
     </lg>
     <mg>
      <tg>
@@ -5188,7 +5216,7 @@
 
    <e>
     <lg>
-     <l pos="A">haalee</l> 
+     <l pos="A">haalee</l>
     </lg>
     <mg>
      <tg>
@@ -5231,7 +5259,7 @@
 
    <e>
     <lg>
-     <l pos="N">haara</l> 
+     <l pos="N">haara</l>
     </lg>
     <mg>
      <tg>
@@ -5347,7 +5375,7 @@
 
    <e>
     <lg>
-     <l pos="V">haista</l>intr. 
+     <l val="IV" pos="V">haista</l>
     </lg>
     <mg>
      <tg>
@@ -5362,7 +5390,7 @@
 
    <e>
     <lg>
-     <l pos="V">haistaat</l>trans. 
+     <l val="TV" pos="V">haistaat</l>
     </lg>
     <mg>
      <tg>
@@ -5417,7 +5445,7 @@
 
    <e>
     <lg>
-     <l pos="V">hajoittaat</l>trans. 
+     <l val="TV" pos="V">hajoittaat</l>
     </lg>
     <mg>
      <tg>
@@ -5868,7 +5896,7 @@
 
    <e>
     <lg>
-     <l pos="V">happanuttaat</l>trans. 
+     <l val="TV" pos="V">happanuttaat</l>
     </lg>
     <mg>
      <tg>
@@ -5923,7 +5951,7 @@
 
    <e>
     <lg>
-     <l pos="N">harja</l> 
+     <l pos="N">harja</l>
     </lg>
     <mg>
      <tg>
@@ -6135,7 +6163,7 @@
 
    <e>
     <lg>
-     <l pos="N">haukka</l> 
+     <l pos="N">haukka</l>
     </lg>
     <mg>
      <tg>
@@ -6151,7 +6179,7 @@
 
    <e>
     <lg>
-     <l pos="V">haukkuut</l> 
+     <l pos="V">haukkuut</l>
     </lg>
     <mg>
      <tg>
@@ -6464,7 +6492,7 @@
 
    <e>
     <lg>
-     <l pos="V">hengastaat</l>trans. 
+     <l val="TV" pos="V">hengastaat</l>
     </lg>
     <mg>
      <tg>
@@ -6475,7 +6503,7 @@
 
    <e>
     <lg>
-     <l pos="V">hengata</l>trans. / intrans. 
+     <l pos="V">hengata</l>
     </lg>
     <mg>
      <tg>
@@ -6515,7 +6543,7 @@
 
    <e>
     <lg>
-     <l pos="N">henki</l> 
+     <l pos="N">henki</l>
     </lg>
     <mg>
      <tg>
@@ -6966,7 +6994,7 @@
 
    <e>
     <lg>
-     <l pos="Adv">hiljain</l> 
+     <l pos="Adv">hiljain</l>
     </lg>
     <mg>
      <tg>
@@ -6982,7 +7010,7 @@
 
    <e>
     <lg>
-     <l pos="A">hiljainen</l> 
+     <l pos="A">hiljainen</l>
     </lg>
     <mg>
      <tg>
@@ -7255,7 +7283,7 @@
 
    <e>
     <lg>
-     <l pos="A">hirvee</l> 
+     <l pos="A">hirvee</l>
     </lg>
     <mg>
      <tg>
@@ -7541,7 +7569,7 @@
 
    <e>
     <lg>
-     <l pos="N">housut</l>pl. 
+     <l nr="Pl" pos="N">housut</l>
     </lg>
     <mg>
      <tg>
@@ -7563,7 +7591,7 @@
 
    <e>
     <lg>
-     <l pos="V">huilata</l>1 
+     <l pos="V">huilata</l>
     </lg>
     <mg>
      <tg>
@@ -7643,7 +7671,7 @@
 
    <e>
     <lg>
-     <l pos="N">hukki</l> 
+     <l pos="N">hukki</l>
     </lg>
     <mg>
      <tg>
@@ -8291,7 +8319,7 @@
 
    <e>
     <lg>
-     <l pos="V">hyöđyttäät</l>trans. 
+     <l val="TV" pos="V">hyöđyttäät</l>
     </lg>
     <mg>
      <tg>
@@ -8313,7 +8341,7 @@
 
    <e>
     <lg>
-     <l pos="V">hyöttyy</l>intr. 
+     <l val="IV" pos="V">hyöttyy</l>
     </lg>
     <mg>
      <tg>
@@ -8691,7 +8719,7 @@
 
    <e>
     <lg>
-     <l pos="N">häät</l>pl. 
+     <l nr="Pl" pos="N">häät</l>
     </lg>
     <mg>
      <tg>
@@ -9777,7 +9805,7 @@
 
    <e>
     <lg>
-     <l pos="N">itaalialainen</l> 
+     <l pos="N">itaalialainen</l>
     </lg>
     <mg>
      <tg>
@@ -10231,7 +10259,7 @@
 
    <e>
     <lg>
-     <l pos="V">jatkata</l>trans. 
+     <l val="TV" pos="V">jatkata</l>
     </lg>
     <mg>
      <tg>
@@ -10264,7 +10292,7 @@
 
    <e>
     <lg>
-     <l pos="V">jatkuut</l>intrans. 
+     <l val="IV" pos="V">jatkuut</l>
     </lg>
     <mg>
      <tg>
@@ -10352,7 +10380,7 @@
 
    <e>
     <lg>
-     <l pos="N">johđatus</l> 
+     <l pos="N">johđatus</l>
     </lg>
     <mg>
      <tg>
@@ -10406,7 +10434,7 @@
 
    <e>
     <lg>
-     <l pos="Pron">joka</l>pron. 
+     <l pos="Pron">joka</l>
     </lg>
     <mg>
      <tg>
@@ -10428,7 +10456,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">jokalainen</l>
+     <l pos="A">jokalainen</l>
     </lg>
     <mg>
      <tg>
@@ -10526,7 +10554,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">jonkulainen</l>
+     <l pos="A">jonkulainen</l>
     </lg>
     <mg>
      <tg>
@@ -10892,7 +10920,7 @@
     <mg>
      <tg>
        <t>stå i lys lue</t>
-       <xg> 
+       <xg>
          <x>pallaat julkiulessa</x>
          <xt>stå i lys lue</xt>
        </xg>
@@ -10990,7 +11018,7 @@
 
    <e>
     <lg>
-     <l pos="N">juomingit</l>pl. 
+     <l nr="Pl" pos="N">juomingit</l>
     </lg>
     <mg>
      <tg>
@@ -11852,7 +11880,7 @@
 
    <e>
     <lg>
-     <l pos="N">jäätikkö</l> 
+     <l pos="N">jäätikkö</l>
     </lg>
     <mg>
      <tg>
@@ -12885,7 +12913,7 @@
 
    <e>
     <lg>
-     <l pos="N">kalanloput</l>pl. 
+     <l nr="Pl" pos="N">kalanloput</l>
     </lg>
     <mg>
      <tg>
@@ -13300,7 +13328,7 @@
 
    <e>
     <lg>
-     <l pos="N">kamppheet</l>pl. 
+     <l nr="Pl" pos="N">kamppheet</l>
     </lg>
     <mg>
      <tg>
@@ -13676,7 +13704,7 @@
 
    <e>
     <lg>
-     <l pos="V">karistaat</l>intr. 
+     <l val="IV" pos="V">karistaat</l>
     </lg>
     <mg>
      <tg>
@@ -13736,7 +13764,7 @@
 
    <e>
     <lg>
-     <l pos="N">karko</l> 
+     <l pos="N">karko</l>
     </lg>
     <mg>
      <tg>
@@ -14221,7 +14249,7 @@
 
    <e>
     <lg>
-     <l pos="V">katketa</l>intr. 
+     <l val="IV" pos="V">katketa</l>
     </lg>
     <mg>
      <tg>
@@ -14232,7 +14260,7 @@
 
    <e>
     <lg>
-     <l pos="V">katkoot</l>trans. 
+     <l val="TV" pos="V">katkoot</l>
     </lg>
     <mg>
      <tg>
@@ -15004,7 +15032,7 @@
 
    <e>
     <lg>
-     <l pos="V">keittäät</l>trans. 
+     <l val="TV" pos="V">keittäät</l>
     </lg>
     <mg>
      <tg>
@@ -15617,7 +15645,7 @@
 
    <e>
     <lg>
-     <l pos="V">kessäinttyyt</l>intr. 
+     <l val="IV" pos="V">kessäinttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -15835,7 +15863,7 @@
 
    <e>
     <lg>
-     <l pos="V">kiehattaat</l> 
+     <l pos="V">kiehattaat</l>
     </lg>
     <mg>
      <tg>
@@ -16557,7 +16585,7 @@
 
    <e>
     <lg>
-     <l pos="N">kirkonmenot</l>pl. 
+     <l nr="Pl" pos="N">kirkonmenot</l>
     </lg>
     <mg>
      <tg>
@@ -16667,7 +16695,7 @@
 
    <e>
     <lg>
-     <l pos="V">kirvelä</l> 
+     <l pos="V">kirvelä</l>
     </lg>
     <mg>
      <tg>
@@ -17216,7 +17244,7 @@
 
    <e>
     <lg>
-     <l pos="N">koiranpäivät</l>pl. 
+     <l nr="Pl" pos="N">koiranpäivät</l>
     </lg>
     <mg>
      <tg>
@@ -18567,7 +18595,7 @@
 
    <e>
     <lg>
-     <l pos="V">koulata</l>trans. 
+     <l val="TV" pos="V">koulata</l>
     </lg>
     <mg>
      <tg>
@@ -18863,7 +18891,7 @@
 
    <e>
     <lg>
-     <l pos="N">krannikset</l>pl. 
+     <l nr="Pl" pos="N">krannikset</l>
     </lg>
     <mg>
      <tg>
@@ -18967,7 +18995,7 @@
 
    <e>
     <lg>
-     <l pos="N">kraviaiset</l>pl. 
+     <l nr="Pl" pos="N">kraviaiset</l>
     </lg>
     <mg>
      <tg>
@@ -19285,7 +19313,7 @@
       <t>skuls</t>
       <xg>
       <x>olla kuitti</x>
-       <t>være skuls</t>
+       <xt>være skuls</xt>
        </xg>
      </tg>
     </mg>
@@ -19326,7 +19354,7 @@
 
    <e>
     <lg>
-     <l pos="V">kuivata</l>trans./intr. 1. 
+     <l pos="V">kuivata</l>
     </lg>
     <mg>
      <tg>
@@ -19337,7 +19365,7 @@
 
    <e>
     <lg>
-     <l pos="V">kuivattaat</l>trans. 
+     <l val="TV" pos="V">kuivattaat</l>
     </lg>
     <mg>
      <tg>
@@ -19474,7 +19502,7 @@
 
    <e>
     <lg>
-     <l pos="N">kulkumies</l> 
+     <l pos="N">kulkumies</l>
     </lg>
     <mg>
      <tg>
@@ -19529,7 +19557,7 @@
 
    <e>
     <lg>
-     <l pos="N">kulmakarvat</l>pl. 
+     <l nr="Pl" pos="N">kulmakarvat</l>
     </lg>
     <mg>
      <tg>
@@ -20020,7 +20048,7 @@
 
    <e>
     <lg>
-     <l pos="N">kuolaimet</l>plur. 
+     <l nr="Pl" pos="N">kuolaimet</l>
     </lg>
     <mg>
      <tg>
@@ -20498,7 +20526,7 @@
 
    <e>
     <lg>
-     <l pos="V">kutista</l>intr. 
+     <l val="IV" pos="V">kutista</l>
     </lg>
     <mg>
      <tg>
@@ -20633,7 +20661,7 @@
 
    <e>
     <lg>
-     <l>kuukhainen</l>
+     <l pos="N">kuukhainen</l>
     </lg>
     <mg>
      <tg>
@@ -21666,7 +21694,7 @@
 
    <e>
     <lg>
-     <l pos="N">kärröt</l>plur. 
+     <l nr="Pl" pos="N">kärröt</l>
     </lg>
     <mg>
      <tg>
@@ -21873,7 +21901,7 @@
 
    <e>
     <lg>
-     <l pos="V">kätkeenttyyt</l>intr. 
+     <l val="IV" pos="V">kätkeenttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -21884,7 +21912,7 @@
 
    <e>
     <lg>
-     <l pos="V">kätkeet</l>trans. 
+     <l val="TV" pos="V">kätkeet</l>
     </lg>
     <mg>
      <tg>
@@ -22021,7 +22049,7 @@
 
    <e>
     <lg>
-     <l pos="V">käänttyyt</l>intr. 
+     <l val="IV" pos="V">käänttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -22032,7 +22060,7 @@
 
    <e>
     <lg>
-     <l pos="V">käänttäät</l>trans. 1. 
+     <l val="TV" pos="V">käänttäät</l>
     </lg>
     <mg>
      <tg>
@@ -23088,7 +23116,7 @@
 
    <e>
     <lg>
-     <l pos="N">lastenvaunut</l>pl. 
+     <l nr="Pl" pos="N">lastenvaunut</l>
     </lg>
     <mg>
      <tg>
@@ -23253,7 +23281,7 @@
 
    <e>
     <lg>
-     <l pos="V">laulaat</l> 
+     <l pos="V">laulaat</l>
     </lg>
     <mg>
      <tg>
@@ -23308,7 +23336,7 @@
 
    <e>
     <lg>
-     <l pos="N">lautta</l> 
+     <l pos="N">lautta</l>
     </lg>
     <mg>
      <tg>
@@ -23742,7 +23770,7 @@
 
    <e>
     <lg>
-     <l pos="V">levittäät</l>trans. 
+     <l val="TV" pos="V">levittäät</l>
     </lg>
     <mg>
      <tg>
@@ -23797,7 +23825,7 @@
 
    <e>
     <lg>
-     <l pos="N">levveeväylä</l> 
+     <l pos="N">levveeväylä</l>
     </lg>
     <mg>
      <tg>
@@ -23984,7 +24012,7 @@
 
    <e>
     <lg>
-     <l pos="Qu">liikkaa</l> 
+     <l pos="Qu">liikkaa</l>
     </lg>
     <mg>
      <tg>
@@ -24006,7 +24034,7 @@
 
    <e>
     <lg>
-     <l pos="V">liikuttaat</l>trans. 1. 
+     <l val="TV" pos="V">liikuttaat</l>
     </lg>
     <mg>
      <tg>
@@ -24651,7 +24679,7 @@
 
    <e>
     <lg>
-     <l pos="V">livota</l>intr. 
+     <l val="IV" pos="V">livota</l>
     </lg>
     <mg>
      <tg>
@@ -24662,7 +24690,7 @@
 
    <e>
     <lg>
-     <l pos="V">livottaat</l>trans. 
+     <l val="TV" pos="V">livottaat</l>
     </lg>
     <mg>
      <tg>
@@ -24919,7 +24947,7 @@
 
    <e>
     <lg>
-     <l pos="V">loppuut</l>intr. 
+     <l val="IV" pos="V">loppuut</l>
     </lg>
     <mg>
      <tg>
@@ -26123,7 +26151,7 @@
 
    <e>
     <lg>
-     <l pos="N">länget</l>pl. 
+     <l nr="Pl" pos="N">länget</l>
     </lg>
     <mg>
      <tg>
@@ -26271,7 +26299,7 @@
 
    <e>
     <lg>
-     <l pos="V">löysätä</l>intr. 
+     <l val="IV" pos="V">löysätä</l>
     </lg>
     <mg>
      <tg>
@@ -26757,23 +26785,18 @@
 
    <e>
     <lg>
-     <l pos="V">maistaat</l>trans./intr. 
+     <l pos="V">maistaat</l>
     </lg>
     <mg>
      <tg>
        <t>smake</t>
      </tg>
     </mg>
-    <mg>
-     <tg>
-       <t>Hvordan smaker laksen?</t>
-     </tg>
-    </mg>
    </e>
 
    <e>
     <lg>
-     <l pos="V">maistuut</l>intr. 
+     <l pos="V">maistuut</l>
     </lg>
     <mg>
      <tg>
@@ -26899,7 +26922,7 @@
 
    <e>
     <lg>
-     <l pos="V">maksaat</l>trans. 
+     <l val="TV" pos="V">maksaat</l>
     </lg>
     <mg>
      <tg>
@@ -26953,7 +26976,7 @@
 
    <e>
     <lg>
-     <l pos="N">malli</l> 
+     <l pos="N">malli</l>
     </lg>
     <mg>
      <tg>
@@ -27035,7 +27058,7 @@
 
    <e>
     <lg>
-     <l pos="N">mantelit</l>pl. 
+     <l nr="Pl" pos="N">mantelit</l>
     </lg>
     <mg>
      <tg>
@@ -27238,7 +27261,7 @@
 
    <e>
     <lg>
-     <l pos="N">materi</l> 
+     <l pos="N">materi</l>
     </lg>
     <mg>
      <tg>
@@ -27254,7 +27277,7 @@
 
    <e>
     <lg>
-     <l pos="N">maaterivanhiimet</l>pl. 
+     <l nr="Pl" pos="N">maaterivanhiimet</l>
     </lg>
     <mg>
      <tg>
@@ -27385,7 +27408,7 @@
 
    <e>
     <lg>
-     <l pos="N">matonkutheet</l>pl. 
+     <l nr="Pl" pos="N">matonkutheet</l>
     </lg>
     <mg>
      <tg>
@@ -28328,7 +28351,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">monenlainen</l>
+     <l pos="A">monenlainen</l>
     </lg>
     <mg>
      <tg>
@@ -28709,7 +28732,7 @@
 
    <e>
     <lg>
-     <l pos="N">mulkut</l>pl. 
+     <l nr="Pl" pos="N">mulkut</l>
     </lg>
     <mg>
      <tg>
@@ -28764,7 +28787,7 @@
 
    <e>
     <lg>
-     <l pos="N">muođot</l>pl. 
+     <l nr="Pl" pos="N">muođot</l>
     </lg>
     <mg>
      <tg>
@@ -29131,7 +29154,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">muutamanlainen</l>
+     <l pos="A">muutamanlainen</l>
     </lg>
     <mg>
      <tg>
@@ -31678,7 +31701,7 @@
 
    <e>
     <lg>
-     <l pos="A">nöyrä</l> 
+     <l pos="A">nöyrä</l>
     </lg>
     <mg>
      <tg>
@@ -32055,7 +32078,7 @@
 
    <e>
     <lg>
-     <l pos="V">olestaat</l>intr. 
+     <l val="IV" pos="V">olestaat</l>
     </lg>
     <mg>
      <tg>
@@ -32154,7 +32177,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">oma</l>
+     <l pos="A">oma</l>
     </lg>
     <mg>
      <tg>
@@ -32489,7 +32512,7 @@
 
    <e>
     <lg>
-     <l pos="V">opetella</l>intr. 
+     <l val="IV" pos="V">opetella</l>
     </lg>
     <mg>
      <tg>
@@ -32611,7 +32634,7 @@
 
    <e>
     <lg>
-     <l pos="V">oppiit</l>intr. 
+     <l val="IV" pos="V">oppiit</l>
     </lg>
     <mg>
      <tg>
@@ -32961,7 +32984,7 @@
 
    <e>
     <lg>
-     <l pos="N">overalsit</l>pl. 
+     <l nr="Pl" pos="N">overalsit</l>
     </lg>
     <mg>
      <tg>
@@ -33038,7 +33061,7 @@
 
    <e>
     <lg>
-     <l pos="N">paarit</l>pl. 
+     <l nr="Pl" pos="N">paarit</l>
     </lg>
     <mg>
      <tg>
@@ -35419,7 +35442,7 @@
 
    <e>
     <lg>
-     <l pos="V">pettyyt</l>intr. 
+     <l val="IV" pos="V">pettyyt</l>
     </lg>
     <mg>
      <tg>
@@ -35474,7 +35497,7 @@
 
    <e>
     <lg>
-     <l pos="N">piđot</l>pl. 
+     <l nr="Pl" pos="N">piđot</l>
     </lg>
     <mg>
      <tg>
@@ -36192,7 +36215,7 @@
 
    <e>
     <lg>
-     <l pos="V">pirskota</l> 
+     <l pos="V">pirskota</l>
     </lg>
     <mg>
      <tg>
@@ -36203,7 +36226,7 @@
 
    <e>
     <lg>
-     <l pos="V">pirskottaat</l> 
+     <l pos="V">pirskottaat</l>
     </lg>
     <mg>
      <tg>
@@ -36886,7 +36909,7 @@
 
    <e>
     <lg>
-     <l pos="V">poistaat</l> 
+     <l pos="V">poistaat</l>
     </lg>
     <mg>
      <tg>
@@ -36985,7 +37008,7 @@
 
    <e>
     <lg>
-     <l pos="N">polkimet</l>pl. 
+     <l nr="Pl" pos="N">polkimet</l>
     </lg>
     <mg>
      <tg>
@@ -37062,7 +37085,7 @@
 
    <e>
     <lg>
-     <l pos="V">polttaat</l>trans. 
+     <l val="TV" pos="V">polttaat</l>
     </lg>
     <mg>
      <tg>
@@ -37699,7 +37722,7 @@
 
    <e>
     <lg>
-     <l pos="V">priiskuut</l>intr. 
+     <l val="IV" pos="V">priiskuut</l>
     </lg>
     <mg>
      <tg>
@@ -37710,7 +37733,7 @@
 
    <e>
     <lg>
-     <l pos="N">prillat</l>pl. 
+     <l nr="Pl" pos="N">prillat</l>
     </lg>
     <mg>
      <tg>
@@ -38110,7 +38133,7 @@
 
    <e>
     <lg>
-     <l pos="V">pujattaat</l>intr. 
+     <l val="IV" pos="V">pujattaat</l>
     </lg>
     <mg>
      <tg>
@@ -38121,7 +38144,7 @@
 
    <e>
     <lg>
-     <l pos="V">pujettaat</l>trans. 
+     <l val="TV" pos="V">pujettaat</l>
     </lg>
     <mg>
      <tg>
@@ -38799,7 +38822,7 @@
 
    <e>
     <lg>
-     <l pos="N">puulauta</l> 
+     <l pos="N">puulauta</l>
     </lg>
     <mg>
      <tg>
@@ -39143,7 +39166,7 @@
 
    <e>
     <lg>
-     <l pos="V">pyssäänttyyt</l>intr. 
+     <l val="IV" pos="V">pyssäänttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -39192,7 +39215,7 @@
 
    <e>
     <lg>
-     <l pos="V">pysättyyt</l>intr. 
+     <l val="IV" pos="V">pysättyyt</l>
     </lg>
     <mg>
      <tg>
@@ -39203,7 +39226,7 @@
 
    <e>
     <lg>
-     <l pos="V">pysättäät</l>trans. 
+     <l val="TV" pos="V">pysättäät</l>
     </lg>
     <mg>
      <tg>
@@ -39335,7 +39358,7 @@
 
    <e>
     <lg>
-     <l pos="V">pyörttäät</l>intr. 
+     <l val="IV" pos="V">pyörttäät</l>
     </lg>
     <mg>
      <tg>
@@ -39346,7 +39369,7 @@
 
    <e>
     <lg>
-     <l pos="V">pyöryttäät</l>trans. 
+     <l val="TV" pos="V">pyöryttäät</l>
     </lg>
     <mg>
      <tg>
@@ -39820,7 +39843,7 @@
 
    <e>
     <lg>
-     <l pos="V">päästä</l>intr. 
+     <l val="IV" pos="V">päästä</l>
     </lg>
     <mg>
      <tg>
@@ -39831,7 +39854,7 @@
 
    <e>
     <lg>
-     <l pos="V">päästäät</l>trans. 
+     <l val="TV" pos="V">päästäät</l>
     </lg>
     <mg>
      <tg>
@@ -39919,7 +39942,7 @@
 
    <e>
     <lg>
-     <l pos="V">pölästyyt</l>intr. 
+     <l val="IV" pos="V">pölästyyt</l>
     </lg>
     <mg>
      <tg>
@@ -40168,7 +40191,7 @@
 
    <e>
     <lg>
-     <l pos="V">raahata</l>trans. 
+     <l val="TV" pos="V">raahata</l>
     </lg>
     <mg>
      <tg>
@@ -41466,7 +41489,7 @@
 
    <e>
     <lg>
-     <l pos="V">repäistä</l>trans. 
+     <l val="TV" pos="V">repäistä</l>
     </lg>
     <mg>
      <tg>
@@ -41675,7 +41698,7 @@
 
    <e>
     <lg>
-     <l pos="V">riissuut</l> 
+     <l pos="V">riissuut</l>
     </lg>
     <mg>
      <tg>
@@ -41872,7 +41895,7 @@
 
    <e>
     <lg>
-     <l pos="N">risti</l> 
+     <l pos="N">risti</l>
     </lg>
     <mg>
      <tg>
@@ -41981,7 +42004,7 @@
 
    <e>
     <lg>
-     <l pos="N">ristiäiset</l>pl. 
+     <l nr="Pl" pos="N">ristiäiset</l>
     </lg>
     <mg>
      <tg>
@@ -42003,7 +42026,7 @@
 
    <e>
     <lg>
-     <l pos="V">riuttuut</l>intr. 
+     <l val="IV" pos="V">riuttuut</l>
     </lg>
     <mg>
      <tg>
@@ -42326,7 +42349,7 @@
 
    <e>
     <lg>
-     <l pos="N">rullatraput</l>pl. 
+     <l nr="Pl" pos="N">rullatraput</l>
     </lg>
     <mg>
      <tg>
@@ -42836,7 +42859,7 @@
 
    <e>
     <lg>
-     <l pos="N">ruvanloput</l>pl. 
+     <l nr="Pl" pos="N">ruvanloput</l>
     </lg>
     <mg>
      <tg>
@@ -43651,7 +43674,7 @@
 
    <e>
     <lg>
-     <l pos="N">sakset</l>pl. 
+     <l nr="Pl" pos="N">sakset</l>
     </lg>
     <mg>
      <tg>
@@ -43761,7 +43784,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">samanlainen</l>
+     <l pos="A">samanlainen</l>
     </lg>
     <mg>
      <tg>
@@ -43957,7 +43980,7 @@
 
    <e>
     <lg>
-     <l pos="N">sanomat</l>pl. 
+     <l nr="Pl" pos="N">sanomat</l>
     </lg>
     <mg>
      <tg>
@@ -44012,7 +44035,7 @@
 
    <e>
     <lg>
-     <l pos="N">sapilhaat</l>pl. 
+     <l nr="Pl" pos="N">sapilhaat</l>
     </lg>
     <mg>
      <tg>
@@ -44193,7 +44216,7 @@
 
    <e>
     <lg>
-     <l pos="V">sauttaat</l>trans. 
+     <l val="TV" pos="V">sauttaat</l>
     </lg>
     <mg>
      <tg>
@@ -44615,7 +44638,7 @@
 
    <e>
     <lg>
-     <l pos="V">sekoittaat</l>trans. 
+     <l val="TV" pos="V">sekoittaat</l>
     </lg>
     <mg>
      <tg>
@@ -44686,7 +44709,7 @@
 
    <e>
     <lg>
-     <l pos="N">sellat</l>plur. 
+     <l nr="Pl" pos="N">sellat</l>
     </lg>
     <mg>
      <tg>
@@ -44746,7 +44769,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">semmoinen</l>
+     <l pos="A">semmoinen</l>
     </lg>
     <mg>
      <tg>
@@ -44948,7 +44971,7 @@
 
    <e>
     <lg>
-     <l pos="N">seurat</l>pl. 
+     <l nr="Pl" pos="N">seurat</l>
     </lg>
     <mg>
      <tg>
@@ -45205,7 +45228,7 @@
 
    <e>
     <lg>
-     <l pos="V">siirttyyt</l>intr. 
+     <l val="IV" pos="V">siirttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -45216,7 +45239,7 @@
 
    <e>
     <lg>
-     <l pos="V">siirttäät</l>trans. 
+     <l val="TV" pos="V">siirttäät</l>
     </lg>
     <mg>
      <tg>
@@ -45304,7 +45327,7 @@
 
    <e>
     <lg>
-     <l pos="V">siivittäät</l>trans. 
+     <l val="TV" pos="V">siivittäät</l>
     </lg>
     <mg>
      <tg>
@@ -45315,7 +45338,7 @@
 
    <e>
     <lg>
-     <l pos="V">siivitä</l>trans. 
+     <l val="TV" pos="V">siivitä</l>
     </lg>
     <mg>
      <tg>
@@ -46004,7 +46027,7 @@
 
    <e>
     <lg>
-     <l pos="V">sittoonttuut</l>intrans. 
+     <l val="IV" pos="V">sittoonttuut</l>
     </lg>
     <mg>
      <tg>
@@ -46015,7 +46038,7 @@
 
    <e>
     <lg>
-     <l pos="V">sittoot</l>trans. 
+     <l val="TV" pos="V">sittoot</l>
     </lg>
     <mg>
      <tg>
@@ -46382,7 +46405,7 @@
 
    <e>
     <lg>
-     <l pos="A">soma</l> 
+     <l pos="A">soma</l>
     </lg>
     <mg>
      <tg>
@@ -46758,7 +46781,7 @@
 
    <e>
     <lg>
-     <l pos="V">sovitella</l> 
+     <l pos="V">sovitella</l>
     </lg>
     <mg>
      <tg>
@@ -46987,7 +47010,7 @@
 
    <e>
     <lg>
-     <l pos="V">suijjuut</l>intr. 
+     <l val="IV" pos="V">suijjuut</l>
     </lg>
     <mg>
      <tg>
@@ -46998,7 +47021,7 @@
 
    <e>
     <lg>
-     <l pos="V">suijuttaat</l>trans. 
+     <l val="TV" pos="V">suijuttaat</l>
     </lg>
     <mg>
      <tg>
@@ -47031,7 +47054,7 @@
 
    <e>
     <lg>
-     <l pos="N">suittet</l>pl. 
+     <l nr="Pl" pos="N">suittet</l>
     </lg>
     <mg>
      <tg>
@@ -47146,7 +47169,7 @@
 
    <e>
     <lg>
-     <l pos="V">sulata</l>intr. 
+     <l val="IV" pos="V">sulata</l>
     </lg>
     <mg>
      <tg>
@@ -47157,7 +47180,7 @@
 
    <e>
     <lg>
-     <l pos="V">sulattaat</l>trans. 
+     <l val="TV" pos="V">sulattaat</l>
     </lg>
     <mg>
      <tg>
@@ -47635,7 +47658,7 @@
 
    <e>
     <lg>
-     <l pos="N">suu</l> 
+     <l pos="N">suu</l>
     </lg>
     <mg>
      <tg>
@@ -48126,7 +48149,7 @@
 
    <e>
     <lg>
-     <l pos="N">syntymäpäivät</l>pl. 
+     <l nr="Pl" pos="N">syntymäpäivät</l>
     </lg>
     <mg>
      <tg>
@@ -48499,7 +48522,7 @@
 
    <e>
     <lg>
-     <l pos="V">säilyttäät</l>trans. 
+     <l val="TV" pos="V">säilyttäät</l>
     </lg>
     <mg>
      <tg>
@@ -48554,7 +48577,7 @@
 
    <e>
     <lg>
-     <l pos="N">sänkyvaattheet</l>pl. 
+     <l nr="Pl" pos="N">sänkyvaattheet</l>
     </lg>
     <mg>
      <tg>
@@ -48995,7 +49018,7 @@
 
    <e>
     <lg>
-     <l pos="N">taivhaanvalkkeet</l>pl. 
+     <l nr="Pl" pos="N">taivhaanvalkkeet</l>
     </lg>
     <mg>
      <tg>
@@ -49190,7 +49213,7 @@
 
    <e>
     <lg>
-     <l pos="N">takka</l> 
+     <l pos="N">takka</l>
     </lg>
     <mg>
      <tg>
@@ -49863,7 +49886,7 @@
 
    <e>
     <lg>
-     <l pos="V">tassainttuut</l>intr.  
+     <l val="IV" pos="V">tassainttuut</l>
     </lg>
     <mg>
      <tg>
@@ -51112,7 +51135,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">toisenlainen</l>
+     <l pos="A">toisenlainen</l>
     </lg>
     <mg>
      <tg>
@@ -51403,16 +51426,11 @@
 
    <e>
     <lg>
-     <l pos="V">topata</l>intr. og trans. 
+     <l pos="V">topata</l>
     </lg>
     <mg>
      <tg>
        <t>stoppe</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>Henry kunne stoppe blod</t>
      </tg>
     </mg>
    </e>
@@ -51895,7 +51913,7 @@
 
    <e>
     <lg>
-     <l pos="V">truiskuta</l>intr. 
+     <l val="IV" pos="V">truiskuta</l>
     </lg>
     <mg>
      <tg>
@@ -51911,7 +51929,7 @@
 
    <e>
     <lg>
-     <l pos="V">truiskuttaat</l>trans. 
+     <l val="TV" pos="V">truiskuttaat</l>
     </lg>
     <mg>
      <tg>
@@ -52327,7 +52345,7 @@
 
    <e>
     <lg>
-     <l pos="N">tunnussanat</l>pl. 
+     <l nr="Pl" pos="N">tunnussanat</l>
     </lg>
     <mg>
      <tg>
@@ -52596,7 +52614,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">tuomoinen</l>
+     <l pos="A">tuomoinen</l>
     </lg>
     <mg>
      <tg>
@@ -52634,7 +52652,7 @@
 
    <e>
     <lg>
-     <l pos="A">tuoret</l> 
+     <l pos="A">tuoret</l>
     </lg>
     <mg>
      <tg>
@@ -52930,7 +52948,7 @@
 
    <e>
     <lg>
-     <l pos="N">tutkimus</l> 
+     <l pos="N">tutkimus</l>
     </lg>
     <mg>
      <tg>
@@ -52966,7 +52984,7 @@
     </mg>
    </e>
 
-   <e> 
+   <e>
     <lg>
      <l pos="N">tuuki</l>
     </lg>
@@ -53651,7 +53669,7 @@
 
    <e>
     <lg>
-     <l pos="Adj">tämmöinen</l>
+     <l pos="A">tämmöinen</l>
     </lg>
     <mg>
      <tg>
@@ -53798,7 +53816,7 @@
 
    <e>
     <lg>
-     <l pos="V">täyttyyt</l>intr. 
+     <l val="IV" pos="V">täyttyyt</l>
     </lg>
     <mg>
      <tg>
@@ -53809,7 +53827,7 @@
 
    <e>
     <lg>
-     <l pos="V">täyttäät</l>trans. 
+     <l val="TV" pos="V">täyttäät</l>
     </lg>
     <mg>
      <tg>
@@ -54124,7 +54142,7 @@
 
    <e>
     <lg>
-     <l pos="N">ulkomaat</l>pl. 
+     <l nr="Pl" pos="N">ulkomaat</l>
     </lg>
     <mg>
      <tg>
@@ -55037,7 +55055,7 @@
 
    <e>
     <lg>
-     <l pos="V">vaihettaat</l>trans 
+     <l pos="V">vaihettaat</l>
     </lg>
     <mg>
      <tg>
@@ -55205,7 +55223,7 @@
 
    <e>
     <lg>
-     <l pos="V">vailuut</l>intr. 
+     <l val="IV" pos="V">vailuut</l>
     </lg>
     <mg>
      <tg>
@@ -55440,7 +55458,7 @@
 
    <e>
     <lg>
-     <l pos="V">vajota</l> 
+     <l pos="V">vajota</l>
     </lg>
     <mg>
      <tg>
@@ -55451,7 +55469,7 @@
 
    <e>
     <lg>
-     <l pos="V">vajottaat</l> 
+     <l pos="V">vajottaat</l>
     </lg>
     <mg>
      <tg>
@@ -55708,7 +55726,7 @@
 
    <e>
     <lg>
-     <l pos="V">valmistaat</l>transit. 
+     <l val="TV" pos="V">valmistaat</l>
     </lg>
     <mg>
      <tg>
@@ -55719,7 +55737,7 @@
 
    <e>
     <lg>
-     <l pos="V">valmistuut</l>intrans. 
+     <l val="IV" pos="V">valmistuut</l>
     </lg>
     <mg>
      <tg>
@@ -56160,7 +56178,7 @@
      <t>råd</t>
      <xg>
        <x>hänelä oon varraa</x>
-       <t>han har råd</t>
+       <xt>han har råd</xt>
        </xg>
      </tg>
     </mg>
@@ -56283,7 +56301,7 @@
 
    <e>
     <lg>
-     <l pos="V">varjela</l> 
+     <l pos="V">varjela</l>
     </lg>
     <mg>
      <tg>
@@ -57111,7 +57129,7 @@
 
    <e>
     <lg>
-     <l pos="V">venyttäät</l>trans. 
+     <l val="TV" pos="V">venyttäät</l>
     </lg>
     <mg>
      <tg>
@@ -57122,7 +57140,7 @@
 
    <e>
     <lg>
-     <l pos="V">vennyyt</l>intr. 
+     <l val="IV" pos="V">vennyyt</l>
     </lg>
     <mg>
      <tg>
@@ -57939,7 +57957,7 @@
 
    <e>
     <lg>
-     <l pos="Adv">viimen</l> 
+     <l pos="Adv">viimen</l>
     </lg>
     <mg>
      <tg>
@@ -58252,7 +58270,7 @@
 
    <e>
     <lg>
-     <l pos="N">viljat</l>pl. 
+     <l nr="Pl" pos="N">viljat</l>
     </lg>
     <mg>
      <tg>
@@ -58263,7 +58281,7 @@
 
    <e>
     <lg>
-     <l pos="N">viljat</l>pl. 
+     <l nr="Pl" pos="N">viljat</l>
     </lg>
     <mg>
      <tg>
@@ -58846,7 +58864,7 @@
 
    <e>
     <lg>
-     <l pos="V">voittaat</l> 
+     <l pos="V">voittaat</l>
     </lg>
     <mg>
      <tg>
@@ -59047,7 +59065,7 @@
 
    <e>
     <lg>
-     <l pos="A">vuotinen</l> 
+     <l pos="A">vuotinen</l>
     </lg>
     <mg>
      <tg>
@@ -59510,7 +59528,7 @@
 
    <e>
     <lg>
-     <l>välimatka</l>
+     <l pos="N">välimatka</l>
     </lg>
     <mg>
      <tg>
@@ -60459,7 +60477,7 @@
      <t>over nakken</t>
      <xg>
      <x>yliniskoin</x>
-       <xt>den/hun/han falt på ryggen / over ende</xt>
+       <xt>over ende</xt>
      </xg>
 </tg>
     </mg>
