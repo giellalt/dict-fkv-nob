@@ -3508,7 +3508,7 @@
 
    <e>
     <lg>
-     <l pos="A">ensi</l>(ubøyelig) 
+     <l pos="A">ensi</l>
     </lg>
     <mg>
      <tg>
@@ -10695,7 +10695,7 @@
 
    <e>
     <lg>
-     <l pos="N">joulut</l>(pluralis tantum) 
+     <l pos="N" nr="Pl">joulut</l>
     </lg>
     <mg>
      <tg>
@@ -15835,7 +15835,7 @@
 
    <e>
     <lg>
-     <l pos="V">kiehattaat</l>v. 
+     <l pos="V">kiehattaat</l> 
     </lg>
     <mg>
      <tg>
@@ -16667,7 +16667,7 @@
 
    <e>
     <lg>
-     <l pos="V">kirvelä</l>v. 
+     <l pos="V">kirvelä</l> 
     </lg>
     <mg>
      <tg>
@@ -24262,7 +24262,7 @@
 
    <e>
     <lg>
-     <l pos="Interj">liki-</l>sammensetninger) 
+     <l pos="Interj">liki-</l>
     </lg>
     <mg>
      <tg>
@@ -33203,7 +33203,7 @@
 
    <e>
     <lg>
-     <l pos="A">pahas</l>(ubøyelig) 
+     <l pos="A">pahas</l>
     </lg>
     <mg>
      <tg>
@@ -36192,7 +36192,7 @@
 
    <e>
     <lg>
-     <l pos="V">pirskota</l>v. 
+     <l pos="V">pirskota</l> 
     </lg>
     <mg>
      <tg>
@@ -36203,7 +36203,7 @@
 
    <e>
     <lg>
-     <l pos="V">pirskottaat</l>v. 
+     <l pos="V">pirskottaat</l> 
     </lg>
     <mg>
      <tg>
@@ -36886,7 +36886,7 @@
 
    <e>
     <lg>
-     <l pos="V">poistaat</l>v. 
+     <l pos="V">poistaat</l> 
     </lg>
     <mg>
      <tg>
@@ -41675,7 +41675,7 @@
 
    <e>
     <lg>
-     <l pos="V">riissuut</l>v. 
+     <l pos="V">riissuut</l> 
     </lg>
     <mg>
      <tg>
@@ -49033,7 +49033,7 @@
 
    <e>
     <lg>
-     <l pos="Interj">taka-</l>sammensatte ord) 
+     <l pos="Interj">taka-</l>
     </lg>
     <mg>
      <tg>
@@ -52968,7 +52968,7 @@
 
    <e> 
     <lg>
-     <l pos="N">tuuki</l>s
+     <l pos="N">tuuki</l>
     </lg>
     <mg>
      <tg>
@@ -55440,7 +55440,7 @@
 
    <e>
     <lg>
-     <l pos="V">vajota</l>v. 
+     <l pos="V">vajota</l> 
     </lg>
     <mg>
      <tg>
@@ -55451,7 +55451,7 @@
 
    <e>
     <lg>
-     <l pos="V">vajottaat</l>v. 
+     <l pos="V">vajottaat</l> 
     </lg>
     <mg>
      <tg>
@@ -55467,17 +55467,6 @@
     <mg>
      <tg>
        <t>alvorlig</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e>
-    <lg>
-     <l pos="A">vakavampi</l>komp. 
-    </lg>
-    <mg>
-     <tg>
-       <t>alvorligere</t>
      </tg>
     </mg>
    </e>
@@ -55917,17 +55906,6 @@
 
    <e>
     <lg>
-     <l pos="A">vanhiin</l>superl. 
-    </lg>
-    <mg>
-     <tg>
-       <t>eldst</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e>
-    <lg>
      <l pos="N">vanhiin</l>
     </lg>
     <mg>
@@ -56305,7 +56283,7 @@
 
    <e>
     <lg>
-     <l pos="V">varjela</l>v. 
+     <l pos="V">varjela</l> 
     </lg>
     <mg>
      <tg>
