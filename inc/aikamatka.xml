@@ -27,6 +27,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+
    <e>
     <lg>
      <l pos="N">aalto</l>
@@ -20778,7 +20779,6 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
-
    <e>
     <lg>
      <l pos="N">kuumavesileipä</l>
@@ -20932,6 +20932,8 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
+
+
 
    <e>
     <lg>
@@ -25981,6 +25983,7 @@ For the full license text, see the link above.</lic>
     </mg>
    </e>
 
+
    <e>
     <lg>
      <l pos="V">lähđetyttäät</l>
@@ -27991,6 +27994,7 @@ For the full license text, see the link above.</lic>
     </mg>
    </e>
 
+
    <e>
     <lg>
      <l pos="N">mielipiđet</l>
@@ -28057,13 +28061,13 @@ For the full license text, see the link above.</lic>
     </mg>
    </e>
 
-¸   <e>
+   <e>
     <lg>
      <l pos="N">mikkeli</l>
     </lg>
     <mg>
      <tg>
-       <t>mikkelsmess (29. september)</t>
+       <t>mikkelsmess 29. september</t>
      </tg>
     </mg>
    </e>
@@ -28091,31 +28095,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>som</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>ingenting</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>ikke noenstedes</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>om så hva</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>på ingen som helst måte</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>jeg ville uansett ikke lyve</t>
      </tg>
     </mg>
    </e>
@@ -28485,6 +28464,7 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
+
 
    <e>
     <lg>
@@ -30019,6 +29999,7 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
+
 
    <e>
     <lg>
@@ -33809,7 +33790,6 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
-
    <e>
     <lg>
      <l pos="A">pakolinen</l>
@@ -49765,6 +49745,7 @@ For the full license text, see the link above.</lic>
     </mg>
    </e>
 
+
    <e>
     <lg>
      <l pos="A">tarkka</l>
@@ -50015,6 +49996,7 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
+
 
    <e>
     <lg>
@@ -61381,4 +61363,5 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
+   
 </r>
