@@ -2199,8 +2199,8 @@
          <l pos="N">fatilinen</l>
       </lg>
       <mg>
-         <tg>
-            <t>en fat (full av noe; om mengde)</t>
+         <tg re="om mengde">
+            <t>en fat (full av noe)</t>
          </tg>
       </mg>
    </e>
@@ -7204,8 +7204,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>dåp (spesielt hjemme etter fødeselen; jf. x)</t>
+         <tg refID="jf. x __to_add__">
+            <t>dåp (spesielt hjemme etter fødeselen)</t>
          </tg>
       </mg>
    </e>
@@ -18481,7 +18481,7 @@
       </lg>
       <mg>
          <tg>
-            <t>(fjord)botn, ende ( i terreng); strøk</t>
+            <t>(fjord)botn, ende (i terreng); strøk</t>
          </tg>
       </mg>
    </e>
