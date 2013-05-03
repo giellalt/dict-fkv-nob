@@ -3975,7 +3975,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="x" pos="A">sånn (her)</t>
+            <t decl="x" pos="A">sånn her</t>
+            <t decl="x" pos="A">sånn</t>
          </tg>
       </mg>
    </e>
@@ -5067,8 +5068,8 @@ For the full license text, see the link above.</lic>
          <l pos="A" status="sjekk pos adj eller subst">vaisto</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="x">stille (om været)</t>
+         <tg re="om været">
+            <t pos="x">stille</t>
          </tg>
       </mg>
    </e>
