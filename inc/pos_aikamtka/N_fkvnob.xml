@@ -1231,16 +1231,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">asumakumppani</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>samboer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">asumaloma</l>
       </lg>
       <mg>
@@ -9815,16 +9805,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">kranni</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>nabo</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l nr="Pl" pos="N">krannikset</l>
       </lg>
       <mg>
@@ -11062,17 +11042,8 @@
       </lg>
       <mg>
          <tg>
-            <t>såing, sæd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">kylvö</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>såing, setting (av høy, korn, poteter osv.)</t>
+            <t>såing</t>
+            <t>setting av høy, korn, poteter</t>
          </tg>
       </mg>
       <mg>
@@ -11657,14 +11628,10 @@
       </lg>
       <mg>
          <tg>
-            <t>vik. bukt</t>
+            <t>bukt</t>
+            <t>vik</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">lahti</l>
-      </lg>
       <mg>
          <tg>
             <t>slakt</t>
@@ -12843,26 +12810,6 @@
       <mg>
          <tg>
             <t>litermål</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">litteratuuri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>litteratur</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">litteri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>liter</t>
          </tg>
       </mg>
    </e>
@@ -15817,16 +15764,6 @@
       <mg>
          <tg>
             <t>nasjonalisme</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">nauha</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>bånd</t>
          </tg>
       </mg>
    </e>
@@ -20362,11 +20299,6 @@
             <t>tyttebær</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">puola</l>
-      </lg>
       <mg>
          <tg>
             <t>spole, snelle</t>
@@ -21580,15 +21512,6 @@
       <mg>
          <tg>
             <t>bevegelseshemmet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">rampa</l>
-      </lg>
-      <mg>
-         <tg>
             <t>krøpling</t>
          </tg>
       </mg>
@@ -26740,16 +26663,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">teko</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>gjerning</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">teksti</l>
       </lg>
       <mg>
@@ -26980,21 +26893,6 @@
       <mg>
          <tg>
             <t>veikryss, veiskille</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">tieto</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>kunnskap, kjennskap</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>fikk vite</t>
          </tg>
       </mg>
    </e>
@@ -29723,16 +29621,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">vasikka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>kalv</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">vaski</l>
       </lg>
       <mg>
@@ -30498,16 +30386,6 @@
       <mg>
          <tg>
             <t>korn</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l nr="Pl" pos="N">viljat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>kjede</t>
          </tg>
       </mg>
    </e>

@@ -2360,16 +2360,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">karssiit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>kviste, ta bort (f.eks. skog, fordeler)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="V">kartata</l>
       </lg>
       <mg>
@@ -2652,14 +2642,9 @@
             <t>bli ferdig</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">keritä</l>
-      </lg>
       <mg>
          <tg>
-            <t>klippe (sau)</t>
+            <t>klippe sau</t>
          </tg>
       </mg>
    </e>
@@ -3562,11 +3547,6 @@
             <t>gyte</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">kuttoot</l>
-      </lg>
       <mg>
          <tg>
             <t>strikke</t>
@@ -7027,12 +7007,6 @@
                <xt>foten min dovnet av</xt>
             </xg>
          </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">puuttuut</l>
-      </lg>
       <mg>
          <tg>
             <t>legge seg opp i</t>
@@ -8705,22 +8679,16 @@
       </lg>
       <mg>
          <tg>
-            <t>bryte, brekke, knekke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">taittaat</l>
-      </lg>
-      <mg>
-         <tg>
             <t>være kanskje/vel</t>
+          <xg>
+            <x>Taittaat olla kevät</x>
+            <xt>det er vel vår</xt>
+          </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>det er vel vår</t>
+            <t>bryte, brekke, knekke</t>
          </tg>
       </mg>
    </e>

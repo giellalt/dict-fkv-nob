@@ -49,11 +49,6 @@
             <t>selv</t>
          </tg>
       </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pron">itte</l>
-      </lg>
       <mg>
          <tg>
             <t>seg selv</t>
@@ -76,6 +71,11 @@
       </lg>
       <mg>
          <tg>
+            <t>som</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t>hver</t>
          </tg>
       </mg>
@@ -87,16 +87,6 @@
       <mg>
          <tg>
             <t>annenhver</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pron">joka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>som</t>
          </tg>
       </mg>
    </e>
