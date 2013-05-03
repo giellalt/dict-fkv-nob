@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">ainua</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>eneste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l nr="Pl" pos="Pron">enimät</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>de fleste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">het</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>de</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">hän</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>han, hun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">itte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>selv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">itte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>seg selv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">itte kukin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hver og en</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hver</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>hver og en</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>annenhver</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>som</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">jokhainen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hver</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">joku</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>noen få</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>en eller annen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kaikenlainen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>allslags</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kaikki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>all, alle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">koko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kuka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hvem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ingen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kummoinen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hvordan, hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kumpi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hvem/hvilken av to</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kumpiki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>begge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>de er begge to lærere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">kunka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hvordan, på hvilken måte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">meikäläinen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>jeg, en av oss, en som er som oss</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>jeg spiser nok krøkebær også</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">met</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>vi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">mie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>jeg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">mikä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hva, hvilken</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>som</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">minkälainen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hvordan, hva slags</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ikke noen slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">molemat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>begge to</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">monesko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>hva for en/ett (i rekkefølgen)?</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">moni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>mange</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>noen (stykker)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">muu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>annen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">muuđan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>en (eller annen)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">muutampi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>en/et</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>noen (stykker)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">net</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>de</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">nuot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>de der</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">nämät</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>disse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">sama</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>samme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">se</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>den/det, han/hun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">sie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>du</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">tet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>dere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">toinen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>annen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>et(t) og annet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>den ene etter den andre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>den ene – den andre; hverandre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>den ene hette Pekka og den andre Hannu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>de elsker hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">tuo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>den/det der</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">tämä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>denne/dette</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">ussee</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>flere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">yksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>en, et</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ikke en</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>et og annet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pron">yksikhään</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>ingen</t>
+            <xg>
+               <x>ei vähhääkhään</x>
+               <xt>ingen, ikke en eneste</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
