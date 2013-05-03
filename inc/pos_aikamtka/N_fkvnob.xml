@@ -1254,8 +1254,8 @@
          <l pos="N">ateria</l>
       </lg>
       <mg>
-         <tg>
-            <t>melkeomgang (spesielt om råmelk)</t>
+         <tg re="spesielt om råmelk">
+            <t>melkeomgang</t>
          </tg>
       </mg>
    </e>
@@ -1475,7 +1475,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(lese)blad</t>
+            <t>leseblad</t>
+            <t>blad</t>
          </tg>
       </mg>
    </e>
@@ -1939,13 +1940,13 @@
          <l pos="N">eno</l>
       </lg>
       <mg>
-         <tg>
-            <t>onkel (på morsida)</t>
+         <tg re="på morsida">
+            <t>onkel</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>(stor) elv</t>
+         <tg re="stor">
+            <t>elv</t>
          </tg>
       </mg>
    </e>
@@ -2269,8 +2270,8 @@
          <l pos="N">fierua</l>
       </lg>
       <mg>
-         <tg>
-            <t>fjære (om stranden og vannet)</t>
+         <tg re="om stranden og vannet">
+            <t>fjære</t>
          </tg>
       </mg>
    </e>
@@ -2279,8 +2280,8 @@
          <l pos="N">fierva</l>
       </lg>
       <mg>
-         <tg>
-            <t>fjære (om stranden og vannet)</t>
+         <tg re="om stranden og vannet">
+            <t>fjære</t>
          </tg>
       </mg>
    </e>
@@ -2289,8 +2290,8 @@
          <l pos="N">fiervavesi</l>
       </lg>
       <mg>
-         <tg>
-            <t>fjære (om vannet)</t>
+         <tg re="om vannet">
+            <t>fjære</t>
          </tg>
       </mg>
    </e>
@@ -2319,8 +2320,8 @@
          <l pos="N">fiila</l>
       </lg>
       <mg>
-         <tg>
-            <t>fil (vertøy til å file)</t>
+         <tg re="vertøy til å file">
+            <t>fil</t>
          </tg>
       </mg>
    </e>
@@ -2329,8 +2330,8 @@
          <l pos="N">fiili</l>
       </lg>
       <mg>
-         <tg>
-            <t>fil (f.eks. datafil)</t>
+         <tg re="f.eks. datafil">
+            <t>fil</t>
          </tg>
       </mg>
       <mg>
@@ -2494,8 +2495,8 @@
          <l pos="N">formu</l>
       </lg>
       <mg>
-         <tg>
-            <t>form (for å steike noe i)</t>
+         <tg re="for å steike noe i">
+            <t>form</t>
          </tg>
       </mg>
    </e>
@@ -2754,8 +2755,8 @@
          <l pos="N">haamu</l>
       </lg>
       <mg>
-         <tg>
-            <t>(gramm.) form</t>
+         <tg re="gramm.">
+            <t>form</t>
          </tg>
       </mg>
       <mg>
@@ -2909,8 +2910,8 @@
          <l pos="N">hako</l>
       </lg>
       <mg>
-         <tg>
-            <t>bar (f. eks. av furu)</t>
+         <tg re="f. eks. av furu">
+            <t>bar</t>
          </tg>
       </mg>
    </e>
@@ -2919,8 +2920,8 @@
          <l pos="N">haku</l>
       </lg>
       <mg>
-         <tg>
-            <t>bar (f. eks. av furu)</t>
+         <tg re="f. eks. av furu">
+            <t>bar</t>
          </tg>
       </mg>
    </e>
@@ -2969,8 +2970,8 @@
          <l pos="N">halla</l>
       </lg>
       <mg>
-         <tg>
-            <t>frost (om sommeren)</t>
+         <tg re="om sommeren">
+            <t>frost</t>
          </tg>
       </mg>
       <mg>
@@ -3060,7 +3061,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(grå)gås</t>
+            <t>grågås</t>
+            <t>gås</t>
          </tg>
       </mg>
    </e>
@@ -3080,7 +3082,9 @@
       </lg>
       <mg>
          <tg>
-            <t>(dyp) snødekke, snøskavl, skare</t>
+            <t re="dyp">snødekke</t>
+            <t>snøskavl</t>
+            <t>skare</t>
          </tg>
       </mg>
    </e>
@@ -3149,8 +3153,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>man (på hest)</t>
+         <tg re="på hest">
+            <t>man</t>
          </tg>
       </mg>
    </e>
@@ -3409,8 +3413,8 @@
          <l pos="N">henko</l>
       </lg>
       <mg>
-         <tg>
-            <t>brattheng (ved fjellside)</t>
+         <tg re="ved fjellside">
+            <t>brattheng</t>
          </tg>
       </mg>
    </e>
@@ -3814,8 +3818,8 @@
          <l pos="N">honka</l>
       </lg>
       <mg>
-         <tg>
-            <t>(tørr) furu</t>
+         <tg re="tørr">
+            <t>furu</t>
          </tg>
       </mg>
    </e>
@@ -3919,8 +3923,8 @@
          <l pos="N">hukki</l>
       </lg>
       <mg>
-         <tg>
-            <t>høgg (krok til å ta opp fisken)</t>
+         <tg re="krok til å ta opp fisken">
+            <t>høgg</t>
          </tg>
       </mg>
       <mg>
@@ -4074,8 +4078,8 @@
          <l pos="N">hyksi</l>
       </lg>
       <mg>
-         <tg>
-            <t>(et) hår (på hudet)</t>
+         <tg re="et ~ på hudet">
+            <t>hår</t>
          </tg>
       </mg>
    </e>
@@ -4129,8 +4133,8 @@
          <l pos="N">hyyry</l>
       </lg>
       <mg>
-         <tg>
-            <t>hyre (i skip)</t>
+         <tg re="i skip">
+            <t>hyre</t>
          </tg>
       </mg>
    </e>
@@ -4250,7 +4254,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(kastrert) okse; kjørerein</t>
+            <t re="kastrert">okse</t>
+            <t>kjørerein</t>
          </tg>
       </mg>
    </e>
@@ -4444,8 +4449,8 @@
          <l pos="N">iho</l>
       </lg>
       <mg>
-         <tg>
-            <t>(menneske)hud</t>
+         <tg re="menneske">
+            <t>hud</t>
          </tg>
       </mg>
    </e>
@@ -5313,8 +5318,8 @@
          <l pos="N">joutti</l>
       </lg>
       <mg>
-         <tg>
-            <t>fjær (f.eks. i madrassen)</t>
+         <tg re="f.eks. i madrassen">
+            <t>fjær</t>
          </tg>
       </mg>
    </e>
@@ -5448,7 +5453,8 @@
       </lg>
       <mg>
          <tg>
-            <t>drikke(vare)</t>
+            <t>drikkevare</t>
+            <t>drikke</t>
          </tg>
       </mg>
    </e>
@@ -5467,8 +5473,8 @@
          <l pos="N">juomu</l>
       </lg>
       <mg>
-         <tg>
-            <t>syre(gress)</t>
+         <tg re="gress">
+            <t>syre</t>
          </tg>
       </mg>
    </e>
@@ -5537,8 +5543,8 @@
          <l pos="N">juuri</l>
       </lg>
       <mg>
-         <tg>
-            <t>rot (: røtter)</t>
+         <tg re="pl. røtter">
+            <t>rot</t>
          </tg>
       </mg>
    </e>
@@ -5607,8 +5613,8 @@
          <l pos="N">juustolokki</l>
       </lg>
       <mg>
-         <tg>
-            <t>osteform (der ostemassen får renne ferdig)</t>
+         <tg re="der ostemassen får renne ferdig">
+            <t>osteform</t>
          </tg>
       </mg>
    </e>
@@ -5728,7 +5734,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(fiske)hjell</t>
+            <t>fiskehjell</t>
+            <t>hjell</t>
          </tg>
       </mg>
    </e>
@@ -6105,8 +6112,8 @@
          <l pos="N">kaaveli</l>
       </lg>
       <mg>
-         <tg>
-            <t>kavl (på fiskegarn)</t>
+         <tg re="på fiskegarn">
+            <t>kavl</t>
          </tg>
       </mg>
    </e>
@@ -6255,8 +6262,8 @@
          <l pos="N">kaino</l>
       </lg>
       <mg>
-         <tg>
-            <t>rep (i notvarpfisk)</t>
+         <tg re="i notvarpfisk">
+            <t>rep</t>
          </tg>
       </mg>
    </e>
@@ -6465,8 +6472,8 @@
          <l pos="N">kalakukko</l>
       </lg>
       <mg>
-         <tg>
-            <t>"fiskehane" (et slags fiskebrød)</t>
+         <tg re="et slags fiskebrød">
+            <t>fiskehane</t>
          </tg>
       </mg>
    </e>
@@ -6476,7 +6483,8 @@
       </lg>
       <mg>
          <tg>
-            <t>fiskebrød, brød med fisk inne</t>
+            <t>fiskebrød</t>
+            <t>brød med fisk inne</t>
          </tg>
       </mg>
    </e>
@@ -6590,8 +6598,8 @@
          <l pos="N">kallo</l>
       </lg>
       <mg>
-         <tg>
-            <t>panne (kroppsdel)</t>
+         <tg re="kroppsdel">
+            <t>panne</t>
          </tg>
       </mg>
       <mg>
@@ -6615,8 +6623,8 @@
          <l pos="N">kalttii</l>
       </lg>
       <mg>
-         <tg>
-            <t>kilde (vann- og litteratur-)</t>
+         <tg re="vann- og litteratur~">
+            <t>kilde</t>
          </tg>
       </mg>
    </e>
@@ -7130,8 +7138,8 @@
          <l pos="N">karva</l>
       </lg>
       <mg>
-         <tg>
-            <t>hår (på dyr eller hud eller på menneskekropp)</t>
+         <tg re="på dyr eller hud eller på menneskekropp">
+            <t>hår</t>
          </tg>
       </mg>
    </e>
@@ -7551,7 +7559,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ramme (f.eks. av tømmerhus), ring</t>
+            <t re="f.eks. av tømmerhus">ramme</t>
+            <t>ring</t>
          </tg>
       </mg>
    </e>
@@ -7561,7 +7570,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snekker (som bygger hus)</t>
+            <t>tømmermann</t>
+            <t>tømmer</t>
          </tg>
       </mg>
    </e>
@@ -7580,8 +7590,8 @@
          <l pos="N">keili</l>
       </lg>
       <mg>
-         <tg>
-            <t>tjeld (fugl)</t>
+         <tg re="fugl">
+            <t>tjeld</t>
          </tg>
       </mg>
    </e>
@@ -7590,8 +7600,8 @@
          <l pos="N">keino</l>
       </lg>
       <mg>
-         <tg>
-            <t>ferdselsvei (f.eks. over fjellet)</t>
+         <tg re="f.eks. over fjellet">
+            <t>ferdselsvei</t>
          </tg>
       </mg>
       <mg>
@@ -7935,8 +7945,8 @@
          <l pos="N">kerppu</l>
       </lg>
       <mg>
-         <tg>
-            <t>bunt av tørket bjørkeris med blad (for husdyr)</t>
+         <tg re="for husdyr">
+            <t>bunt av tørket bjørkeris med blad</t>
          </tg>
       </mg>
    </e>
@@ -8301,7 +8311,8 @@
       </lg>
       <mg>
          <tg>
-            <t>kilo(gram)</t>
+            <t>kilogram</t>
+            <t>kilo</t>
          </tg>
       </mg>
    </e>
@@ -8495,7 +8506,10 @@
       </lg>
       <mg>
          <tg>
-            <t>skrift, tekst, skriftstykke, skriving (skolefag)</t>
+            <t>skrift</t>
+            <t>tekst</t>
+            <t>skriftstykke</t>
+            <t re="skolefag">skriving</t>
          </tg>
       </mg>
    </e>
@@ -8615,7 +8629,8 @@
       </lg>
       <mg>
          <tg>
-            <t>kjerne (smør)</t>
+            <t>kjerne</t>
+            <t>smør</t>
          </tg>
       </mg>
    </e>
@@ -8959,8 +8974,8 @@
          <l nr="Pl" pos="N">koiranpäivät</l>
       </lg>
       <mg>
-         <tg>
-            <t>hundedagene (23.7.–23.8.)</t>
+         <tg re="23.7.–23.8.">
+            <t>hundedagene</t>
          </tg>
       </mg>
       <mg>
@@ -9024,8 +9039,8 @@
          <l pos="N">kokhoonpano</l>
       </lg>
       <mg>
-         <tg>
-            <t>samling (f. eks. i en bok)</t>
+         <tg re="f. eks. i en bok">
+            <t>samling</t>
          </tg>
       </mg>
    </e>
@@ -9055,7 +9070,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(inn)samling</t>
+            <t>innsamling</t>
+            <t>samling</t>
          </tg>
       </mg>
    </e>
@@ -9184,8 +9200,8 @@
          <l pos="N">koni</l>
       </lg>
       <mg>
-         <tg>
-            <t>(dårlig) hest</t>
+         <tg re="dårlig">
+            <t>hest</t>
          </tg>
       </mg>
    </e>
@@ -9464,8 +9480,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>stryk i en  elv (der strømmen snur seg)</t>
+         <tg re="der strømmen snur seg">
+            <t>stryk i en  elv</t>
          </tg>
       </mg>
       <mg>
@@ -9680,7 +9696,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(skole)elev</t>
+            <t>skoleelev</t>
+            <t>elev</t>
          </tg>
       </mg>
    </e>
@@ -9809,8 +9826,8 @@
          <l nr="Pl" pos="N">krannikset</l>
       </lg>
       <mg>
-         <tg>
-            <t>naboer (i forhold til hverandre)</t>
+         <tg re="i forhold til hverandre">
+            <t>naboer</t>
          </tg>
       </mg>
    </e>
@@ -9889,8 +9906,8 @@
          <l pos="N">krenkku</l>
       </lg>
       <mg>
-         <tg>
-            <t>krakk (til å sitte på)</t>
+         <tg re="til å sitte på">
+            <t>krakk</t>
          </tg>
       </mg>
       <mg>
@@ -10208,8 +10225,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>kjære (i tiltale)</t>
+         <tg re="i tiltale">
+            <t>kjære</t>
          </tg>
       </mg>
       <mg>
@@ -10659,7 +10676,8 @@
       </lg>
       <mg>
          <tg>
-            <t>strupe(rør)</t>
+            <t>struperør</t>
+            <t>strupe</t>
          </tg>
       </mg>
    </e>
@@ -10723,8 +10741,8 @@
          <l pos="N">kusta</l>
       </lg>
       <mg>
-         <tg>
-            <t>kost (til å koste med)</t>
+         <tg re="til å koste med">
+            <t>kost</t>
          </tg>
       </mg>
    </e>
@@ -10867,8 +10885,8 @@
          <l pos="N">kuuro</l>
       </lg>
       <mg>
-         <tg>
-            <t>skur (om vær)</t>
+         <tg re="om vær">
+            <t>skur</t>
          </tg>
       </mg>
    </e>
@@ -10937,8 +10955,8 @@
          <l pos="N">kvartti</l>
       </lg>
       <mg>
-         <tg>
-            <t>kvarter (15 minutter)</t>
+         <tg re="15 minutter">
+            <t>kvarter</t>
          </tg>
       </mg>
       <mg>
@@ -11309,7 +11327,8 @@
       </lg>
       <mg>
          <tg>
-            <t>matrett med stekte kjøttbiter, (finne)biff</t>
+            <t>matrett med stekte kjøttbiter</t>
+            <t>finnbiff</t>
          </tg>
       </mg>
    </e>
@@ -11534,7 +11553,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(skifer)helle</t>
+            <t>skiferhelle</t>
+            <t>helle</t>
          </tg>
       </mg>
    </e>
@@ -11544,7 +11564,7 @@
       </lg>
       <mg>
          <tg>
-            <t>et skjær som noen ganger er under vannet, andre ganger over vannet</t>
+            <t>et skjær som noen ganger er under vannet og andre ganger over vannet</t>
          </tg>
       </mg>
    </e>
@@ -11664,8 +11684,8 @@
          <l pos="N">laikko</l>
       </lg>
       <mg>
-         <tg>
-            <t>leie (betaling)</t>
+         <tg re="betaling">
+            <t>leie</t>
          </tg>
       </mg>
    </e>
@@ -11805,7 +11825,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(tre)topp</t>
+            <t>tretopp</t>
+            <t>topp</t>
          </tg>
       </mg>
       <mg>
@@ -12269,8 +12290,8 @@
          <l pos="N">lehmäkarja</l>
       </lg>
       <mg>
-         <tg>
-            <t>storfe (av kur)</t>
+         <tg re="av kyr">
+            <t>storfe</t>
          </tg>
       </mg>
    </e>
@@ -12739,8 +12760,8 @@
          <l pos="N">lippa</l>
       </lg>
       <mg>
-         <tg>
-            <t>lam (kjælenavn)</t>
+         <tg re="kjælenavn">
+            <t>lam</t>
          </tg>
       </mg>
    </e>
@@ -12899,8 +12920,8 @@
          <l pos="N">loimi</l>
       </lg>
       <mg>
-         <tg>
-            <t>renning (i veving)</t>
+         <tg re="i veving">
+            <t>renning</t>
          </tg>
       </mg>
       <mg>
@@ -13064,8 +13085,8 @@
          <l pos="N">lotta</l>
       </lg>
       <mg>
-         <tg>
-            <t>lodde (fisk)</t>
+         <tg re="fisk">
+            <t>lodde</t>
          </tg>
       </mg>
    </e>
@@ -13214,8 +13235,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>lesing (skolefag)</t>
+         <tg re="skolefag">
+            <t>lesing</t>
          </tg>
       </mg>
       <mg>
@@ -13224,8 +13245,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>formular, f.eks. trylleformular</t>
+         <tg re="f.eks. trylleformular">
+            <t>formular</t>
          </tg>
       </mg>
    </e>
@@ -13410,7 +13431,8 @@
       </lg>
       <mg>
          <tg>
-            <t>kost (av ris), lime</t>
+            <t re="av ris">kost</t>
+            <t>lime</t>
          </tg>
       </mg>
    </e>
@@ -13634,8 +13656,8 @@
          <l pos="N">löyly</l>
       </lg>
       <mg>
-         <tg>
-            <t>damp (i badstua)</t>
+         <tg re="i badstua">
+            <t>damp</t>
          </tg>
       </mg>
    </e>
@@ -13679,8 +13701,8 @@
          <l pos="N">maaherra</l>
       </lg>
       <mg>
-         <tg>
-            <t>(hist.) amtmann</t>
+         <tg re="hist.">
+            <t>amtmann</t>
          </tg>
       </mg>
       <mg>
@@ -13704,8 +13726,8 @@
          <l pos="N">maakko</l>
       </lg>
       <mg>
-         <tg>
-            <t>mage (spes. på fisk)</t>
+         <tg re="spes. på fisk">
+            <t>mage</t>
          </tg>
       </mg>
    </e>
@@ -13875,8 +13897,8 @@
          <l pos="N">maikuu</l>
       </lg>
       <mg>
-         <tg>
-            <t>mai(måned)</t>
+         <tg re="måned">
+            <t>mai</t>
          </tg>
       </mg>
    </e>
@@ -14094,8 +14116,8 @@
          <l nr="Pl" pos="N">mantelit</l>
       </lg>
       <mg>
-         <tg>
-            <t>mandler (organ i svelget)</t>
+         <tg re="organ i svelget">
+            <t>mandler</t>
          </tg>
       </mg>
       <mg>
@@ -14140,7 +14162,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(tytte)bærgrøt</t>
+            <t>tyttebærgrøt</t>
+            <t>bærgrøt</t>
          </tg>
       </mg>
    </e>
@@ -14169,8 +14192,8 @@
          <l pos="N">markka</l>
       </lg>
       <mg>
-         <tg>
-            <t>mark (pengeenhet)</t>
+         <tg re="pengeenhet">
+            <t>mark</t>
          </tg>
       </mg>
    </e>
@@ -14274,8 +14297,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>ripeflate (i ei fyrstikkeske)</t>
+         <tg re="i ei fyrstikkeske">
+            <t>ripeflate</t>
          </tg>
       </mg>
    </e>
@@ -14494,8 +14517,8 @@
          <l pos="N">merihukka</l>
       </lg>
       <mg>
-         <tg>
-            <t>sjøulv (en fiktiv figur)</t>
+         <tg re="en fiktiv figur">
+            <t>sjøulv</t>
          </tg>
       </mg>
    </e>
@@ -14809,8 +14832,8 @@
          <l pos="N">mitta</l>
       </lg>
       <mg>
-         <tg>
-            <t>mål (for måling)</t>
+         <tg re="for måling">
+            <t>mål</t>
          </tg>
       </mg>
       <mg>
@@ -14835,7 +14858,8 @@
       </lg>
       <mg>
          <tg>
-            <t>mocca(kaffe)</t>
+            <t>moccakaffe</t>
+            <t>mocca</t>
          </tg>
       </mg>
    </e>
@@ -14869,8 +14893,8 @@
          <l pos="N">mooli</l>
       </lg>
       <mg>
-         <tg>
-            <t>mål (f. eks. i spill)</t>
+         <tg re="f. eks. i spill">
+            <t>mål</t>
          </tg>
       </mg>
    </e>
@@ -15190,7 +15214,8 @@
       </lg>
       <mg>
          <tg>
-            <t>middag(smat)</t>
+            <t>middagsmat</t>
+            <t>middag</t>
          </tg>
       </mg>
    </e>
@@ -15449,8 +15474,8 @@
          <l pos="N">mänty</l>
       </lg>
       <mg>
-         <tg>
-            <t>(mindre) furu</t>
+         <tg re="mindre">
+            <t>furu</t>
          </tg>
       </mg>
    </e>
@@ -16274,8 +16299,8 @@
          <l pos="N">nuora</l>
       </lg>
       <mg>
-         <tg>
-            <t>sund (mellom en øy og fastlandet)</t>
+         <tg re="mellom en øy og fastlandet">
+            <t>sund</t>
          </tg>
       </mg>
       <mg>
@@ -16309,8 +16334,8 @@
          <l pos="N">nuoriso</l>
       </lg>
       <mg>
-         <tg>
-            <t>ungdom (unge mennesker)</t>
+         <tg re="unge mennesker">
+            <t>ungdom</t>
          </tg>
       </mg>
    </e>
@@ -16379,8 +16404,8 @@
          <l pos="N">nurkka</l>
       </lg>
       <mg>
-         <tg>
-            <t>hjørne (utenfor huset)</t>
+         <tg re="utenfor huset">
+            <t>hjørne</t>
          </tg>
       </mg>
    </e>
@@ -16409,8 +16434,8 @@
          <l pos="N">nutukka</l>
       </lg>
       <mg>
-         <tg>
-            <t>skalle (fottøy)</t>
+         <tg re="fottøy">
+            <t>skalle</t>
          </tg>
       </mg>
    </e>
@@ -16759,8 +16784,8 @@
          <l pos="N">omaisuus</l>
       </lg>
       <mg>
-         <tg>
-            <t>formue, eiendom (også om jord)</t>
+         <tg re="også om jord">
+            <t>formue, eiendom</t>
          </tg>
       </mg>
    </e>
@@ -17084,8 +17109,8 @@
          <l pos="N">orpo</l>
       </lg>
       <mg>
-         <tg>
-            <t>foreldreløs (uten far eller mor eller begge to)</t>
+         <tg re="uten far eller mor eller begge to">
+            <t>foreldreløs</t>
          </tg>
       </mg>
    </e>
@@ -17114,8 +17139,8 @@
          <l pos="N">oset</l>
       </lg>
       <mg>
-         <tg>
-            <t>stengsel (for drivgarnfiske)</t>
+         <tg re="for drivgarnfiske">
+            <t>stengsel</t>
          </tg>
       </mg>
    </e>
@@ -17154,8 +17179,8 @@
          <l pos="N">otta</l>
       </lg>
       <mg>
-         <tg>
-            <t>panne (kroppsdel)</t>
+         <tg re="kroppsdel">
+            <t>panne</t>
          </tg>
       </mg>
    </e>
@@ -17234,8 +17259,8 @@
          <l pos="N">paakariuuni</l>
       </lg>
       <mg>
-         <tg>
-            <t>bakerovn (vedfyrt og av stein)</t>
+         <tg re="vedfyrt og av stein">
+            <t>bakerovn</t>
          </tg>
       </mg>
    </e>
@@ -17472,8 +17497,8 @@
          <l pos="N">painet</l>
       </lg>
       <mg>
-         <tg>
-            <t>farge (til å farge stoff med)</t>
+         <tg re="til å farge stoff med">
+            <t>farge</t>
          </tg>
       </mg>
    </e>
@@ -17527,8 +17552,8 @@
          <l pos="N">paistiuuni</l>
       </lg>
       <mg>
-         <tg>
-            <t>steikeovn (moderne)</t>
+         <tg re="moderne">
+            <t>steikeovn</t>
          </tg>
       </mg>
    </e>
@@ -17667,8 +17692,8 @@
          <l pos="N">palainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>(en liten) bit</t>
+         <tg re="en liten ~">
+            <t>bit</t>
          </tg>
       </mg>
    </e>
@@ -17702,8 +17727,8 @@
          <l pos="N">paljo</l>
       </lg>
       <mg>
-         <tg>
-            <t>(ovalt) kar (til å vaske i)</t>
+         <tg re="ovalt ~ til å vaske i">
+            <t>kar</t>
          </tg>
       </mg>
    </e>
@@ -17843,7 +17868,8 @@
       </lg>
       <mg>
          <tg>
-            <t>banke, (havområde over) forhøyning i havbunnen</t>
+            <t>banke</t>
+            <t>havområde over forhøyning i havbunnen</t>
          </tg>
       </mg>
    </e>
@@ -17877,8 +17903,8 @@
          <l pos="N">pankkoreki</l>
       </lg>
       <mg>
-         <tg>
-            <t>stubbslede (?)</t>
+         <tg comment="check_translation">
+            <t>stubbslede</t>
          </tg>
       </mg>
    </e>
@@ -18093,7 +18119,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(ekte)par</t>
+            <t>ektepar</t>
+            <t>par</t>
          </tg>
       </mg>
    </e>
@@ -18187,8 +18214,8 @@
          <l pos="N">passi</l>
       </lg>
       <mg>
-         <tg>
-            <t>pass (dokument)</t>
+         <tg re="dokument">
+            <t>pass</t>
          </tg>
       </mg>
    </e>
@@ -18217,8 +18244,8 @@
          <l pos="N">pato</l>
       </lg>
       <mg>
-         <tg>
-            <t>stengsel (for å stenge fisk med)</t>
+         <tg re="for å stenge fisk med">
+            <t>stengsel</t>
          </tg>
       </mg>
    </e>
@@ -18343,7 +18370,10 @@
       </lg>
       <mg>
          <tg>
-            <t>valp, fuglunge, unge, (nedsettende om) barn</t>
+            <t>valp</t>
+            <t>fuglunge</t>
+            <t>unge</t>
+            <t re="nedsettende">barn</t>
          </tg>
       </mg>
    </e>
@@ -18711,7 +18741,10 @@
       </lg>
       <mg>
          <tg>
-            <t>pigg, tagg, (rive)tind</t>
+            <t>pigg</t>
+            <t>tagg</t>
+            <t>tind</t>
+            <t>rivetind</t>
          </tg>
       </mg>
    </e>
@@ -18840,8 +18873,8 @@
          <l pos="N">pijo</l>
       </lg>
       <mg>
-         <tg>
-            <t>neve, hånd (på innsida)</t>
+         <tg re="på innsida">
+            <t>neve, hånd</t>
          </tg>
       </mg>
    </e>
@@ -18950,8 +18983,8 @@
          <l pos="N">pinnahäkki</l>
       </lg>
       <mg>
-         <tg>
-            <t>hekk (for høy)</t>
+         <tg re="for høy">
+            <t>hekk</t>
          </tg>
       </mg>
    </e>
@@ -18976,7 +19009,8 @@
       </mg>
       <mg>
          <tg>
-            <t>fett(lag)</t>
+            <t>fett</t>
+            <t>fettlag</t>
          </tg>
       </mg>
    </e>
@@ -19456,7 +19490,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(hvete)bolle</t>
+            <t>bolle</t>
+            <t>hvetebolle</t>
          </tg>
       </mg>
    </e>
@@ -19870,8 +19905,8 @@
          <l pos="N">pounu</l>
       </lg>
       <mg>
-         <tg>
-            <t>(stor) tue</t>
+         <tg re="stor">
+            <t>tue</t>
          </tg>
       </mg>
    </e>
@@ -20010,8 +20045,8 @@
          <l pos="N">pruuki</l>
       </lg>
       <mg>
-         <tg>
-            <t>bruk (det å bruke)</t>
+         <tg re="det å bruke">
+            <t>bruk</t>
          </tg>
       </mg>
       <mg>
@@ -20095,8 +20130,8 @@
          <l pos="N">pröövi</l>
       </lg>
       <mg>
-         <tg>
-            <t>prøve (f.eks. skoleprøve)</t>
+         <tg re="f.eks. skoleprøve">
+            <t>prøve</t>
          </tg>
       </mg>
    </e>
@@ -20106,7 +20141,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snakk(ing)</t>
+            <t>snakk</t>
+            <t>snakking</t>
          </tg>
       </mg>
    </e>
@@ -20236,7 +20272,8 @@
       </lg>
       <mg>
          <tg>
-            <t>tullgubbe (en som prater tull)</t>
+            <t>tullgubbe</t>
+            <t>en som prater tull</t>
          </tg>
       </mg>
    </e>
@@ -20275,8 +20312,8 @@
          <l pos="N">puntari</l>
       </lg>
       <mg>
-         <tg>
-            <t>vekt (til å veie med)</t>
+         <tg re="til å veie med">
+            <t>vekt</t>
          </tg>
       </mg>
    </e>
@@ -20461,7 +20498,9 @@
       </lg>
       <mg>
          <tg>
-            <t>(sylte)glass, boks</t>
+            <t>sylteglass</t>
+            <t>glass</t>
+            <t>boks</t>
          </tg>
       </mg>
    </e>
@@ -20526,7 +20565,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(kven)kniv</t>
+            <t>kniv</t>
+            <t>kvenkniv</t>
          </tg>
       </mg>
    </e>
@@ -20576,7 +20616,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(tømmer)hogst</t>
+            <t>hogst</t>
+            <t>tømmerhogst</t>
          </tg>
       </mg>
    </e>
@@ -20606,7 +20647,7 @@
       </lg>
       <mg>
          <tg>
-            <t>snekker (som lager møbler og dem slags)</t>
+            <t>møblersnekker</t>
          </tg>
       </mg>
    </e>
@@ -20745,8 +20786,8 @@
          <l pos="N">pytty</l>
       </lg>
       <mg>
-         <tg>
-            <t>bøtte (f.eks. for å ha smør i)</t>
+         <tg re="f.eks. for å ha smør i">
+            <t>bøtte</t>
          </tg>
       </mg>
    </e>
@@ -21591,8 +21632,8 @@
          <l pos="N">rapatainari</l>
       </lg>
       <mg>
-         <tg>
-            <t>slusk, lat, drittsekk (skjellsord)</t>
+         <tg re="skjellsord">
+            <t>slusk, lat, drittsekk</t>
          </tg>
       </mg>
    </e>
@@ -21656,8 +21697,8 @@
          <l pos="N">ratas</l>
       </lg>
       <mg>
-         <tg>
-            <t>hjul (f.eks. i klokke, mølle)</t>
+         <tg re="f.eks. i klokke, mølle">
+            <t>hjul</t>
          </tg>
       </mg>
    </e>
@@ -21791,8 +21832,8 @@
          <l pos="N">ravinto</l>
       </lg>
       <mg>
-         <tg>
-            <t>næring (mat eller lign.)</t>
+         <tg re="mat eller lign.">
+            <t>næring</t>
          </tg>
       </mg>
    </e>
@@ -22106,8 +22147,8 @@
          <l pos="N">riippo</l>
       </lg>
       <mg>
-         <tg>
-            <t>rip (øverste kant på båtside)</t>
+         <tg re="øverste kant på båtside">
+            <t>rip</t>
          </tg>
       </mg>
    </e>
@@ -22117,7 +22158,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ris (korn)</t>
+            <t>ris</t>
+            <t>korn</t>
          </tg>
       </mg>
    </e>
@@ -22401,8 +22443,9 @@
          <l pos="N">rouko</l>
       </lg>
       <mg>
-         <tg>
-            <t>fell (skinn til overbredsel)</t>
+         <tg re="til overbredsel">
+            <t>fell</t>
+            <t>skinn</t>
          </tg>
       </mg>
    </e>
@@ -22771,8 +22814,8 @@
          <l pos="N">ruuma</l>
       </lg>
       <mg>
-         <tg>
-            <t>rom (i hus)</t>
+         <tg re="i hus">
+            <t>rom</t>
          </tg>
       </mg>
       <mg>
@@ -22786,8 +22829,8 @@
          <l pos="N">ruumen</l>
       </lg>
       <mg>
-         <tg>
-            <t>kornavfall (?)</t>
+         <tg comment="check_translation">
+            <t>kornavfall</t>
          </tg>
       </mg>
    </e>
@@ -22861,8 +22904,8 @@
          <l pos="N">ruutu</l>
       </lg>
       <mg>
-         <tg>
-            <t>rute (f.eks. i vinduet)</t>
+         <tg re="f.eks. i vinduet">
+            <t>rute</t>
          </tg>
       </mg>
    </e>
@@ -22981,8 +23024,8 @@
          <l pos="N">räkinki</l>
       </lg>
       <mg>
-         <tg>
-            <t>regning (skolefag)</t>
+         <tg re="skolefag">
+            <t>regning</t>
          </tg>
       </mg>
    </e>
@@ -22991,8 +23034,8 @@
          <l pos="N">räknäys</l>
       </lg>
       <mg>
-         <tg>
-            <t>regning (skolefag)</t>
+         <tg re="skolefag">
+            <t>regning</t>
          </tg>
       </mg>
    </e>
@@ -23061,8 +23104,8 @@
          <l pos="N">räämet</l>
       </lg>
       <mg>
-         <tg>
-            <t>våg (i øyet)</t>
+         <tg re="i øyet">
+            <t>våg</t>
          </tg>
       </mg>
    </e>
@@ -23381,8 +23424,8 @@
          <l pos="N">salmi</l>
       </lg>
       <mg>
-         <tg>
-            <t>en innsnevring i vassdrag (sjø eller vann)</t>
+         <tg re="sjø eller vann">
+            <t>en innsnevring i vassdrag</t>
          </tg>
       </mg>
    </e>
@@ -23881,8 +23924,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>cent (pengeenhet)</t>
+         <tg re="pengeenhet">
+            <t>cent</t>
          </tg>
       </mg>
    </e>
@@ -23936,8 +23979,8 @@
          <l pos="N">setä</l>
       </lg>
       <mg>
-         <tg>
-            <t>onkel (på farside)</t>
+         <tg re="på farsida">
+            <t>onkel</t>
          </tg>
       </mg>
    </e>
@@ -23956,8 +23999,8 @@
          <l pos="N">seurahuonet</l>
       </lg>
       <mg>
-         <tg>
-            <t>(lestadiansk) bedehus</t>
+         <tg re="lestadiansk">
+            <t>bedehus</t>
          </tg>
       </mg>
    </e>
@@ -23986,8 +24029,8 @@
          <l pos="N">seuratupa</l>
       </lg>
       <mg>
-         <tg>
-            <t>(lestadiansk) bedehus</t>
+         <tg re="lestadiansk">
+            <t>bedehus</t>
          </tg>
       </mg>
    </e>
@@ -24330,8 +24373,8 @@
          <l pos="N">sippari</l>
       </lg>
       <mg>
-         <tg>
-            <t>skipper (på større båt)</t>
+         <tg re="på større båt">
+            <t>skipper</t>
          </tg>
       </mg>
    </e>
@@ -24401,8 +24444,8 @@
          <l pos="N">sisarentytär</l>
       </lg>
       <mg>
-         <tg>
-            <t>niese (søsterdatter)</t>
+         <tg re="søsterdatter">
+            <t>niese</t>
          </tg>
       </mg>
    </e>
@@ -24411,8 +24454,9 @@
          <l pos="N">sisna</l>
       </lg>
       <mg>
-         <tg>
-            <t>garvet (rein)skinn, lær</t>
+         <tg re="rein">
+            <t>garvet skinn</t>
+            <t>lær</t>
          </tg>
       </mg>
    </e>
@@ -24421,8 +24465,9 @@
          <l pos="N">sisusvika</l>
       </lg>
       <mg>
-         <tg>
-            <t>indre feil/sykdom (f. eks. i et menneske eller dyr)</t>
+         <tg re="f. eks. i et menneske eller dyr">
+            <t>indre feil</t>
+            <t>sykdom</t>
          </tg>
       </mg>
    </e>
@@ -24551,8 +24596,8 @@
          <l pos="N">skuorikka</l>
       </lg>
       <mg>
-         <tg>
-            <t>(årsgammel) måke</t>
+         <tg re="årsgammel">
+            <t>måke</t>
          </tg>
       </mg>
    </e>
@@ -24681,8 +24726,8 @@
          <l pos="N">sonni</l>
       </lg>
       <mg>
-         <tg>
-            <t>(ukastrert) okse</t>
+         <tg re="ukastrert">
+            <t>okse</t>
          </tg>
       </mg>
    </e>
@@ -24777,7 +24822,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(finger)ring</t>
+            <t>fingerring</t>
+            <t>ring</t>
          </tg>
       </mg>
    </e>
@@ -24976,8 +25022,8 @@
          <l pos="N">stuola</l>
       </lg>
       <mg>
-         <tg>
-            <t>soll (alge)</t>
+         <tg re="alge">
+            <t>soll</t>
          </tg>
       </mg>
    </e>
@@ -25096,8 +25142,8 @@
          <l pos="N">sulka</l>
       </lg>
       <mg>
-         <tg>
-            <t>fjør (på fugler)</t>
+         <tg re="på fugler">
+            <t>fjør</t>
          </tg>
       </mg>
    </e>
@@ -25906,8 +25952,8 @@
          <l pos="N">säpäket</l>
       </lg>
       <mg>
-         <tg>
-            <t>leggings (av lær)</t>
+         <tg re="av lær">
+            <t>leggings</t>
          </tg>
       </mg>
    </e>
@@ -26122,7 +26168,8 @@
       </lg>
       <mg>
          <tg>
-            <t>brenning (bølge)</t>
+            <t>brenning</t>
+            <t>bølge</t>
          </tg>
       </mg>
    </e>
@@ -26331,8 +26378,8 @@
          <l pos="N">tammi</l>
       </lg>
       <mg>
-         <tg>
-            <t>stengsel (for å stenge vann med)</t>
+         <tg re="for å stenge vann med">
+            <t>stengsel</t>
          </tg>
       </mg>
    </e>
@@ -26362,7 +26409,8 @@
       </lg>
       <mg>
          <tg>
-            <t>stamp (kar)</t>
+            <t>stamp</t>
+            <t>kar</t>
          </tg>
       </mg>
    </e>
@@ -26746,8 +26794,8 @@
          <l pos="N">teppu</l>
       </lg>
       <mg>
-         <tg>
-            <t>tang (i sjøen)</t>
+         <tg re="i sjøen">
+            <t>tang</t>
          </tg>
       </mg>
    </e>
@@ -26836,8 +26884,8 @@
          <l pos="N">terä</l>
       </lg>
       <mg>
-         <tg>
-            <t>blad, edd, spiss, hode (på et redskap)</t>
+         <tg re="på et redskap">
+            <t>blad, edd, spiss, hode</t>
          </tg>
       </mg>
    </e>
@@ -27091,8 +27139,8 @@
          <l pos="N">tiski</l>
       </lg>
       <mg>
-         <tg>
-            <t>disk (i butikken)</t>
+         <tg re="i butikken">
+            <t>disk</t>
          </tg>
       </mg>
    </e>
@@ -27266,8 +27314,8 @@
          <l pos="N">tooma</l>
       </lg>
       <mg>
-         <tg>
-            <t>snor, snøre (i fiskeredskap)</t>
+         <tg re="i fiskeredskap">
+            <t>snor, snøre</t>
          </tg>
       </mg>
    </e>
@@ -27551,8 +27599,8 @@
          <l pos="N">trolli</l>
       </lg>
       <mg>
-         <tg>
-            <t>troll, heks (også som skjellsord)</t>
+         <tg re="også som skjellsord">
+            <t>troll, heks</t>
          </tg>
       </mg>
    </e>
@@ -27592,7 +27640,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(ull)trøye</t>
+            <t>ulltrøye</t>
+            <t>trøye</t>
          </tg>
       </mg>
    </e>
@@ -27785,8 +27834,8 @@
          <l pos="N">tumppu</l>
       </lg>
       <mg>
-         <tg>
-            <t>(rundt og tykkt) kvensk brød</t>
+         <tg re="rundt og tykkt">
+            <t>kvensk brød</t>
          </tg>
       </mg>
    </e>
@@ -28485,8 +28534,8 @@
          <l pos="N">täkki</l>
       </lg>
       <mg>
-         <tg>
-            <t>dekk (på skip)</t>
+         <tg re="på skip">
+            <t>dekk</t>
          </tg>
       </mg>
    </e>
@@ -28505,8 +28554,8 @@
          <l pos="N">täppeni</l>
       </lg>
       <mg>
-         <tg>
-            <t>teppe (for å dekke over varmt brød), dekke</t>
+         <tg re="for å dekke over varmt brød">
+            <t>teppe, dekke</t>
          </tg>
       </mg>
    </e>
@@ -28565,8 +28614,8 @@
          <l pos="N">uimus</l>
       </lg>
       <mg>
-         <tg>
-            <t>finne (f. eks. på fisk og hval)</t>
+         <tg re="f. eks. på fisk og hval">
+            <t>finne</t>
          </tg>
       </mg>
    </e>
@@ -29260,8 +29309,8 @@
          <l pos="N">vanhaapari</l>
       </lg>
       <mg>
-         <tg>
-            <t>eldre par (av besteforeldregenerasjon)</t>
+         <tg re="av besteforeldregenerasjon">
+            <t>eldre par</t>
          </tg>
       </mg>
    </e>
@@ -29819,8 +29868,8 @@
          <l pos="N">veivikka</l>
       </lg>
       <mg>
-         <tg>
-            <t>luring (mest positivt)</t>
+         <tg re="mest positivt">
+            <t>luring</t>
          </tg>
       </mg>
    </e>
@@ -29849,8 +29898,8 @@
          <l pos="N">veljenpoika</l>
       </lg>
       <mg>
-         <tg>
-            <t>nevø (brorsønn)</t>
+         <tg re="brorsønn">
+            <t>nevø</t>
          </tg>
       </mg>
    </e>
@@ -29859,8 +29908,8 @@
          <l pos="N">veljentytär</l>
       </lg>
       <mg>
-         <tg>
-            <t>niese (brordatter)</t>
+         <tg re="brordatter">
+            <t>niese</t>
          </tg>
       </mg>
    </e>
@@ -30045,7 +30094,8 @@
       </lg>
       <mg>
          <tg>
-            <t>skatt (avgift)</t>
+            <t>skatt</t>
+            <t>avgift</t>
          </tg>
       </mg>
    </e>
@@ -30235,7 +30285,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hefte (ES), bunt</t>
+            <t re="ES">hefte</t>
+            <t>bunt</t>
          </tg>
       </mg>
    </e>
@@ -30519,8 +30570,8 @@
          <l pos="N">virta</l>
       </lg>
       <mg>
-         <tg>
-            <t>strøm (i vannet)</t>
+         <tg re="i vannet">
+            <t>strøm</t>
          </tg>
       </mg>
    </e>
@@ -30724,8 +30775,8 @@
          <l pos="N">vuota</l>
       </lg>
       <mg>
-         <tg>
-            <t>hud, skinn (som man lager klær av)</t>
+         <tg re="som man lager klær av">
+            <t>hud, skinn</t>
          </tg>
       </mg>
    </e>
@@ -31004,8 +31055,8 @@
          <l pos="N">väärtti</l>
       </lg>
       <mg>
-         <tg>
-            <t>gjestevenn (spesielt om forholdet mellom fastboende og reidriftsamer)</t>
+         <tg re="spesielt om forholdet mellom fastboende og reidriftsamer">
+            <t>gjestevenn</t>
          </tg>
       </mg>
    </e>
@@ -31365,7 +31416,8 @@
       </mg>
       <mg>
          <tg>
-            <t>(ekte)mann</t>
+            <t>ektemann</t>
+            <t>mann</t>
          </tg>
       </mg>
       <mg>
@@ -31374,8 +31426,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>(eufemistisk) bjørn</t>
+         <tg re="eufemistisk">
+            <t>bjørn</t>
          </tg>
       </mg>
    </e>
@@ -31464,8 +31516,8 @@
          <l pos="N">ämpäri</l>
       </lg>
       <mg>
-         <tg>
-            <t>bøtte (f.eks. for å ha vann i)</t>
+         <tg re="f.eks. for å ha vann i">
+            <t>bøtte</t>
          </tg>
       </mg>
    </e>
