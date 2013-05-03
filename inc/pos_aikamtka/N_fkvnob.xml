@@ -639,8 +639,8 @@
          <l pos="N">ampumies</l>
       </lg>
       <mg>
-         <tg>
-            <t>skytter (mannlig)</t>
+         <tg re="mannlig">
+            <t>skytter</t>
          </tg>
       </mg>
    </e>
@@ -1364,8 +1364,8 @@
          <l pos="N">autti</l>
       </lg>
       <mg>
-         <tg>
-            <t>e, ærfugl (hunn)</t>
+         <tg re="hunn">
+            <t>e, ærfugl</t>
          </tg>
       </mg>
    </e>
@@ -4064,8 +4064,8 @@
          <l pos="N">hyhmä</l>
       </lg>
       <mg>
-         <tg>
-            <t>sørpe (av is, snø)</t>
+         <tg re="av is, snø">
+            <t>sørpe</t>
          </tg>
       </mg>
    </e>
@@ -4968,7 +4968,8 @@
       </lg>
       <mg>
          <tg>
-            <t>vær (hansau)</t>
+            <t>vær</t>
+            <t>hansau</t>
          </tg>
       </mg>
    </e>
@@ -7444,8 +7445,8 @@
          <l pos="N">kauppamies</l>
       </lg>
       <mg>
-         <tg>
-            <t>(mannlig) handelsmann, kjøpmann</t>
+         <tg re="mannlig">
+            <t>handelsmann, kjøpmann</t>
          </tg>
       </mg>
    </e>
@@ -9688,8 +9689,8 @@
          <l pos="N">koulumies</l>
       </lg>
       <mg>
-         <tg>
-            <t>lärer (mannlig)</t>
+         <tg re="mannlig">
+            <t>lärer</t>
          </tg>
       </mg>
    </e>
@@ -10003,8 +10004,8 @@
          <l pos="N">kruuvamies</l>
       </lg>
       <mg>
-         <tg>
-            <t>mannlig gruvearbeider</t>
+         <tg re="mannlig">
+            <t>gruvearbeider</t>
          </tg>
       </mg>
    </e>
@@ -10407,8 +10408,8 @@
          <l pos="N">kuohukko</l>
       </lg>
       <mg>
-         <tg>
-            <t>(sted der det er) brus, skum</t>
+         <tg re="sted der det er">
+            <t>brus, skum</t>
          </tg>
       </mg>
    </e>
@@ -10991,8 +10992,8 @@
          <l pos="N">kylki</l>
       </lg>
       <mg>
-         <tg>
-            <t>side (hos et menneske, dyr, fjellside)</t>
+         <tg re="hos et menneske, dyr, fjellside">
+            <t>side</t>
          </tg>
       </mg>
    </e>
@@ -12688,8 +12689,8 @@
          <l pos="N">likka</l>
       </lg>
       <mg>
-         <tg>
-            <t>ærfugl, ekall (hann)</t>
+         <tg re="hann">
+            <t>ærfugl, ekall</t>
          </tg>
       </mg>
    </e>
@@ -12923,8 +12924,8 @@
          <l pos="N">lokki</l>
       </lg>
       <mg>
-         <tg>
-            <t>lokk, kuppel (f. eks. for ost)</t>
+         <tg re="f. eks. for ost">
+            <t>lokk, kuppel</t>
          </tg>
       </mg>
    </e>
@@ -13098,8 +13099,8 @@
          <l pos="N">loukko</l>
       </lg>
       <mg>
-         <tg>
-            <t>krok, hjørne (inne i huset)</t>
+         <tg re="inne i huset">
+            <t>krok, hjørne</t>
          </tg>
       </mg>
    </e>
@@ -13804,7 +13805,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(jord)tog, (altså vanlig tog)</t>
+            <t>jordtog</t>
+            <t>vanlig tog</t>
          </tg>
       </mg>
    </e>
@@ -18503,7 +18505,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(fjord)botn, ende ( i terreng)</t>
+            <t>fjordbotn</t>
+            <t>terrengende</t>
          </tg>
       </mg>
       <mg>
@@ -18908,7 +18911,7 @@
       </lg>
       <mg>
          <tg>
-            <t>gress, høy(strå)</t>
+            <t>gress, høy, strå</t>
          </tg>
       </mg>
    </e>
@@ -20837,8 +20840,8 @@
          <l pos="N">päret</l>
       </lg>
       <mg>
-         <tg>
-            <t>spon (aav tre, stein)</t>
+         <tg re="av tre, stein">
+            <t>spon</t>
          </tg>
       </mg>
    </e>
@@ -26933,8 +26936,8 @@
          <l pos="N">tietyömies</l>
       </lg>
       <mg>
-         <tg>
-            <t>mannlig veiarbeider</t>
+         <tg re="mannlig">
+            <t>veiarbeider</t>
          </tg>
       </mg>
    </e>
@@ -27753,8 +27756,8 @@
          <l pos="N">tullimies</l>
       </lg>
       <mg>
-         <tg>
-            <t>toller (mannlig)</t>
+         <tg re="mannlig">
+            <t>toller</t>
          </tg>
       </mg>
    </e>
@@ -28397,8 +28400,8 @@
          <l pos="N">työmies</l>
       </lg>
       <mg>
-         <tg>
-            <t>(mannlig) arbeider</t>
+         <tg re="mannlig">
+            <t>arbeider</t>
          </tg>
       </mg>
    </e>
