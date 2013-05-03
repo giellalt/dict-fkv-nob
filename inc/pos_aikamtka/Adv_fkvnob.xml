@@ -173,8 +173,8 @@
          <l pos="Adv">alkuaikhaan</l>
       </lg>
       <mg>
-         <tg>
-            <t>i begynnelsen (om tid)</t>
+         <tg re="om tid">
+            <t>i begynnelsen</t>
          </tg>
       </mg>
    </e>
@@ -491,8 +491,8 @@
          <l pos="Adv">enämppää</l>
       </lg>
       <mg>
-         <tg>
-            <t>mer (i nektende setninger)</t>
+         <tg re="i nektende setninger">
+            <t>mer</t>
             <xg>
                <x>mie en saata sannoot enämppää</x>
                <xt>jeg kan ikke si mer</xt>
@@ -1307,8 +1307,8 @@
          <l pos="Adv">kauvoimin</l>
       </lg>
       <mg>
-         <tg>
-            <t>lengere (om tid)</t>
+         <tg re="om tid">
+            <t>lengere</t>
          </tg>
       </mg>
    </e>
@@ -1556,8 +1556,8 @@
          <l pos="Adv">kovossa</l>
       </lg>
       <mg>
-         <tg>
-            <t>samlet (på et sted)</t>
+         <tg re="på et sted">
+            <t>samlet</t>
          </tg>
       </mg>
    </e>
@@ -1830,7 +1830,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(alt)for</t>
+            <t>altfor</t>
+            <t>for</t>
          </tg>
       </mg>
    </e>
@@ -2082,8 +2083,8 @@
          <l pos="Adv">makka</l>
       </lg>
       <mg>
-         <tg>
-            <t>liksom (når man tviler på det som blir sagt)</t>
+         <tg re="når man tviler på det som blir sagt">
+            <t>liksom</t>
          </tg>
       </mg>
    </e>
@@ -2182,13 +2183,12 @@
          <l pos="Adv">molemin</l>
       </lg>
       <mg>
-         <tg>
-            <t>sammen (om to)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>det er en stund siden dere har vært sammen i Nordreisa</t>
+         <tg re="om to">
+            <t>sammen</t>
+	    <xg>
+	      <x></x>
+	      <xt>det er en stund siden dere har vært sammen i Nordreisa</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -2207,8 +2207,8 @@
          <l pos="Adv">muka</l>
       </lg>
       <mg>
-         <tg>
-            <t>liksom (når en ikke tror på det som blir sagt)</t>
+         <tg re="når en ikke tror på det som blir sagt">
+            <t>liksom</t>
          </tg>
       </mg>
    </e>
@@ -2358,7 +2358,8 @@
       </lg>
       <mg>
          <tg>
-            <t>så (der)</t>
+            <t>så der</t>
+            <t>så</t>
          </tg>
       </mg>
       <mg>
@@ -2374,7 +2375,8 @@
       <mg>
          <tg>
             <t>vrengt</t>
-            <t>feil (vei)</t>
+            <t>feil</t>
+            <t>feil vei</t>
          </tg>
       </mg>
    </e>
@@ -2782,7 +2784,8 @@
       </lg>
       <mg>
          <tg>
-            <t>opp(reist)</t>
+            <t>oppreist</t>
+            <t>opp</t>
          </tg>
       </mg>
       <mg>
@@ -3758,8 +3761,8 @@
          <l pos="Adv">tuola</l>
       </lg>
       <mg>
-         <tg>
-            <t>der (borte)</t>
+         <tg re="~ borte">
+            <t>der</t>
          </tg>
       </mg>
    </e>
@@ -3778,8 +3781,8 @@
          <l pos="Adv">tuone</l>
       </lg>
       <mg>
-         <tg>
-            <t>dit (bort)</t>
+         <tg re="~ bort">
+            <t>dit</t>
          </tg>
       </mg>
       <mg>
@@ -3793,8 +3796,8 @@
          <l pos="Adv">tuossa</l>
       </lg>
       <mg>
-         <tg>
-            <t>der (borte)</t>
+         <tg re="~ borte">
+            <t>der</t>
          </tg>
       </mg>
    </e>
