@@ -170,8 +170,8 @@
          <l pos="A">aukinainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>åpen (f.eks. om båt)</t>
+         <tg re="f.eks. om båt">
+            <t>åpen</t>
          </tg>
       </mg>
    </e>
@@ -1268,13 +1268,12 @@
          <l pos="A">kaksinen</l>
       </lg>
       <mg>
-         <tg>
-            <t>særlig bra (i nektende setninger)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>de husene deres var ikke særlig bra</t>
+         <tg re="i nektende setninger">
+            <t>særlig bra</t>
+	    <xg>
+	      <x></x>
+	      <xt>de husene deres var ikke særlig bra</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -1483,8 +1482,8 @@
          <l pos="A">kevvee</l>
       </lg>
       <mg>
-         <tg>
-            <t>lett (ikke tung)</t>
+         <tg re="ikke tung">
+            <t>lett</t>
          </tg>
       </mg>
    </e>
@@ -2061,8 +2060,8 @@
          <l pos="A">lamu</l>
       </lg>
       <mg>
-         <tg>
-            <t>slett og vidstrakt (om områder)</t>
+         <tg re="om områder">
+            <t>slett og vidstrakt</t>
          </tg>
       </mg>
    </e>
@@ -2091,8 +2090,8 @@
          <l pos="A">lauha</l>
       </lg>
       <mg>
-         <tg>
-            <t>mild (om været)</t>
+         <tg re="om været">
+            <t>mild</t>
          </tg>
       </mg>
    </e>
@@ -2191,8 +2190,8 @@
          <l pos="A">likempi</l>
       </lg>
       <mg>
-         <tg>
-            <t>(den/det som er) nærmere</t>
+         <tg re="den eller det som er ~">
+            <t>nærmere</t>
          </tg>
       </mg>
    </e>
@@ -2557,7 +2556,8 @@
       </lg>
       <mg>
          <tg>
-            <t>syr(lig)</t>
+            <t>syr</t>
+            <t>syrlig</t>
          </tg>
       </mg>
    </e>
@@ -3385,8 +3385,8 @@
          <l pos="A">pituinen</l>
       </lg>
       <mg>
-         <tg>
-            <t>lang (om lengde)</t>
+         <tg re="om lengde">
+            <t>lang</t>
          </tg>
       </mg>
    </e>
@@ -3395,13 +3395,17 @@
          <l pos="A">pitukainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>lang (om lengde)</t>
+         <tg re="om lengde">
+	   <t>lang</t>
+	   <xg>
+	     <x></x>
+	     <xt>to meter lang</xt>
+	   </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>to meter lang</t>
+            <t></t>
          </tg>
       </mg>
    </e>
@@ -3624,8 +3628,8 @@
          <l pos="A">raharikas</l>
       </lg>
       <mg>
-         <tg>
-            <t>rik (av penger)</t>
+         <tg re="av penger">
+            <t>rik</t>
          </tg>
       </mg>
    </e>
@@ -3939,13 +3943,13 @@
          <l pos="A">sakkee</l>
       </lg>
       <mg>
-         <tg>
-            <t>tett (f.eks. skog)</t>
+         <tg re="f.eks. skog">
+            <t>tett</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>tykk (f.eks. suppe)</t>
+         <tg re="f.eks. suppe">
+            <t>tykk</t>
          </tg>
       </mg>
    </e>
@@ -4309,14 +4313,13 @@
          <l pos="A">suurukainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>stor (om omfang)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>stokk som er en kubikkmeter stor</t>
-         </tg>
+	<tg re="om omfang">
+	  <t>stor</t>
+	  <xg>
+	    <x></x>
+            <xt>stokk som er en kubikkmeter stor</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -4499,8 +4502,8 @@
          <l pos="A">tihhee</l>
       </lg>
       <mg>
-         <tg>
-            <t>tett (f. eks. skog)</t>
+         <tg re="f. eks. skog">
+            <t>tett</t>
          </tg>
       </mg>
    </e>
@@ -4519,8 +4522,8 @@
          <l pos="A">tinatyven</l>
       </lg>
       <mg>
-         <tg>
-            <t>helt stille (om vannet)</t>
+         <tg re="om vannet">
+            <t>helt stille</t>
          </tg>
       </mg>
    </e>
@@ -4529,8 +4532,8 @@
          <l pos="A">tivis</l>
       </lg>
       <mg>
-         <tg>
-            <t>tett (f.eks. en kar)</t>
+         <tg re="f.eks. en kar">
+            <t>tett</t>
          </tg>
       </mg>
    </e>
@@ -4664,8 +4667,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>fuktig (f.eks. jord)</t>
+         <tg re="f.eks. jord">
+            <t>fuktig</t>
          </tg>
       </mg>
    </e>
@@ -4795,7 +4798,7 @@
       </lg>
       <mg>
          <tg>
-            <t>slik (som denne/dette)</t>
+            <t re="~ som denne/dette">slik</t>
             <t>sånn her</t>
          </tg>
       </mg>
@@ -5000,8 +5003,8 @@
          <l pos="A">vaisto</l>
       </lg>
       <mg>
-         <tg>
-            <t>stille (om været)</t>
+         <tg re="om været">
+            <t>stille</t>
          </tg>
       </mg>
    </e>
@@ -5125,8 +5128,8 @@
          <l pos="A">vanhurskas</l>
       </lg>
       <mg>
-         <tg>
-            <t>(relig.) rettferdig</t>
+         <tg re="relig.">
+            <t>rettferdig</t>
          </tg>
       </mg>
    </e>
@@ -5764,8 +5767,8 @@
          <l pos="A">yksituumainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>enig (brukes vanligvis i flertall om gjensidige forhold)</t>
+         <tg re="brukes vanligvis i flertall om gjensidige forhold">
+            <t>enig</t>
          </tg>
       </mg>
       <mg>
@@ -5855,7 +5858,8 @@
       </lg>
       <mg>
          <tg>
-            <t>vammel(søt)</t>
+            <t>vammelsøt</t>
+            <t>vammel</t>
          </tg>
       </mg>
    </e>
