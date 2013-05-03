@@ -1557,8 +1557,8 @@
          <l pos="A">kirmee</l>
       </lg>
       <mg>
-         <tg>
-            <t>sur, bitter, skarp (om smak)</t>
+         <tg re="om smak">
+            <t>sur, bitter, skarp</t>
          </tg>
       </mg>
    </e>
@@ -2046,8 +2046,8 @@
          <l pos="A">lakso</l>
       </lg>
       <mg>
-         <tg>
-            <t>slett, jevn (av mark)</t>
+         <tg re="av mark">
+            <t>slett, jevn</t>
          </tg>
       </mg>
       <mg>
@@ -2161,8 +2161,8 @@
          <l pos="A">lieppee</l>
       </lg>
       <mg>
-         <tg>
-            <t>mild, svag (f.eks. kaffe eller annen væske)</t>
+         <tg re="f.eks. kaffe eller annen væske">
+            <t>mild, svag</t>
          </tg>
       </mg>
    </e>
@@ -4714,8 +4714,8 @@
          <l pos="A">tylsä</l>
       </lg>
       <mg>
-         <tg>
-            <t>sløv (om øks, kniv)</t>
+         <tg re="om øks, kniv">
+            <t>sløv</t>
          </tg>
       </mg>
    </e>
@@ -4795,7 +4795,8 @@
       </lg>
       <mg>
          <tg>
-            <t>slik (som denne/dette), sånn her</t>
+            <t>slik (som denne/dette)</t>
+            <t>sånn her</t>
          </tg>
       </mg>
    </e>
@@ -5484,8 +5485,8 @@
          <l pos="A">virtainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>strømmet, stri (om vann)</t>
+         <tg re="om vann">
+            <t>strømmet, stri</t>
          </tg>
       </mg>
    </e>
