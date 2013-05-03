@@ -80,8 +80,8 @@
          <l pos="V">akottuut</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli gift (om en mann)</t>
+         <tg re="om en mann">
+            <t>bli gift</t>
          </tg>
       </mg>
    </e>
@@ -345,7 +345,8 @@
       </lg>
       <mg>
          <tg>
-            <t>gå fram(over)</t>
+            <t>gå framover</t>
+            <t>gå fram</t>
          </tg>
       </mg>
    </e>
@@ -559,8 +560,8 @@
          <l pos="V">fläkätä</l>
       </lg>
       <mg>
-         <tg>
-            <t>kløyve, dele på langs (fisk)</t>
+         <tg re="fisk">
+            <t>kløyve, dele på langs</t>
          </tg>
       </mg>
    </e>
@@ -868,8 +869,8 @@
          <l pos="V">hauttoonttuut</l>
       </lg>
       <mg>
-         <tg>
-            <t>trekke, modnes (om mat)</t>
+         <tg re="om mat">
+            <t>trekke, modnes</t>
          </tg>
       </mg>
    </e>
@@ -1083,8 +1084,8 @@
          <l pos="V">hirnattaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>knegge (en gang)</t>
+         <tg re="en gang">
+            <t>knegge</t>
          </tg>
       </mg>
    </e>
@@ -1103,8 +1104,8 @@
          <l pos="V">hirttäät</l>
       </lg>
       <mg>
-         <tg>
-            <t>henge (en person)</t>
+         <tg re="en person">
+            <t>henge</t>
          </tg>
       </mg>
    </e>
@@ -1113,8 +1114,8 @@
          <l pos="V">hivelttyyt</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli vond (av ledd)</t>
+         <tg re="av ledd">
+            <t>bli vond</t>
          </tg>
       </mg>
    </e>
@@ -1943,8 +1944,8 @@
          <l pos="V">juottaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>lodde (med flytende metall)</t>
+         <tg re="med flytende metall">
+            <t>lodde</t>
          </tg>
       </mg>
       <mg>
@@ -2009,7 +2010,8 @@
       </lg>
       <mg>
          <tg>
-            <t>(av)kjøle</t>
+            <t>avkjøle</t>
+            <t>kjøle</t>
          </tg>
       </mg>
    </e>
@@ -2068,8 +2070,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>avbryte (for eks. studiene)</t>
+         <tg re="for eks. studiene">
+            <t>avbryte</t>
          </tg>
       </mg>
    </e>
@@ -2079,7 +2081,9 @@
       </lg>
       <mg>
          <tg>
-            <t>bli (igjen), forbli</t>
+            <t>bli igjen</t>
+            <t>bli</t>
+            <t>forbli</t>
          </tg>
       </mg>
       <mg>
@@ -2263,8 +2267,8 @@
          <l pos="V">kankkoot</l>
       </lg>
       <mg>
-         <tg>
-            <t>bryte opp (f.eks. stein, røtter osv.)</t>
+         <tg re="f.eks. stein, røtter osv.">
+            <t>bryte opp</t>
          </tg>
       </mg>
    </e>
@@ -2328,8 +2332,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>sette ut (garn, lin)</t>
+         <tg re="garn, lin">
+            <t>sette ut</t>
          </tg>
       </mg>
    </e>
@@ -2388,8 +2392,8 @@
          <l pos="V">karttuut</l>
       </lg>
       <mg>
-         <tg>
-            <t>øke (i antall)</t>
+         <tg re="i antall">
+            <t>øke</t>
          </tg>
       </mg>
    </e>
@@ -2483,8 +2487,8 @@
          <l pos="V">kattoskella</l>
       </lg>
       <mg>
-         <tg>
-            <t>se på (frekv.)</t>
+         <tg re="frekv.">
+            <t>se på</t>
          </tg>
       </mg>
    </e>
@@ -2568,8 +2572,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>male (om katten)</t>
+         <tg re="om katten">
+            <t>male</t>
          </tg>
       </mg>
    </e>
@@ -2699,7 +2703,9 @@
       </lg>
       <mg>
          <tg>
-            <t>holde (ut), tåle</t>
+            <t>holde ut</t>
+            <t>holde</t>
+            <t>tåle</t>
          </tg>
       </mg>
       <mg>
@@ -2738,8 +2744,8 @@
          <l pos="V">kiehattaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>koke (fort, en gang)</t>
+         <tg re="fort, en gang">
+            <t>koke</t>
          </tg>
       </mg>
    </e>
@@ -3878,8 +3884,8 @@
          <l pos="V">käänelä</l>
       </lg>
       <mg>
-         <tg>
-            <t>snu (frekv.)</t>
+         <tg re="frekv.">
+            <t>snu</t>
          </tg>
       </mg>
    </e>
@@ -3889,7 +3895,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snu (seg)</t>
+            <t>snu seg</t>
+            <t>snu</t>
          </tg>
       </mg>
    </e>
@@ -4024,7 +4031,9 @@
       </lg>
       <mg>
          <tg>
-            <t>falle (på), snuble</t>
+            <t>falle på</t>
+            <t>falle</t>
+            <t>snuble</t>
          </tg>
       </mg>
    </e>
@@ -4058,7 +4067,9 @@
       </lg>
       <mg>
          <tg>
-            <t>legge (ned/på)</t>
+            <t>legge</t>
+            <t>legge ned</t>
+            <t>legge på</t>
          </tg>
       </mg>
       <mg>
@@ -4068,7 +4079,8 @@
       </mg>
       <mg>
          <tg>
-            <t>ferdes nedover, lande</t>
+            <t>ferdes nedover</t>
+            <t>lande</t>
          </tg>
       </mg>
       <mg>
@@ -4137,8 +4149,8 @@
          <l pos="V">lauttuut</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli mildere (om været)</t>
+         <tg re="om været">
+            <t>bli mildere</t>
          </tg>
       </mg>
    </e>
@@ -4177,8 +4189,8 @@
          <l pos="V">leikkoot</l>
       </lg>
       <mg>
-         <tg>
-            <t>klippe (i stykker)</t>
+         <tg re="i stykker">
+            <t>klippe</t>
          </tg>
       </mg>
    </e>
@@ -4238,7 +4250,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hvile (seg)</t>
+            <t>hvile seg</t>
+            <t>hvile</t>
          </tg>
       </mg>
    </e>
@@ -4272,8 +4285,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>røre (f.eks. grøt)</t>
+         <tg re="f.eks. grøt">
+            <t>røre</t>
          </tg>
       </mg>
    </e>
@@ -4382,8 +4395,8 @@
          <l pos="V">lohjeta</l>
       </lg>
       <mg>
-         <tg>
-            <t>løsne, falle av (en bit)</t>
+         <tg re="en bit">
+            <t>løsne, falle av</t>
          </tg>
       </mg>
    </e>
@@ -4737,8 +4750,8 @@
          <l pos="V">lähđetyttäät</l>
       </lg>
       <mg>
-         <tg>
-            <t>ta bort (f.eks. smuts)</t>
+         <tg re="f.eks. smuts">
+            <t>ta bort</t>
          </tg>
       </mg>
    </e>
@@ -4822,8 +4835,8 @@
          <l pos="V">maalata</l>
       </lg>
       <mg>
-         <tg>
-            <t>male (f.eks. vegg)</t>
+         <tg re="f.eks. vegg">
+            <t>male</t>
          </tg>
       </mg>
    </e>
@@ -5372,8 +5385,8 @@
          <l pos="V">nilottaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>flekke (f.eks. bark)</t>
+         <tg re="f.eks. bark">
+            <t>flekke</t>
          </tg>
       </mg>
    </e>
@@ -5627,8 +5640,8 @@
          <l pos="V">oijeta</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli strak(ere), bli rett(ere)</t>
+         <tg re="~ere">
+            <t>bli strak, bli rett</t>
          </tg>
       </mg>
    </e>
@@ -5757,8 +5770,8 @@
          <l pos="V">onkkiit</l>
       </lg>
       <mg>
-         <tg>
-            <t>fiske (med stang)</t>
+         <tg re="med stang">
+            <t>fiske</t>
          </tg>
       </mg>
    </e>
@@ -5828,7 +5841,8 @@
       </lg>
       <mg>
          <tg>
-            <t>lære (seg)</t>
+            <t>lære seg</t>
+            <t>lære</t>
          </tg>
       </mg>
    </e>
@@ -5837,8 +5851,8 @@
          <l pos="V">osata</l>
       </lg>
       <mg>
-         <tg>
-            <t>treffe (når man sikter)</t>
+         <tg re="når man sikter">
+            <t>treffe</t>
          </tg>
       </mg>
       <mg>
@@ -5948,12 +5962,12 @@
       </lg>
       <mg>
          <tg>
-            <t>svulme, ese, svulme opp, svelle</t>
+            <t>svulme, svulme opp, ese, svelle</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>stige (av flo)</t>
+         <tg re="av flo">
+            <t>stige</t>
          </tg>
       </mg>
    </e>
@@ -6226,8 +6240,8 @@
          <l pos="V">paukattaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>smelle (en gang)</t>
+         <tg re="en gang">
+            <t>smelle</t>
          </tg>
       </mg>
    </e>
@@ -6296,8 +6310,8 @@
          <l pos="V">pelata</l>
       </lg>
       <mg>
-         <tg>
-            <t>spille (kort, musikk osv.)</t>
+         <tg re="kort, musikk osv.">
+            <t>spille</t>
          </tg>
       </mg>
    </e>
@@ -6695,8 +6709,8 @@
          <l pos="V">potkaista</l>
       </lg>
       <mg>
-         <tg>
-            <t>sparke (en gang)</t>
+         <tg re="en gang">
+            <t>sparke</t>
          </tg>
       </mg>
    </e>
@@ -7205,7 +7219,8 @@
       </lg>
       <mg>
          <tg>
-            <t>bestemme (seg)</t>
+            <t>bestemme seg</t>
+            <t>bestemme</t>
          </tg>
       </mg>
    </e>
@@ -7309,8 +7324,8 @@
          <l pos="V">raivata</l>
       </lg>
       <mg>
-         <tg>
-            <t>rydde (f.eks. jord)</t>
+         <tg re="f.eks. jord">
+            <t>rydde</t>
          </tg>
       </mg>
    </e>
@@ -7374,8 +7389,8 @@
          <l pos="V">ratkaista</l>
       </lg>
       <mg>
-         <tg>
-            <t>løse, sprette (en søm)</t>
+         <tg re="en søm">
+            <t>løse, sprette</t>
          </tg>
       </mg>
    </e>
@@ -7394,8 +7409,8 @@
          <l pos="V">ratkoot</l>
       </lg>
       <mg>
-         <tg>
-            <t>sprette opp, skille ut (rein)</t>
+         <tg re="rein">
+            <t>sprette opp, skille ut</t>
          </tg>
       </mg>
    </e>
@@ -7544,8 +7559,8 @@
          <l pos="V">ristiit</l>
       </lg>
       <mg>
-         <tg>
-            <t>døpe (i kirka ev en prest)</t>
+         <tg re="i kirka ev en prest">
+            <t>døpe</t>
          </tg>
       </mg>
    </e>
@@ -7564,8 +7579,8 @@
          <l pos="V">rokastaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>kleppe (fisk i krok)</t>
+         <tg re="fisk i krok">
+            <t>kleppe</t>
          </tg>
       </mg>
    </e>
@@ -7625,12 +7640,12 @@
       </lg>
       <mg>
          <tg>
-            <t>bygge (på)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>jeg går ut fra at jeg får fisk</t>
+            <t>bygge på</t>
+            <t>bygge</t>
+	    <xg>
+	      <x></x>
+	      <xt>jeg går ut fra at jeg får fisk</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -7769,8 +7784,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>følge (f.eks. hjem)</t>
+         <tg re="f.eks. hjem">
+            <t>følge</t>
          </tg>
       </mg>
    </e>
@@ -7899,8 +7914,8 @@
          <l pos="V">saunoot</l>
       </lg>
       <mg>
-         <tg>
-            <t>bade (i badstu eller i vannet)</t>
+         <tg re="i badstu eller i vannet">
+            <t>bade</t>
          </tg>
       </mg>
    </e>
@@ -8189,8 +8204,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>renne bort (om vannet i fjæra)</t>
+         <tg re="om vannet i fjæra">
+            <t>renne bort</t>
          </tg>
       </mg>
    </e>
@@ -8440,7 +8455,8 @@
       </lg>
       <mg>
          <tg>
-            <t>salte (ned)</t>
+            <t>salte ned</t>
+            <t>salte</t>
          </tg>
       </mg>
    </e>
@@ -8595,7 +8611,9 @@
       </lg>
       <mg>
          <tg>
-            <t>(opp)bevare, beholde</t>
+            <t>oppbevare</t>
+            <t>bevare</t>
+            <t>beholde</t>
          </tg>
       </mg>
    </e>
@@ -8685,7 +8703,9 @@
       </lg>
       <mg>
          <tg>
-            <t>ville (ha), ønske</t>
+            <t>ville ha</t>
+            <t>ville</t>
+            <t>ønske</t>
          </tg>
       </mg>
    </e>
@@ -9147,8 +9167,8 @@
          <l pos="V">triivata</l>
       </lg>
       <mg>
-         <tg>
-            <t>drive (f.eks. foretak)</t>
+         <tg re="f.eks. foretak">
+            <t>drive</t>
          </tg>
       </mg>
    </e>
@@ -9277,14 +9297,18 @@
          <l pos="V">tulla</l>
       </lg>
       <mg>
-         <tg>
-            <t>komme; bli</t>
-         </tg>
+	<tg>
+	  <t>komme</t>
+	  <xg>
+	    <x></x>
+	    <xt>jeg er på vei (fra)</xt>
+	  </xg>
+	</tg>
       </mg>
       <mg>
-         <tg>
-            <t>jeg er på vei (fra)</t>
-         </tg>
+	<tg>
+	  <t>bli</t>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -9337,8 +9361,8 @@
          <l pos="V">tuohustaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>lystre (etter fisk)</t>
+         <tg re="etter fisk">
+            <t>lystre</t>
          </tg>
       </mg>
    </e>
@@ -9417,8 +9441,8 @@
          <l pos="V">tyyhetä</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli tom(mere)</t>
+         <tg re="~mere">
+            <t>bli tom</t>
          </tg>
       </mg>
    </e>
@@ -9427,8 +9451,8 @@
          <l pos="V">tyyrätä</l>
       </lg>
       <mg>
-         <tg>
-            <t>styre (spes. på ski, bil o.l.)</t>
+         <tg re="spes. på ski, bil o.l.">
+            <t>styre</t>
          </tg>
       </mg>
    </e>
@@ -9477,8 +9501,8 @@
          <l val="IV" pos="V">täyttyyt</l>
       </lg>
       <mg>
-         <tg>
-            <t>bli full (f.eks. av vann)</t>
+         <tg re="f.eks. av vann">
+            <t>bli full</t>
          </tg>
       </mg>
    </e>
@@ -9487,14 +9511,13 @@
          <l val="TV" pos="V">täyttäät</l>
       </lg>
       <mg>
-         <tg>
-            <t>fylle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>hun/han ble femten år</t>
-         </tg>
+	<tg>
+	  <t>fylle</t>
+	  <xg>
+	    <x></x>
+	    <xt>hun/han ble femten år</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -9563,12 +9586,13 @@
       </lg>
       <mg>
          <tg>
-            <t>nå (til), rekke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>beskjeden nådde alle</t>
+            <t>nå til</t>
+            <t>nå</t>
+            <t>rekke</t>
+	    <xg>
+	      <x></x>
+	      <xt>beskjeden nådde alle</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -9851,8 +9875,8 @@
          <l pos="V">vaistota</l>
       </lg>
       <mg>
-         <tg>
-            <t>stilne (om været)</t>
+         <tg re="om været">
+            <t>stilne</t>
          </tg>
       </mg>
    </e>
@@ -10031,13 +10055,13 @@
          <l pos="V">vanuttaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>tove (f.eks. votter)</t>
+         <tg re="f.eks. votter">
+            <t>tove</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <t>gna (deig)</t>
+         <tg re="deig">
+            <t>gna</t>
          </tg>
       </mg>
    </e>
@@ -10288,7 +10312,8 @@
       <mg>
          <tg>
             <t>drøye</t>
-            <t>bli (lenge)</t>
+            <t>bli</t>
+            <t>bli lenge</t>
          </tg>
       </mg>
    </e>
@@ -10334,7 +10359,8 @@
       <mg>
          <tg>
             <t>drøye</t>
-            <t>bli (lenge)</t>
+            <t>bli</t>
+            <t>bli lenge</t>
          </tg>
       </mg>
    </e>
@@ -10353,8 +10379,8 @@
          <l pos="V">viljelä</l>
       </lg>
       <mg>
-         <tg>
-            <t>dyrke (jord)</t>
+         <tg re="jord">
+            <t>dyrke</t>
          </tg>
       </mg>
    </e>
@@ -10627,8 +10653,8 @@
          <l pos="V">väävätä</l>
       </lg>
       <mg>
-         <tg>
-            <t>veve (med vevestol)</t>
+         <tg re="med vevestol">
+            <t>veve</t>
          </tg>
       </mg>
    </e>
