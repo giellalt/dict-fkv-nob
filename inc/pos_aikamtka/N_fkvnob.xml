@@ -11644,20 +11644,25 @@
       </mg>
    </e>
    <e src="ai">
-      <lg>
-         <l pos="N">lahti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>bukt</t>
-            <t>vik</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>slakt</t>
-         </tg>
-      </mg>
+    <lg>
+     <l decl="n_21ie" pos="N">lahti</l>
+    </lg>
+    <mg>
+     <tg>
+       <t>vik</t>
+       <t>bukt</t>
+     </tg>
+    </mg>
+   </e>
+   <e src="ai">
+    <lg>
+     <l decl="n_21" pos="N">lahti</l>
+    </lg>
+    <mg>
+     <tg>
+       <t>slakt</t>
+     </tg>
+    </mg>
    </e>
    <e src="ai">
       <lg>

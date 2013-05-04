@@ -1960,17 +1960,6 @@ For the full license text, see the link above.</lic>
 
    <e src="ai">
     <lg>
-     <l pos="N">asumakumppani</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>samboer</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
      <l pos="Adv">asumalaila</l>
     </lg>
     <mg>
@@ -9846,12 +9835,6 @@ For the full license text, see the link above.</lic>
        <t>selv</t>
      </tg>
     </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Pron">itte</l>
-    </lg>
     <mg>
      <tg>
        <t>seg selv</t>
@@ -10413,35 +10396,29 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="Pron">joka</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>hver</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>hver og en</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>annenhver</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Pron">joka</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>som</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>som</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>hver</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>hver og en</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>annenhver</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -13786,24 +13763,24 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="V">karssiit</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kviste</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>ruse, storme</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>den galningen angrep meg</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="V">karssiit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>ta bort</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>kviste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ruse, storme</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -13905,17 +13882,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>bås, binge</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="V">karssiit</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kviste, ta bort (f.eks. skog, fordeler)</t>
      </tg>
     </mg>
    </e>
@@ -15369,35 +15335,24 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="V">keritä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>rekke, ha tid til</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>jeg har tid</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>bli ferdig</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="V">keritä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>klippe (sau)</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="V">keritä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>rekke, ha tid til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bli ferdig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>klippe sau</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -18881,17 +18836,6 @@ For the full license text, see the link above.</lic>
 
    <e src="ai">
     <lg>
-     <l pos="N">kranni</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>nabo</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
      <l nr="Pl" pos="N">krannikset</l>
     </lg>
     <mg>
@@ -20567,12 +20511,6 @@ For the full license text, see the link above.</lic>
        <t>gyte</t>
      </tg>
     </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="V">kuttoot</l>
-    </lg>
     <mg>
      <tg>
        <t>strikke</t>
@@ -21193,30 +21131,20 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="N">kylvö</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>såing, sæd</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">kylvö</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>såing, setting (av høy, korn, poteter osv.)</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>sæd</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="N">kylvö</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>såing</t>
+            <t>setting av høy, korn, poteter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>sæd</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -22380,18 +22308,19 @@ For the full license text, see the link above.</lic>
 
    <e src="ai">
     <lg>
-     <l pos="N">lahti</l>
+     <l decl="n_21ie" pos="N">lahti</l>
     </lg>
     <mg>
      <tg>
-       <t>vik. bukt</t>
+       <t>vik</t>
+       <t>bukt</t>
      </tg>
     </mg>
    </e>
 
    <e src="ai">
     <lg>
-     <l pos="N">lahti</l>
+     <l decl="n_21" pos="N">lahti</l>
     </lg>
     <mg>
      <tg>
@@ -24587,28 +24516,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>litermål</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">litteratuuri</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>litteratur</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">litteri</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>liter</t>
      </tg>
     </mg>
    </e>
@@ -30008,17 +29915,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>nasjonalisme</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">nauha</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>bånd</t>
      </tg>
     </mg>
    </e>
@@ -38400,12 +38296,6 @@ For the full license text, see the link above.</lic>
        <t>tyttebær</t>
      </tg>
     </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">puola</l>
-    </lg>
     <mg>
      <tg>
        <t>spole, snelle</t>
@@ -38899,35 +38789,28 @@ For the full license text, see the link above.</lic>
     </mg>
    </e>
 
-   <e src="ai">
-    <lg>
-     <l pos="V">puuttuut</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>dovne</t>
-       <xg>
-         <x>minun oon jalka puutunu</x>
-         <xt>foten min dovnet av</xt>
-       </xg>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="V">puuttuut</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>legge seg opp i</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>mangle</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="V">puuttuut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>dovne</t>
+            <xg>
+               <x>minun oon jalka puutunu</x>
+               <xt>foten min dovnet av</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>legge seg opp i</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>mangle</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -40696,16 +40579,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>bevegelseshemmet</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">rampa</l>
-    </lg>
-    <mg>
-     <tg>
        <t>krøpling</t>
      </tg>
     </mg>
@@ -48948,30 +48821,23 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="V">taittaat</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>bryte, brekke, knekke</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="V">taittaat</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>være kanskje/vel</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>det er vel vår</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="V">taittaat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>være kanskje/vel</t>
+          <xg>
+            <x>Taittaat olla kevät</x>
+            <xt>det er vel vår</xt>
+          </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bryte, brekke, knekke</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -49725,17 +49591,6 @@ For the full license text, see the link above.</lic>
 
    <e src="ai">
     <lg>
-     <l pos="Adv">tarkasti</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>nøye</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
      <l pos="Adv">tarkemin</l>
     </lg>
     <mg>
@@ -50068,18 +49923,7 @@ For the full license text, see the link above.</lic>
      </tg>
     </mg>
    </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="A">teknilinen</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>teknisk</t>
-     </tg>
-    </mg>
-   </e>
-
+   
    <e src="ai">
     <lg>
      <l pos="A">teknilinen</l>
@@ -50098,17 +49942,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>gjerning, verk</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">teko</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>gjerning</t>
      </tg>
     </mg>
    </e>
@@ -50503,30 +50336,14 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="N">tieto</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kunnskap, kjennskap</t>
-     </tg>
-    </mg>
-    <mg>
-     <tg>
-       <t>fikk vite</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="N">tieto</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kunnskap</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="N">tieto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>kunnskap</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -56524,17 +56341,6 @@ For the full license text, see the link above.</lic>
 
    <e src="ai">
     <lg>
-     <l pos="N">vasikka</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kalv</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
      <l pos="Adv">vasiten</l>
     </lg>
     <mg>
@@ -58246,17 +58052,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>mye, rikelig</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l nr="Pl" pos="N">viljat</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>kjede</t>
      </tg>
     </mg>
    </e>
@@ -60292,36 +60087,14 @@ For the full license text, see the link above.</lic>
    </e>
 
    <e src="ai">
-    <lg>
-     <l pos="Adv">ylenmääräisesti</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>overstømmende, i overflod</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Adv">ylheensä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>i allminnelighet, som regel, vanligvis</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Adv">ylheensä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>som regel, vanligvis</t>
-     </tg>
-    </mg>
+      <lg>
+         <l pos="Adv">ylheensä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>i allminnelighet, som regel, vanligvis</t>
+         </tg>
+      </mg>
    </e>
 
    <e src="ai">
@@ -60364,28 +60137,6 @@ For the full license text, see the link above.</lic>
     <mg>
      <tg>
        <t>opp i fra</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Adv">ylhäältä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>opp i fra</t>
-     </tg>
-    </mg>
-   </e>
-
-   <e src="ai">
-    <lg>
-     <l pos="Adv">ylhäälä</l>
-    </lg>
-    <mg>
-     <tg>
-       <t>oppe</t>
      </tg>
     </mg>
    </e>
