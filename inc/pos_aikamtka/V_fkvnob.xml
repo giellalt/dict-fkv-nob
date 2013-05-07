@@ -1199,7 +1199,8 @@
       <mg>
          <tg>
             <t>komme på</t>
-            <t>finne på/ut</t>
+            <t>finne på</t>
+            <t>finne ut</t>
          </tg>
       </mg>
    </e>
@@ -1538,7 +1539,7 @@
       <mg>
          <tg>
             <t>være redd</t>
-            <t>bekymret</t>
+            <t>være bekymret</t>
          </tg>
       </mg>
    </e>
@@ -2398,14 +2399,8 @@
          <l pos="V">kanttaat</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="kalve, lamme">
             <t>bære</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>kalve</t>
-            <t>lamme osv.</t>
          </tg>
       </mg>
    </e>
@@ -5081,16 +5076,14 @@
          <l pos="V">mahtaat</l>
       </lg>
       <mg>
-         <tg>
-            <t>kunne</t>
-            <t>mon tro</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>Hva er dette</t>
-            <t>mon tro?</t>
-         </tg>
+	<tg>
+	  <t>kunne</t>
+	  <t>mon tro</t>
+	  <xg>
+	    <x></x>
+            <xt>Hva er dette, mon tro?</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -6821,7 +6814,7 @@
       <mg>
          <tg>
             <t>bli ødelagt</t>
-            <t>skjemt</t>
+            <t>bli skjemt</t>
          </tg>
       </mg>
    </e>
@@ -7484,8 +7477,8 @@
       <mg>
          <tg>
             <t>bli svimmel</t>
-            <t>konfjust</t>
-            <t>forvirret</t>
+            <t>bli konfjust</t>
+            <t>bli forvirret</t>
          </tg>
       </mg>
    </e>
@@ -8270,7 +8263,8 @@
       <mg>
          <tg>
             <t>hende</t>
-            <t>komme/skje tilfeldigvis</t>
+            <t>komme tilfeldigvis</t>
+            <t>skje tilfeldigvis</t>
          </tg>
       </mg>
    </e>
@@ -11076,7 +11070,7 @@
       <mg>
          <tg>
             <t>bli dårligere</t>
-            <t>værre</t>
+            <t>bli værre</t>
          </tg>
       </mg>
    </e>
