@@ -36,7 +36,9 @@
       </lg>
       <mg>
          <tg>
-            <t>begjærlig, grådig, ivrig</t>
+            <t>begjærlig</t>
+            <t>grådig</t>
+            <t>ivrig</t>
          </tg>
       </mg>
    </e>
@@ -46,7 +48,8 @@
       </lg>
       <mg>
          <tg>
-            <t>anselig, staselig</t>
+            <t>anselig</t>
+            <t>staselig</t>
          </tg>
       </mg>
    </e>
@@ -96,7 +99,8 @@
       </lg>
       <mg>
          <tg>
-            <t>grei, kjekk</t>
+            <t>grei</t>
+            <t>kjekk</t>
          </tg>
       </mg>
    </e>
@@ -116,7 +120,10 @@
       </lg>
       <mg>
          <tg>
-            <t>streng, flittig, utholdende, ivrig</t>
+            <t>streng</t>
+            <t>flittig</t>
+            <t>utholdende</t>
+            <t>ivrig</t>
          </tg>
       </mg>
       <mg>
@@ -131,7 +138,8 @@
       </lg>
       <mg>
          <tg>
-            <t>sky, skygg</t>
+            <t>sky</t>
+            <t>skygg</t>
          </tg>
       </mg>
    </e>
@@ -275,13 +283,13 @@
          </tg>
       </mg>
       <mg>
-	<tg>
-	  <t>neste</t>
-	  <xg>
-	    <x></x>
-	    <xt>neste gang</xt>
-	  </xg>
-	</tg>
+         <tg>
+            <t>neste</t>
+            <xg>
+	              <x/>
+	              <xt>neste gang</xt>
+	           </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai">
@@ -300,7 +308,8 @@
       </lg>
       <mg>
          <tg>
-            <t>mistroisk, mistenksom</t>
+            <t>mistroisk</t>
+            <t>mistenksom</t>
          </tg>
       </mg>
    </e>
@@ -390,7 +399,8 @@
       </lg>
       <mg>
          <tg>
-            <t>spesiell, merkelig</t>
+            <t>spesiell</t>
+            <t>merkelig</t>
          </tg>
       </mg>
    </e>
@@ -400,7 +410,8 @@
       </lg>
       <mg>
          <tg>
-            <t>spesiell, bestemt</t>
+            <t>spesiell</t>
+            <t>bestemt</t>
          </tg>
       </mg>
    </e>
@@ -455,7 +466,8 @@
       </lg>
       <mg>
          <tg>
-            <t>fin, vakker</t>
+            <t>fin</t>
+            <t>vakker</t>
          </tg>
       </mg>
       <mg>
@@ -524,7 +536,8 @@
       </lg>
       <mg>
          <tg>
-            <t>spredt, usammenhengende</t>
+            <t>spredt</t>
+            <t>usammenhengende</t>
          </tg>
       </mg>
    </e>
@@ -544,7 +557,8 @@
       </lg>
       <mg>
          <tg>
-            <t>besværlig, ubekvem</t>
+            <t>besværlig</t>
+            <t>ubekvem</t>
          </tg>
       </mg>
    </e>
@@ -564,7 +578,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snar, kvikk</t>
+            <t>snar</t>
+            <t>kvikk</t>
          </tg>
       </mg>
    </e>
@@ -614,7 +629,8 @@
       </lg>
       <mg>
          <tg>
-            <t>sjelden, uvanlig</t>
+            <t>sjelden</t>
+            <t>uvanlig</t>
          </tg>
       </mg>
    </e>
@@ -624,7 +640,9 @@
       </lg>
       <mg>
          <tg>
-            <t>morsom, artig, trivelig</t>
+            <t>morsom</t>
+            <t>artig</t>
+            <t>trivelig</t>
          </tg>
       </mg>
    </e>
@@ -669,7 +687,8 @@
       </mg>
       <mg>
          <tg>
-            <t>lett, snar</t>
+            <t>lett</t>
+            <t>snar</t>
          </tg>
       </mg>
    </e>
@@ -680,14 +699,14 @@
       <mg>
          <tg>
             <t>herrelös</t>
-	    <xg>
-	      <x></x>
-	      <xt>Du store min tid!</xt>
-	    </xg>
-	    <xg>
-	      <x></x>
-	      <xt>Gud bevare!</xt>
-	    </xg>
+            <xg>
+	              <x/>
+	              <xt>Du store min tid!</xt>
+	           </xg>
+            <xg>
+	              <x/>
+	              <xt>Gud bevare!</xt>
+	           </xg>
          </tg>
       </mg>
    </e>
@@ -697,7 +716,8 @@
       </lg>
       <mg>
          <tg>
-            <t>herrskapelig, herraktig</t>
+            <t>herrskapelig</t>
+            <t>herraktig</t>
          </tg>
       </mg>
    </e>
@@ -707,7 +727,8 @@
       </lg>
       <mg>
          <tg>
-            <t>langsom, treg</t>
+            <t>langsom</t>
+            <t>treg</t>
          </tg>
       </mg>
    </e>
@@ -742,7 +763,8 @@
       </lg>
       <mg>
          <tg>
-            <t>veldig stor, enorm</t>
+            <t>veldig stor</t>
+            <t>enorm</t>
          </tg>
       </mg>
    </e>
@@ -787,7 +809,8 @@
       </lg>
       <mg>
          <tg>
-            <t>slank, tynn</t>
+            <t>slank</t>
+            <t>tynn</t>
          </tg>
       </mg>
    </e>
@@ -817,7 +840,9 @@
       </lg>
       <mg>
          <tg>
-            <t>snurrig, kostelig, komisk</t>
+            <t>snurrig</t>
+            <t>kostelig</t>
+            <t>komisk</t>
          </tg>
       </mg>
    </e>
@@ -877,7 +902,8 @@
       </lg>
       <mg>
          <tg>
-            <t>god, bra</t>
+            <t>god</t>
+            <t>bra</t>
          </tg>
       </mg>
    </e>
@@ -927,7 +953,9 @@
       </lg>
       <mg>
          <tg>
-            <t>sprø, tåpelig, tullete</t>
+            <t>sprø</t>
+            <t>tåpelig</t>
+            <t>tullete</t>
          </tg>
       </mg>
    </e>
@@ -947,7 +975,8 @@
       </lg>
       <mg>
          <tg>
-            <t>deilig, nydelig</t>
+            <t>deilig</t>
+            <t>nydelig</t>
          </tg>
       </mg>
    </e>
@@ -991,7 +1020,8 @@
       </lg>
       <mg>
          <tg>
-            <t>trasig, trist</t>
+            <t>trasig</t>
+            <t>trist</t>
          </tg>
       </mg>
    </e>
@@ -1001,7 +1031,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ekkel, slem</t>
+            <t>ekkel</t>
+            <t>slem</t>
          </tg>
       </mg>
    </e>
@@ -1131,7 +1162,8 @@
       </lg>
       <mg>
          <tg>
-            <t>unødvendig, unyttig</t>
+            <t>unødvendig</t>
+            <t>unyttig</t>
          </tg>
       </mg>
    </e>
@@ -1141,7 +1173,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snar, rask</t>
+            <t>snar</t>
+            <t>rask</t>
          </tg>
       </mg>
    </e>
@@ -1181,7 +1214,8 @@
       </lg>
       <mg>
          <tg>
-            <t>den/det siste, den/det som kommer etter</t>
+            <t>den/det siste</t>
+            <t>den/det som kommer etter</t>
          </tg>
       </mg>
    </e>
@@ -1292,10 +1326,10 @@
       <mg>
          <tg re="i nektende setninger">
             <t>særlig bra</t>
-	    <xg>
-	      <x></x>
-	      <xt>de husene deres var ikke særlig bra</xt>
-	    </xg>
+            <xg>
+	              <x/>
+	              <xt>de husene deres var ikke særlig bra</xt>
+	           </xg>
          </tg>
       </mg>
    </e>
@@ -1345,7 +1379,8 @@
       </lg>
       <mg>
          <tg>
-            <t>skeiv, skrå</t>
+            <t>skeiv</t>
+            <t>skrå</t>
          </tg>
       </mg>
    </e>
@@ -1435,7 +1470,8 @@
       </lg>
       <mg>
          <tg>
-            <t>vakker, pen</t>
+            <t>vakker</t>
+            <t>pen</t>
          </tg>
       </mg>
    </e>
@@ -1445,7 +1481,9 @@
       </lg>
       <mg>
          <tg>
-            <t>lur, listig, slu</t>
+            <t>lur</t>
+            <t>listig</t>
+            <t>slu</t>
          </tg>
       </mg>
    </e>
@@ -1559,7 +1597,9 @@
       </lg>
       <mg>
          <tg>
-            <t>fargerik, brokete, med mange farger</t>
+            <t>fargerik</t>
+            <t>brokete</t>
+            <t>med mange farger</t>
          </tg>
       </mg>
    </e>
@@ -1579,7 +1619,9 @@
       </lg>
       <mg>
          <tg re="om smak">
-            <t>sur, bitter, skarp</t>
+            <t>sur</t>
+            <t>bitter</t>
+            <t>skarp</t>
          </tg>
       </mg>
    </e>
@@ -1589,7 +1631,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hard, fast</t>
+            <t>hard</t>
+            <t>fast</t>
          </tg>
       </mg>
    </e>
@@ -1673,7 +1716,9 @@
       </lg>
       <mg>
          <tg>
-            <t>forferdelig, stygg, skremmende</t>
+            <t>forferdelig</t>
+            <t>stygg</t>
+            <t>skremmende</t>
          </tg>
       </mg>
    </e>
@@ -1683,7 +1728,9 @@
       </lg>
       <mg>
          <tg>
-            <t>staselig, flott, prektig</t>
+            <t>staselig</t>
+            <t>flott</t>
+            <t>prektig</t>
          </tg>
       </mg>
    </e>
@@ -1733,7 +1780,8 @@
       </lg>
       <mg>
          <tg>
-            <t>pen, nett</t>
+            <t>pen</t>
+            <t>nett</t>
          </tg>
       </mg>
    </e>
@@ -1773,7 +1821,9 @@
       </lg>
       <mg>
          <tg>
-            <t>hård, sterk, stiv</t>
+            <t>hård</t>
+            <t>sterk</t>
+            <t>stiv</t>
          </tg>
       </mg>
    </e>
@@ -1793,12 +1843,15 @@
       </lg>
       <mg>
          <tg>
-            <t>nøye, var, kressen</t>
+            <t>nøye</t>
+            <t>var</t>
+            <t>kressen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>er du kresen, da får du være uten mat</t>
+            <t>er du kresen</t>
+            <t>da får du være uten mat</t>
          </tg>
       </mg>
    </e>
@@ -1908,7 +1961,8 @@
       </lg>
       <mg>
          <tg>
-            <t>het, varm</t>
+            <t>het</t>
+            <t>varm</t>
          </tg>
       </mg>
    </e>
@@ -1938,7 +1992,8 @@
       </lg>
       <mg>
          <tg>
-            <t>moden, ferdig</t>
+            <t>moden</t>
+            <t>ferdig</t>
          </tg>
       </mg>
    </e>
@@ -1948,7 +2003,8 @@
       </lg>
       <mg>
          <tg>
-            <t>kvikk, snar</t>
+            <t>kvikk</t>
+            <t>snar</t>
          </tg>
       </mg>
    </e>
@@ -1988,7 +2044,8 @@
       </lg>
       <mg>
          <tg>
-            <t>krum, buet</t>
+            <t>krum</t>
+            <t>buet</t>
          </tg>
       </mg>
    </e>
@@ -2008,7 +2065,8 @@
       </lg>
       <mg>
          <tg>
-            <t>bred, åpen</t>
+            <t>bred</t>
+            <t>åpen</t>
          </tg>
       </mg>
    </e>
@@ -2018,7 +2076,9 @@
       </lg>
       <mg>
          <tg>
-            <t>flat, jevn, vid</t>
+            <t>flat</t>
+            <t>jevn</t>
+            <t>vid</t>
          </tg>
       </mg>
    </e>
@@ -2048,7 +2108,8 @@
       </lg>
       <mg>
          <tg>
-            <t>morken, råtten</t>
+            <t>morken</t>
+            <t>råtten</t>
          </tg>
       </mg>
    </e>
@@ -2068,7 +2129,8 @@
       </lg>
       <mg>
          <tg re="av mark">
-            <t>slett, jevn</t>
+            <t>slett</t>
+            <t>jevn</t>
          </tg>
       </mg>
       <mg>
@@ -2183,7 +2245,8 @@
       </lg>
       <mg>
          <tg re="f.eks. kaffe eller annen væske">
-            <t>mild, svag</t>
+            <t>mild</t>
+            <t>svag</t>
          </tg>
       </mg>
    </e>
@@ -2193,7 +2256,8 @@
       </lg>
       <mg>
          <tg>
-            <t>lav, svag</t>
+            <t>lav</t>
+            <t>svag</t>
          </tg>
       </mg>
    </e>
@@ -2303,7 +2367,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hard, sterk</t>
+            <t>hard</t>
+            <t>sterk</t>
          </tg>
       </mg>
    </e>
@@ -2393,7 +2458,8 @@
       </lg>
       <mg>
          <tg>
-            <t>løs, sprø</t>
+            <t>løs</t>
+            <t>sprø</t>
          </tg>
       </mg>
    </e>
@@ -2458,7 +2524,8 @@
       </lg>
       <mg>
          <tg>
-            <t>mektig, storartet</t>
+            <t>mektig</t>
+            <t>storartet</t>
          </tg>
       </mg>
    </e>
@@ -2468,7 +2535,8 @@
       </lg>
       <mg>
          <tg>
-            <t>utmerket, gunstig</t>
+            <t>utmerket</t>
+            <t>gunstig</t>
          </tg>
       </mg>
    </e>
@@ -2478,7 +2546,8 @@
       </lg>
       <mg>
          <tg>
-            <t>søt, velsmakende</t>
+            <t>søt</t>
+            <t>velsmakende</t>
          </tg>
       </mg>
    </e>
@@ -2488,7 +2557,8 @@
       </lg>
       <mg>
          <tg>
-            <t>lav, grunn</t>
+            <t>lav</t>
+            <t>grunn</t>
          </tg>
       </mg>
    </e>
@@ -2558,7 +2628,8 @@
       </lg>
       <mg>
          <tg>
-            <t>mangfoldis, med mange lag</t>
+            <t>mangfoldis</t>
+            <t>med mange lag</t>
          </tg>
       </mg>
    </e>
@@ -2589,7 +2660,8 @@
       </lg>
       <mg>
          <tg>
-            <t>trivelig, artig</t>
+            <t>trivelig</t>
+            <t>artig</t>
          </tg>
       </mg>
       <mg>
@@ -2754,7 +2826,8 @@
       </lg>
       <mg>
          <tg>
-            <t>genial, svært flink</t>
+            <t>genial</t>
+            <t>svært flink</t>
          </tg>
       </mg>
    </e>
@@ -2794,7 +2867,8 @@
       </lg>
       <mg>
          <tg>
-            <t>myk, smidig</t>
+            <t>myk</t>
+            <t>smidig</t>
          </tg>
       </mg>
    </e>
@@ -2864,7 +2938,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hendig, praktisk</t>
+            <t>hendig</t>
+            <t>praktisk</t>
          </tg>
       </mg>
    </e>
@@ -2874,7 +2949,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snar, hendig</t>
+            <t>snar</t>
+            <t>hendig</t>
          </tg>
       </mg>
    </e>
@@ -2889,7 +2965,8 @@
       </mg>
       <mg>
          <tg>
-            <t>fan, satan</t>
+            <t>fan</t>
+            <t>satan</t>
          </tg>
       </mg>
    </e>
@@ -2923,13 +3000,13 @@
          </tg>
       </mg>
       <mg>
-	<tg>
-	  <t>høyre</t>
-	  <xg>
-	    <x></x>
-	    <xt>til høyre</xt>
-	  </xg>
-	</tg>
+         <tg>
+            <t>høyre</t>
+            <xg>
+	              <x/>
+	              <xt>til høyre</xt>
+	           </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai">
@@ -2958,7 +3035,8 @@
       </lg>
       <mg>
          <tg>
-            <t>egen, særegen</t>
+            <t>egen</t>
+            <t>særegen</t>
          </tg>
       </mg>
    </e>
@@ -3038,12 +3116,14 @@
       </lg>
       <mg>
          <tg>
-            <t>fremmed, ukjent</t>
+            <t>fremmed</t>
+            <t>ukjent</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>rar, merkelig</t>
+            <t>rar</t>
+            <t>merkelig</t>
          </tg>
       </mg>
    </e>
@@ -3063,7 +3143,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ond, dårlig</t>
+            <t>ond</t>
+            <t>dårlig</t>
          </tg>
       </mg>
    </e>
@@ -3103,7 +3184,8 @@
       </lg>
       <mg>
          <tg>
-            <t>dårlig, elendig</t>
+            <t>dårlig</t>
+            <t>elendig</t>
          </tg>
       </mg>
    </e>
@@ -3213,7 +3295,8 @@
       </lg>
       <mg>
          <tg>
-            <t>passelig, høvelig</t>
+            <t>passelig</t>
+            <t>høvelig</t>
          </tg>
       </mg>
    </e>
@@ -3223,7 +3306,8 @@
       </lg>
       <mg>
          <tg>
-            <t>myk, bløt</t>
+            <t>myk</t>
+            <t>bløt</t>
          </tg>
       </mg>
    </e>
@@ -3247,7 +3331,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ubøyelig, urokkelig</t>
+            <t>ubøyelig</t>
+            <t>urokkelig</t>
          </tg>
       </mg>
    </e>
@@ -3327,7 +3412,9 @@
       </lg>
       <mg>
          <tg>
-            <t>djevelsk, ondsinna, trollet</t>
+            <t>djevelsk</t>
+            <t>ondsinna</t>
+            <t>trollet</t>
          </tg>
       </mg>
    </e>
@@ -3422,16 +3509,16 @@
       </lg>
       <mg>
          <tg re="om lengde">
-	   <t>lang</t>
-	   <xg>
-	     <x></x>
-	     <xt>to meter lang</xt>
-	   </xg>
+            <t>lang</t>
+            <xg>
+	              <x/>
+	              <xt>to meter lang</xt>
+	           </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t></t>
+            <t/>
          </tg>
       </mg>
    </e>
@@ -3501,7 +3588,8 @@
       </lg>
       <mg>
          <tg>
-            <t>rund, tykk</t>
+            <t>rund</t>
+            <t>tykk</t>
          </tg>
       </mg>
    </e>
@@ -3635,7 +3723,8 @@
       </lg>
       <mg>
          <tg>
-            <t>rå, umoden</t>
+            <t>rå</t>
+            <t>umoden</t>
          </tg>
       </mg>
    </e>
@@ -3710,7 +3799,8 @@
       </lg>
       <mg>
          <tg>
-            <t>heftig, voldsom</t>
+            <t>heftig</t>
+            <t>voldsom</t>
          </tg>
       </mg>
    </e>
@@ -3730,7 +3820,9 @@
       </lg>
       <mg>
          <tg>
-            <t>rikelig, drøy, god</t>
+            <t>rikelig</t>
+            <t>drøy</t>
+            <t>god</t>
          </tg>
       </mg>
    </e>
@@ -3750,7 +3842,8 @@
       </lg>
       <mg>
          <tg>
-            <t>feit, fettet</t>
+            <t>feit</t>
+            <t>fettet</t>
          </tg>
       </mg>
    </e>
@@ -3760,7 +3853,8 @@
       </lg>
       <mg>
          <tg>
-            <t>rolig, fredelig</t>
+            <t>rolig</t>
+            <t>fredelig</t>
          </tg>
       </mg>
    </e>
@@ -3790,7 +3884,8 @@
       </lg>
       <mg>
          <tg>
-            <t>uanstendig, ugudelig</t>
+            <t>uanstendig</t>
+            <t>ugudelig</t>
          </tg>
       </mg>
    </e>
@@ -3820,7 +3915,8 @@
       </lg>
       <mg>
          <tg>
-            <t>dristig, modig</t>
+            <t>dristig</t>
+            <t>modig</t>
          </tg>
       </mg>
    </e>
@@ -3860,7 +3956,8 @@
       </lg>
       <mg>
          <tg>
-            <t>uskikkelig, uanstendig</t>
+            <t>uskikkelig</t>
+            <t>uanstendig</t>
          </tg>
       </mg>
    </e>
@@ -3995,7 +4092,8 @@
       </lg>
       <mg>
          <tg>
-            <t>likens, samme slags</t>
+            <t>likens</t>
+            <t>samme slags</t>
          </tg>
       </mg>
    </e>
@@ -4025,7 +4123,8 @@
       </lg>
       <mg>
          <tg>
-            <t>klar, edru</t>
+            <t>klar</t>
+            <t>edru</t>
          </tg>
       </mg>
    </e>
@@ -4035,7 +4134,8 @@
       </lg>
       <mg>
          <tg>
-            <t>den slags, slik</t>
+            <t>den slags</t>
+            <t>slik</t>
          </tg>
       </mg>
    </e>
@@ -4045,7 +4145,8 @@
       </lg>
       <mg>
          <tg>
-            <t>flink, duktig</t>
+            <t>flink</t>
+            <t>duktig</t>
          </tg>
       </mg>
    </e>
@@ -4065,7 +4166,8 @@
       </lg>
       <mg>
          <tg>
-            <t>nett, søt</t>
+            <t>nett</t>
+            <t>søt</t>
          </tg>
       </mg>
    </e>
@@ -4085,7 +4187,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ordentlig, snill</t>
+            <t>ordentlig</t>
+            <t>snill</t>
          </tg>
       </mg>
    </e>
@@ -4105,7 +4208,8 @@
       </lg>
       <mg>
          <tg>
-            <t>glatt, slett</t>
+            <t>glatt</t>
+            <t>slett</t>
          </tg>
       </mg>
    </e>
@@ -4125,7 +4229,8 @@
       </lg>
       <mg>
          <tg>
-            <t>enkel, simpel</t>
+            <t>enkel</t>
+            <t>simpel</t>
          </tg>
       </mg>
    </e>
@@ -4145,7 +4250,8 @@
       </lg>
       <mg>
          <tg>
-            <t>seig, utholdende</t>
+            <t>seig</t>
+            <t>utholdende</t>
          </tg>
       </mg>
    </e>
@@ -4165,17 +4271,21 @@
       </lg>
       <mg>
          <tg>
-            <t>artig, morsom, trivelig</t>
+            <t>artig</t>
+            <t>morsom</t>
+            <t>trivelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>rar, merkelig</t>
+            <t>rar</t>
+            <t>merkelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>kose seg, forlyste seg</t>
+            <t>kose seg</t>
+            <t>forlyste seg</t>
          </tg>
       </mg>
    </e>
@@ -4205,7 +4315,8 @@
       </lg>
       <mg>
          <tg>
-            <t>spiss, som smalner mot enden</t>
+            <t>spiss</t>
+            <t>som smalner mot enden</t>
          </tg>
       </mg>
    </e>
@@ -4220,7 +4331,8 @@
       </mg>
       <mg>
          <tg>
-            <t>smeltet, opptint</t>
+            <t>smeltet</t>
+            <t>opptint</t>
          </tg>
       </mg>
    </e>
@@ -4230,7 +4342,8 @@
       </lg>
       <mg>
          <tg>
-            <t>yndig, søt</t>
+            <t>yndig</t>
+            <t>søt</t>
          </tg>
       </mg>
    </e>
@@ -4290,7 +4403,8 @@
       </lg>
       <mg>
          <tg>
-            <t>trist, sørgelig</t>
+            <t>trist</t>
+            <t>sørgelig</t>
          </tg>
       </mg>
    </e>
@@ -4300,7 +4414,8 @@
       </lg>
       <mg>
          <tg>
-            <t>sorgløs, ikke-troende</t>
+            <t>sorgløs</t>
+            <t>ikke-troende</t>
          </tg>
       </mg>
    </e>
@@ -4339,13 +4454,13 @@
          <l pos="A">suurukainen</l>
       </lg>
       <mg>
-	<tg re="om omfang">
-	  <t>stor</t>
-	  <xg>
-	    <x></x>
-            <xt>stokk som er en kubikkmeter stor</xt>
-	  </xg>
-	</tg>
+         <tg re="om omfang">
+            <t>stor</t>
+            <xg>
+	              <x/>
+               <xt>stokk som er en kubikkmeter stor</xt>
+	           </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai">
@@ -4434,7 +4549,8 @@
       </lg>
       <mg>
          <tg>
-            <t>nøyaktig, nøye</t>
+            <t>nøyaktig</t>
+            <t>nøye</t>
          </tg>
       </mg>
    </e>
@@ -4444,7 +4560,8 @@
       </lg>
       <mg>
          <tg>
-            <t>nyttig, nødvendig</t>
+            <t>nyttig</t>
+            <t>nødvendig</t>
          </tg>
       </mg>
    </e>
@@ -4579,7 +4696,8 @@
       </lg>
       <mg>
          <tg>
-            <t>tiltaksløs, uvirksom</t>
+            <t>tiltaksløs</t>
+            <t>uvirksom</t>
          </tg>
       </mg>
    </e>
@@ -4689,7 +4807,8 @@
       </lg>
       <mg>
          <tg>
-            <t>frisk, fersk</t>
+            <t>frisk</t>
+            <t>fersk</t>
          </tg>
       </mg>
       <mg>
@@ -4704,7 +4823,8 @@
       </lg>
       <mg>
          <tg>
-            <t>unødvendig, bortkastet</t>
+            <t>unødvendig</t>
+            <t>bortkastet</t>
          </tg>
       </mg>
    </e>
@@ -4804,7 +4924,8 @@
       </lg>
       <mg>
          <tg>
-            <t>viktig, betydningsfull</t>
+            <t>viktig</t>
+            <t>betydningsfull</t>
          </tg>
       </mg>
    </e>
@@ -4890,7 +5011,8 @@
       </lg>
       <mg>
          <tg>
-            <t>ytterst, lengst ute</t>
+            <t>ytterst</t>
+            <t>lengst ute</t>
          </tg>
       </mg>
    </e>
@@ -4910,7 +5032,9 @@
       </lg>
       <mg>
          <tg>
-            <t>lukket, tildekket, uåpnet</t>
+            <t>lukket</t>
+            <t>tildekket</t>
+            <t>uåpnet</t>
          </tg>
       </mg>
    </e>
@@ -5045,7 +5169,9 @@
       </lg>
       <mg>
          <tg>
-            <t>vanskelig, brydom, plagsom</t>
+            <t>vanskelig</t>
+            <t>brydom</t>
+            <t>plagsom</t>
          </tg>
       </mg>
       <mg>
@@ -5080,7 +5206,8 @@
       </lg>
       <mg>
          <tg>
-            <t>noe som ikke er løgn, “uløyet”</t>
+            <t>noe som ikke er løgn</t>
+            <t>“uløyet”</t>
          </tg>
       </mg>
    </e>
@@ -5180,7 +5307,8 @@
       </lg>
       <mg>
          <tg>
-            <t>fri, ledig</t>
+            <t>fri</t>
+            <t>ledig</t>
          </tg>
       </mg>
    </e>
@@ -5220,7 +5348,8 @@
       </lg>
       <mg>
          <tg>
-            <t>egentlig, virkelig</t>
+            <t>egentlig</t>
+            <t>virkelig</t>
          </tg>
       </mg>
    </e>
@@ -5230,7 +5359,8 @@
       </lg>
       <mg>
          <tg>
-            <t>uttrykkelig, bestemt</t>
+            <t>uttrykkelig</t>
+            <t>bestemt</t>
          </tg>
       </mg>
    </e>
@@ -5310,7 +5440,8 @@
       </lg>
       <mg>
          <tg>
-            <t>fersk, frisk</t>
+            <t>fersk</t>
+            <t>frisk</t>
          </tg>
       </mg>
    </e>
@@ -5350,7 +5481,8 @@
       </lg>
       <mg>
          <tg>
-            <t>rar, merkelig</t>
+            <t>rar</t>
+            <t>merkelig</t>
          </tg>
       </mg>
    </e>
@@ -5360,7 +5492,8 @@
       </lg>
       <mg>
          <tg>
-            <t>fremmed, ukjent</t>
+            <t>fremmed</t>
+            <t>ukjent</t>
          </tg>
       </mg>
       <mg>
@@ -5435,7 +5568,8 @@
       </lg>
       <mg>
          <tg>
-            <t>skeiv, skrå</t>
+            <t>skeiv</t>
+            <t>skrå</t>
          </tg>
       </mg>
    </e>
@@ -5505,7 +5639,9 @@
       </lg>
       <mg>
          <tg>
-            <t>flittig, pigg, rask</t>
+            <t>flittig</t>
+            <t>pigg</t>
+            <t>rask</t>
          </tg>
       </mg>
    </e>
@@ -5515,7 +5651,9 @@
       </lg>
       <mg>
          <tg>
-            <t>flittig, pigg, rask</t>
+            <t>flittig</t>
+            <t>pigg</t>
+            <t>rask</t>
          </tg>
       </mg>
    </e>
@@ -5525,7 +5663,8 @@
       </lg>
       <mg>
          <tg re="om vann">
-            <t>strømmet, stri</t>
+            <t>strømmet</t>
+            <t>stri</t>
          </tg>
       </mg>
    </e>
@@ -5535,7 +5674,8 @@
       </lg>
       <mg>
          <tg>
-            <t>bestemt, viss</t>
+            <t>bestemt</t>
+            <t>viss</t>
          </tg>
       </mg>
    </e>
@@ -5545,7 +5685,10 @@
       </lg>
       <mg>
          <tg>
-            <t>stygg, fæl, uhyggelig, ekkel</t>
+            <t>stygg</t>
+            <t>fæl</t>
+            <t>uhyggelig</t>
+            <t>ekkel</t>
          </tg>
       </mg>
    </e>
@@ -5555,7 +5698,8 @@
       </lg>
       <mg>
          <tg>
-            <t>gjerrig, sparsommellig</t>
+            <t>gjerrig</t>
+            <t>sparsommellig</t>
          </tg>
       </mg>
       <mg>
@@ -5580,7 +5724,8 @@
       </lg>
       <mg>
          <tg>
-            <t>snøhvit, drivhvit</t>
+            <t>snøhvit</t>
+            <t>drivhvit</t>
          </tg>
       </mg>
    </e>
@@ -5624,7 +5769,9 @@
       </lg>
       <mg>
          <tg>
-            <t>lett å gjøre, lage, ta seg av</t>
+            <t>lett å gjøre</t>
+            <t>lage</t>
+            <t>ta seg av</t>
          </tg>
       </mg>
    </e>
@@ -5684,7 +5831,8 @@
       </lg>
       <mg>
          <tg>
-            <t>uunngåelig, nødvendig</t>
+            <t>uunngåelig</t>
+            <t>nødvendig</t>
          </tg>
       </mg>
    </e>
@@ -5694,12 +5842,14 @@
       </lg>
       <mg>
          <tg>
-            <t>gal, uriktig</t>
+            <t>gal</t>
+            <t>uriktig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>krum, buet</t>
+            <t>krum</t>
+            <t>buet</t>
          </tg>
       </mg>
       <mg>
@@ -5719,7 +5869,8 @@
       </lg>
       <mg>
          <tg>
-            <t>samme slags, likens</t>
+            <t>samme slags</t>
+            <t>likens</t>
          </tg>
       </mg>
    </e>
@@ -5754,7 +5905,8 @@
       </lg>
       <mg>
          <tg>
-            <t>enfoldig, usammensatt</t>
+            <t>enfoldig</t>
+            <t>usammensatt</t>
          </tg>
       </mg>
    </e>
@@ -5824,7 +5976,8 @@
       </lg>
       <mg>
          <tg>
-            <t>allmenn, vanlig</t>
+            <t>allmenn</t>
+            <t>vanlig</t>
          </tg>
       </mg>
    </e>
@@ -5834,7 +5987,8 @@
       </lg>
       <mg>
          <tg>
-            <t>overmektig, overlegen</t>
+            <t>overmektig</t>
+            <t>overlegen</t>
          </tg>
       </mg>
    </e>
@@ -5844,7 +5998,8 @@
       </lg>
       <mg>
          <tg>
-            <t>stolt, hovmodig</t>
+            <t>stolt</t>
+            <t>hovmodig</t>
          </tg>
       </mg>
    </e>
@@ -5879,7 +6034,8 @@
       </lg>
       <mg>
          <tg>
-            <t>uforstandig, ubegripelig</t>
+            <t>uforstandig</t>
+            <t>ubegripelig</t>
          </tg>
       </mg>
    </e>
@@ -5940,7 +6096,9 @@
       </lg>
       <mg>
          <tg>
-            <t>sur, gretten, hissig</t>
+            <t>sur</t>
+            <t>gretten</t>
+            <t>hissig</t>
          </tg>
       </mg>
    </e>

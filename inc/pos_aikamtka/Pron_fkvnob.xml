@@ -36,7 +36,8 @@
       </lg>
       <mg>
          <tg>
-            <t>han, hun</t>
+            <t>han</t>
+            <t>hun</t>
          </tg>
       </mg>
    </e>
@@ -131,7 +132,8 @@
       </lg>
       <mg>
          <tg>
-            <t>all, alle</t>
+            <t>all</t>
+            <t>alle</t>
          </tg>
       </mg>
    </e>
@@ -166,7 +168,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hvordan, hva slags</t>
+            <t>hvordan</t>
+            <t>hva slags</t>
          </tg>
       </mg>
    </e>
@@ -201,7 +204,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hvordan, på hvilken måte</t>
+            <t>hvordan</t>
+            <t>på hvilken måte</t>
          </tg>
       </mg>
    </e>
@@ -211,7 +215,9 @@
       </lg>
       <mg>
          <tg>
-            <t>jeg, en av oss, en som er som oss</t>
+            <t>jeg</t>
+            <t>en av oss</t>
+            <t>en som er som oss</t>
          </tg>
       </mg>
       <mg>
@@ -246,7 +252,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hva, hvilken</t>
+            <t>hva</t>
+            <t>hvilken</t>
          </tg>
       </mg>
       <mg>
@@ -261,7 +268,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hvordan, hva slags</t>
+            <t>hvordan</t>
+            <t>hva slags</t>
          </tg>
       </mg>
       <mg>
@@ -386,7 +394,8 @@
       </lg>
       <mg>
          <tg>
-            <t>den/det, han/hun</t>
+            <t>den/det</t>
+            <t>han/hun</t>
          </tg>
       </mg>
    </e>
@@ -432,20 +441,20 @@
       <mg>
          <tg>
             <t>den ene – den andre</t>
-	    <xg>
-	      <x></x>
-	      <xt>den ene hette Pekka og den andre Hannu</xt>
-	    </xg>
+            <xg>
+	              <x/>
+	              <xt>den ene hette Pekka og den andre Hannu</xt>
+	           </xg>
          </tg>
       </mg>
       <mg>
-	<tg>
-	  <t>hverandre</t>
-	  <xg>
-	    <x></x>
-	    <xt>de elsker hverandre</xt>
-	  </xg>
-	</tg>
+         <tg>
+            <t>hverandre</t>
+            <xg>
+	              <x/>
+	              <xt>de elsker hverandre</xt>
+	           </xg>
+         </tg>
       </mg>
    </e>
    <e src="ai">
@@ -485,7 +494,8 @@
       </lg>
       <mg>
          <tg>
-            <t>en, et</t>
+            <t>en</t>
+            <t>et</t>
          </tg>
       </mg>
       <mg>

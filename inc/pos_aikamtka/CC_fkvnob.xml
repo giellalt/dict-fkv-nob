@@ -76,7 +76,8 @@
       </lg>
       <mg>
          <tg>
-            <t>hvis, om</t>
+            <t>hvis</t>
+            <t>om</t>
          </tg>
       </mg>
    </e>
@@ -86,7 +87,10 @@
       </lg>
       <mg>
          <tg>
-            <t>da, når, enn, som</t>
+            <t>da</t>
+            <t>når</t>
+            <t>enn</t>
+            <t>som</t>
          </tg>
       </mg>
    </e>
@@ -102,15 +106,16 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="CC" comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
+         <l pos="CC"
+            comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
       </lg>
       <mg>
          <tg>
-	   <t>untatt</t>
-	   <xg>
-	     <x></x>
-	     <xt>alle untatt Maija kan kvensk</xt>
-	   </xg>
+            <t>untatt</t>
+            <xg>
+	              <x/>
+	              <xt>alle untatt Maija kan kvensk</xt>
+	           </xg>
          </tg>
       </mg>
       <mg>
