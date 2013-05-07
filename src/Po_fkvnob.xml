@@ -110,4 +110,177 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Po">läpi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">gjennom</t>
+            <t pos="Pr">via</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">puolesta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">på vegne av</t>
+            <xg>
+               <x>Hän teki sen minun puolesta</x>
+               <xt>Han gjorde det for min del</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">rinnala</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tykköö</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">hos</t>
+            <xg>
+               <x>Hän oon minun tykköö</x>
+               <xt>Hun er hos meg</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">myöđen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">langs med</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">myötä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">med</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">pääle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">på</t>
+            <t pos="Pr">opp på</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tykö</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">til</t>
+            <xg>
+               <x>Hän tuli minun tykö</x>
+               <xt>Hun/ Han kom til meg</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tykönä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">hos</t>
+            <xg>
+               <x>Hän oon minun tykkönä</x>
+               <xt>Hun/ Han er hos meg</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">tähđen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">på grunn av</t>
+            <xg>
+               <x>Herran tähđen</x>
+               <xt>For Guds skyld</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">varten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">for – skyld</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vasten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">mot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vasthaan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">mot</t>
+            <t pos="Pr">i retning av</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">vieressä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Po">ympäri</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pr">omkring</t>
+         </tg>
+      </mg>
+   </e>
 </r>

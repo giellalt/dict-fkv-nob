@@ -288,4 +288,59 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr">miksei</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pron" type="Interr">hvorfor ikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Interr">mones</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Pron" type="Interr">hvilken</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Det">hver</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="Pron" type="Rel">som</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">koko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="a1" pos="A">hel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kunka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Adv">hvordan</t>
+         </tg>
+      </mg>
+   </e>
 </r>

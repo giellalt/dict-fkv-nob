@@ -32699,4 +32699,147 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Harmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" type="Prop">Gråen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kahmalo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">håndfull av to hender</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">poikkipuu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t gen="n" pos="N">tverrstag</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ristinpäivä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">korsmesse om våren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rutto suvi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">rask sommer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">raavas ihminen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">voksen person</t>
+            <syng>
+               <syn>raavas</syn>
+               <syn>ihminen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l nr="Pl" pos="N">tonget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t gen="f" pos="N">knipetang</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ukkura</l>
+      </lg>
+      <mg>
+         <tg>
+            <t gen="f" pos="N">sterk tåke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l nr="Pl" pos="N">vaatheet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t nr="Pl" pos="N">klær</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">norja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="a2" pos="A">norsk</t>
+            <syng>
+               <syn>ruiđa</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">orja</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sør</t>
+            <t pos="N">sørvest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l nr="Pl" pos="N">suittet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t nr="Pl" pos="N">tømmer</t>
+            <t nr="Pl" pos="N">tøyler</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vara</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">råd</t>
+            <xg>
+               <x>Mulla oon vara</x>
+               <xt>Jeg har råd</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
