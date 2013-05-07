@@ -3450,11 +3450,8 @@
          <l pos="N">helma</l>
       </lg>
       <mg>
-         <tg>
-            <t>kant på skjørt</t>
-            <t>skjole</t>
-            <t>bluse</t>
-            <t>jakke</t>
+         <tg re="på skjørt, skjole, bluse eller jakke">
+            <t>kant </t>
          </tg>
       </mg>
    </e>
@@ -6137,9 +6134,8 @@
          <l pos="N">kaali</l>
       </lg>
       <mg>
-         <tg>
-            <t>bladdelen av rotfrukt</t>
-            <t>poteter</t>
+         <tg re="av rotfrukt, poteter">
+            <t>bladdelen</t>
          </tg>
       </mg>
    </e>
@@ -6379,7 +6375,7 @@
       <mg>
          <tg>
             <t>navnebror</t>
-            <t>-søster</t>
+            <t>navnesøster</t>
          </tg>
       </mg>
    </e>
@@ -8207,9 +8203,8 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg re="ble tidligere spist rundt kl. tolv">
             <t>hovedmåltid</t>
-            <t>ble tidligere spist rundt kl. tolv</t>
          </tg>
       </mg>
    </e>
@@ -8838,9 +8833,8 @@
          <l pos="N">kirppu</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="f.eks. dvregbjørg">
             <t>bunt av kvister</t>
-            <t>f.eks. dvregbjørg</t>
          </tg>
       </mg>
    </e>
@@ -9711,12 +9705,10 @@
       <mg>
          <tg>
             <t>området bak øre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>han/hun er fremdeles et barn</t>
-            <t>ikke voksen</t>
+	    <xg comment="perhaps something like the German: 'er ist noch grün hinter den Ohren.'">
+	      <x></x>
+	      <xt>han/hun er fremdeles et barn, ikke voksen</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -11291,11 +11283,9 @@
          <l pos="N">kylvö</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="av høy, korn, poteter">
             <t>såing</t>
-            <t>setting av høy</t>
-            <t>korn</t>
-            <t>poteter</t>
+            <t>setting </t>
          </tg>
       </mg>
       <mg>
@@ -12205,9 +12195,8 @@
          <l pos="N">lantalainen</l>
       </lg>
       <mg>
-         <tg>
-            <t>østersjøfinne i Nord-Norge</t>
-            <t>Nord-Sverige eller Nord-Finland</t>
+         <tg re="i Nord-Norge, Nord-Sverige eller Nord-Finland">
+            <t>østersjøfinne</t>
          </tg>
       </mg>
    </e>
@@ -12473,9 +12462,8 @@
          <l pos="N">lauta</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="f. eks. i golv el. tak">
             <t>bord</t>
-            <t>f. eks. i golv el. tak</t>
          </tg>
       </mg>
    </e>
@@ -14656,10 +14644,9 @@
          <l pos="N">mato</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="f.eks. metemark">
             <t>makk</t>
             <t>mark</t>
-            <t>f.eks. metemark</t>
          </tg>
       </mg>
    </e>
@@ -14965,9 +14952,8 @@
          <l pos="N">mettäperä</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="langt inn i innlandet">
             <t>dyp skog</t>
-            <t>langt inn i innlandet</t>
          </tg>
       </mg>
    </e>
@@ -16865,12 +16851,10 @@
       <mg>
          <tg>
             <t>synsvinkel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>når en ser på saken under den synsvinkelen</t>
-            <t>så ser den nok bra ut</t>
+	    <xg>
+	      <x></x>
+	      <xt>når en ser på saken under den synsvinkelen, så ser den nok bra ut</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -17266,9 +17250,8 @@
          <l pos="N">oori</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="spesielt som børnskap">
             <t>tynt tau</t>
-            <t>spesielt som børnskap</t>
          </tg>
       </mg>
    </e>
@@ -21812,9 +21795,8 @@
          <l pos="N">raavu</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="en slags stang i hesjer o.l.">
             <t>rå</t>
-            <t>en slags stang i hesjer o.l.</t>
          </tg>
       </mg>
    </e>
@@ -22547,10 +22529,8 @@
          <l pos="N">rieska</l>
       </lg>
       <mg>
-         <tg>
-            <t>tynt</t>
-            <t>flatt brød</t>
-            <t>ofte av byggmel</t>
+         <tg re="tynt, flatt ~, ofte av byggmel">
+            <t> brød</t>
          </tg>
       </mg>
    </e>
@@ -26045,9 +26025,8 @@
          <l pos="N">syđänmettä</l>
       </lg>
       <mg>
-         <tg>
+         <tg re="langt inn i landet">
             <t>dyp skog</t>
-            <t>langt inn i landet</t>
          </tg>
       </mg>
    </e>
@@ -30637,10 +30616,8 @@
          <l pos="N">veripylsy</l>
       </lg>
       <mg>
-         <tg>
-            <t>blodpølse med blod</t>
-            <t>talg</t>
-            <t>mel og rosiner</t>
+         <tg re="med blod, talg, mel og rosiner">
+            <t>blodpølse </t>
          </tg>
       </mg>
    </e>
