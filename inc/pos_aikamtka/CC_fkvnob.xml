@@ -102,16 +102,20 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="CC">paitti</l>
+         <l pos="CC" comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
       </lg>
       <mg>
          <tg>
-            <t>untatt; utenom</t>
+	   <t>untatt</t>
+	   <xg>
+	     <x></x>
+	     <xt>alle untatt Maija kan kvensk</xt>
+	   </xg>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>alle untatt Maija kan kvensk</t>
+         <tg>
+            <t>utenom</t>
          </tg>
       </mg>
    </e>

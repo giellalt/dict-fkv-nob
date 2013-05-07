@@ -1135,7 +1135,12 @@
       </lg>
       <mg>
          <tg>
-            <t>sak; ærend</t>
+            <t>sak</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ærend</t>
          </tg>
       </mg>
    </e>
@@ -1901,7 +1906,22 @@
       </lg>
       <mg>
          <tg>
-            <t>kone; husmor; bondekone; matmor</t>
+            <t>kone</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>husmor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bondekone</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>matmor</t>
          </tg>
       </mg>
    </e>
@@ -2026,7 +2046,12 @@
       </lg>
       <mg>
          <tg>
-            <t>øvrighet; mundighetene</t>
+            <t>øvrighet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>mundighetene</t>
          </tg>
       </mg>
    </e>
@@ -2111,7 +2136,12 @@
       </lg>
       <mg>
          <tg>
-            <t>far; bestefar</t>
+            <t>far</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bestefar</t>
          </tg>
       </mg>
    </e>
@@ -4410,7 +4440,12 @@
       </lg>
       <mg>
          <tg>
-            <t>folkemengde; befolkningsgruppe</t>
+            <t>folkemengde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>befolkningsgruppe</t>
          </tg>
       </mg>
    </e>
@@ -4540,7 +4575,12 @@
       </lg>
       <mg>
          <tg>
-            <t>luft; vär</t>
+            <t>luft</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>vär</t>
          </tg>
       </mg>
    </e>
@@ -4550,7 +4590,12 @@
       </lg>
       <mg>
          <tg>
-            <t>luftskip; fly</t>
+            <t>luftskip</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fly</t>
          </tg>
       </mg>
    </e>
@@ -4879,7 +4924,12 @@
       </lg>
       <mg>
          <tg>
-            <t>ektemann; husbonde</t>
+            <t>ektemann</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>husbonde</t>
          </tg>
       </mg>
    </e>
@@ -4899,7 +4949,12 @@
       </lg>
       <mg>
          <tg>
-            <t>italianer; italiensk</t>
+            <t>italianer</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>italiensk</t>
          </tg>
       </mg>
    </e>
@@ -5839,7 +5894,12 @@
       </lg>
       <mg>
          <tg>
-            <t>medlem; lem</t>
+            <t>medlem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>lem</t>
          </tg>
       </mg>
    </e>
@@ -6729,7 +6789,12 @@
       </lg>
       <mg>
          <tg>
-            <t>utstyr; klær</t>
+            <t>utstyr</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>klær</t>
          </tg>
       </mg>
    </e>
@@ -8076,7 +8141,12 @@
       </lg>
       <mg>
          <tg>
-            <t>sommerboplass; seter</t>
+            <t>sommerboplass</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>seter</t>
          </tg>
       </mg>
    </e>
@@ -8161,7 +8231,12 @@
       </lg>
       <mg>
          <tg>
-            <t>tunge; språk</t>
+            <t>tunge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>språk</t>
          </tg>
       </mg>
    </e>
@@ -8810,7 +8885,12 @@
       </lg>
       <mg>
          <tg>
-            <t>vindu; glass</t>
+            <t>vindu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>glass</t>
          </tg>
       </mg>
    </e>
@@ -10410,14 +10490,17 @@
          <l pos="N">kunto</l>
       </lg>
       <mg>
-         <tg>
-            <t>tilstand, form, kondisjon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>den er i god stand; hun/han er i god form</t>
-         </tg>
+	<tg>
+	  <t>tilstand, form, kondisjon</t>
+	  <xg>
+	    <x></x>
+            <xt>den er i god stand</xt>
+	  </xg>
+	  <xg>
+	    <x></x>
+            <xt>hun/han er i god form</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -11267,13 +11350,17 @@
       </lg>
       <mg>
          <tg>
-            <t>skyss; fart</t>
+            <t>skyss</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>jeg satt fart i kyrne</t>
-         </tg>
+	<tg>
+	  <t>fart</t>
+	  <xg>
+	    <x></x>
+	    <xt>jeg satt fart i kyrne</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -12416,7 +12503,12 @@
       </lg>
       <mg>
          <tg>
-            <t>luftskip; fly</t>
+            <t>luftskip</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fly</t>
          </tg>
       </mg>
    </e>
@@ -12726,7 +12818,12 @@
       </lg>
       <mg>
          <tg>
-            <t>linjal; linje</t>
+            <t>linjal</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>linje</t>
          </tg>
       </mg>
    </e>
@@ -13006,12 +13103,16 @@
       </lg>
       <mg>
          <tg>
-            <t>slutt, ende; rest</t>
+            <t>slutt, ende</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>matrester</t>
+         <tg>
+	   <t>rest</t>
+	   <xg>
+	     <x></x>
+	     <xt>matrester</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -14438,17 +14539,23 @@
       </mg>
       <mg>
          <tg>
-            <t>oppstyr; syssel</t>
+            <t>oppstyr</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>mening, oppsikt, syn</t>
+            <t>syssel</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>ikke i det hele tatt</t>
+         <tg>
+            <t>mening</t>
+            <t>oppsikt</t>
+            <t>syn</t>
+	    <xg>
+	      <x></x>
+	      <xt>ikke i det hele tatt</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -15009,17 +15116,20 @@
       </lg>
       <mg>
          <tg>
-            <t>minne; hukommelse</t>
+            <t>minne</t>
+	    <xg>
+	      <x></x>
+	      <xt>jeg merket meg ikke det, jeg husker ikke det</xt>
+	    </xg>
+	    <xg>
+	      <x></x>
+	      <xt>før jeg begynner å huske, før min tid</xt>
+	    </xg>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>jeg merket meg ikke det, jeg husker ikke det</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>før jeg begynner å huske, før min tid</t>
+         <tg>
+            <t>hukommelse</t>
          </tg>
       </mg>
    </e>
@@ -15039,18 +15149,24 @@
       </lg>
       <mg>
          <tg>
-            <t>sving; bukt</t>
+            <t>sving</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>tur, kort reise</t>
+            <t>bukt</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>jeg var en tur til bestefar</t>
-         </tg>
+	<tg>
+	  <t>tur</t>
+	  <t>kort</t>
+	  <t>reise</t>
+	  <xg>
+	    <x></x>
+	    <xt>jeg var en tur til bestefar</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -16330,7 +16446,13 @@
       </lg>
       <mg>
          <tg>
-            <t>nygift par, par som ikke har vært lenge gift; et ungt par</t>
+            <t>nygift par</t>
+            <t>par som ikke har vært lenge gift</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>et ungt par</t>
          </tg>
       </mg>
    </e>
@@ -18606,7 +18728,17 @@
       </lg>
       <mg>
          <tg>
-            <t>reir; hi; ilegg</t>
+            <t>reir</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>hi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ilegg</t>
          </tg>
       </mg>
    </e>
@@ -19576,7 +19708,12 @@
       </lg>
       <mg>
          <tg>
-            <t>kne; generasjon</t>
+            <t>kne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>generasjon</t>
          </tg>
       </mg>
    </e>
@@ -20917,7 +21054,12 @@
       </lg>
       <mg>
          <tg>
-            <t>hode; ende</t>
+            <t>hode</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ende</t>
          </tg>
       </mg>
    </e>
@@ -23270,7 +23412,12 @@
       </lg>
       <mg>
          <tg>
-            <t>sag; sagbruk</t>
+            <t>sag</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>sagbruk</t>
          </tg>
       </mg>
    </e>
@@ -23635,7 +23782,12 @@
       </lg>
       <mg>
          <tg>
-            <t>badstu; bad</t>
+            <t>badstu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bad</t>
          </tg>
       </mg>
    </e>
@@ -25363,7 +25515,12 @@
       </lg>
       <mg>
          <tg>
-            <t>åre; sene</t>
+            <t>åre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>sene</t>
          </tg>
       </mg>
    </e>
@@ -25728,7 +25885,12 @@
       </lg>
       <mg>
          <tg>
-            <t>årsak; feil</t>
+            <t>årsak</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>feil</t>
          </tg>
       </mg>
       <mg>
@@ -26028,12 +26190,17 @@
       </lg>
       <mg>
          <tg>
-            <t>rygg; fjellrygg</t>
+            <t>rygg</t>
+	    <xg>
+	      <x></x>
+	      <xt>gi juling</xt>
+	      <xt>jule opp</xt>
+	    </xg>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>gi juling, jule opp</t>
+         <tg>
+            <t>fjellrygg</t>
          </tg>
       </mg>
    </e>
@@ -27220,7 +27387,12 @@
       </lg>
       <mg>
          <tg>
-            <t>utkomme; berging</t>
+            <t>utkomme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>berging</t>
          </tg>
       </mg>
    </e>
@@ -27870,19 +28042,24 @@
       </lg>
       <mg>
          <tg>
-            <t>tilståelse, innrømmelse; konfesjon, bekjennelse</t>
+            <t>tilståelse, innrømmelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>konfesjon, bekjennelse</t>
          </tg>
       </mg>
    </e>
    <e src="ai">
-      <lg>
-         <l pos="N">tunteminen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>kjennskap</t>
-         </tg>
-      </mg>
+     <lg>
+       <l pos="N">tunteminen</l>
+     </lg>
+     <mg>
+       <tg>
+	 <t>kjennskap</t>
+       </tg>
+     </mg>
    </e>
    <e src="ai">
       <lg>
@@ -31306,7 +31483,12 @@
       </lg>
       <mg>
          <tg>
-            <t>forlovede; brudgom</t>
+            <t>forlovede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>brudgom</t>
          </tg>
       </mg>
    </e>

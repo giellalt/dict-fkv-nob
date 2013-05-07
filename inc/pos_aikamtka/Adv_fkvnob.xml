@@ -94,7 +94,12 @@
       </lg>
       <mg>
          <tg>
-            <t>alldeles; bare</t>
+            <t>alldeles</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bare</t>
          </tg>
       </mg>
    </e>
@@ -233,16 +238,22 @@
          <l pos="Adv">asti</l>
       </lg>
       <mg>
-         <tg cip="c">
-            <t>til, inntil; fra</t>
-            <xg>
-               <x>mie olen ollu kristilinen lapsuuđesta asti</x>
-               <xt>jeg har vært kristen siden barndommen</xt>
-            </xg>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
+	<tg>
+	  <t>til</t>
+	  <t>inntil</t>
+	  <xg>
+	    <x>mie vien sinun Tromsshaan asti</x>
+	    <xt>jeg skal følge med deg helt til Tromsø</xt>
+	  </xg>
+	</tg>
+      </mg>
+      <mg>
+         <tg>
+	   <t>fra</t>
+	   <xg>
+	     <x>mie olen ollu kristilinen lapsuuđesta asti</x>
+	     <xt>jeg har vært kristen siden barndommen</xt>
+	   </xg>
          </tg>
       </mg>
    </e>
@@ -1104,7 +1115,12 @@
       </lg>
       <mg>
          <tg>
-            <t>akkurat; så vidt</t>
+            <t>akkurat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>så vidt</t>
          </tg>
       </mg>
    </e>
@@ -1403,18 +1419,27 @@
       </lg>
       <mg>
          <tg>
-            <t>nesten; ganske; en del</t>
+            <t>nesten</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>ikke ens</t>
+            <t>ganske</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>han ville ikke ens tørre å komme</t>
+         <tg>
+            <t>en del</t>
          </tg>
+      </mg>
+      <mg>
+	<tg>
+	  <t>ikke ens</t>
+	  <xg>
+	    <x></x>
+	    <xt>han ville ikke ens tørre å komme</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -1547,7 +1572,12 @@
       </lg>
       <mg>
          <tg>
-            <t>svært; sterkt</t>
+            <t>svært</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>sterkt</t>
          </tg>
       </mg>
    </e>
@@ -3316,11 +3346,11 @@
       <mg>
          <tg>
             <t>på innsiden</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>på innsiden av huset, inne i huset</t>
+	    <xg>
+	      <x></x>
+	      <xt>på innsiden av huset</xt>
+	      <xt>inne i huset</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -3330,7 +3360,12 @@
       </lg>
       <mg>
          <tg>
-            <t>da; så</t>
+            <t>da</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>så</t>
          </tg>
       </mg>
    </e>
@@ -4453,13 +4488,17 @@
       </mg>
       <mg>
          <tg>
-            <t>til slutt; sist</t>
+            <t>til slutt</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>til sjuende og sist</t>
-         </tg>
+	<tg>
+	  <t>sist</t>
+	  <xg>
+	    <x></x>
+	    <xt>til sjuende og sist</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">

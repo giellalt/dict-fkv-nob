@@ -481,7 +481,12 @@
       </lg>
       <mg>
          <tg>
-            <t>skille seg; kunne sees, være synlig</t>
+            <t>skille seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>kunne sees, være synlig</t>
          </tg>
       </mg>
    </e>
@@ -715,7 +720,12 @@
       </lg>
       <mg>
          <tg>
-            <t>hugge; slå</t>
+            <t>hugge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>slå</t>
          </tg>
       </mg>
    </e>
@@ -920,7 +930,12 @@
       </lg>
       <mg>
          <tg>
-            <t>svinge, vaie; svaie</t>
+            <t>svinge, vaie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>svaie</t>
          </tg>
       </mg>
    </e>
@@ -1590,7 +1605,12 @@
       </lg>
       <mg>
          <tg>
-            <t>gjødsle; krydre</t>
+            <t>gjødsle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>krydre</t>
          </tg>
       </mg>
    </e>
@@ -1720,7 +1740,12 @@
       </lg>
       <mg>
          <tg>
-            <t>slå; undersøke</t>
+            <t>slå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>undersøke</t>
          </tg>
       </mg>
       <mg>
@@ -1880,7 +1905,12 @@
       </lg>
       <mg>
          <tg>
-            <t>havne; må</t>
+            <t>havne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>må</t>
          </tg>
       </mg>
    </e>
@@ -2780,7 +2810,12 @@
       </lg>
       <mg>
          <tg>
-            <t>gå rundt; dreie, skru</t>
+            <t>gå rundt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>dreie, skru</t>
          </tg>
       </mg>
    </e>
@@ -3855,7 +3890,12 @@
       </lg>
       <mg>
          <tg>
-            <t>gå; ta en tur, besøke</t>
+            <t>gå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>ta en tur, besøke</t>
          </tg>
       </mg>
       <mg>
@@ -4235,7 +4275,12 @@
       </lg>
       <mg>
          <tg>
-            <t>spre seg; åpne seg</t>
+            <t>spre seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>åpne seg</t>
          </tg>
       </mg>
    </e>
@@ -4301,7 +4346,12 @@
       </lg>
       <mg>
          <tg>
-            <t>sammenføye; innlemme</t>
+            <t>sammenføye</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>innlemme</t>
          </tg>
       </mg>
    </e>
@@ -4441,7 +4491,12 @@
       </lg>
       <mg>
          <tg>
-            <t>såre; fornærme</t>
+            <t>såre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fornærme</t>
          </tg>
       </mg>
    </e>
@@ -4651,17 +4706,20 @@
       </lg>
       <mg>
          <tg>
-            <t>love; gi lov</t>
+            <t>love</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>han fikk ikke lenger lov til å arbeide på havet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>faren gav lov til han å dra</t>
+         <tg>
+            <t>gi lov</t>
+	    <xg>
+	      <x></x>
+	      <xt>han fikk ikke lenger lov til å arbeide på havet</xt>
+	    </xg>
+	    <xg>
+	      <x></x>
+	      <xt>faren gav lov til han å dra</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -5556,7 +5614,12 @@
       </lg>
       <mg>
          <tg>
-            <t>synes, være synlig; se ut til</t>
+            <t>synes, være synlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>se ut til</t>
          </tg>
       </mg>
    </e>
@@ -5601,13 +5664,17 @@
       </lg>
       <mg>
          <tg>
-            <t>se ut; vise</t>
+            <t>vise</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>se bra ut</t>
-         </tg>
+	<tg>
+	  <t>se ut</t>
+	  <xg>
+	    <x></x>
+	    <xt>se bra ut</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -5972,7 +6039,12 @@
       </lg>
       <mg>
          <tg>
-            <t>steke; skinne</t>
+            <t>steke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>skinne</t>
          </tg>
       </mg>
    </e>
@@ -6555,7 +6627,12 @@
       </lg>
       <mg>
          <tg>
-            <t>stikke; legge, sette</t>
+            <t>stikke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>legge, sette</t>
          </tg>
       </mg>
    </e>
@@ -7124,7 +7201,12 @@
       </lg>
       <mg>
          <tg>
-            <t>fange; be om</t>
+            <t>fange</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>be om</t>
          </tg>
       </mg>
    </e>
@@ -7194,7 +7276,17 @@
       </lg>
       <mg>
          <tg>
-            <t>slippe til; komme fram til; bli fri fra noe</t>
+            <t>slippe til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>komme fram til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bli fri fra noe</t>
          </tg>
       </mg>
    </e>
@@ -7840,7 +7932,12 @@
       </lg>
       <mg>
          <tg>
-            <t>slukke; slå av</t>
+            <t>slukke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>slå av</t>
          </tg>
       </mg>
    </e>
@@ -9981,7 +10078,12 @@
       </lg>
       <mg>
          <tg>
-            <t>støpe; helle, gyte</t>
+            <t>støpe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>helle, gyte</t>
          </tg>
       </mg>
    </e>

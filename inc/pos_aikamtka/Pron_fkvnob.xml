@@ -431,18 +431,21 @@
       </mg>
       <mg>
          <tg>
-            <t>den ene – den andre; hverandre</t>
+            <t>den ene – den andre</t>
+	    <xg>
+	      <x></x>
+	      <xt>den ene hette Pekka og den andre Hannu</xt>
+	    </xg>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>den ene hette Pekka og den andre Hannu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>de elsker hverandre</t>
-         </tg>
+	<tg>
+	  <t>hverandre</t>
+	  <xg>
+	    <x></x>
+	    <xt>de elsker hverandre</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -451,7 +454,8 @@
       </lg>
       <mg>
          <tg>
-            <t>den/det der</t>
+            <t>den der</t>
+            <t>det der</t>
          </tg>
       </mg>
    </e>

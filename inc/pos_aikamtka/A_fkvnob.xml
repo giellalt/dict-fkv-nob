@@ -271,13 +271,17 @@
       </lg>
       <mg>
          <tg>
-            <t>neste; første</t>
+            <t>første</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>neste gang</t>
-         </tg>
+	<tg>
+	  <t>neste</t>
+	  <xg>
+	    <x></x>
+	    <xt>neste gang</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -371,7 +375,12 @@
       </lg>
       <mg>
          <tg>
-            <t>forskjellig; annerdeles</t>
+            <t>forskjellig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>annerdeles</t>
          </tg>
       </mg>
    </e>
@@ -446,7 +455,12 @@
       </lg>
       <mg>
          <tg>
-            <t>fin, vakker; tynn</t>
+            <t>fin, vakker</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>tynn</t>
          </tg>
       </mg>
    </e>
@@ -650,7 +664,12 @@
       </lg>
       <mg>
          <tg>
-            <t>ømtålig; lett, snar</t>
+            <t>ømtålig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>lett, snar</t>
          </tg>
       </mg>
    </e>
@@ -661,11 +680,14 @@
       <mg>
          <tg>
             <t>herrelös</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg cip="c">
-            <t>Du store min tid!, Gud bevare!</t>
+	    <xg>
+	      <x></x>
+	      <xt>Du store min tid!</xt>
+	    </xg>
+	    <xg>
+	      <x></x>
+	      <xt>Gud bevare!</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -2897,13 +2919,17 @@
       </lg>
       <mg>
          <tg>
-            <t>riktig; høyre</t>
+            <t>riktig</t>
          </tg>
       </mg>
       <mg>
-         <tg cip="c">
-            <t>til høyre</t>
-         </tg>
+	<tg>
+	  <t>høyre</t>
+	  <xg>
+	    <x></x>
+	    <xt>til høyre</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e src="ai">
@@ -4839,7 +4865,12 @@
       </lg>
       <mg>
          <tg>
-            <t>full; fullvoksen</t>
+            <t>full</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fullvoksen</t>
          </tg>
       </mg>
    </e>
@@ -5379,7 +5410,12 @@
       </lg>
       <mg>
          <tg>
-            <t>siste; forrige</t>
+            <t>siste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>forrige</t>
          </tg>
       </mg>
    </e>
@@ -5748,7 +5784,12 @@
       </lg>
       <mg>
          <tg>
-            <t>enig; enstemmig</t>
+            <t>enig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>enstemmig</t>
          </tg>
       </mg>
    </e>
@@ -5909,7 +5950,12 @@
       </lg>
       <mg>
          <tg>
-            <t>målløs; lydløs</t>
+            <t>målløs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>lydløs</t>
          </tg>
       </mg>
    </e>
