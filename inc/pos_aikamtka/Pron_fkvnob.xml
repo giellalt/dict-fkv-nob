@@ -12,7 +12,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="Pron">enimät</l>
+         <l pos="Pron" nr="Pl">enimät</l>
       </lg>
       <mg>
          <tg>
@@ -442,18 +442,18 @@
          <tg>
             <t>den ene – den andre</t>
             <xg>
-	              <x/>
-	              <xt>den ene hette Pekka og den andre Hannu</xt>
-	           </xg>
+               <x/>
+               <xt>den ene hette Pekka og den andre Hannu</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
             <t>hverandre</t>
             <xg>
-	              <x/>
-	              <xt>de elsker hverandre</xt>
-	           </xg>
+               <x/>
+               <xt>de elsker hverandre</xt>
+            </xg>
          </tg>
       </mg>
    </e>

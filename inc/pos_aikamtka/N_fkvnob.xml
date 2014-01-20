@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../../scripts/gt_dictionary.dtd">
 <r>
    <e src="ai">
       <lg>
@@ -1668,7 +1664,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">dongerihousut</l>
+         <l pos="N" nr="Pl">dongerihousut</l>
       </lg>
       <mg>
          <tg>
@@ -3966,7 +3962,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">housut</l>
+         <l pos="N" nr="Pl">housut</l>
       </lg>
       <mg>
          <tg>
@@ -4389,7 +4385,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">häät</l>
+         <l pos="N" nr="Pl">häät</l>
       </lg>
       <mg>
          <tg>
@@ -5587,7 +5583,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">juomingit</l>
+         <l pos="N" nr="Pl">juomingit</l>
       </lg>
       <mg>
          <tg>
@@ -6633,7 +6629,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kalanloput</l>
+         <l pos="N" nr="Pl">kalanloput</l>
       </lg>
       <mg>
          <tg>
@@ -6869,7 +6865,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kamppheet</l>
+         <l pos="N" nr="Pl">kamppheet</l>
       </lg>
       <mg>
          <tg>
@@ -7380,7 +7376,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kasvot</l>
+         <l pos="N" nr="Pl">kasvot</l>
       </lg>
       <mg>
          <tg>
@@ -8324,7 +8320,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kiđukset</l>
+         <l pos="N" nr="Pl">kiđukset</l>
       </lg>
       <mg>
          <tg>
@@ -8772,7 +8768,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kirkonmenot</l>
+         <l pos="N" nr="Pl">kirkonmenot</l>
       </lg>
       <mg>
          <tg>
@@ -9167,7 +9163,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">koiranpäivät</l>
+         <l pos="N" nr="Pl">koiranpäivät</l>
       </lg>
       <mg>
          <tg re="23.7.–23.8.">
@@ -9709,10 +9705,10 @@
       <mg>
          <tg>
             <t>området bak øre</t>
-	    <xg comment="perhaps something like the German: 'er ist noch grün hinter den Ohren.'">
-	      <x></x>
-	      <xt>han/hun er fremdeles et barn, ikke voksen</xt>
-	    </xg>
+            <xg comment="perhaps something like the German: 'er ist noch grün hinter den Ohren.'">
+               <x/>
+               <xt>han/hun er fremdeles et barn, ikke voksen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10028,7 +10024,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">krannikset</l>
+         <l pos="N" nr="Pl">krannikset</l>
       </lg>
       <mg>
          <tg re="i forhold til hverandre">
@@ -10088,7 +10084,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kraviaiset</l>
+         <l pos="N" nr="Pl">kraviaiset</l>
       </lg>
       <mg>
          <tg>
@@ -10417,7 +10413,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kulmakarvat</l>
+         <l pos="N" nr="Pl">kulmakarvat</l>
       </lg>
       <mg>
          <tg>
@@ -10626,13 +10622,13 @@
             <t>form</t>
             <t>kondisjon</t>
             <xg>
-	              <x/>
+               <x/>
                <xt>den er i god stand</xt>
-	           </xg>
+            </xg>
             <xg>
-	              <x/>
+               <x/>
                <xt>hun/han er i god form</xt>
-	           </xg>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10649,7 +10645,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kuolaimet</l>
+         <l pos="N" nr="Pl">kuolaimet</l>
       </lg>
       <mg>
          <tg>
@@ -11505,9 +11501,9 @@
          <tg>
             <t>fart</t>
             <xg>
-	              <x/>
-	              <xt>jeg satt fart i kyrne</xt>
-	           </xg>
+               <x/>
+               <xt>jeg satt fart i kyrne</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11610,7 +11606,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">kärröt</l>
+         <l pos="N" nr="Pl">kärröt</l>
       </lg>
       <mg>
          <tg>
@@ -11884,7 +11880,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l decl="n_21ie" pos="N">lahti</l>
+         <l pos="N" decl="n_21ie">lahti</l>
       </lg>
       <mg>
          <tg>
@@ -11895,7 +11891,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l decl="n_21" pos="N">lahti</l>
+         <l pos="N" decl="n_21">lahti</l>
       </lg>
       <mg>
          <tg>
@@ -12353,7 +12349,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">lastenvaunut</l>
+         <l pos="N" nr="Pl">lastenvaunut</l>
       </lg>
       <mg>
          <tg>
@@ -13277,9 +13273,9 @@
          <tg>
             <t>rest</t>
             <xg>
-	              <x/>
-	              <xt>matrester</xt>
-	           </xg>
+               <x/>
+               <xt>matrester</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13868,7 +13864,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">länget</l>
+         <l pos="N" nr="Pl">länget</l>
       </lg>
       <mg>
          <tg>
@@ -14406,7 +14402,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">mantelit</l>
+         <l pos="N" nr="Pl">mantelit</l>
       </lg>
       <mg>
          <tg re="organ i svelget">
@@ -14599,7 +14595,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">maaterivanhiimet</l>
+         <l pos="N" nr="Pl">maaterivanhiimet</l>
       </lg>
       <mg>
          <tg>
@@ -14678,7 +14674,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">matonkutheet</l>
+         <l pos="N" nr="Pl">matonkutheet</l>
       </lg>
       <mg>
          <tg>
@@ -14747,9 +14743,9 @@
             <t>oppsikt</t>
             <t>syn</t>
             <xg>
-	              <x/>
-	              <xt>ikke i det hele tatt</xt>
-	           </xg>
+               <x/>
+               <xt>ikke i det hele tatt</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15321,13 +15317,13 @@
          <tg>
             <t>minne</t>
             <xg>
-	              <x/>
-	              <xt>jeg merket meg ikke det, jeg husker ikke det</xt>
-	           </xg>
+               <x/>
+               <xt>jeg merket meg ikke det, jeg husker ikke det</xt>
+            </xg>
             <xg>
-	              <x/>
-	              <xt>før jeg begynner å huske, før min tid</xt>
-	           </xg>
+               <x/>
+               <xt>før jeg begynner å huske, før min tid</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -15366,9 +15362,9 @@
             <t>kort</t>
             <t>reise</t>
             <xg>
-	              <x/>
-	              <xt>jeg var en tur til bestefar</xt>
-	           </xg>
+               <x/>
+               <xt>jeg var en tur til bestefar</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15384,7 +15380,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">mulkut</l>
+         <l pos="N" nr="Pl">mulkut</l>
       </lg>
       <mg>
          <tg>
@@ -15434,7 +15430,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">muođot</l>
+         <l pos="N" nr="Pl">muođot</l>
       </lg>
       <mg>
          <tg>
@@ -16855,10 +16851,10 @@
       <mg>
          <tg>
             <t>synsvinkel</t>
-	    <xg>
-	      <x></x>
-	      <xt>når en ser på saken under den synsvinkelen, så ser den nok bra ut</xt>
-	    </xg>
+            <xg>
+               <x/>
+               <xt>når en ser på saken under den synsvinkelen, så ser den nok bra ut</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17575,7 +17571,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">overalsit</l>
+         <l pos="N" nr="Pl">overalsit</l>
       </lg>
       <mg>
          <tg>
@@ -17635,7 +17631,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">paarit</l>
+         <l pos="N" nr="Pl">paarit</l>
       </lg>
       <mg>
          <tg>
@@ -19047,7 +19043,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">piđot</l>
+         <l pos="N" nr="Pl">piđot</l>
       </lg>
       <mg>
          <tg>
@@ -19859,7 +19855,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">polkimet</l>
+         <l pos="N" nr="Pl">polkimet</l>
       </lg>
       <mg>
          <tg>
@@ -20392,7 +20388,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">prillat</l>
+         <l pos="N" nr="Pl">prillat</l>
       </lg>
       <mg>
          <tg>
@@ -22800,7 +22796,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">ristiäiset</l>
+         <l pos="N" nr="Pl">ristiäiset</l>
       </lg>
       <mg>
          <tg>
@@ -22994,7 +22990,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">rullatraput</l>
+         <l pos="N" nr="Pl">rullatraput</l>
       </lg>
       <mg>
          <tg>
@@ -23380,7 +23376,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">ruvanloput</l>
+         <l pos="N" nr="Pl">ruvanloput</l>
       </lg>
       <mg>
          <tg>
@@ -23860,7 +23856,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">sakset</l>
+         <l pos="N" nr="Pl">sakset</l>
       </lg>
       <mg>
          <tg>
@@ -24008,7 +24004,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">sanomat</l>
+         <l pos="N" nr="Pl">sanomat</l>
       </lg>
       <mg>
          <tg>
@@ -24049,7 +24045,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">sapilhaat</l>
+         <l pos="N" nr="Pl">sapilhaat</l>
       </lg>
       <mg>
          <tg>
@@ -24366,7 +24362,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">sellat</l>
+         <l pos="N" nr="Pl">sellat</l>
       </lg>
       <mg>
          <tg>
@@ -24497,7 +24493,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">seurat</l>
+         <l pos="N" nr="Pl">seurat</l>
       </lg>
       <mg>
          <tg>
@@ -25537,7 +25533,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">suittet</l>
+         <l pos="N" nr="Pl">suittet</l>
       </lg>
       <mg>
          <tg>
@@ -26172,7 +26168,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">syntymäpäivät</l>
+         <l pos="N" nr="Pl">syntymäpäivät</l>
       </lg>
       <mg>
          <tg>
@@ -26448,7 +26444,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">sänkyvaattheet</l>
+         <l pos="N" nr="Pl">sänkyvaattheet</l>
       </lg>
       <mg>
          <tg>
@@ -26534,10 +26530,10 @@
          <tg>
             <t>rygg</t>
             <xg>
-	              <x/>
-	              <xt>gi juling</xt>
-	              <xt>jule opp</xt>
-	           </xg>
+               <x/>
+               <xt>gi juling</xt>
+               <xt>jule opp</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -26724,7 +26720,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">taivhaanvalkkeet</l>
+         <l pos="N" nr="Pl">taivhaanvalkkeet</l>
       </lg>
       <mg>
          <tg>
@@ -28400,7 +28396,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">tunnussanat</l>
+         <l pos="N" nr="Pl">tunnussanat</l>
       </lg>
       <mg>
          <tg>
@@ -28428,7 +28424,7 @@
    <e src="ai">
       <lg>
          <l pos="N">tunteminen</l>
-     </lg>
+      </lg>
       <mg>
          <tg>
             <t>kjennskap</t>
@@ -29261,7 +29257,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">ulkomaat</l>
+         <l pos="N" nr="Pl">ulkomaat</l>
       </lg>
       <mg>
          <tg>
@@ -31023,7 +31019,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l nr="Pl" pos="N">viljat</l>
+         <l pos="N" nr="Pl">viljat</l>
       </lg>
       <mg>
          <tg>
