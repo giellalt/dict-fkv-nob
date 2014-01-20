@@ -479,7 +479,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">alushousut</l>
+         <l pos="N" nr="Pl">alushousut</l>
       </lg>
       <mg>
          <tg>
@@ -3422,7 +3422,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">housut</l>
+         <l pos="N" nr="Pl">housut</l>
       </lg>
       <mg>
          <tg>
@@ -5816,7 +5816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">kangaspuut</l>
+         <l pos="N" nr="Pl">kangaspuut</l>
          <stem>kangaspuitte</stem>
          <stem>kangaspui</stem>
       </lg>
@@ -18452,7 +18452,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">palonkihousut</l>
+         <l pos="N" nr="Pl">palonkihousut</l>
       </lg>
       <mg>
          <tg>
@@ -20891,7 +20891,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">prakut</l>
+         <l pos="N" nr="Pl">prakut</l>
       </lg>
       <mg>
          <tg>
@@ -29286,7 +29286,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">uimahousut</l>
+         <l pos="N" nr="Pl">uimahousut</l>
       </lg>
       <mg>
          <tg>
@@ -31086,7 +31086,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" nr="pl">villahousut</l>
+         <l pos="N" nr="Pl">villahousut</l>
          <stem>villahousui</stem>
          <stem>villahoussui</stem>
       </lg>
@@ -32747,7 +32747,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="Pl" pos="N">tonget</l>
+         <l pos="N" nr="Pl">tonget</l>
       </lg>
       <mg>
          <tg>
@@ -32767,11 +32767,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="Pl" pos="N">vaatheet</l>
+         <l pos="N" num="Pl">vaatheet</l>
       </lg>
       <mg>
          <tg>
-            <t nr="Pl" pos="N">klær</t>
+            <t pos="N" nr="Pl">klær</t>
          </tg>
       </mg>
    </e>
@@ -32801,12 +32801,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l nr="Pl" pos="N">suittet</l>
+         <l pos="N" nr="Pl">suittet</l>
       </lg>
       <mg>
          <tg>
-            <t nr="Pl" pos="N">tømmer</t>
-            <t nr="Pl" pos="N">tøyler</t>
+            <t pos="N" nr="Pl">tømmer</t>
+            <t pos="N" nr="Pl">tøyler</t>
          </tg>
       </mg>
    </e>
