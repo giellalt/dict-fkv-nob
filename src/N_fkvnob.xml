@@ -7394,7 +7394,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" status="sjekk">kiilu</l>
+         <l pos="N" comment="Suomeksi v:kiilua; mutta onko kveenin muoto oikein?">kiilu</l>
       </lg>
       <mg>
          <tg>
@@ -7402,7 +7402,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" decl="v">glanse</t>
          </tg>
       </mg>
-      <!--Suomeksi v:kiilua; mutta onko kveenin muoto oikein?--></e>
+   </e>
    <e>
       <lg>
          <l pos="N">kiima</l>
@@ -10172,7 +10172,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" status="sjekk">kurikka</l>
+         <l pos="N" comment="onko käänös oikein? kurikka on vanha suom joka tarkoittaa jotain ihan erilaista">kurikka</l>
          <stem>kurika</stem>
       </lg>
       <mg>
@@ -10180,7 +10180,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" decl="m">medisinplante</t>
          </tg>
       </mg>
-      <!--onko käänös oikein? kurikka on vanha suom joka tarkoittaa jotain ihan erilaista--></e>
+   </e>
    <e>
       <lg>
          <l pos="N">kuri</l>

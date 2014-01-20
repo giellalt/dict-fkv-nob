@@ -1990,11 +1990,11 @@ For the full license text, see the link above.</lic>
          <l pos="A" status="sjekk">mätä</l>
       </lg>
       <mg>
-         <tg>
+         <tg comment="sekä subst. että adj? råtten og råttenhet?">
             <t decl="a5" pos="A">råtten</t>
          </tg>
       </mg>
-      <!--sekä subst. että adj? råtten og råttenhet?--></e>
+   </e>
    <e>
       <lg>
          <l pos="A">määrätön</l>
@@ -2118,11 +2118,11 @@ For the full license text, see the link above.</lic>
          <stem>nuorenlais</stem>
       </lg>
       <mg>
-         <tg>
+         <tg comment="trans ungdommelig">
             <t decl="a1" pos="A">temmelig ung</t>
          </tg>
       </mg>
-      <!--trans ungdommelig--></e>
+   </e>
    <e>
       <lg>
          <l pos="A">nuori</l>
@@ -4329,7 +4329,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A" status="sjekk">vasempi</l>
+         <l pos="A" comment="vasempi blir til vasen?">vasempi</l>
          <stem>vasema</stem>
          <stem>vasemppa</stem>
       </lg>
@@ -4338,7 +4338,7 @@ For the full license text, see the link above.</lic>
             <t decl="a3" pos="A">venstre</t>
          </tg>
       </mg>
-      <!-- vasempi blir til vasen?--></e>
+   </e>
    <e>
       <lg>
          <l pos="A">velvolinen</l>
@@ -4815,7 +4815,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ventovieras</l>
+         <l pos="A" comment="ventovieras ihminen ja ventovieras paikka. Suom">ventovieras</l>
          <stem>ventovierhaa</stem>
       </lg>
       <mg>
@@ -4823,7 +4823,7 @@ For the full license text, see the link above.</lic>
             <t decl="a2" pos="A">fremmed</t>
          </tg>
       </mg>
-      <!--ventovieras ihminen ja ventovieras paikka. Suom--></e>
+   </e>
    <e>
       <lg>
          <l pos="A">ankara</l>
