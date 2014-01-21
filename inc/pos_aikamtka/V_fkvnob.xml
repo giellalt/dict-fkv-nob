@@ -2758,27 +2758,6 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">keritä</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>rekke</t>
-            <t>ha tid til</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>bli ferdig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>klippe sau</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="V">kerputa</l>
       </lg>
       <mg>
@@ -9084,27 +9063,6 @@
             <t>ville ha</t>
             <t>ville</t>
             <t>ønske</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">taittaat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>være kanskje/vel</t>
-            <xg>
-               <x>Taittaat olla kevät</x>
-               <xt>det er vel vår</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>bryte</t>
-            <t>brekke</t>
-            <t>knekke</t>
          </tg>
       </mg>
    </e>
