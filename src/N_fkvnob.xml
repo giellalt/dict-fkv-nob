@@ -20396,27 +20396,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">pommi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" decl="f">bombe</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">pommitus</l>
-         <stem>pommmitukse</stem>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" decl="f">bombing</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">ponojää</l>
       </lg>
       <mg>
@@ -21271,6 +21250,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">pommitus</l>
          <stem>pommitukse</stem>
+         <stem>pommmitukse</stem>
       </lg>
       <mg>
          <tg>
@@ -21489,6 +21469,11 @@ For the full license text, see the link above.</lic>
             <t pos="N" decl="m">kattepus</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="N" decl="m">pose</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -21624,16 +21609,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" decl="m">grøt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">pussi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" decl="m">pose</t>
          </tg>
       </mg>
    </e>
@@ -26660,11 +26635,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" decl="m">same</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">saame</l>
-      </lg>
       <mg>
          <tg>
             <t pos="N" decl="N">samisk</t>
