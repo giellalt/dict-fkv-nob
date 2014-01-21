@@ -4988,16 +4988,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">juoma</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" decl="m">drikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">juoppo</l>
          <stem>juopo</stem>
       </lg>
@@ -8286,20 +8276,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" decl="m">ørn</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">kokkous</l>
-         <stem>kokkoukse</stem>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" decl="f">forsamling</t>
-            <syng>
-               <syn>kokous</syn>
-            </syng>
          </tg>
       </mg>
    </e>
