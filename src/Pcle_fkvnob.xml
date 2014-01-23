@@ -1,39 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta">
+<r id="fkvnob" xml:lang="fkv">
+   <e src="ta;ai">
       <lg>
          <l pos="Pcle">pikkusen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Adv">litt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">altso</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>altså</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">erikoisen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>spesielt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">kait</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>vel</t>
+            <xg>
+               <x>kait se tullee</x>
+               <xt>hun/han kommer vel</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">kauheen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>forferdelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">kunnon</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>skikkelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">lähes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>nesten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">sati</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>bare</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>jeg tenkte at bare jeg ikke faller i sjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle">yhä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>fremdeles</t>
          </tg>
       </mg>
    </e>

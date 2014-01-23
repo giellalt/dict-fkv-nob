@@ -1,44 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta">
+<r id="fkvnob" xml:lang="fkv">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">ennen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pr">før</t>
             <t pos="Pr">tidligere</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t>heller</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>han hadde dratt noen dager tidligere</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">poikki</l>
       </lg>
@@ -49,6 +32,69 @@ For the full license text, see the link above.</lic>
                <x>poikki jokkee</x>
                <xt>på andre sida av elva</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>tvers over</t>
+            <t>gjennom</t>
+            <xg>
+               <x>mennä poikki</x>
+               <xt>gå av, brekke</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>jeg rodde over fjorden til bestemor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pr">ilman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">uten</t>
+            <xg>
+               <x>ilman rahatta</x>
+               <xt>uten penger</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pr">vaila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">uten</t>
+            <xg>
+               <x>Kello oon viis vaila seittemen</x>
+               <xt>Klokken er fem på sju</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>klokka er ti på et</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Pr">yli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">over</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>en får ikke ta brennvin over grensen</t>
          </tg>
       </mg>
    </e>
@@ -63,37 +109,204 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ai">
       <lg>
-         <l pos="Pr">ilman</l>
+         <l pos="Pr">eđeltä</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Pr">uten</t>
+            <t>foran</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">vaila</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="Pr">uten</t>
+            <t>før</t>
             <xg>
-               <x>Kello oon viis vaila seittemen</x>
-               <xt>Klokken er fem på sju</xt>
+               <x/>
+               <xt>han/hun kom hjem før sankthans</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ai">
       <lg>
-         <l pos="Pr">yli</l>
+         <l pos="Pr">jälkhiin</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Pr">over</t>
+            <t>etter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>det er avhengig av det hvordan vi ønsker</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>hun/han flyttet hit etter krigen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">keskele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>midt i/på (til)</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>kirken ble bygd midt i bygda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">keskelä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>midt i/på</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>jeg våknet opp midt på natten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">kiini</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>inntil</t>
+            <t>fast</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">kohđi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>mot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">kohti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>mot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">likeltä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>fra nærheten av</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>Stiina er fra nærheten av Tromsø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">liki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>i nærheten av</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>i nærheten av sjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">läpitte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>gjennom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">pitkin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>langs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>det går en vei der langs Tanaelvstarnden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">puolivälissä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>midtveis</t>
+            <t>halvveis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>i midten av mai</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">siutte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>forbi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>Pekka gikk på ski forbi Trollvannet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Pr">sivvu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>forbi</t>
          </tg>
       </mg>
    </e>

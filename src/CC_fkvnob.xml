@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta">
+<r id="fkvnob" xml:lang="fkv">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">eli</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">eller</t>
             <syng>
                <syn>elikkä</syn>
@@ -41,55 +14,60 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">ette</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">at</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t>det blir mindre og mindre av det</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">ja</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="CC">og</t>
+         <tg xml:lang="nob">
             <t pos="CC">samt</t>
+            <t pos="CC">og</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">jos</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">dersom</t>
-            <t pos="CC">om</t>
             <t pos="CC">hvis/viss</t>
+            <t pos="CC">om</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">mutta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">men</t>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">tahi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">eller</t>
             <syng>
                <syn>tai</syn>
@@ -98,13 +76,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">vaikka</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="CC">selv om</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="CC">ko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CC">da</t>
+            <t pos="CC">når</t>
+            <t pos="CC">enn</t>
+            <t pos="CC">som</t>
          </tg>
       </mg>
    </e>
@@ -115,19 +106,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="CC">enten – eller</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="CC">ko</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="CC">da</t>
-            <t pos="CC">når</t>
-            <t pos="CC">enn</t>
-            <t pos="CC">som</t>
          </tg>
       </mg>
    </e>
@@ -167,6 +145,101 @@ For the full license text, see the link above.</lic>
                <syn>tahi</syn>
                <syn>tai</syn>
             </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">entä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>enn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">ettei</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>at ikke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>at han ikke går</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">että</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>at</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC"
+            comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>untatt</t>
+            <xg>
+               <x/>
+               <xt>alle untatt Maija kan kvensk</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>utenom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">sama</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>like</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">se</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>så</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">sillä ko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t>fordi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="CC">vain</l>
+      </lg>
+      <mg>
+         <tg re="i spørsmål">
+            <t>eller</t>
          </tg>
       </mg>
    </e>
