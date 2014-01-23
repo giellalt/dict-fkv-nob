@@ -23866,9 +23866,9 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
-         <l pos="N">lahti</l>
+         <l pos="N" decl="n_21ie">lahti</l>
          <stem>lahđe</stem>
          <stem>lahte</stem>
       </lg>
@@ -23876,6 +23876,16 @@
          <tg>
             <t pos="N" decl="f">vik</t>
             <t pos="N" decl="f">bukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" decl="n_21">lahti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">slakt</t>
          </tg>
       </mg>
    </e>
@@ -35045,7 +35055,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="N">vara</l>
       </lg>
@@ -35055,6 +35065,10 @@
             <xg>
                <x>Mulla oon vara</x>
                <xt>Jeg har råd</xt>
+            </xg>
+            <xg>
+               <x>hänelä oon varraa</x>
+               <xt>han har råd</xt>
             </xg>
          </tg>
       </mg>

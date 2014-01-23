@@ -8800,7 +8800,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="V" stem="3syll">keritä</l>
          <stem>keritte</stem>
@@ -8812,7 +8812,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="V" stem="2syll">keritä</l>
          <stem>kerkkii</stem>
@@ -8822,6 +8822,12 @@
          <tg>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
+            <t>ha tid til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>bli ferdig</t>
          </tg>
       </mg>
    </e>
@@ -11927,7 +11933,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai">
       <lg>
          <l pos="V" stem="weak">taittaat</l>
          <stem>taiđa</stem>
@@ -11936,6 +11942,16 @@
          <tg>
             <t pos="V">kunne</t>
             <t pos="V">tørre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">være kanskje</t>
+            <t pos="V">være vel</t>
+            <xg>
+               <x>Taittaat olla kevät</x>
+               <xt>det er vel vår</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11948,6 +11964,7 @@
          <tg>
             <t pos="V">brekke</t>
             <t pos="V">knekke</t>
+            <t pos="V">bryte</t>
          </tg>
       </mg>
    </e>
