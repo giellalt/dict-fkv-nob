@@ -1,5 +1,1 @@
-
- ==> no doublings now: bra!
- ==> normalize t-elements by splitting them based on ',' and ';' (__Ciprian__)
- 
-
+ - data from aikamatka.xml is now merged into the src data: obsolete 
