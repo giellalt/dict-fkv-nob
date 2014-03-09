@@ -25,9 +25,9 @@ No doublings, but they might be introduces by correcting the x-pos value!!!
 
 
 2. nob:fkv
-
 src>grep -h "<lemma " *xml | grep 'decl="x"' | wc -l 
      155
+   info4trond: This format was the reason of the file split based on decl-values in the current nob:fkv!
 
    2       <lemma decl="x">så</lemma>
    2       <lemma decl="x">enn</lemma>
