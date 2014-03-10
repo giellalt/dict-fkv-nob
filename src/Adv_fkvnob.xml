@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="x">først</t>
-            <t pos="x">fra først av</t>
+            <t pos="Adv">fra først av</t>
          </tg>
       </mg>
    </e>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">i går</t>
+            <t pos="Adv">i går</t>
          </tg>
       </mg>
    </e>
@@ -121,7 +121,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">i morgen</t>
+            <t pos="Adv">i morgen</t>
          </tg>
       </mg>
    </e>
@@ -132,7 +132,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="x">godt</t>
-            <t pos="x">vel</t>
+            <t pos="Adv">vel</t>
             <t pos="x">bra</t>
          </tg>
       </mg>
@@ -148,8 +148,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">adjø</t>
-            <t pos="x">farvel</t>
+            <t pos="Interj">adjø</t>
+            <t pos="Interj">farvel</t>
          </tg>
       </mg>
       <mg>
