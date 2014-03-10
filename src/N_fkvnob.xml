@@ -1925,7 +1925,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" decl="m">stut</t>
             <t pos="N" decl="m">tyr</t>
-            <t pos="N" decl="m" re="kastrert">okse</t>
+            <t pos="N" decl="m">kastrert okse</t>
             <syng>
                <syn>sonni</syn>
                <syn>purri</syn>
@@ -7303,7 +7303,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" decl="m" re="av ris">kost</t>
+            <t pos="N" decl="m">kost av ris</t>
             <t pos="N" decl="m">lime</t>
          </tg>
       </mg>
@@ -37082,7 +37082,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t re="dyp">snødekke</t>
+            <t>dyp snødekke</t>
             <t>snøskavl</t>
             <t>skare</t>
          </tg>
@@ -51619,7 +51619,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t re="ES">hefte</t>
+            <t>ES_correct_me hefte</t>
             <t>bunt</t>
          </tg>
       </mg>
