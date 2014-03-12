@@ -27,6 +27,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="t">
+      <lg>
+         <l pos="N">aijankäännet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">solsnu</t>
+         </tg>
+      </mg>
+   </e>
+ <e src="t">
+      <lg>
+         <l pos="N">hakopuu</l>
+         <stem>hakopuu</stem>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">bartre</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">suomi</l>
@@ -34,7 +55,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="N" decl="a2">finsk</t>
+            <t pos="N">finsk</t>
          </tg>
       </mg>
       <mg>
