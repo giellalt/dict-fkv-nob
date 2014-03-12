@@ -23,6 +23,7 @@ cat  src/*_nobfkv.xml | \
 echo "LEXICON Root" > bin/fkvnob.lexc
 
 cat src/*_fkvnob.xml | \
+grep -v "creativecommons" | \
 grep '^ *<' | \
 grep -v xml | \
 grep -v '_' | \
