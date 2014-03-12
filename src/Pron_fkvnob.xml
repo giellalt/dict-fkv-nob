@@ -29,6 +29,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ta;ai">
       <lg>
+         <l pos="Pron">eri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">annen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
          <l pos="Pron">sama</l>
          <stem>samma</stem>
       </lg>

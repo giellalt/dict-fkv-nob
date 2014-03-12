@@ -29,6 +29,34 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ta;ai">
       <lg>
+         <l pos="Po">asti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="pr">inntil</t>
+            <xg>
+               <x>mie vien sinun Tromsshaan asti</x>
+               <xt>jeg skal følge med deg helt til Tromsø</xt>
+            </xg>
+            <t pos="pr">til</t>
+            <xg>
+               <x>mie vien sinun Tromsshaan asti</x>
+               <xt>jeg skal følge med deg helt til Tromsø</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t>fra</t>
+            <xg>
+               <x>mie olen ollu kristilinen lapsuuđesta asti</x>
+               <xt>jeg har vært kristen siden barndommen</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
          <l pos="Po">vuoksi</l>
       </lg>
       <mg>

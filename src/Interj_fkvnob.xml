@@ -27,6 +27,39 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ai">
+      <lg>
+         <l pos="Interj">antheeksi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos"Interj">unnskyld</t>
+            <t pos"Interj">om forlatelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Interj">joo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">jo</t>
+            <t pos="Interj">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="Interj">hyvästi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="Interj">adjø</t>
+            <t pos="Interj">farvel</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Interj">kyllä</l>
