@@ -33,7 +33,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">naken</t>
+            <t pos="Adv">nakent</t>
          </tg>
       </mg>
    </e>
@@ -44,17 +44,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nede</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Adv">alusta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="x">først</t>
-            <t pos="Adv">fra først av</t>
          </tg>
       </mg>
    </e>
@@ -75,11 +64,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="Adv">mer</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>ikke mer</t>
+         <xg>
+            <x>ei ennää</x>
+            <xt>ikke mer</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -100,7 +88,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">enkelt</t>
-            <t pos="x">lett</t>
+            <t pos="Adv">lett</t>
          </tg>
       </mg>
    </e>
@@ -110,8 +98,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">snart</t>
-            <t pos="x">straks</t>
+            <t pos="Adv">snart</t>
+            <t pos="Adv">straks</t>
          </tg>
       </mg>
    </e>
@@ -131,30 +119,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">godt</t>
+            <t pos="Adv">godt</t>
             <t pos="Adv">vel</t>
-            <t pos="x">bra</t>
+            <t pos="Adv">bra</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>meget</t>
+            <t pos"Adv">meget</t>
          </tg>
       </mg>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="Adv">hyvästi</l>
+         <l pos="Interj">hyvästi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="Interj">adjø</t>
-            <t pos="Interj">farvel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>bra</t>
+            <t pos"Adv">bra</t>
          </tg>
       </mg>
    </e>
@@ -164,7 +146,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">ensom</t>
             <t pos="Adv">alene</t>
          </tg>
       </mg>
@@ -193,39 +174,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="Adv">asti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="pr">inntil</t>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-            <t pos="pr">til</t>
-            <xg>
-               <x>mie vien sinun Tromsshaan asti</x>
-               <xt>jeg skal følge med deg helt til Tromsø</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>fra</t>
-            <xg>
-               <x>mie olen ollu kristilinen lapsuuđesta asti</x>
-               <xt>jeg har vært kristen siden barndommen</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="Adv">auki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="ax" pos="A">åpen</t>
+            <t decl="ax" pos="Adv">åpent</t>
          </tg>
       </mg>
    </e>
@@ -256,11 +209,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="Adv">for eksempel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>f. eks.</t>
          </tg>
       </mg>
    </e>
@@ -309,7 +257,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>så vidt</t>
+            <t pos"Adv">så vidt</t>
          </tg>
       </mg>
    </e>
@@ -334,7 +282,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>langt bortefra</t>
+            <t pos"Adv">langt bortefra</t>
          </tg>
       </mg>
    </e>
@@ -353,12 +301,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>uferdig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>hun/han avbrøt studiene</t>
+            <t pos"Adv">uferdig</t>
          </tg>
       </mg>
    </e>
@@ -384,7 +327,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>aldri</t>
+            <t pos"Adv">aldri</t>
          </tg>
       </mg>
    </e>
@@ -433,7 +376,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>svært</t>
+            <t pos"Adv">svært</t>
          </tg>
       </mg>
    </e>
@@ -467,13 +410,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">nær</t>
+            <t pos="Adv">nært</t>
             <t pos="Adv">like ved</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>i nærheten</t>
+            <t pos"Adv">i nærheten</t>
          </tg>
       </mg>
    </e>
@@ -483,17 +426,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">nær</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>nesten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>nesten hundre menn</t>
+            <t pos="Adv">nært</t>
          </tg>
       </mg>
    </e>
@@ -567,9 +500,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">raskt</t>
-            <t pos="x">hurtig</t>
-            <t pos="x">fort</t>
+            <t pos="Adv">raskt</t>
+            <t pos="Adv">hurtig</t>
+            <t pos="Adv">fort</t>
          </tg>
       </mg>
    </e>
@@ -579,9 +512,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">ondt</t>
-            <t pos="x">stygt</t>
-            <t pos="x">ille</t>
+            <t pos="Adv">ondt</t>
+            <t pos="Adv">stygt</t>
+            <t pos="Adv">ille</t>
          </tg>
       </mg>
    </e>
@@ -591,7 +524,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">sikkert</t>
+            <t pos="Adv">sikkert</t>
             <syng>
                <syn>varmasti</syn>
             </syng>
@@ -604,7 +537,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">nøyaktig</t>
+            <t pos="Adv">nøyaktig</t>
          </tg>
       </mg>
    </e>
@@ -624,17 +557,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">bestemt</t>
+            <t pos="Adv">bestemt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>virkelig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>virkelig ikke</t>
+            <t pos"Adv">virkelig</t>
          </tg>
       </mg>
    </e>
@@ -644,7 +572,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">på nytt</t>
+            <t pos="Adv">på nytt</t>
          </tg>
       </mg>
    </e>
@@ -654,7 +582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">sikkert</t>
+            <t pos="Adv">sikkert</t>
             <syng>
                <syn>sikkaristi</syn>
             </syng>
@@ -667,7 +595,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">forsiktig</t>
+            <t pos="Adv">forsiktig</t>
          </tg>
       </mg>
    </e>
@@ -677,7 +605,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">rikelig</t>
+            <t pos="Adv">rikelig</t>
          </tg>
       </mg>
    </e>
@@ -687,7 +615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">allment</t>
+            <t pos="Adv">allment</t>
          </tg>
       </mg>
    </e>
@@ -697,12 +625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">der borte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="~ borte">
-            <t>der</t>
+            <t pos="Adv">der borte</t>
          </tg>
       </mg>
    </e>
@@ -725,7 +648,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">i smug</t>
+            <t pos="Adv">i smug</t>
          </tg>
       </mg>
    </e>
@@ -735,14 +658,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nøye</t>
-            <t pos="x">nøyaktig</t>
+            <t pos="Adv">nøyaktig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>uttrykkelig</t>
-            <t>spesielt</t>
+            <t pos"Adv">uttrykkelig</t>
+            <t pos"Adv">spesielt</t>
          </tg>
       </mg>
    </e>
@@ -752,13 +674,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">front mot front</t>
+            <t pos="Adv">front mot front</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>mot hverandre</t>
-            <t>ansikt mot ansikt</t>
+            <t pos"Adv">mot hverandre</t>
+            <t pos"Adv">ansikt mot ansikt</t>
          </tg>
       </mg>
    </e>
@@ -768,39 +690,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">med tvang</t>
+            <t pos="Adv">med tvang</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>med makt</t>
+            <t pos"Adv">med makt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>nødvendig</t>
+            <t pos"Adv">nødvendig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>uunngåelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Adv">joo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">jo</t>
-            <t pos="Adv">ja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>jo da</t>
-            <t>selvfølgelig</t>
+            <t pos"Adv">uunngåelig</t>
          </tg>
       </mg>
    </e>
@@ -824,16 +729,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">sammen</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t>klesplagget krumpet sammen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>Pekka fikk samlet inn mye penger</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -853,14 +748,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">på vranga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>vrengt</t>
-            <t>feil</t>
-            <t>feil vei</t>
+            <t pos="Adv">på vranga</t>
          </tg>
       </mg>
    </e>
@@ -886,12 +774,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>så her</t>
+            <t pos"Adv">så her</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>hipp som happ</t>
+            <t pos"Adv">hipp som happ</t>
          </tg>
       </mg>
    </e>
@@ -940,7 +828,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>altfor</t>
+            <t pos"Adv">altfor</t>
          </tg>
       </mg>
    </e>
@@ -967,11 +855,6 @@ For the full license text, see the link above.</lic>
             </syng>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t>komme fra</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -989,8 +872,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">beruset</t>
-            <t pos="x">full</t>
+            <t pos="Adv">beruset</t>
+            <t pos="Adv">full</t>
             <syng>
                <syn>humalossa</syn>
             </syng>
@@ -1046,28 +929,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">derfor</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t>så pass</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>han/hun er såpass gammel at han/hun forstår</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>så lenge</t>
-            <t>så lang</t>
-            <t>til</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>han/hun ble der til han døde</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -1090,7 +951,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>inne i</t>
+            <t pos"Adv">inne i</t>
          </tg>
       </mg>
    </e>
@@ -1111,8 +972,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">tatt vare på</t>
-            <t pos="x">bevart</t>
+            <t pos="Adv">bevart</t>
          </tg>
       </mg>
    </e>
@@ -1179,7 +1039,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>hit og dit</t>
+            <t pos"Adv">hit og dit</t>
          </tg>
       </mg>
    </e>
@@ -1194,7 +1054,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>her og der</t>
+            <t pos"Adv">her og der</t>
          </tg>
       </mg>
    </e>
@@ -1268,7 +1128,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>nylig</t>
+            <t pos"Adv">nylig</t>
          </tg>
       </mg>
    </e>
@@ -1283,7 +1143,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>til sist</t>
+            <t pos"Adv">til sist</t>
          </tg>
       </mg>
    </e>
@@ -1293,8 +1153,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">på skeiva</t>
-            <t pos="x">på skrå</t>
+            <t pos="Adv">på skeiva</t>
+            <t pos="Adv">på skrå</t>
          </tg>
       </mg>
    </e>
@@ -1309,12 +1169,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>fra år til år</t>
+            <t pos"Adv">fra år til år</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>i flere år</t>
+            <t pos"Adv">i flere år</t>
          </tg>
       </mg>
    </e>
@@ -1324,18 +1184,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="x">lite</t>
+            <t pos="Adv">lite</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>litt av hvert</t>
+            <t pos"Adv">litt av hvert</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>her og der</t>
-            <t>mange steder</t>
+            <t pos"Adv">her og der</t>
+            <t pos"Adv">mange steder</t>
          </tg>
       </mg>
    </e>
@@ -1371,7 +1231,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>ens</t>
+            <t pos"Adv">ens</t>
          </tg>
       </mg>
    </e>
@@ -1398,7 +1258,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>sammen</t>
+            <t pos"Adv">sammen</t>
          </tg>
       </mg>
    </e>
@@ -1455,7 +1315,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>vel</t>
+            <t pos"Adv">vel</t>
          </tg>
       </mg>
    </e>
@@ -1471,7 +1331,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>nok</t>
+            <t pos"Adv">nok</t>
          </tg>
       </mg>
    </e>
@@ -1506,11 +1366,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">i stykker</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t>vinduet gikk i stykker</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -1524,13 +1379,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>enda til</t>
-            <t>hel til</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>Han er en virkelig ærlig mann</t>
+            <t pos"Adv">enda til</t>
+            <t pos"Adv">hel til</t>
          </tg>
       </mg>
    </e>
@@ -1582,17 +1432,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>inn til</t>
+            <t pos="Pr">inn til</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>fra</t>
+            <t pos="Pr">fra</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>fra gammelt av</t>
+            <t pos"Adv">fra gammelt av</t>
          </tg>
       </mg>
    </e>
@@ -1602,12 +1452,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">full</t>
+            <t pos="Adv">fullt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>full av</t>
+            <t pos"Adv">full av</t>
          </tg>
       </mg>
    </e>
@@ -1636,17 +1486,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>utenfra</t>
+            <t pos"Adv">utenfra</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>utenat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>jeg kunne alle leksene utenat</t>
+            <t pos"Adv">utenat</t>
+         <xg>
+            <x/>
+            <xt>jeg kunne alle leksene utenat</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -1685,12 +1534,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>til slutt</t>
+            <t pos"Adv">til slutt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>sist</t>
+            <t pos"Adv">sist</t>
             <xg>
                <x/>
                <xt>til sjuende og sist</xt>
@@ -1729,8 +1578,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>iblant</t>
-            <t>nu og da</t>
+            <t pos"Adv">iblant</t>
          </tg>
       </mg>
    </e>
@@ -1741,11 +1589,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="Adv">i én retning</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>én vei</t>
          </tg>
       </mg>
    </e>
@@ -1825,7 +1668,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">lenger nede</t>
+            <t pos="Adv">lenger nede</t>
          </tg>
       </mg>
    </e>
@@ -1845,7 +1688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nedenfra</t>
+            <t pos="Adv">nedenfra</t>
          </tg>
       </mg>
    </e>
@@ -1865,7 +1708,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">foran</t>
+            <t pos="Adv">foran</t>
          </tg>
       </mg>
    </e>
@@ -1875,7 +1718,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">foran</t>
+            <t pos="Adv">foran</t>
          </tg>
       </mg>
    </e>
@@ -1885,7 +1728,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">forfra</t>
+            <t pos="Adv">forfra</t>
          </tg>
       </mg>
    </e>
@@ -1895,7 +1738,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">for det meste</t>
+            <t pos="Adv">for det meste</t>
          </tg>
       </mg>
    </e>
@@ -1905,7 +1748,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">mest</t>
+            <t pos="Adv">mest</t>
          </tg>
       </mg>
    </e>
@@ -1915,7 +1758,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først</t>
+            <t pos="Adv">først</t>
          </tg>
       </mg>
    </e>
@@ -1925,7 +1768,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først</t>
+            <t pos="Adv">først</t>
          </tg>
       </mg>
    </e>
@@ -1935,7 +1778,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">først</t>
+            <t pos="Adv">først</t>
          </tg>
       </mg>
    </e>
@@ -1945,23 +1788,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">beruset</t>
-            <t pos="x">full</t>
+            <t pos="Adv">beruset</t>
+            <t pos="Adv">full</t>
             <syng>
                <syn>päissä</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Adv">huonot välit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="x">dårlige forhold</t>
-            <syng>
-               <syn>väli</syn>
             </syng>
          </tg>
       </mg>
@@ -1992,8 +1822,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">rart</t>
-            <t pos="x">underlig</t>
+            <t pos="Adv">rart</t>
+            <t pos="Adv">underlig</t>
          </tg>
       </mg>
    </e>
@@ -2013,7 +1843,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nedover</t>
+            <t pos="Adv">nedover</t>
          </tg>
       </mg>
    </e>
@@ -2418,7 +2248,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">tre ganger</t>
+            <t pos="Adv">tre ganger</t>
          </tg>
       </mg>
    </e>
@@ -2428,7 +2258,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">forbannet</t>
+            <t pos="Adv">helvetes</t>
          </tg>
       </mg>
    </e>
@@ -2438,8 +2268,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ubegrenset</t>
-            <t pos="x">umåtelig</t>
+            <t pos="Adv">ubegrenset</t>
+            <t pos="Adv">umåtelig</t>
          </tg>
       </mg>
    </e>
@@ -2449,7 +2279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">djevelsk</t>
+            <t pos="Adv">djevelsk</t>
          </tg>
       </mg>
    </e>
@@ -2459,7 +2289,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">selvfølgelig</t>
+            <t pos="Adv">selvfølgelig</t>
             <syng>
                <syn>tietenki</syn>
                <syn>tietekki</syn>
@@ -2473,8 +2303,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">fullstendig</t>
-            <t pos="x">totalt</t>
+            <t pos="Adv">fullstendig</t>
+            <t pos="Adv">totalt</t>
          </tg>
       </mg>
    </e>
@@ -2484,7 +2314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">oftere</t>
+            <t pos="Adv">oftere</t>
          </tg>
       </mg>
    </e>
@@ -2504,7 +2334,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ansvarlig</t>
+            <t pos="Adv">ansvarlig</t>
          </tg>
       </mg>
    </e>
@@ -2514,7 +2344,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">best</t>
+            <t pos="Adv">best</t>
          </tg>
       </mg>
    </e>
@@ -2524,7 +2354,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">etter hverandre</t>
+            <t pos="Adv">etter hverandre</t>
             <syng>
                <syn>pöräkkäin</syn>
             </syng>
@@ -2537,7 +2367,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">etter hverandre</t>
+            <t pos="Adv">etter hverandre</t>
             <syng>
                <syn>peräkkäin</syn>
             </syng>
@@ -2550,8 +2380,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">jamnsides</t>
-            <t pos="x">side ved side</t>
+            <t pos="Adv">jamnsides</t>
          </tg>
       </mg>
    </e>
@@ -2561,8 +2390,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">blandet</t>
-            <t decl="a3" pos="A">rotete</t>
+            <t decl="a4" pos="Adv">blandet</t>
+            <t pos="Adv">rotete</t>
          </tg>
       </mg>
    </e>
@@ -2763,7 +2592,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">i fred og ro</t>
+            <t pos="Adv">i fred og ro</t>
          </tg>
       </mg>
    </e>
@@ -2861,7 +2690,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">sønder og sammen</t>
+            <t pos="Adv">sønder og sammen</t>
          </tg>
       </mg>
    </e>
@@ -3312,8 +3141,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">klar</t>
-            <t pos="Adv">edru</t>
+            <t pos="Adv">klart</t>
+            <t pos="Adv">edruelig</t>
          </tg>
       </mg>
    </e>
@@ -3422,7 +3251,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">for det andre</t>
+            <t pos="Adv">for det andre</t>
          </tg>
       </mg>
    </e>
@@ -3442,8 +3271,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="A">lukket</t>
-            <t pos="A">uåpnet</t>
+            <t pos="Adv">lukket</t>
          </tg>
       </mg>
    </e>
@@ -3552,7 +3380,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>flittig</t>
+            <t pos"Adv">flittig</t>
          </tg>
       </mg>
    </e>
@@ -3562,8 +3390,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i tide</t>
-            <t>tidsnok</t>
+            <t pos"Adv">i tide</t>
+            <t pos"Adv">tidsnok</t>
          </tg>
       </mg>
    </e>
@@ -3573,7 +3401,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ganske mye</t>
+            <t pos"Adv">ganske mye</t>
          </tg>
       </mg>
    </e>
@@ -3583,7 +3411,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for lenge siden</t>
+            <t pos"Adv">for lenge siden</t>
             <xg>
                <x>vuosi aikkaa</x>
                <xt>for et år siden</xt>
@@ -3597,7 +3425,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i sin tid</t>
+            <t pos"Adv">i sin tid</t>
          </tg>
       </mg>
    </e>
@@ -3607,7 +3435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i alle fall</t>
+            <t pos"Adv">i alle fall</t>
          </tg>
       </mg>
    </e>
@@ -3617,7 +3445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i hvert fall</t>
+            <t pos"Adv">i hvert fall</t>
             <xg>
                <x>ei ainakhaan</x>
                <xt>i hvert fall ikke</xt>
@@ -3631,12 +3459,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>alldeles</t>
+            <t pos"Adv">alldeles</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>bare</t>
+            <t pos"Adv">bare</t>
          </tg>
       </mg>
    </e>
@@ -3646,8 +3474,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>nedenfor</t>
-            <t>på nedsida av</t>
+            <t pos"Adv">nedenfor</t>
+            <t pos"Adv">på nedsida av</t>
          </tg>
       </mg>
    </e>
@@ -3657,7 +3485,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>lengere ned</t>
+            <t pos"Adv">lengere ned</t>
          </tg>
       </mg>
    </e>
@@ -3667,7 +3495,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>til stadighet</t>
+            <t pos"Adv">til stadighet</t>
          </tg>
       </mg>
    </e>
@@ -3677,7 +3505,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fra først av</t>
+            <t pos"Adv">fra først av</t>
          </tg>
       </mg>
    </e>
@@ -3687,7 +3515,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg re="om tid">
-            <t>i begynnelsen</t>
+            <t pos"Adv">i begynnelsen</t>
          </tg>
       </mg>
    </e>
@@ -3697,19 +3525,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>først</t>
-            <t>for å begynne med</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">antheeksi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>unnskyld</t>
-            <t>om forlatelse</t>
+            <t pos"Adv">først</t>
+            <t pos"Adv">for å begynne med</t>
          </tg>
       </mg>
    </e>
@@ -3719,7 +3536,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>antakelig</t>
+            <t pos"Adv">antakelig</t>
          </tg>
       </mg>
    </e>
@@ -3729,7 +3546,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>beboelig</t>
+            <t pos"A">beboelig</t>
          </tg>
       </mg>
    </e>
@@ -3739,7 +3556,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>barfotet</t>
+            <t pos"Adv">barfotet</t>
          </tg>
       </mg>
    </e>
@@ -3749,7 +3566,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>barhodet</t>
+            <t pos"Adv">barhodet</t>
          </tg>
       </mg>
    </e>
@@ -3759,7 +3576,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i forveien</t>
+            <t pos"Adv">i forveien</t>
          </tg>
       </mg>
    </e>
@@ -3769,7 +3586,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i forveien</t>
+            <t pos"Adv">i forveien</t>
          </tg>
       </mg>
    </e>
@@ -3779,7 +3596,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>og så videre</t>
+            <t pos"Adv">og så videre</t>
          </tg>
       </mg>
    </e>
@@ -3789,7 +3606,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fram og tilbake</t>
+            <t pos"Adv">fram og tilbake</t>
          </tg>
       </mg>
    </e>
@@ -3799,7 +3616,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>først</t>
+            <t pos"Adv">først</t>
          </tg>
       </mg>
    </e>
@@ -3809,7 +3626,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for det meste</t>
+            <t pos"Adv">for det meste</t>
          </tg>
       </mg>
    </e>
@@ -3819,7 +3636,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for det meste</t>
+            <t pos"Adv">for det meste</t>
          </tg>
       </mg>
    </e>
@@ -3829,9 +3646,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>mest</t>
-            <t>høyst</t>
-            <t>maksimalt</t>
+            <t pos"Adv">mest</t>
+            <t pos"Adv">høyst</t>
+            <t pos"Adv">maksimalt</t>
          </tg>
       </mg>
    </e>
@@ -3841,7 +3658,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tidligere</t>
+            <t pos"Adv">tidligere</t>
          </tg>
       </mg>
    </e>
@@ -3851,7 +3668,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i gamle dager</t>
+            <t pos"Adv">i gamle dager</t>
          </tg>
       </mg>
    </e>
@@ -3861,7 +3678,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for det meste</t>
+            <t pos"Adv">for det meste</t>
          </tg>
       </mg>
    </e>
@@ -3871,7 +3688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i begynnelsen</t>
+            <t pos"Adv">i begynnelsen</t>
          </tg>
       </mg>
    </e>
@@ -3881,7 +3698,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>først og fremst</t>
+            <t pos"Adv">først og fremst</t>
          </tg>
       </mg>
    </e>
@@ -3891,7 +3708,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>først</t>
+            <t pos"Adv">først</t>
          </tg>
       </mg>
    </e>
@@ -3901,12 +3718,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fra før</t>
+            <t pos"Adv">fra før</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>han kjenner jeg fra før</t>
+            <t pos"Adv">han kjenner jeg fra før</t>
          </tg>
       </mg>
    </e>
@@ -3916,12 +3733,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på et uvisst sted</t>
+            <t pos"Adv">på et uvisst sted</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>legen visste man ikke om hvor han var</t>
+            <t pos"Adv">legen visste man ikke om hvor han var</t>
          </tg>
       </mg>
    </e>
@@ -3931,7 +3748,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg re="i nektende setninger">
-            <t>mer</t>
+            <t pos"Adv">mer</t>
             <xg>
                <x>mie en saata sannoot enämppää</x>
                <xt>jeg kan ikke si mer</xt>
@@ -3945,8 +3762,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>særlig</t>
-            <t>spesielt</t>
+            <t pos"Adv">særlig</t>
+            <t pos"Adv">spesielt</t>
          </tg>
       </mg>
    </e>
@@ -3956,7 +3773,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>adskilt</t>
+            <t pos"Adv">adskilt</t>
          </tg>
       </mg>
    </e>
@@ -3966,8 +3783,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>spesielt</t>
-            <t>særlig</t>
+            <t pos"Adv">spesielt</t>
+            <t pos"Adv">særlig</t>
          </tg>
       </mg>
    </e>
@@ -3977,13 +3794,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for seg</t>
-            <t>adskilt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>Bøgøynes har vært adskilt fra disse andre bygdene</t>
+            <t pos"Adv">for seg</t>
+            <t pos"Adv">adskilt</t>
          </tg>
       </mg>
    </e>
@@ -3993,8 +3805,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>særlig</t>
-            <t>spesielt</t>
+            <t pos"Adv">særlig</t>
+            <t pos"Adv">spesielt</t>
          </tg>
       </mg>
    </e>
@@ -4004,7 +3816,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for første gang</t>
+            <t pos"Adv">for første gang</t>
          </tg>
       </mg>
    </e>
@@ -4014,7 +3826,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fram</t>
+            <t pos"Adv">fram</t>
          </tg>
       </mg>
    </e>
@@ -4024,7 +3836,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>f. eks.</t>
+            <t pos"Adv">f. eks.</t>
          </tg>
       </mg>
    </e>
@@ -4034,7 +3846,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>framover</t>
+            <t pos"Adv">framover</t>
          </tg>
       </mg>
    </e>
@@ -4044,7 +3856,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>framover</t>
+            <t pos"Adv">framover</t>
          </tg>
       </mg>
    </e>
@@ -4054,7 +3866,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>foran seg</t>
+            <t pos"Adv">foran seg</t>
          </tg>
       </mg>
    </e>
@@ -4064,7 +3876,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fint</t>
+            <t pos"Adv">fint</t>
          </tg>
       </mg>
    </e>
@@ -4074,12 +3886,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>spredt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>det var få hus der</t>
+            <t pos"Adv">spredt</t>
          </tg>
       </mg>
    </e>
@@ -4089,12 +3896,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>med i livet i behold</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>hun/han har overlevd</t>
+            <t pos"Adv">med i livet i behold</t>
          </tg>
       </mg>
    </e>
@@ -4104,12 +3906,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>sent</t>
+            <t pos"Adv">sent</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>stille</t>
+            <t pos"Adv">stille</t>
          </tg>
       </mg>
    </e>
@@ -4119,7 +3921,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for ikke så lenge sida</t>
+            <t pos"Adv">for ikke så lenge sida</t>
          </tg>
       </mg>
    </e>
@@ -4129,7 +3931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>senere</t>
+            <t pos"Adv">senere</t>
          </tg>
       </mg>
    </e>
@@ -4139,8 +3941,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>veldig</t>
-            <t>meget</t>
+            <t pos"Adv">veldig</t>
+            <t pos"Adv">meget</t>
          </tg>
       </mg>
    </e>
@@ -4150,8 +3952,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>veldig</t>
-            <t>forferdelig</t>
+            <t pos"Adv">veldig</t>
+            <t pos"Adv">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -4161,13 +3963,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>veldig</t>
-            <t>forferdelig</t>
+            <t pos"Adv">veldig</t>
+            <t pos"Adv">forferdelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>veldig mye</t>
+            <t pos"Adv">veldig mye</t>
          </tg>
       </mg>
    </e>
@@ -4177,8 +3979,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>veldig</t>
-            <t>forferdelig</t>
+            <t pos"Adv">veldig</t>
+            <t pos"Adv">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -4188,7 +3990,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>saktere</t>
+            <t pos"Adv">saktere</t>
          </tg>
       </mg>
    </e>
@@ -4198,8 +4000,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fort</t>
-            <t>i full fart</t>
+            <t pos"Adv">fort</t>
+            <t pos"Adv">i full fart</t>
          </tg>
       </mg>
    </e>
@@ -4209,7 +4011,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>bortkasta</t>
+            <t pos"Adv">bortkasta</t>
             <xg>
                <x>mennä hukkhaan</x>
                <xt>bli borte, bli ødelagt</xt>
@@ -4223,7 +4025,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i morgen tidlig</t>
+            <t pos"Adv">i morgen tidlig</t>
          </tg>
       </mg>
    </e>
@@ -4233,8 +4035,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>skamfull</t>
-            <t>flau</t>
+            <t pos"Adv">skamfullt</t>
+            <t pos"Adv">flaut</t>
          </tg>
       </mg>
    </e>
@@ -4244,8 +4046,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>så vidt</t>
-            <t>med nød og neppe</t>
+            <t pos"Adv">så vidt</t>
+            <t pos"Adv">med nød og neppe</t>
          </tg>
       </mg>
    </e>
@@ -4255,7 +4057,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>noensinne</t>
+            <t pos"Adv">noensinne</t>
          </tg>
       </mg>
    </e>
@@ -4265,7 +4067,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>gledelig</t>
+            <t pos"Adv">gledelig</t>
          </tg>
       </mg>
    </e>
@@ -4275,7 +4077,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>(ikke) mye</t>
+            <t>mye</t>
             <xg>
                <x>ei isomasti</x>
                <xt>ikke særskilt mye</xt>
@@ -4289,8 +4091,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>av seg selv</t>
-            <t>for seg selv</t>
+            <t pos"Adv">av seg selv</t>
+            <t pos"Adv">for seg selv</t>
          </tg>
       </mg>
    </e>
@@ -4300,7 +4102,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>av seg selv</t>
+            <t pos"Adv">av seg selv</t>
          </tg>
       </mg>
    </e>
@@ -4310,7 +4112,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for evig</t>
+            <t pos"Adv">for evig</t>
          </tg>
       </mg>
    </e>
@@ -4320,7 +4122,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>til fots</t>
+            <t pos"Adv">til fots</t>
          </tg>
       </mg>
    </e>
@@ -4330,7 +4132,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>oppegående</t>
+            <t pos"Adv">oppegående</t>
          </tg>
       </mg>
    </e>
@@ -4340,12 +4142,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>oppgående</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>bli oppegående</t>
+            <t pos"Adv">oppgående</t>
          </tg>
       </mg>
    </e>
@@ -4355,13 +4152,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ganske</t>
-            <t>rett så</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>ganske ofte</t>
+            <t pos"Adv">ganske</t>
+            <t pos"Adv">rett så</t>
          </tg>
       </mg>
    </e>
@@ -4371,8 +4163,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>av og til</t>
-            <t>iblant</t>
+            <t pos"Adv">av og til</t>
+            <t pos"Adv">iblant</t>
          </tg>
       </mg>
    </e>
@@ -4382,8 +4174,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ganske</t>
-            <t>temmelig</t>
+            <t pos"Adv">ganske</t>
+            <t pos"Adv">temmelig</t>
          </tg>
       </mg>
    </e>
@@ -4393,7 +4185,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>springende</t>
+            <t pos"Adv">springende</t>
          </tg>
       </mg>
    </e>
@@ -4403,8 +4195,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>nøyaktig</t>
-            <t>alldeles</t>
+            <t pos"Adv">nøyaktig</t>
+            <t pos"Adv">alldeles</t>
          </tg>
       </mg>
    </e>
@@ -4414,17 +4206,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>igjen</t>
+            <t pos"Adv">igjen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>bli igjen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>det er bare én igjen</t>
+            <t pos"Adv">bli igjen</t>
          </tg>
       </mg>
    </e>
@@ -4434,8 +4221,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>etterpå</t>
-            <t>seinere</t>
+            <t pos"Adv">etterpå</t>
+            <t pos"Adv">seinere</t>
          </tg>
       </mg>
    </e>
@@ -4445,7 +4232,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på ettermiddagen</t>
+            <t pos"Adv">på ettermiddagen</t>
          </tg>
       </mg>
    </e>
@@ -4455,7 +4242,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på tomannshånd</t>
+            <t pos"Adv">på tomannshånd</t>
          </tg>
       </mg>
    </e>
@@ -4465,12 +4252,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>aller</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>Mikko er den aller beste</t>
+            <t pos"Adv">aller</t>
          </tg>
       </mg>
    </e>
@@ -4480,13 +4262,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på skrå</t>
-            <t>på skjeve</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>gutten hadde hatten på skrå</t>
+            <t pos"Adv">på skrå</t>
+            <t pos"Adv">på skjeve</t>
          </tg>
       </mg>
    </e>
@@ -4496,12 +4273,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på skrå</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>dørra er på skrå</t>
+            <t pos"Adv">på skrå</t>
          </tg>
       </mg>
    </e>
@@ -4511,13 +4283,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på skrå</t>
-            <t>feil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>motoren var havnet på skrå</t>
+            <t pos"Adv">på skrå</t>
+            <t pos"Adv">feil</t>
          </tg>
       </mg>
    </e>
@@ -4527,7 +4294,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>rømme</t>
+            <t pos="V">rømme</t>
             <xg>
                <x>mennä karkhuun</x>
                <xt>rømme</xt>
@@ -4541,7 +4308,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på rømmen</t>
+            <t pos"Adv">på rømmen</t>
          </tg>
       </mg>
    </e>
@@ -4551,7 +4318,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>pent</t>
+            <t pos"Adv">pent</t>
          </tg>
       </mg>
    </e>
@@ -4561,7 +4328,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>lengere bort</t>
+            <t pos"Adv">lengere bort</t>
          </tg>
       </mg>
    </e>
@@ -4571,7 +4338,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>lengere borte</t>
+            <t pos"Adv">lengere borte</t>
          </tg>
       </mg>
    </e>
@@ -4581,7 +4348,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>lengere bortefra</t>
+            <t pos"Adv">lengere bortefra</t>
          </tg>
       </mg>
    </e>
@@ -4591,7 +4358,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg re="om tid">
-            <t>lengere</t>
+            <t pos"Adv">lengere</t>
          </tg>
       </mg>
    </e>
@@ -4601,7 +4368,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>lenge</t>
+            <t pos"Adv">lenge</t>
          </tg>
       </mg>
    </e>
@@ -4611,7 +4378,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>oss imellom</t>
+            <t pos"Adv">oss imellom</t>
          </tg>
       </mg>
    </e>
@@ -4621,7 +4388,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>seg imellom</t>
+            <t pos"Adv">seg imellom</t>
          </tg>
       </mg>
    </e>
@@ -4631,7 +4398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>klart</t>
+            <t pos"Adv">klart</t>
          </tg>
       </mg>
    </e>
@@ -4641,7 +4408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>mye</t>
+            <t pos"Adv">mye</t>
          </tg>
       </mg>
    </e>
@@ -4651,26 +4418,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>nesten</t>
+            <t pos"Adv">nesten</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>ganske</t>
+            <t pos"Adv">ganske</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>en del</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>ikke ens</t>
-            <xg>
-               <x/>
-               <xt>han ville ikke ens tørre å komme</xt>
-            </xg>
+            <t pos"Adv">en del</t>
          </tg>
       </mg>
    </e>
@@ -4680,9 +4438,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>helt</t>
-            <t>helt og holdent</t>
-            <t>fullstendig</t>
+            <t pos"Adv">helt</t>
          </tg>
       </mg>
    </e>
@@ -4692,21 +4448,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>på tremannshånd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">korjhuun</l>
-      </lg>
-      <mg>
-         <tg>
-            <t>innsamla</t>
-            <xg>
-               <x>kovota korjhuun</x>
-               <xt>samle inn, ta i bevaring</xt>
-            </xg>
+            <t pos"Adv">på tremannshånd</t>
          </tg>
       </mg>
    </e>
@@ -4716,7 +4458,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>når</t>
+            <t pos"Adv">når</t>
          </tg>
       </mg>
    </e>
@@ -4726,7 +4468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>hjem</t>
+            <t pos"Adv">hjem</t>
          </tg>
       </mg>
    </e>
@@ -4736,7 +4478,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>hjemifra</t>
+            <t pos"Adv">hjemifra</t>
          </tg>
       </mg>
    </e>
@@ -4746,7 +4488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg re="på et sted">
-            <t>samlet</t>
+            <t pos"Adv">samlet</t>
          </tg>
       </mg>
    </e>
@@ -4756,7 +4498,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>likevel</t>
+            <t pos"Adv">likevel</t>
          </tg>
       </mg>
    </e>
@@ -4766,12 +4508,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>likevel ikke</t>
+            <t pos"Adv">likevel ikke</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>i hvert fall ikke</t>
+            <t pos"Adv">i hvert fall ikke</t>
          </tg>
       </mg>
    </e>
@@ -4781,12 +4523,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>likevel</t>
+            <t pos"Adv">likevel</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>i hvert fall</t>
+            <t pos"Adv">i hvert fall</t>
          </tg>
       </mg>
    </e>
@@ -4796,9 +4538,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>over ende</t>
-            <t>om kull</t>
-            <t>veltet</t>
+            <t pos"Adv">over ende</t>
+            <t pos"Adv">om kull</t>
          </tg>
       </mg>
    </e>
@@ -4808,7 +4549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>forundret</t>
+            <t pos"Adv">forundret</t>
          </tg>
       </mg>
    </e>
@@ -4818,7 +4559,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ærbødigst</t>
+            <t pos"Adv">ærbødigst</t>
          </tg>
       </mg>
    </e>
@@ -4828,7 +4569,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ordentlig</t>
+            <t pos"Adv">ordentlig</t>
          </tg>
       </mg>
    </e>
@@ -4838,7 +4579,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>i hjel</t>
+            <t pos"Adv">i hjel</t>
          </tg>
       </mg>
    </e>
@@ -4848,7 +4589,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>som det fortelles</t>
+            <t pos"Adv">som det fortelles</t>
          </tg>
       </mg>
    </e>
@@ -4858,12 +4599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>frossen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>fisken har vært frossen</t>
+            <t pos="A">frossen</t>
          </tg>
       </mg>
    </e>
@@ -4873,7 +4609,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>titalls</t>
+            <t pos"Adv">titalls</t>
          </tg>
       </mg>
    </e>
@@ -4883,17 +4619,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>for hånd</t>
+            <t pos"Adv">for hånd</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>i retning av</t>
+            <t pos"Adv">i retning av</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>østover</t>
+            <t pos"Adv">østover</t>
          </tg>
       </mg>
    </e>
@@ -4903,7 +4639,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>hånd i hånd</t>
+            <t pos"Adv">hånd i hånd</t>
          </tg>
       </mg>
    </e>
@@ -4913,7 +4649,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>med håndkraft</t>
+            <t pos"Adv">med håndkraft</t>
          </tg>
       </mg>
    </e>
@@ -4923,7 +4659,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>til fots</t>
+            <t pos"Adv">til fots</t>
          </tg>
       </mg>
    </e>
@@ -4933,8 +4669,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>sammen</t>
-            <t>i lag</t>
+            <t pos"Adv">sammen</t>
+            <t pos"Adv">i lag</t>
          </tg>
       </mg>
    </e>
@@ -4944,21 +4680,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>måte</t>
+            <t pos"Adv">på en måte</t>
             <xg>
                <x>siihen laihin</x>
                <xt>på den måten</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>det går ikke an</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>på samme måte</t>
          </tg>
       </mg>
    </e>
@@ -4968,7 +4694,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>til leie</t>
+            <t pos"Adv">til leie</t>
             <xg>
                <x>minula oli hevoinen laikola</x>
                <xt>jeg hadde leid en hest</xt>
