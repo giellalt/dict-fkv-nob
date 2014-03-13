@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="A">annerdeles</t>
+            <t pos="A">annerledes</t>
          </tg>
       </mg>
    </e>
@@ -494,7 +494,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">avensjuk</t>
             <t decl="a2" pos="A">misunnelig</t>
          </tg>
       </mg>
@@ -1502,7 +1501,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="ax" pos="A">liten –a/-e</t>
+            <t pos="A">liten</t>
          </tg>
       </mg>
       <mg>
@@ -3526,7 +3525,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">blomstret –e</t>
+            <t pos="A">blomstret</t>
          </tg>
       </mg>
    </e>
@@ -4801,7 +4800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mørkhårig</t>
+            <t decl="a2" pos="A">mørkhåret</t>
          </tg>
       </mg>
    </e>
@@ -4945,16 +4944,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="a5" pos="A">beskjeden</t>
             <t decl="a1" pos="A">blyg</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">ulkokullattu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="x" pos="A">xxx_correct-me_xxx</t>
          </tg>
       </mg>
    </e>
@@ -5187,7 +5176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">lyseblå –tt</t>
+            <t decl="a1" pos="A">lyseblå</t>
          </tg>
       </mg>
    </e>
@@ -6298,7 +6287,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="A">toslags</t>
+            <t pos="A">to slags</t>
          </tg>
       </mg>
    </e>
@@ -8339,7 +8328,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="A">vanskelig</t>
-            <t pos="A">brydom</t>
+            <t pos="A">brysom</t>
             <t pos="A">plagsom</t>
          </tg>
       </mg>
