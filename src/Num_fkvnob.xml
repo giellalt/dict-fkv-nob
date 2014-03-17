@@ -57,11 +57,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="Num">tretti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>tredve</t>
+            <t pos="Num">tredve</t>
          </tg>
       </mg>
    </e>
@@ -123,7 +119,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>seissen</t>
+            <t pos="Num">seissen</t>
          </tg>
       </mg>
    </e>
@@ -138,7 +134,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t>vi drar klokken ti</t>
+            <t pos="Num">vi drar klokken ti</t>
          </tg>
       </mg>
    </e>
@@ -150,7 +146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Num">tiende</t>
+            <t pos="A">tiende</t>
          </tg>
       </mg>
    </e>
@@ -160,7 +156,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Num">fire</t>
+            <t pos="A">fire</t>
          </tg>
       </mg>
    </e>
@@ -172,7 +168,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Num">fjerde</t>
+            <t pos="A">fjerde</t>
          </tg>
       </mg>
    </e>
@@ -403,7 +399,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>første</t>
+            <t pos="A">første</t>
          </tg>
       </mg>
    </e>
@@ -413,7 +409,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>atten</t>
+            <t pos="Num">atten</t>
          </tg>
       </mg>
    </e>
@@ -423,7 +419,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>1800</t>
+            <t pos="Num">attenhundre</t>
          </tg>
       </mg>
    </e>
@@ -433,7 +429,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>åttende</t>
+            <t pos="A">åttende</t>
          </tg>
       </mg>
    </e>
@@ -443,7 +439,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>attende</t>
+            <t pos="A">attende</t>
          </tg>
       </mg>
    </e>
@@ -453,7 +449,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tolvte</t>
+            <t pos="A">tolvte</t>
          </tg>
       </mg>
    </e>
@@ -463,7 +459,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>to</t>
+            <t pos="Num">to</t>
          </tg>
       </mg>
    </e>
@@ -473,7 +469,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tyve</t>
+            <t pos="Num">tyve</t>
          </tg>
       </mg>
    </e>
@@ -483,7 +479,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tolv</t>
+            <t pos="Num">tolv</t>
          </tg>
       </mg>
    </e>
@@ -493,7 +489,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>to tusen</t>
+            <t pos="Num">to tusen</t>
          </tg>
       </mg>
    </e>
@@ -503,7 +499,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tredje</t>
+            <t pos="A">tredje</t>
          </tg>
       </mg>
    </e>
@@ -513,7 +509,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tretten</t>
+            <t pos="Num">tretten</t>
          </tg>
       </mg>
    </e>
@@ -523,7 +519,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ca. ti</t>
+            <t pos="Num">omtrent ti</t>
          </tg>
       </mg>
    </e>
@@ -533,7 +529,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>førti</t>
+            <t pos="Num">førti</t>
          </tg>
       </mg>
    </e>
@@ -543,7 +539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>førtisyv</t>
+            <t pos="Num">førtisju</t>
          </tg>
       </mg>
    </e>
@@ -553,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fjorten</t>
+            <t pos="Num">fjorten</t>
          </tg>
       </mg>
    </e>
@@ -563,7 +559,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>fire</t>
+            <t pos="Num">fire</t>
          </tg>
       </mg>
    </e>
@@ -573,7 +569,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>ca tyve</t>
+            <t pos="Num">omtrent tyve</t>
          </tg>
       </mg>
    </e>
@@ -583,7 +579,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>hundre</t>
+            <t pos="Num">hundre</t>
          </tg>
       </mg>
    </e>
@@ -593,7 +589,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>sytten</t>
+            <t pos="Num">sytten</t>
          </tg>
       </mg>
    </e>
@@ -603,7 +599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>1700</t>
+            <t pos="Num">søtten hundre</t>
          </tg>
       </mg>
    </e>
@@ -613,18 +609,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>andre</t>
-            <t>annen</t>
+            <t pos="A">andre</t>
+            <t pos="A">annen</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t>annenhver</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t>nesteldst</t>
+            <t pos="Num">annenhver</t>
          </tg>
       </mg>
    </e>
@@ -634,7 +625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>tusen</t>
+            <t pos="Num">tusen</t>
          </tg>
       </mg>
    </e>
@@ -644,7 +635,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>femte</t>
+            <t pos="A">femte</t>
          </tg>
       </mg>
    </e>
@@ -654,7 +645,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>nitten</t>
+            <t pos="Num">nitten</t>
          </tg>
       </mg>
    </e>
@@ -664,7 +655,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>niende</t>
+            <t pos="A">niende</t>
          </tg>
       </mg>
    </e>
@@ -674,7 +665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>en/ett</t>
+            <t pos="Num">en</t>
          </tg>
       </mg>
    </e>
@@ -684,7 +675,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t>elve</t>
+            <t pos="Num">elve</t>
          </tg>
       </mg>
    </e>
