@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">trang</t>
+            <t pos="A">trang</t>
          </tg>
       </mg>
    </e>
@@ -45,7 +45,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">naken</t>
+            <t pos="A">naken</t>
          </tg>
       </mg>
    </e>
@@ -57,8 +57,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">grei</t>
-            <t decl="a1" pos="A">kjekk</t>
+            <t pos="A">grei</t>
+            <t pos="A">kjekk</t>
          </tg>
       </mg>
    </e>
@@ -69,8 +69,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a4" pos="A">elsket</t>
-            <t decl="a1" pos="A">kjær</t>
+            <t pos="A">elsket</t>
+            <t pos="A">kjær</t>
          </tg>
       </mg>
    </e>
@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" decl="a1">solrik</t>
+            <t pos="A">solrik</t>
          </tg>
       </mg>
    </e>
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">hel</t>
+            <t pos="A">hel</t>
          </tg>
       </mg>
    </e>
@@ -103,8 +103,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">forhenværende</t>
-            <t decl="a3" pos="A">tidligere</t>
+            <t pos="A">forhenværende</t>
+            <t pos="A">tidligere</t>
          </tg>
       </mg>
    </e>
@@ -116,7 +116,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">spesiell</t>
+            <t pos="A">spesiell</t>
          </tg>
       </mg>
    </e>
@@ -127,9 +127,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">annerledes</t>
-            <t decl="a3" pos="A">forskjellig</t>
-            <t decl="a1" pos="A">ulik</t>
+            <t pos="A">annerledes</t>
+            <t pos="A">forskjellig</t>
+            <t pos="A">ulik</t>
          </tg>
       </mg>
       <mg>
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">flink</t>
+            <t pos="A">flink</t>
          </tg>
       </mg>
    </e>
@@ -157,7 +157,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">billig</t>
+            <t pos="A">billig</t>
          </tg>
       </mg>
    </e>
@@ -167,10 +167,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">hurtig</t>
-            <t decl="a1" pos="A">kjapp</t>
-            <t decl="a1" pos="A">rask</t>
-            <t decl="a1" pos="A">kvikk</t>
+            <t pos="A">hurtig</t>
+            <t pos="A">kjapp</t>
+            <t pos="A">rask</t>
+            <t pos="A">kvikk</t>
          </tg>
       </mg>
    </e>
@@ -180,7 +180,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">grå</t>
+            <t pos="A">grå</t>
          </tg>
       </mg>
    </e>
@@ -190,7 +190,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">glissen</t>
+            <t pos="A">glissen</t>
 	 </tg>
       </mg>
       <mg>
@@ -205,9 +205,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">hyggelig</t>
-            <t decl="a2" pos="A">koselig</t>
-            <t decl="a2" pos="A">trivelig</t>
+            <t pos="A">hyggelig</t>
+            <t pos="A">koselig</t>
+            <t pos="A">trivelig</t>
          </tg>
       </mg>
    </e>
@@ -218,7 +218,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">svak</t>
+            <t pos="A">svak</t>
          </tg>
       </mg>
    </e>
@@ -229,8 +229,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">enkel</t>
-            <t decl="a2" pos="A">lett</t>
+            <t pos="A">enkel</t>
+            <t pos="A">lett</t>
          </tg>
       </mg>
    </e>
@@ -241,9 +241,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">sakte</t>
-            <t decl="a1" pos="A">sein</t>
-            <t decl="a1" pos="A">langsom</t>
+            <t pos="A">sakte</t>
+            <t pos="A">sein</t>
+            <t pos="A">langsom</t>
          </tg>
       </mg>
    </e>
@@ -255,8 +255,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">veldig</t>
-            <t decl="a1" pos="A">enorm</t>
+            <t pos="A">veldig</t>
+            <t pos="A">enorm</t>
          </tg>
       </mg>
    </e>
@@ -266,8 +266,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">stygg</t>
-            <t decl="a1" pos="A">fæl</t>
+            <t pos="A">stygg</t>
+            <t pos="A">fæl</t>
          </tg>
       </mg>
       <mg>
@@ -288,9 +288,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">smal</t>
-            <t decl="a1" pos="A">slank</t>
-            <t decl="a1" pos="A">tynn</t>
+            <t pos="A">smal</t>
+            <t pos="A">slank</t>
+            <t pos="A">tynn</t>
          </tg>
       </mg>
    </e>
@@ -300,7 +300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">dårlig</t>
+            <t pos="A">dårlig</t>
          </tg>
       </mg>
    </e>
@@ -311,8 +311,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">bra</t>
-            <t decl="a1" pos="A">god</t>
+            <t pos="A">bra</t>
+            <t pos="A">god</t>
          </tg>
       </mg>
    </e>
@@ -322,7 +322,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">lunken</t>
+            <t pos="A">lunken</t>
          </tg>
       </mg>
    </e>
@@ -334,7 +334,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">evig</t>
+            <t pos="A">evig</t>
          </tg>
       </mg>
    </e>
@@ -344,8 +344,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">trasig</t>
-            <t decl="a2" pos="A">trist</t>
+            <t pos="A">trasig</t>
+            <t pos="A">trist</t>
          </tg>
       </mg>
    </e>
@@ -355,7 +355,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">ekkel</t>
+            <t pos="A">ekkel</t>
          </tg>
       </mg>
    </e>
@@ -367,8 +367,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">lykkelig</t>
-            <t decl="a2" pos="A">glad</t>
+            <t pos="A">lykkelig</t>
+            <t pos="A">glad</t>
          </tg>
       </mg>
    </e>
@@ -379,9 +379,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">diger</t>
-            <t decl="a1" pos="A">svær</t>
-            <t decl="a1" pos="A">stor</t>
+            <t pos="A">diger</t>
+            <t pos="A">svær</t>
+            <t pos="A">stor</t>
          </tg>
       </mg>
    </e>
@@ -393,8 +393,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">sjølstendig</t>
-            <t decl="a2" pos="A">selvstendig</t>
+            <t pos="A">sjølstendig</t>
+            <t pos="A">selvstendig</t>
          </tg>
       </mg>
    </e>
@@ -406,7 +406,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">egenrådig</t>
+            <t pos="A">egenrådig</t>
          </tg>
       </mg>
       <mg>
@@ -421,7 +421,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">unødvendig</t>
+            <t pos="A">unødvendig</t>
          </tg>
       </mg>
    </e>
@@ -433,7 +433,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">smal</t>
+            <t pos="A">smal</t>
          </tg>
       </mg>
    </e>
@@ -444,8 +444,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">skeiv</t>
-            <t decl="a1" pos="A">skrå</t>
+            <t pos="A">skeiv</t>
+            <t pos="A">skrå</t>
          </tg>
       </mg>
    </e>
@@ -455,8 +455,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">rar</t>
-            <t decl="a2" pos="A">underlig</t>
+            <t pos="A">rar</t>
+            <t pos="A">underlig</t>
          </tg>
       </mg>
       <mg>
@@ -472,7 +472,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">skjeløyd</t>
+            <t pos="A">skjeløyd</t>
          </tg>
       </mg>
    </e>
@@ -482,7 +482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">karrig</t>
+            <t pos="A">karrig</t>
          </tg>
       </mg>
    </e>
@@ -494,7 +494,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">misunnelig</t>
+            <t pos="A">misunnelig</t>
          </tg>
       </mg>
    </e>
@@ -504,8 +504,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">fryktelig</t>
-            <t decl="a2" pos="A">forferdelig</t>
+            <t pos="A">fryktelig</t>
+            <t pos="A">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -516,8 +516,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">ven</t>
-            <t decl="a1" pos="A">pen</t>
+            <t pos="A">ven</t>
+            <t pos="A">pen</t>
          </tg>
       </mg>
    </e>
@@ -528,7 +528,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">gul</t>
+            <t pos="A">gul</t>
          </tg>
       </mg>
    </e>
@@ -539,7 +539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">udugelig</t>
+            <t pos="A">udugelig</t>
          </tg>
       </mg>
    </e>
@@ -549,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="ikke tung">
-            <t decl="a2" pos="A">lett</t>
+            <t pos="A">lett</t>
          </tg>
       </mg>
    </e>
@@ -559,7 +559,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">syk</t>
+            <t pos="A">syk</t>
          </tg>
       </mg>
    </e>
@@ -569,7 +569,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">fargerik</t>
+            <t pos="A">fargerik</t>
          </tg>
       </mg>
    </e>
@@ -580,8 +580,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">lys</t>
-            <t decl="a1" pos="A">blank</t>
+            <t pos="A">lys</t>
+            <t pos="A">blank</t>
          </tg>
       </mg>
       <mg>
@@ -596,7 +596,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="om smak">
-            <t decl="a1" pos="A">sur</t>
+            <t pos="A">sur</t>
          </tg>
       </mg>
    </e>
@@ -606,8 +606,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">bøyd</t>
-            <t decl="a2" pos="A">oppoverbøyd</t>
+            <t pos="A">bøyd</t>
+            <t pos="A">oppoverbøyd</t>
             <xg>
                <x>Tyttärellä oon kiverä nokka</x>
                <xt>Dattera har oppstoppernese</xt>
@@ -628,7 +628,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">steinet</t>
+            <t pos="A">steinet</t>
          </tg>
       </mg>
    </e>
@@ -639,8 +639,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">forferdelig</t>
-            <t decl="a1" pos="A">stygg</t>
+            <t pos="A">forferdelig</t>
+            <t pos="A">stygg</t>
          </tg>
       </mg>
    </e>
@@ -650,9 +650,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">vakker</t>
-            <t decl="a2" pos="A">utilnærmelig</t>
-            <t decl="a2" pos="A">staselig</t>
+            <t pos="A">vakker</t>
+            <t pos="A">utilnærmelig</t>
+            <t pos="A">staselig</t>
          </tg>
       </mg>
    </e>
@@ -662,7 +662,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">høy</t>
+            <t pos="A">høy</t>
          </tg>
       </mg>
    </e>
@@ -673,9 +673,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">hard</t>
-            <t decl="a1" pos="A">sterk</t>
-            <t decl="a1" pos="A">stiv</t>
+            <t pos="A">hard</t>
+            <t pos="A">sterk</t>
+            <t pos="A">stiv</t>
          </tg>
       </mg>
    </e>
@@ -686,10 +686,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">følsom</t>
-            <t decl="a1" pos="A">var</t>
-            <t decl="a3" pos="A">nøye</t>
-            <t decl="a3" pos="A">kresen</t>
+            <t pos="A">følsom</t>
+            <t pos="A">var</t>
+            <t pos="A">nøye</t>
+            <t pos="A">kresen</t>
          </tg>
       </mg>
    </e>
@@ -700,7 +700,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">kristen</t>
+            <t pos="A">kristen</t>
          </tg>
       </mg>
    </e>
@@ -710,7 +710,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">grov</t>
+            <t pos="A">grov</t>
          </tg>
       </mg>
    </e>
@@ -720,7 +720,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">tørr</t>
+            <t pos="A">tørr</t>
          </tg>
       </mg>
    </e>
@@ -732,9 +732,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">merkelig</t>
-            <t decl="a1" pos="A">rar</t>
-            <t decl="a2" pos="A">underlig</t>
+            <t pos="A">merkelig</t>
+            <t pos="A">rar</t>
+            <t pos="A">underlig</t>
          </tg>
       </mg>
    </e>
@@ -744,8 +744,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">het</t>
-            <t decl="a1" pos="A">varm</t>
+            <t pos="A">het</t>
+            <t pos="A">varm</t>
          </tg>
       </mg>
    </e>
@@ -755,7 +755,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">kald</t>
+            <t pos="A">kald</t>
          </tg>
       </mg>
    </e>
@@ -765,7 +765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">moden</t>
+            <t pos="A">moden</t>
          </tg>
       </mg>
    </e>
@@ -775,7 +775,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">fattig</t>
+            <t pos="A">fattig</t>
          </tg>
       </mg>
    </e>
@@ -786,8 +786,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">morken</t>
-            <t decl="a5" pos="A">råtten</t>
+            <t pos="A">morken</t>
+            <t pos="A">råtten</t>
          </tg>
       </mg>
    </e>
@@ -797,7 +797,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">mager</t>
+            <t pos="A">mager</t>
          </tg>
       </mg>
    </e>
@@ -808,18 +808,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">vidstrakt</t>
+            <t pos="A">vidstrakt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">vidstrakt</t>
+            <t pos="A">vidstrakt</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">vid</t>
-            <t decl="a2" pos="A">utstrakt</t>
+            <t pos="A">vid</t>
+            <t pos="A">utstrakt</t>
          </tg>
       </mg>
    </e>
@@ -831,7 +831,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">barnslig</t>
+            <t pos="A">barnslig</t>
          </tg>
       </mg>
    </e>
@@ -841,7 +841,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="om været">
-            <t decl="a1" pos="A">mild</t>
+            <t pos="A">mild</t>
          </tg>
       </mg>
    </e>
@@ -851,7 +851,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">bred</t>
+            <t pos="A">bred</t>
          </tg>
       </mg>
    </e>
@@ -861,9 +861,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">bøyelig</t>
-            <t decl="a1" pos="A">mild</t>
-            <t decl="a1" pos="A">svak</t>
+            <t pos="A">bøyelig</t>
+            <t pos="A">mild</t>
+            <t pos="A">svak</t>
          </tg>
       </mg>
       <mg>
@@ -880,7 +880,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">nærliggende</t>
+            <t pos="A">nærliggende</t>
          </tg>
       </mg>
    </e>
@@ -891,8 +891,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sleip</t>
-            <t decl="a2" pos="A">glatt</t>
+            <t pos="A">sleip</t>
+            <t pos="A">glatt</t>
          </tg>
       </mg>
    </e>
@@ -919,8 +919,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">urein</t>
-            <t decl="a5" pos="A">skitten</t>
+            <t pos="A">urein</t>
+            <t pos="A">skitten</t>
          </tg>
       </mg>
    </e>
@@ -931,9 +931,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">fast</t>
-            <t decl="a1" pos="A">hard</t>
-            <t decl="a1" pos="A">sterk</t>
+            <t pos="A">fast</t>
+            <t pos="A">hard</t>
+            <t pos="A">sterk</t>
          </tg>
       </mg>
    </e>
@@ -945,7 +945,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">kort</t>
+            <t pos="A">kort</t>
          </tg>
       </mg>
    </e>
@@ -956,7 +956,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">varm</t>
+            <t pos="A">varm</t>
          </tg>
       </mg>
    </e>
@@ -966,7 +966,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">svak</t>
+            <t pos="A">svak</t>
          </tg>
       </mg>
       <mg>
@@ -982,7 +982,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">løs</t>
+            <t pos="A">løs</t>
          </tg>
       </mg>
    </e>
@@ -992,8 +992,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">vid</t>
-            <t decl="a2" pos="A">utstrakt</t>
+            <t pos="A">vid</t>
+            <t pos="A">utstrakt</t>
          </tg>
       </mg>
       <mg>
@@ -1011,7 +1011,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">mulig</t>
+            <t pos="A">mulig</t>
          </tg>
       </mg>
    </e>
@@ -1022,7 +1022,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">umulig</t>
+            <t pos="A">umulig</t>
          </tg>
       </mg>
    </e>
@@ -1033,7 +1033,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">smakløs</t>
+            <t pos="A">smakløs</t>
          </tg>
       </mg>
    </e>
@@ -1043,7 +1043,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">lav</t>
+            <t pos="A">lav</t>
          </tg>
       </mg>
    </e>
@@ -1053,7 +1053,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sjøsyk</t>
+            <t pos="A">sjøsyk</t>
          </tg>
       </mg>
    </e>
@@ -1065,7 +1065,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">merkelig</t>
+            <t pos="A">merkelig</t>
          </tg>
       </mg>
    </e>
@@ -1076,7 +1076,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">ubetydelig</t>
+            <t pos="A">ubetydelig</t>
          </tg>
       </mg>
    </e>
@@ -1088,8 +1088,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mangfoldig</t>
-            <t decl="a3" pos="A">varierende</t>
+            <t pos="A">mangfoldig</t>
+            <t pos="A">varierende</t>
          </tg>
       </mg>
    </e>
@@ -1099,7 +1099,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">sur</t>
+            <t pos="A">sur</t>
          </tg>
       </mg>
       <mg>
@@ -1114,7 +1114,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">hyggelig</t>
+            <t pos="A">hyggelig</t>
          </tg>
       </mg>
       <mg>
@@ -1135,7 +1135,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">mør</t>
+            <t pos="A">mør</t>
          </tg>
       </mg>
    </e>
@@ -1158,7 +1158,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">stum</t>
+            <t pos="A">stum</t>
          </tg>
       </mg>
    </e>
@@ -1170,7 +1170,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">giftig</t>
+            <t pos="A">giftig</t>
          </tg>
       </mg>
    </e>
@@ -1183,7 +1183,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="m" pos="A">materie</t>
-            <t decl="a1" pos="A">våt</t>
+            <t pos="A">våt</t>
          </tg>
       </mg>
    </e>
@@ -1193,7 +1193,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" comment="sekä subst. että adj? råtten og råttenhet?">
-            <t decl="a5" pos="A">råtten</t>
+            <t pos="A">råtten</t>
          </tg>
       </mg>
    </e>
@@ -1205,8 +1205,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a4" pos="A">firbeint</t>
-            <t decl="a4" pos="A">firfotet</t>
+            <t pos="A">firbeint</t>
+            <t pos="A">firfotet</t>
          </tg>
       </mg>
    </e>
@@ -1217,8 +1217,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">dyktig</t>
-            <t decl="a2" pos="A">iherdig</t>
+            <t pos="A">dyktig</t>
+            <t pos="A">iherdig</t>
          </tg>
       </mg>
       <mg>
@@ -1235,7 +1235,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">sotete</t>
+            <t pos="A">sotete</t>
          </tg>
       </mg>
    </e>
@@ -1245,8 +1245,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">spenstig</t>
-            <t decl="a2" pos="A">smidig</t>
+            <t pos="A">spenstig</t>
+            <t pos="A">smidig</t>
          </tg>
       </mg>
    </e>
@@ -1258,7 +1258,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">ung</t>
+            <t pos="A">ung</t>
          </tg>
       </mg>
    </e>
@@ -1270,7 +1270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">nåværende</t>
+            <t pos="A">nåværende</t>
          </tg>
       </mg>
       <mg>
@@ -1304,7 +1304,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">tynn</t>
+            <t pos="A">tynn</t>
          </tg>
       </mg>
    </e>
@@ -1315,13 +1315,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">rett</t>
-            <t decl="a3" pos="A">høyre</t>
+            <t pos="A">rett</t>
+            <t pos="A">høyre</t>
             <xg>
                <x/>
                <xt>til høyre</xt>
             </xg>
-            <t decl="a2" pos="A">riktig</t>
+            <t pos="A">riktig</t>
          </tg>
       </mg>
    </e>
@@ -1331,7 +1331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">egen</t>
+            <t pos="A">egen</t>
          </tg>
       </mg>
    </e>
@@ -1342,7 +1342,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">ulykkelig</t>
+            <t pos="A">ulykkelig</t>
          </tg>
       </mg>
    </e>
@@ -1353,7 +1353,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kjent</t>
+            <t pos="A">kjent</t>
          </tg>
       </mg>
    </e>
@@ -1363,7 +1363,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">oransje</t>
+            <t pos="A">oransje</t>
          </tg>
       </mg>
    </e>
@@ -1375,8 +1375,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">uvanlig</t>
-            <t decl="a2" pos="A">fremmed</t>
+            <t pos="A">uvanlig</t>
+            <t pos="A">fremmed</t>
          </tg>
       </mg>
       <mg>
@@ -1393,8 +1393,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">ondskapsfull</t>
-            <t decl="a1" pos="A">ond</t>
+            <t pos="A">ondskapsfull</t>
+            <t pos="A">ond</t>
          </tg>
       </mg>
    </e>
@@ -1406,7 +1406,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">utspekulert</t>
+            <t pos="A">utspekulert</t>
          </tg>
       </mg>
       <mg>
@@ -1423,7 +1423,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ulydig</t>
+            <t pos="A">ulydig</t>
          </tg>
       </mg>
       <mg>
@@ -1438,7 +1438,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">tykk</t>
+            <t pos="A">tykk</t>
          </tg>
       </mg>
       <mg>
@@ -1454,8 +1454,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">naken</t>
-            <t decl="a1" pos="A">bar</t>
+            <t pos="A">naken</t>
+            <t pos="A">bar</t>
          </tg>
       </mg>
    </e>
@@ -1488,8 +1488,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">bløt</t>
-            <t decl="a1" pos="A">myk</t>
+            <t pos="A">bløt</t>
+            <t pos="A">myk</t>
          </tg>
       </mg>
    </e>
@@ -1540,8 +1540,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">djevelsk</t>
-            <t decl="a4" pos="A">trollet</t>
+            <t pos="A">djevelsk</t>
+            <t pos="A">trollet</t>
          </tg>
       </mg>
    </e>
@@ -1551,7 +1551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">lang</t>
+            <t pos="A">lang</t>
          </tg>
       </mg>
    </e>
@@ -1563,7 +1563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="om lengde">
-            <t decl="a1" pos="A">lang</t>
+            <t pos="A">lang</t>
             <xg>
                <x/>
                <xt>to meter lang</xt>
@@ -1577,7 +1577,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">brun</t>
+            <t pos="A">brun</t>
          </tg>
       </mg>
    </e>
@@ -1588,7 +1588,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">pratsom</t>
+            <t pos="A">pratsom</t>
          </tg>
       </mg>
    </e>
@@ -1599,7 +1599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">rein</t>
+            <t pos="A">rein</t>
          </tg>
       </mg>
       <mg>
@@ -1615,8 +1615,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">snakkesalig</t>
-            <t decl="a1" pos="A">pratsom</t>
+            <t pos="A">snakkesalig</t>
+            <t pos="A">pratsom</t>
          </tg>
       </mg>
    </e>
@@ -1628,7 +1628,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">rød</t>
+            <t pos="A">rød</t>
          </tg>
       </mg>
    </e>
@@ -1639,7 +1639,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">hellig</t>
+            <t pos="A">hellig</t>
          </tg>
       </mg>
    </e>
@@ -1649,7 +1649,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">loddrett</t>
+            <t pos="A">loddrett</t>
          </tg>
       </mg>
       <mg>
@@ -1665,7 +1665,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">frisk</t>
+            <t pos="A">frisk</t>
          </tg>
       </mg>
    </e>
@@ -1677,7 +1677,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">stripet</t>
+            <t pos="A">stripet</t>
          </tg>
       </mg>
       <mg>
@@ -1693,7 +1693,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">voldsom</t>
+            <t pos="A">voldsom</t>
          </tg>
       </mg>
    </e>
@@ -1704,7 +1704,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">kjær</t>
+            <t pos="A">kjær</t>
          </tg>
       </mg>
    </e>
@@ -1714,8 +1714,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">langdryg</t>
-            <t decl="a1" pos="A">drøy</t>
+            <t pos="A">langdryg</t>
+            <t pos="A">drøy</t>
          </tg>
       </mg>
    </e>
@@ -1726,7 +1726,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">tung</t>
+            <t pos="A">tung</t>
          </tg>
       </mg>
    </e>
@@ -1738,8 +1738,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">fredelig</t>
-            <t decl="a2" pos="A">rolig</t>
+            <t pos="A">fredelig</t>
+            <t pos="A">rolig</t>
          </tg>
       </mg>
    </e>
@@ -1751,9 +1751,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">oppriktig</t>
-            <t decl="a2" pos="A">redelig</t>
-            <t decl="a2" pos="A">ærlig</t>
+            <t pos="A">oppriktig</t>
+            <t pos="A">redelig</t>
+            <t pos="A">ærlig</t>
          </tg>
       </mg>
    </e>
@@ -1764,7 +1764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">rik</t>
+            <t pos="A">rik</t>
          </tg>
       </mg>
    </e>
@@ -1774,7 +1774,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">modig</t>
+            <t pos="A">modig</t>
          </tg>
       </mg>
    </e>
@@ -1785,7 +1785,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">stygg</t>
+            <t pos="A">stygg</t>
          </tg>
       </mg>
    </e>
@@ -1796,8 +1796,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">snusket</t>
-            <t decl="a5" pos="A">skitten</t>
+            <t pos="A">snusket</t>
+            <t pos="A">skitten</t>
          </tg>
       </mg>
    </e>
@@ -1809,8 +1809,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">rå</t>
-            <t decl="a5" pos="A">umoden</t>
+            <t pos="A">rå</t>
+            <t pos="A">umoden</t>
          </tg>
       </mg>
    </e>
@@ -1821,7 +1821,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">voksen</t>
+            <t pos="A">voksen</t>
          </tg>
       </mg>
    </e>
@@ -1832,7 +1832,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">syk</t>
+            <t pos="A">syk</t>
             <syng>
                <syn>kleini</syn>
             </syng>
@@ -1845,8 +1845,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">tykkflytende</t>
-            <t decl="a4" pos="A">grøtet</t>
+            <t pos="A">tykkflytende</t>
+            <t pos="A">grøtet</t>
          </tg>
       </mg>
       <mg>
@@ -1879,7 +1879,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">klar</t>
+            <t pos="A">klar</t>
          </tg>
       </mg>
    </e>
@@ -1891,9 +1891,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sådan</t>
-            <t decl="a1" pos="A">sånn</t>
-            <t decl="a1" pos="A">slik</t>
+            <t pos="A">sådan</t>
+            <t pos="A">sånn</t>
+            <t pos="A">slik</t>
          </tg>
       </mg>
    </e>
@@ -1904,7 +1904,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">flink</t>
+            <t pos="A">flink</t>
          </tg>
       </mg>
    </e>
@@ -1914,9 +1914,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">pen</t>
-            <t decl="a5" pos="A">vakker</t>
-            <t decl="a1" pos="A">skjønn</t>
+            <t pos="A">pen</t>
+            <t pos="A">vakker</t>
+            <t pos="A">skjønn</t>
          </tg>
       </mg>
       <mg>
@@ -1932,7 +1932,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">snill</t>
+            <t pos="A">snill</t>
          </tg>
       </mg>
    </e>
@@ -1942,8 +1942,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">flat</t>
-            <t decl="a2" pos="A">slett</t>
+            <t pos="A">flat</t>
+            <t pos="A">slett</t>
          </tg>
       </mg>
    </e>
@@ -1955,7 +1955,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">blå</t>
+            <t pos="A">blå</t>
          </tg>
       </mg>
    </e>
@@ -1965,7 +1965,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">seig</t>
+            <t pos="A">seig</t>
          </tg>
       </mg>
    </e>
@@ -1976,8 +1976,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">artig</t>
-            <t decl="a1" pos="A">morsom</t>
+            <t pos="A">artig</t>
+            <t pos="A">morsom</t>
          </tg>
       </mg>
       <mg>
@@ -1995,7 +1995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sosial</t>
+            <t pos="A">sosial</t>
          </tg>
       </mg>
    </e>
@@ -2005,7 +2005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a4" pos="A">opptint</t>
+            <t pos="A">opptint</t>
          </tg>
       </mg>
       <mg>
@@ -2022,7 +2022,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">finsk</t>
+            <t pos="A">finsk</t>
          </tg>
       </mg>
    </e>
@@ -2032,9 +2032,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">strak</t>
-            <t decl="a3" pos="A">direkte</t>
-            <t decl="a2" pos="A">rett</t>
+            <t pos="A">strak</t>
+            <t pos="A">direkte</t>
+            <t pos="A">rett</t>
          </tg>
       </mg>
    </e>
@@ -2046,7 +2046,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">stor</t>
+            <t pos="A">stor</t>
          </tg>
       </mg>
    </e>
@@ -2058,7 +2058,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">syndig</t>
+            <t pos="A">syndig</t>
          </tg>
       </mg>
    </e>
@@ -2069,7 +2069,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">dyp</t>
+            <t pos="A">dyp</t>
          </tg>
       </mg>
    </e>
@@ -2081,7 +2081,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">dansk</t>
+            <t pos="A">dansk</t>
          </tg>
       </mg>
    </e>
@@ -2092,8 +2092,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">nøye</t>
-            <t decl="a2" pos="A">nøyaktig</t>
+            <t pos="A">nøye</t>
+            <t pos="A">nøyaktig</t>
          </tg>
       </mg>
    </e>
@@ -2105,7 +2105,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">nødvendig</t>
+            <t pos="A">nødvendig</t>
          </tg>
       </mg>
    </e>
@@ -2117,8 +2117,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">slett</t>
-            <t decl="a1" pos="A">jevn</t>
+            <t pos="A">slett</t>
+            <t pos="A">jevn</t>
          </tg>
       </mg>
    </e>
@@ -2130,7 +2130,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">vanlig</t>
+            <t pos="A">vanlig</t>
          </tg>
       </mg>
    </e>
@@ -2141,7 +2141,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">frisk</t>
+            <t pos="A">frisk</t>
          </tg>
       </mg>
    </e>
@@ -2151,7 +2151,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">kvass</t>
+            <t pos="A">kvass</t>
          </tg>
       </mg>
       <mg>
@@ -2167,7 +2167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="f. eks. skog">
-            <t decl="a2" pos="A">tett</t>
+            <t pos="A">tett</t>
          </tg>
       </mg>
    </e>
@@ -2178,7 +2178,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">drektig</t>
+            <t pos="A">drektig</t>
          </tg>
       </mg>
    </e>
@@ -2189,7 +2189,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="f.eks. en kar">
-            <t decl="a2" pos="A">tett</t>
+            <t pos="A">tett</t>
          </tg>
       </mg>
    </e>
@@ -2201,8 +2201,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">faktisk</t>
-            <t decl="a2" pos="A">virkelig</t>
+            <t pos="A">faktisk</t>
+            <t pos="A">virkelig</t>
          </tg>
       </mg>
    </e>
@@ -2225,8 +2225,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="f.eks. jord">
-            <t decl="a1" pos="A">fersk</t>
-            <t decl="a2" pos="A">fuktig</t>
+            <t pos="A">fersk</t>
+            <t pos="A">fuktig</t>
          </tg>
       </mg>
    </e>
@@ -2238,8 +2238,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">sikker</t>
-            <t decl="a1" pos="A">trygg</t>
+            <t pos="A">sikker</t>
+            <t pos="A">trygg</t>
          </tg>
       </mg>
    </e>
@@ -2249,7 +2249,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="om øks, kniv">
-            <t decl="a1" pos="A">sløv</t>
+            <t pos="A">sløv</t>
          </tg>
       </mg>
    </e>
@@ -2261,7 +2261,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">fornøyd</t>
+            <t pos="A">fornøyd</t>
          </tg>
       </mg>
    </e>
@@ -2288,7 +2288,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">dyr</t>
+            <t pos="A">dyr</t>
          </tg>
       </mg>
    </e>
@@ -2298,8 +2298,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">nøyaktig</t>
-            <t decl="a2" pos="A">viktig</t>
+            <t pos="A">nøyaktig</t>
+            <t pos="A">viktig</t>
          </tg>
       </mg>
    </e>
@@ -2311,8 +2311,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">komplett</t>
-            <t decl="a2" pos="A">fullstendig</t>
+            <t pos="A">komplett</t>
+            <t pos="A">fullstendig</t>
          </tg>
       </mg>
    </e>
@@ -2324,8 +2324,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">voksen</t>
-            <t decl="a1" pos="A">full</t>
+            <t pos="A">voksen</t>
+            <t pos="A">full</t>
          </tg>
       </mg>
       <mg>
@@ -2359,7 +2359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">religiøs</t>
+            <t pos="A">religiøs</t>
          </tg>
       </mg>
    </e>
@@ -2371,7 +2371,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">ny</t>
+            <t pos="A">ny</t>
          </tg>
       </mg>
    </e>
@@ -2381,8 +2381,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">bred</t>
-            <t decl="a1" pos="A">tykk</t>
+            <t pos="A">bred</t>
+            <t pos="A">tykk</t>
          </tg>
       </mg>
       <mg>
@@ -2397,7 +2397,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">vanskelig</t>
+            <t pos="A">vanskelig</t>
          </tg>
       </mg>
    </e>
@@ -2407,7 +2407,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">lys</t>
+            <t pos="A">lys</t>
          </tg>
       </mg>
       <mg>
@@ -2423,7 +2423,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">ferdig</t>
+            <t pos="A">ferdig</t>
          </tg>
       </mg>
    </e>
@@ -2433,7 +2433,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">gammel</t>
+            <t pos="A">gammel</t>
          </tg>
       </mg>
    </e>
@@ -2444,8 +2444,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">enorm</t>
-            <t decl="a5" pos="A">diger</t>
+            <t pos="A">enorm</t>
+            <t pos="A">diger</t>
          </tg>
       </mg>
    </e>
@@ -2455,8 +2455,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">fri</t>
-            <t decl="a2" pos="A">ledig</t>
+            <t pos="A">fri</t>
+            <t pos="A">ledig</t>
          </tg>
       </mg>
    </e>
@@ -2468,7 +2468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">tidlig</t>
+            <t pos="A">tidlig</t>
          </tg>
       </mg>
    </e>
@@ -2480,7 +2480,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">forsiktig</t>
+            <t pos="A">forsiktig</t>
          </tg>
       </mg>
    </e>
@@ -2492,13 +2492,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ansvarlig</t>
+            <t pos="A">ansvarlig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">voksen</t>
-            <t decl="a2" pos="A">ansvarsbevisst</t>
+            <t pos="A">voksen</t>
+            <t pos="A">ansvarsbevisst</t>
          </tg>
       </mg>
       <mg>
@@ -2514,7 +2514,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">fersk</t>
+            <t pos="A">fersk</t>
          </tg>
       </mg>
    </e>
@@ -2525,8 +2525,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">rar</t>
-            <t decl="a2" pos="A">merkelig</t>
+            <t pos="A">rar</t>
+            <t pos="A">merkelig</t>
          </tg>
       </mg>
    </e>
@@ -2538,8 +2538,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">illsint</t>
-            <t decl="a2" pos="A">sint</t>
+            <t pos="A">illsint</t>
+            <t pos="A">sint</t>
          </tg>
       </mg>
       <mg>
@@ -2556,7 +2556,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">grønn</t>
+            <t pos="A">grønn</t>
          </tg>
       </mg>
    </e>
@@ -2568,7 +2568,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">siste</t>
+            <t pos="A">siste</t>
          </tg>
       </mg>
    </e>
@@ -2580,8 +2580,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">skeiv</t>
-            <t decl="a1" pos="A">skrå</t>
+            <t pos="A">skeiv</t>
+            <t pos="A">skrå</t>
          </tg>
       </mg>
    </e>
@@ -2592,8 +2592,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">vis</t>
-            <t decl="a1" pos="A">klok</t>
+            <t pos="A">vis</t>
+            <t pos="A">klok</t>
          </tg>
       </mg>
    </e>
@@ -2604,8 +2604,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">livat</t>
-            <t decl="a2" pos="A">livlig</t>
+            <t pos="A">livat</t>
+            <t pos="A">livlig</t>
          </tg>
       </mg>
    </e>
@@ -2615,8 +2615,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">voldsom</t>
-            <t decl="a1" pos="A">vill</t>
+            <t pos="A">voldsom</t>
+            <t pos="A">vill</t>
          </tg>
       </mg>
    </e>
@@ -2628,7 +2628,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">offisiell</t>
+            <t pos="A">offisiell</t>
          </tg>
       </mg>
    </e>
@@ -2639,7 +2639,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">pigg</t>
+            <t pos="A">pigg</t>
          </tg>
       </mg>
    </e>
@@ -2649,8 +2649,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sikker</t>
-            <t decl="a1" pos="A">viss</t>
+            <t pos="A">sikker</t>
+            <t pos="A">viss</t>
          </tg>
       </mg>
    </e>
@@ -2661,7 +2661,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">gjerrig</t>
+            <t pos="A">gjerrig</t>
          </tg>
       </mg>
       <mg>
@@ -2678,7 +2678,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">ubetydelig</t>
+            <t pos="A">ubetydelig</t>
             <t decl="ax" pos="A">liten</t>
          </tg>
       </mg>
@@ -2689,7 +2689,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">sterk</t>
+            <t pos="A">sterk</t>
          </tg>
       </mg>
    </e>
@@ -2699,7 +2699,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">gal</t>
+            <t pos="A">gal</t>
          </tg>
       </mg>
       <mg>
@@ -2715,8 +2715,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">blond</t>
-            <t decl="a1" pos="A">lys</t>
+            <t pos="A">blond</t>
+            <t pos="A">lys</t>
          </tg>
       </mg>
    </e>
@@ -2728,7 +2728,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">farlig</t>
+            <t pos="A">farlig</t>
          </tg>
       </mg>
    </e>
@@ -2740,7 +2740,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">felles</t>
+            <t pos="A">felles</t>
          </tg>
       </mg>
    </e>
@@ -2752,8 +2752,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">enig</t>
-            <t decl="a2" pos="A">enstemmig</t>
+            <t pos="A">enig</t>
+            <t pos="A">enstemmig</t>
          </tg>
       </mg>
    </e>
@@ -2765,8 +2765,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">allmenn</t>
-            <t decl="a2" pos="A">vanlig</t>
+            <t pos="A">allmenn</t>
+            <t pos="A">vanlig</t>
          </tg>
       </mg>
    </e>
@@ -2778,7 +2778,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">rund</t>
+            <t pos="A">rund</t>
          </tg>
       </mg>
    </e>
@@ -2790,7 +2790,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">vennlig</t>
+            <t pos="A">vennlig</t>
          </tg>
       </mg>
       <mg>
@@ -2807,7 +2807,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">plutselig</t>
+            <t pos="A">plutselig</t>
          </tg>
       </mg>
       <mg>
@@ -2824,7 +2824,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">svak</t>
+            <t pos="A">svak</t>
          </tg>
       </mg>
    </e>
@@ -2835,7 +2835,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">fremmed</t>
+            <t pos="A">fremmed</t>
          </tg>
       </mg>
    </e>
@@ -2845,7 +2845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">streng</t>
+            <t pos="A">streng</t>
          </tg>
       </mg>
    </e>
@@ -2856,8 +2856,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">redd</t>
-            <t decl="a2" pos="A">forskremt</t>
+            <t pos="A">redd</t>
+            <t pos="A">forskremt</t>
          </tg>
       </mg>
       <mg>
@@ -2874,7 +2874,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">verdifull</t>
+            <t pos="A">verdifull</t>
          </tg>
       </mg>
    </e>
@@ -2884,7 +2884,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">fin</t>
+            <t pos="A">fin</t>
          </tg>
       </mg>
       <mg>
@@ -2909,7 +2909,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">stolt</t>
+            <t pos="A">stolt</t>
          </tg>
       </mg>
    </e>
@@ -2919,7 +2919,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a5" pos="A">åpen</t>
+            <t pos="A">åpen</t>
          </tg>
       </mg>
    </e>
@@ -2929,7 +2929,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a3" pos="A">første</t>
+            <t pos="A">første</t>
          </tg>
       </mg>
    </e>
@@ -2939,8 +2939,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">svart</t>
-            <t decl="a1" pos="A">sort</t>
+            <t pos="A">svart</t>
+            <t pos="A">sort</t>
          </tg>
       </mg>
    </e>
@@ -2950,7 +2950,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a1" pos="A">mørk</t>
+            <t pos="A">mørk</t>
          </tg>
       </mg>
       <mg>
@@ -2997,9 +2997,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">grundig</t>
-            <t decl="a1" pos="A">kresen</t>
-            <t decl="a3" pos="A">nøye</t>
+            <t pos="A">grundig</t>
+            <t pos="A">kresen</t>
+            <t pos="A">nøye</t>
          </tg>
       </mg>
    </e>
@@ -3009,7 +3009,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">helsikes</t>
+            <t pos="A">helsikes</t>
          </tg>
       </mg>
       <mg>
@@ -3024,7 +3024,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">passende</t>
+            <t pos="A">passende</t>
          </tg>
       </mg>
       <mg>
@@ -3040,7 +3040,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="a2" pos="A">unødvendig</t>
+            <t pos="A">unødvendig</t>
          </tg>
       </mg>
    </e>
@@ -3050,7 +3050,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">gjerrig</t>
+            <t pos="A">gjerrig</t>
          </tg>
       </mg>
    </e>
@@ -3062,7 +3062,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mindreårig</t>
+            <t pos="A">mindreårig</t>
          </tg>
       </mg>
    </e>
@@ -3074,8 +3074,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">grei</t>
-            <t decl="a1" pos="A">kjekk</t>
+            <t pos="A">grei</t>
+            <t pos="A">kjekk</t>
          </tg>
       </mg>
    </e>
@@ -3087,7 +3087,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">opprinnelig</t>
+            <t pos="A">opprinnelig</t>
          </tg>
       </mg>
    </e>
@@ -3099,7 +3099,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">anilinrød</t>
+            <t pos="A">anilinrød</t>
          </tg>
       </mg>
    </e>
@@ -3110,7 +3110,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">nådeløs</t>
+            <t pos="A">nådeløs</t>
             <xg>
                <x>Armoton kaunis</x>
                <xt/>
@@ -3125,7 +3125,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">verdiløs</t>
+            <t pos="A">verdiløs</t>
          </tg>
       </mg>
    </e>
@@ -3135,7 +3135,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">øde</t>
+            <t pos="A">øde</t>
          </tg>
       </mg>
    </e>
@@ -3146,7 +3146,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">hjelpeløs</t>
+            <t pos="A">hjelpeløs</t>
          </tg>
       </mg>
    </e>
@@ -3182,7 +3182,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">levende</t>
+            <t pos="A">levende</t>
          </tg>
       </mg>
    </e>
@@ -3194,7 +3194,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">første</t>
+            <t pos="A">første</t>
          </tg>
       </mg>
    </e>
@@ -3204,7 +3204,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">usikker</t>
+            <t pos="A">usikker</t>
          </tg>
       </mg>
    </e>
@@ -3215,7 +3215,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">fiolett</t>
+            <t pos="A">fiolett</t>
          </tg>
       </mg>
    </e>
@@ -3226,7 +3226,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">fargeløs</t>
+            <t pos="A">fargeløs</t>
          </tg>
       </mg>
    </e>
@@ -3238,7 +3238,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">ujevn</t>
+            <t pos="A">ujevn</t>
          </tg>
       </mg>
    </e>
@@ -3250,7 +3250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">åndelig</t>
+            <t pos="A">åndelig</t>
          </tg>
       </mg>
    </e>
@@ -3261,7 +3261,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">livløs</t>
+            <t pos="A">livløs</t>
          </tg>
       </mg>
    </e>
@@ -3272,7 +3272,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">andpusten</t>
+            <t pos="A">andpusten</t>
          </tg>
       </mg>
    </e>
@@ -3282,7 +3282,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">fin</t>
+            <t pos="A">fin</t>
          </tg>
       </mg>
    </e>
@@ -3292,8 +3292,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">forferdelig</t>
-            <t decl="a2" pos="A">fryktelig</t>
+            <t pos="A">forferdelig</t>
+            <t pos="A">fryktelig</t>
          </tg>
       </mg>
    </e>
@@ -3303,8 +3303,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">kjekk</t>
-            <t decl="a1" pos="A">grei</t>
+            <t pos="A">kjekk</t>
+            <t pos="A">grei</t>
          </tg>
       </mg>
    </e>
@@ -3315,8 +3315,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">glad</t>
-            <t decl="a2" pos="A">lystelig</t>
+            <t pos="A">glad</t>
+            <t pos="A">lystelig</t>
          </tg>
       </mg>
    </e>
@@ -3328,9 +3328,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">egen</t>
-            <t decl="a1" pos="A">sær</t>
-            <t decl="a5" pos="A">ekkel</t>
+            <t pos="A">egen</t>
+            <t pos="A">sær</t>
+            <t pos="A">ekkel</t>
          </tg>
       </mg>
    </e>
@@ -3341,7 +3341,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">arbeidsløs</t>
+            <t pos="A">arbeidsløs</t>
          </tg>
       </mg>
    </e>
@@ -3351,8 +3351,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">fornuftig</t>
-            <t decl="a2" pos="A">forstandig</t>
+            <t pos="A">fornuftig</t>
+            <t pos="A">forstandig</t>
          </tg>
       </mg>
    </e>
@@ -3363,7 +3363,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">åttende</t>
+            <t pos="A">åttende</t>
          </tg>
       </mg>
    </e>
@@ -3375,8 +3375,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">allslags</t>
-            <t decl="a2" pos="A">alt mulig</t>
+            <t pos="A">allslags</t>
+            <t pos="A">alt mulig</t>
          </tg>
       </mg>
    </e>
@@ -3386,7 +3386,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">sløv</t>
+            <t pos="A">sløv</t>
             <xg>
                <x>kalsu kirves</x>
                <xt>sløv øks</xt>
@@ -3402,7 +3402,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">midterste</t>
+            <t pos="A">midterste</t>
          </tg>
       </mg>
    </e>
@@ -3412,8 +3412,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">glinsende</t>
-            <t decl="a3" pos="A">lysende</t>
+            <t pos="A">glinsende</t>
+            <t pos="A">lysende</t>
          </tg>
       </mg>
    </e>
@@ -3425,7 +3425,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">brunstig</t>
+            <t pos="A">brunstig</t>
          </tg>
       </mg>
    </e>
@@ -3435,7 +3435,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">stram</t>
+            <t pos="A">stram</t>
          </tg>
       </mg>
    </e>
@@ -3445,7 +3445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kroket</t>
+            <t pos="A">kroket</t>
          </tg>
       </mg>
    </e>
@@ -3455,8 +3455,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">syk</t>
-            <t decl="a1" pos="A">klein</t>
+            <t pos="A">syk</t>
+            <t pos="A">klein</t>
          </tg>
       </mg>
    </e>
@@ -3466,7 +3466,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">klar</t>
+            <t pos="A">klar</t>
          </tg>
       </mg>
    </e>
@@ -3477,7 +3477,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">tredje</t>
+            <t pos="A">tredje</t>
          </tg>
       </mg>
    </e>
@@ -3487,8 +3487,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">fuktig</t>
-            <t decl="a1" pos="A">våt</t>
+            <t pos="A">fuktig</t>
+            <t pos="A">våt</t>
          </tg>
       </mg>
    </e>
@@ -3500,7 +3500,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">hjemmelaget</t>
+            <t pos="A">hjemmelaget</t>
          </tg>
       </mg>
    </e>
@@ -3512,8 +3512,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">kristen</t>
-            <t decl="a2" pos="A">kristelig</t>
+            <t pos="A">kristen</t>
+            <t pos="A">kristelig</t>
          </tg>
       </mg>
    </e>
@@ -3537,8 +3537,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ordentlig</t>
-            <t decl="a2" pos="A">skikkelig</t>
+            <t pos="A">ordentlig</t>
+            <t pos="A">skikkelig</t>
          </tg>
       </mg>
    </e>
@@ -3549,7 +3549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">død</t>
+            <t pos="A">død</t>
          </tg>
       </mg>
    </e>
@@ -3560,7 +3560,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">udugelig</t>
+            <t pos="A">udugelig</t>
          </tg>
       </mg>
    </e>
@@ -3571,7 +3571,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">frossen</t>
+            <t pos="A">frossen</t>
          </tg>
       </mg>
    </e>
@@ -3582,7 +3582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">brukt</t>
+            <t pos="A">brukt</t>
          </tg>
       </mg>
    </e>
@@ -3592,8 +3592,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">lat</t>
-            <t decl="a5" pos="A">doven</t>
+            <t pos="A">lat</t>
+            <t pos="A">doven</t>
          </tg>
       </mg>
    </e>
@@ -3604,7 +3604,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">mager</t>
+            <t pos="A">mager</t>
          </tg>
       </mg>
    </e>
@@ -3615,7 +3615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">barnerik</t>
+            <t pos="A">barnerik</t>
          </tg>
       </mg>
    </e>
@@ -3625,7 +3625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">mild</t>
+            <t pos="A">mild</t>
          </tg>
       </mg>
    </e>
@@ -3645,8 +3645,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">fet</t>
-            <t decl="a1" pos="A">tykk</t>
+            <t pos="A">fet</t>
+            <t pos="A">tykk</t>
          </tg>
       </mg>
    </e>
@@ -3658,8 +3658,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">ekstra</t>
-            <t decl="a2" pos="A">overflødig</t>
+            <t pos="A">ekstra</t>
+            <t pos="A">overflødig</t>
          </tg>
       </mg>
    </e>
@@ -3670,8 +3670,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">urørlig</t>
-            <t decl="a2" pos="A">ubevegelig</t>
+            <t pos="A">urørlig</t>
+            <t pos="A">ubevegelig</t>
          </tg>
       </mg>
    </e>
@@ -3693,7 +3693,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">uendelig</t>
+            <t pos="A">uendelig</t>
          </tg>
       </mg>
    </e>
@@ -3704,7 +3704,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">endeløs</t>
+            <t pos="A">endeløs</t>
          </tg>
       </mg>
    </e>
@@ -3716,7 +3716,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">storsteinet</t>
+            <t pos="A">storsteinet</t>
          </tg>
       </mg>
    </e>
@@ -3728,7 +3728,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">beinet</t>
+            <t pos="A">beinet</t>
          </tg>
       </mg>
    </e>
@@ -3740,7 +3740,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">naturlig</t>
+            <t pos="A">naturlig</t>
          </tg>
       </mg>
    </e>
@@ -3752,7 +3752,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">tillitsfull</t>
+            <t pos="A">tillitsfull</t>
          </tg>
       </mg>
    </e>
@@ -3764,7 +3764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">lovlig</t>
+            <t pos="A">lovlig</t>
          </tg>
       </mg>
    </e>
@@ -3775,7 +3775,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ulovlig</t>
+            <t pos="A">ulovlig</t>
          </tg>
       </mg>
    </e>
@@ -3785,7 +3785,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kort</t>
+            <t pos="A">kort</t>
          </tg>
       </mg>
    </e>
@@ -3797,7 +3797,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">vestlig</t>
+            <t pos="A">vestlig</t>
          </tg>
       </mg>
    </e>
@@ -3808,7 +3808,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ubetalt</t>
+            <t pos="A">ubetalt</t>
          </tg>
       </mg>
    </e>
@@ -3818,7 +3818,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">bemerkelsesverdig</t>
+            <t pos="A">bemerkelsesverdig</t>
          </tg>
       </mg>
    </e>
@@ -3829,7 +3829,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">umålelig</t>
+            <t pos="A">umålelig</t>
          </tg>
       </mg>
    </e>
@@ -3841,7 +3841,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">mangedobbel</t>
+            <t pos="A">mangedobbel</t>
          </tg>
       </mg>
    </e>
@@ -3853,7 +3853,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">mange</t>
+            <t pos="A">mange</t>
             <t decl="x" pos="A">mang en</t>
          </tg>
       </mg>
@@ -3866,8 +3866,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">komplisert</t>
-            <t decl="a4" pos="A">svinget</t>
+            <t pos="A">komplisert</t>
+            <t pos="A">svinget</t>
          </tg>
       </mg>
    </e>
@@ -3879,8 +3879,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">sørgelig</t>
-            <t decl="a2" pos="A">sørgmodig</t>
+            <t pos="A">sørgelig</t>
+            <t pos="A">sørgmodig</t>
          </tg>
       </mg>
    </e>
@@ -3902,7 +3902,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">uforanderlig</t>
+            <t pos="A">uforanderlig</t>
          </tg>
       </mg>
    </e>
@@ -3913,7 +3913,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">råtten</t>
+            <t pos="A">råtten</t>
          </tg>
       </mg>
    </e>
@@ -3924,7 +3924,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">ubegrenset</t>
+            <t pos="A">ubegrenset</t>
          </tg>
       </mg>
    </e>
@@ -3935,7 +3935,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">malt</t>
+            <t pos="A">malt</t>
          </tg>
       </mg>
    </e>
@@ -3947,7 +3947,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">negativ</t>
+            <t pos="A">negativ</t>
          </tg>
       </mg>
    </e>
@@ -3959,7 +3959,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">firkantet</t>
+            <t pos="A">firkantet</t>
          </tg>
       </mg>
    </e>
@@ -3969,9 +3969,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">snar</t>
-            <t decl="a1" pos="A">rask</t>
-            <t decl="a2" pos="A">hurtig</t>
+            <t pos="A">snar</t>
+            <t pos="A">rask</t>
+            <t pos="A">hurtig</t>
          </tg>
       </mg>
    </e>
@@ -3981,7 +3981,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">normal</t>
+            <t pos="A">normal</t>
          </tg>
       </mg>
    </e>
@@ -3993,7 +3993,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg comment="trans ungdommelig">
-            <t decl="a1" pos="A">temmelig ung</t>
+            <t pos="A">temmelig ung</t>
          </tg>
       </mg>
    </e>
@@ -4005,7 +4005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">moderne</t>
+            <t pos="A">moderne</t>
          </tg>
       </mg>
    </e>
@@ -4016,7 +4016,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">usynlig</t>
+            <t pos="A">usynlig</t>
          </tg>
       </mg>
    </e>
@@ -4026,7 +4026,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ulydig</t>
+            <t pos="A">ulydig</t>
          </tg>
       </mg>
    </e>
@@ -4037,7 +4037,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">lykkelig</t>
+            <t pos="A">lykkelig</t>
          </tg>
       </mg>
    </e>
@@ -4048,8 +4048,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">skolert</t>
-            <t decl="a2" pos="A">opplært</t>
+            <t pos="A">skolert</t>
+            <t pos="A">opplært</t>
          </tg>
       </mg>
    </e>
@@ -4060,7 +4060,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">lærd</t>
+            <t pos="A">lærd</t>
          </tg>
       </mg>
    </e>
@@ -4084,7 +4084,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">pigget</t>
+            <t pos="A">pigget</t>
          </tg>
       </mg>
    </e>
@@ -4094,8 +4094,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">beksvart</t>
-            <t decl="a1" pos="A">bekmørk</t>
+            <t pos="A">beksvart</t>
+            <t pos="A">bekmørk</t>
          </tg>
       </mg>
    </e>
@@ -4106,7 +4106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">skyfri</t>
+            <t pos="A">skyfri</t>
          </tg>
       </mg>
    </e>
@@ -4118,8 +4118,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">skyet</t>
-            <t decl="a4" pos="A">overskyet</t>
+            <t pos="A">skyet</t>
+            <t pos="A">overskyet</t>
          </tg>
       </mg>
    </e>
@@ -4131,7 +4131,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mørkeredd</t>
+            <t pos="A">mørkeredd</t>
          </tg>
       </mg>
    </e>
@@ -4142,8 +4142,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">djevelsk</t>
-            <t decl="a2" pos="A">jævlig</t>
+            <t pos="A">djevelsk</t>
+            <t pos="A">jævlig</t>
          </tg>
       </mg>
    </e>
@@ -4155,7 +4155,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">langbeint</t>
+            <t pos="A">langbeint</t>
          </tg>
       </mg>
    </e>
@@ -4166,7 +4166,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">blank</t>
+            <t pos="A">blank</t>
          </tg>
       </mg>
    </e>
@@ -4179,7 +4179,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="ax" pos="A">nord</t>
-            <t decl="a2" pos="A">nordlig</t>
+            <t pos="A">nordlig</t>
          </tg>
       </mg>
    </e>
@@ -4191,7 +4191,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">politisk</t>
+            <t pos="A">politisk</t>
             <syng>
                <syn>pulittinen</syn>
             </syng>
@@ -4206,7 +4206,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">borgerlig</t>
+            <t pos="A">borgerlig</t>
          </tg>
       </mg>
    </e>
@@ -4218,7 +4218,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">positiv</t>
+            <t pos="A">positiv</t>
             <syng>
                <syn>pusitiivinen</syn>
             </syng>
@@ -4233,7 +4233,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">prikket</t>
+            <t pos="A">prikket</t>
          </tg>
       </mg>
    </e>
@@ -4243,7 +4243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">primitiv</t>
+            <t pos="A">primitiv</t>
          </tg>
       </mg>
    </e>
@@ -4255,7 +4255,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">primitiv</t>
+            <t pos="A">primitiv</t>
          </tg>
       </mg>
    </e>
@@ -4267,7 +4267,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">psykologisk</t>
+            <t pos="A">psykologisk</t>
          </tg>
       </mg>
    </e>
@@ -4279,7 +4279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">politisk</t>
+            <t pos="A">politisk</t>
             <syng>
                <syn>polittinen</syn>
             </syng>
@@ -4306,7 +4306,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">halvstor</t>
+            <t pos="A">halvstor</t>
          </tg>
       </mg>
    </e>
@@ -4318,7 +4318,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">halv</t>
+            <t pos="A">halv</t>
          </tg>
       </mg>
    </e>
@@ -4330,7 +4330,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">positiv</t>
+            <t pos="A">positiv</t>
             <syng>
                <syn>positiivinen</syn>
             </syng>
@@ -4345,7 +4345,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">mangelfull</t>
+            <t pos="A">mangelfull</t>
          </tg>
       </mg>
    </e>
@@ -4357,7 +4357,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">snøfri</t>
+            <t pos="A">snøfri</t>
          </tg>
       </mg>
    </e>
@@ -4369,7 +4369,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">støvet</t>
+            <t pos="A">støvet</t>
          </tg>
       </mg>
    </e>
@@ -4380,7 +4380,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">grenseløs</t>
+            <t pos="A">grenseløs</t>
          </tg>
       </mg>
    </e>
@@ -4390,7 +4390,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">radikal</t>
+            <t pos="A">radikal</t>
          </tg>
       </mg>
    </e>
@@ -4403,7 +4403,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="x" pos="A">blitt utett</t>
-            <t decl="a4" pos="A">sprukket</t>
+            <t pos="A">sprukket</t>
          </tg>
       </mg>
    </e>
@@ -4414,7 +4414,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">kjekk</t>
+            <t pos="A">kjekk</t>
          </tg>
       </mg>
    </e>
@@ -4424,7 +4424,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">regional</t>
+            <t pos="A">regional</t>
          </tg>
       </mg>
    </e>
@@ -4434,7 +4434,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">norsk</t>
+            <t pos="A">norsk</t>
             <syng>
                <syn>norja</syn>
             </syng>
@@ -4448,8 +4448,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">rikelig</t>
-            <t decl="a1" pos="A">dryg</t>
+            <t pos="A">rikelig</t>
+            <t pos="A">dryg</t>
          </tg>
       </mg>
    </e>
@@ -4459,7 +4459,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">svensk</t>
+            <t pos="A">svensk</t>
          </tg>
       </mg>
    </e>
@@ -4470,8 +4470,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">rask</t>
-            <t decl="a2" pos="A">heftig</t>
+            <t pos="A">rask</t>
+            <t pos="A">heftig</t>
          </tg>
       </mg>
    </e>
@@ -4483,7 +4483,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kroppslig</t>
+            <t pos="A">kroppslig</t>
          </tg>
       </mg>
    </e>
@@ -4495,7 +4495,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">rynket</t>
+            <t pos="A">rynket</t>
          </tg>
       </mg>
    </e>
@@ -4505,7 +4505,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">russisk</t>
+            <t pos="A">russisk</t>
          </tg>
       </mg>
    </e>
@@ -4517,7 +4517,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">tysk</t>
+            <t pos="A">tysk</t>
          </tg>
       </mg>
    </e>
@@ -4529,7 +4529,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">hemmelig</t>
+            <t pos="A">hemmelig</t>
          </tg>
       </mg>
    </e>
@@ -4541,7 +4541,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">samtidig</t>
+            <t pos="A">samtidig</t>
          </tg>
       </mg>
    </e>
@@ -4553,7 +4553,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">sammefarget</t>
+            <t pos="A">sammefarget</t>
          </tg>
       </mg>
    </e>
@@ -4563,7 +4563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">iherdig</t>
+            <t pos="A">iherdig</t>
          </tg>
       </mg>
    </e>
@@ -4575,8 +4575,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">rotet</t>
-            <t decl="a2" pos="A">uryddig</t>
+            <t pos="A">rotet</t>
+            <t pos="A">uryddig</t>
          </tg>
       </mg>
    </e>
@@ -4588,8 +4588,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">slik</t>
-            <t decl="a1" pos="A">sånn</t>
+            <t pos="A">slik</t>
+            <t pos="A">sånn</t>
          </tg>
       </mg>
    </e>
@@ -4599,7 +4599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">sentral</t>
+            <t pos="A">sentral</t>
          </tg>
       </mg>
    </e>
@@ -4609,7 +4609,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">slapp</t>
+            <t pos="A">slapp</t>
             <xg>
                <x>Se oli siila kala</x>
                <xt/>
@@ -4624,8 +4624,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">egen</t>
-            <t decl="a3" pos="A">sta</t>
+            <t pos="A">egen</t>
+            <t pos="A">sta</t>
          </tg>
       </mg>
    </e>
@@ -4637,7 +4637,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">indre</t>
+            <t pos="A">indre</t>
          </tg>
       </mg>
    </e>
@@ -4647,7 +4647,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">blind</t>
+            <t pos="A">blind</t>
          </tg>
       </mg>
    </e>
@@ -4658,7 +4658,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">smal</t>
+            <t pos="A">smal</t>
          </tg>
       </mg>
    </e>
@@ -4670,7 +4670,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">finskspråklig</t>
+            <t pos="A">finskspråklig</t>
          </tg>
       </mg>
    </e>
@@ -4682,7 +4682,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">sint</t>
+            <t pos="A">sint</t>
          </tg>
       </mg>
    </e>
@@ -4694,7 +4694,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">sympatisk</t>
+            <t pos="A">sympatisk</t>
          </tg>
       </mg>
    </e>
@@ -4704,7 +4704,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">bekmørk</t>
+            <t pos="A">bekmørk</t>
          </tg>
       </mg>
    </e>
@@ -4715,7 +4715,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">uforetaksom</t>
+            <t pos="A">uforetaksom</t>
          </tg>
       </mg>
    </e>
@@ -4725,7 +4725,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">dansk</t>
+            <t pos="A">dansk</t>
          </tg>
       </mg>
    </e>
@@ -4736,7 +4736,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">hard</t>
+            <t pos="A">hard</t>
          </tg>
       </mg>
    </e>
@@ -4765,7 +4765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">sann</t>
+            <t pos="A">sann</t>
          </tg>
       </mg>
    </e>
@@ -4800,7 +4800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mørkhåret</t>
+            <t pos="A">mørkhåret</t>
          </tg>
       </mg>
    </e>
@@ -4812,7 +4812,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">mørkhudet</t>
+            <t pos="A">mørkhudet</t>
          </tg>
       </mg>
    </e>
@@ -4823,7 +4823,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kjent</t>
+            <t pos="A">kjent</t>
          </tg>
       </mg>
    </e>
@@ -4834,7 +4834,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">ukjent</t>
+            <t pos="A">ukjent</t>
          </tg>
       </mg>
    </e>
@@ -4844,7 +4844,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">merkbar</t>
+            <t pos="A">merkbar</t>
          </tg>
       </mg>
    </e>
@@ -4866,7 +4866,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">dum</t>
+            <t pos="A">dum</t>
             <syng>
                <syn>tyhvä</syn>
             </syng>
@@ -4879,7 +4879,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">tom</t>
+            <t pos="A">tom</t>
             <syng>
                <syn>tyhjä</syn>
             </syng>
@@ -4894,7 +4894,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">slik</t>
+            <t pos="A">slik</t>
             <te>som denne</te>
          </tg>
       </mg>
@@ -4907,8 +4907,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">slik</t>
-            <t decl="a1" pos="A">sånn</t>
+            <t pos="A">slik</t>
+            <t pos="A">sånn</t>
          </tg>
       </mg>
    </e>
@@ -4931,7 +4931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">tett</t>
+            <t pos="A">tett</t>
          </tg>
       </mg>
    </e>
@@ -4942,8 +4942,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">beskjeden</t>
-            <t decl="a1" pos="A">blyg</t>
+            <t pos="A">beskjeden</t>
+            <t pos="A">blyg</t>
          </tg>
       </mg>
    </e>
@@ -4955,7 +4955,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">lukket</t>
+            <t pos="A">lukket</t>
          </tg>
       </mg>
    </e>
@@ -4967,8 +4967,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">tapper</t>
-            <t decl="a1" pos="A">djerv</t>
+            <t pos="A">tapper</t>
+            <t pos="A">djerv</t>
          </tg>
       </mg>
    </e>
@@ -4980,7 +4980,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">trofast</t>
+            <t pos="A">trofast</t>
          </tg>
       </mg>
    </e>
@@ -4991,7 +4991,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">utrolig</t>
+            <t pos="A">utrolig</t>
          </tg>
       </mg>
    </e>
@@ -5002,7 +5002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">troløs</t>
+            <t pos="A">troløs</t>
          </tg>
       </mg>
    </e>
@@ -5012,7 +5012,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">mange</t>
+            <t pos="A">mange</t>
             <tf>mang en</tf>
          </tg>
       </mg>
@@ -5025,7 +5025,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">moderne</t>
+            <t pos="A">moderne</t>
          </tg>
       </mg>
    </e>
@@ -5037,7 +5037,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">eldre</t>
+            <t pos="A">eldre</t>
          </tg>
       </mg>
    </e>
@@ -5049,7 +5049,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">frivillig</t>
+            <t pos="A">frivillig</t>
          </tg>
       </mg>
    </e>
@@ -5060,7 +5060,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">tidlig</t>
+            <t pos="A">tidlig</t>
          </tg>
       </mg>
    </e>
@@ -5070,7 +5070,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">sikker</t>
+            <t pos="A">sikker</t>
          </tg>
       </mg>
    </e>
@@ -5082,7 +5082,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">venstre</t>
+            <t pos="A">venstre</t>
          </tg>
       </mg>
    </e>
@@ -5094,8 +5094,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">vasstrukken</t>
-            <t decl="a1" pos="A">våt</t>
+            <t pos="A">vasstrukken</t>
+            <t pos="A">våt</t>
          </tg>
       </mg>
    </e>
@@ -5106,7 +5106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">uskyldig</t>
+            <t pos="A">uskyldig</t>
          </tg>
       </mg>
    </e>
@@ -5118,7 +5118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">femte</t>
+            <t pos="A">femte</t>
          </tg>
       </mg>
    </e>
@@ -5130,7 +5130,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">kjølig</t>
+            <t pos="A">kjølig</t>
          </tg>
       </mg>
    </e>
@@ -5140,7 +5140,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">stri</t>
+            <t pos="A">stri</t>
          </tg>
       </mg>
    </e>
@@ -5152,7 +5152,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">trøtt</t>
+            <t pos="A">trøtt</t>
          </tg>
       </mg>
    </e>
@@ -5164,7 +5164,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">lyserød</t>
+            <t pos="A">lyserød</t>
          </tg>
       </mg>
    </e>
@@ -5176,7 +5176,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">lyseblå</t>
+            <t pos="A">lyseblå</t>
          </tg>
       </mg>
    </e>
@@ -5188,7 +5188,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a5" pos="A">enkel</t>
+            <t pos="A">enkel</t>
          </tg>
       </mg>
    </e>
@@ -5200,7 +5200,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">frekk</t>
+            <t pos="A">frekk</t>
          </tg>
       </mg>
    </e>
@@ -5212,7 +5212,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">overmektig</t>
+            <t pos="A">overmektig</t>
          </tg>
       </mg>
    </e>
@@ -5224,7 +5224,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">uopplagt</t>
+            <t pos="A">uopplagt</t>
          </tg>
       </mg>
    </e>
@@ -5236,7 +5236,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">åttekantet</t>
+            <t pos="A">åttekantet</t>
          </tg>
       </mg>
    </e>
@@ -5247,7 +5247,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">allmektig</t>
+            <t pos="A">allmektig</t>
          </tg>
       </mg>
    </e>
@@ -5259,7 +5259,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="x" pos="A">faglig</t>
+            <t pos="A">faglig</t>
          </tg>
       </mg>
    </e>
@@ -5270,7 +5270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">nervøs</t>
+            <t pos="A">nervøs</t>
          </tg>
       </mg>
    </e>
@@ -5280,7 +5280,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">negativ</t>
+            <t pos="A">negativ</t>
          </tg>
       </mg>
    </e>
@@ -5290,7 +5290,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">vannskadet</t>
+            <t pos="A">vannskadet</t>
          </tg>
       </mg>
    </e>
@@ -5300,7 +5300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">engelsk</t>
+            <t pos="A">engelsk</t>
          </tg>
       </mg>
    </e>
@@ -5310,7 +5310,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">disig</t>
+            <t pos="A">disig</t>
             <syng>
                <syn>himmi</syn>
             </syng>
@@ -5323,7 +5323,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">disig</t>
+            <t pos="A">disig</t>
             <xg>
                <x>Himmi sää oon umpu sää</x>
                <xt/>
@@ -5340,7 +5340,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">løs</t>
+            <t pos="A">løs</t>
          </tg>
       </mg>
    </e>
@@ -5350,8 +5350,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a4" pos="A">arbeidsløs</t>
-            <t decl="a4" pos="A">uvirksom</t>
+            <t pos="A">arbeidsløs</t>
+            <t pos="A">uvirksom</t>
          </tg>
       </mg>
    </e>
@@ -5361,7 +5361,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">taus</t>
+            <t pos="A">taus</t>
             <xg>
                <x>ole vaiti</x>
                <xt/>
@@ -5375,8 +5375,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">fiks</t>
-            <t decl="a1" pos="A">snop</t>
+            <t pos="A">fiks</t>
+            <t pos="A">snop</t>
          </tg>
       </mg>
    </e>
@@ -5386,8 +5386,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">mye</t>
-            <t decl="a3" pos="A">mange</t>
+            <t pos="A">mye</t>
+            <t pos="A">mange</t>
          </tg>
       </mg>
    </e>
@@ -5398,7 +5398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">hemmelig</t>
+            <t pos="A">hemmelig</t>
          </tg>
       </mg>
    </e>
@@ -5420,7 +5420,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="A">brå</t>
-            <t decl="a2" pos="A">plutselig</t>
+            <t pos="A">plutselig</t>
          </tg>
       </mg>
    </e>
@@ -5430,7 +5430,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">tynn</t>
+            <t pos="A">tynn</t>
          </tg>
       </mg>
    </e>
@@ -5440,9 +5440,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">rett</t>
-            <t decl="a2" pos="A">riktig</t>
-            <t decl="a2" pos="A">korrekt</t>
+            <t pos="A">rett</t>
+            <t pos="A">riktig</t>
+            <t pos="A">korrekt</t>
          </tg>
       </mg>
    </e>
@@ -5452,8 +5452,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">trykkende</t>
-            <t decl="a1" pos="A">tung</t>
+            <t pos="A">trykkende</t>
+            <t pos="A">tung</t>
          </tg>
       </mg>
    </e>
@@ -5464,7 +5464,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a1" pos="A">bunnløs</t>
+            <t pos="A">bunnløs</t>
          </tg>
       </mg>
    </e>
@@ -5474,7 +5474,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">ytre</t>
+            <t pos="A">ytre</t>
          </tg>
       </mg>
    </e>
@@ -5484,7 +5484,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a3" pos="A">forfriskende</t>
+            <t pos="A">forfriskende</t>
          </tg>
       </mg>
    </e>
@@ -5504,7 +5504,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="a2" pos="A">forståelig</t>
+            <t pos="A">forståelig</t>
          </tg>
       </mg>
    </e>
