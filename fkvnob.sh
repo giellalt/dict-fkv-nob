@@ -24,6 +24,7 @@ echo "LEXICON Root" > bin/fkvnob.lexc
 
 cat src/*_fkvnob.xml | \
 grep -v "creativecommons" | \
+grep -v '<stem' | \
 grep '^ *<' | \
 grep -v xml | \
 grep -v '_' | \
