@@ -257,12 +257,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">underside</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">fartøy</t>
+            <t pos="N" gen="n">fartøy</t>
          </tg>
       </mg>
    </e>
@@ -273,7 +268,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">underklær</t>
+            <t pos="N" nr="pl" gen="x">underklær</t>
          </tg>
       </mg>
       <mg>
@@ -301,6 +296,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">anker</t>
+            <t pos="N" gen="m">dregg</t>
             <syng>
                <syn>träki</syn>
             </syng>
@@ -3817,8 +3813,8 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="m">sledefot</t>
             <t pos="N" gen="m">fot</t>
             <xg>
-               <x>Ketarat taivhaala = beina i været</x>
-               <xt/>
+               <x>Ketarat taivhaala</x>
+               <xt>beina i været</xt>
             </xg>
          </tg>
       </mg>
@@ -6677,7 +6673,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="f">renning</t>
             <xg>
                <x>Kankhaan loimi</x>
-               <xt/>
+               <xt>Tøyrenningen</xt>
             </xg>
          </tg>
       </mg>
