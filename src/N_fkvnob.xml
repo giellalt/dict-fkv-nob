@@ -3312,7 +3312,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">dugg</t>
+            <t pos="N" gen="m">dugg</t>
          </tg>
       </mg>
    </e>
@@ -3325,11 +3325,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">ansikt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">ansikte</t>
          </tg>
       </mg>
    </e>
@@ -3442,7 +3437,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">kjøpevare</t>
             <t pos="N" gen="m">handelsvare</t>
          </tg>
       </mg>
@@ -3477,8 +3471,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m1">kamerat</t>
             <xg>
-               <x>Voi kaveri, sie olit oikheessa</x>
-               <xt>Oi kamerat, du hadde rett</xt>
+               <x>Voi kaveri, sie olit oikheessa.</x>
+               <xt>Oi kamerat, du hadde rett.</xt>
             </xg>
          </tg>
       </mg>
@@ -3617,12 +3611,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">engsoleie</t>
+            <t pos="N" gen="f">engsoleie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">ballblomst</t>
+            <t pos="N" gen="m">ballblom</t>
          </tg>
       </mg>
    </e>
@@ -3648,11 +3642,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">sennagress</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">sennagras</t>
+            <t pos="N" gen="n">sennagras</t>
          </tg>
       </mg>
    </e>
@@ -3729,7 +3719,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">lag</t>
+            <t pos="N" gen="n">lag</t>
          </tg>
       </mg>
    </e>
@@ -3756,7 +3746,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg re="ble tidligere spist rundt kl. tolv">
-            <t pos="N" gen="x">hovedmåltid</t>
+            <t pos="N" gen="n">hovedmåltid</t>
          </tg>
       </mg>
    </e>
@@ -3791,7 +3781,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">sledefot</t>
             <t pos="N" gen="m">fot</t>
             <xg>
                <x>Ketarat taivhaala</x>
@@ -3801,6 +3790,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N" gen="m">sledefot</t>
             <t pos="N" gen="x">den delen av sleden som binder meiene til selve sleden</t>
          </tg>
       </mg>
@@ -3949,7 +3939,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">takk</t>
+            <t pos="N" gen="f">takk</t>
          </tg>
       </mg>
    </e>
@@ -3982,14 +3972,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">kappløp</t>
+            <t pos="N" gen="n">kappløp</t>
             <xg>
                <x>juosta kilppaa</x>
                <xt>løpe om kapp</xt>
-            </xg>
-            <xg>
-               <x>Met juoksima kilppaa</x>
-               <xt>Vi sprang om kapp.</xt>
             </xg>
          </tg>
       </mg>
@@ -4044,7 +4030,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">snøfonn</t>
+            <t pos="N" gen="f">snøfonn</t>
          </tg>
       </mg>
    </e>
@@ -4078,7 +4064,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">skrivning</t>
-            <t pos="N" gen="m">skrift</t>
+            <t pos="N" gen="f">skrift</t>
          </tg>
       </mg>
    </e>
@@ -4310,7 +4296,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">handyr</t>
+            <t pos="N" gen="n">handyr</t>
          </tg>
       </mg>
    </e>
@@ -4399,10 +4385,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">forsamling</t>
-            <xg>
-               <x>Istuima kokkouksessa</x>
-               <xt>Vi satt i møte</xt>
-            </xg>
             <syng>
                <syn>kokous</syn>
             </syng>
@@ -4410,7 +4392,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">møte</t>
+            <t pos="N" gen="n">møte</t>
+            <xg>
+               <x>Istuima kokkouksessa.</x>
+               <xt>Vi satt i et møte.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4547,7 +4533,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="f">ravn</t>
+            <t pos="N" gen="m">ravn</t>
          </tg>
       </mg>
    </e>
