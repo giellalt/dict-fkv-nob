@@ -7,36 +7,45 @@
 
 # sh fkvnob.sh
 
-echo 
-echo "Etter at dette scriptet er ferdig står du i xfst med promten"
-echo "xfst[1]"
-echo 
-echo "Gjör då dette:"
-echo "invert"
-echo "save bin/fkvnob.fst"
-echo "quit"
 echo ""
-echo "LEXICON Root" > bin/nobfkv.lexc
-
-cat  src/*_nobfkv.xml | \
+echo ""
+echo "---------------------------------------------------"
+echo "Shellscript to make a transducer of the dictionary."
+echo ""
+echo "It writes a lexc file to bin, containing the line	 "
+echo "LEXICON Root										 "
+echo "Thereafter, it picks lemma and first translation	 "
+echo "of the dictionary, adds them to this lexc file,	 "
+echo "and compiles a transducer bin/fkvnob.fst		 "
+echo ""
+echo "Usage:"
+echo "lookup bin/fkvnob.fst"
+echo "---------------------------------------------------"
+echo ""
+echo ""
 
 echo "LEXICON Root" > bin/fkvnob.lexc
-
 cat src/*_fkvnob.xml | \
-grep -v "creativecommons" | \
-grep -v '<stem' | \
-grep '^ *<' | \
-grep -v xml | \
-grep -v '_' | \
-tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
-sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
-tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
-grep -v '__'|sed 's/$/ # ;/g' >> bin/fkvnob.lexc
+grep '^ *<[lt][ >]'  | \
+sed 's/^ *//g;'      | \
+sed 's/<l /™/g;'     | \
+tr '\n' '£'          | \
+sed 's/£™/€/g;'      | \
+tr '€' '\n'          | \
+tr '<' '>'           | \
+cut -d'>' -f2,6      | \
+tr '>' ':'           | \
+tr ' ' '_'           | \
+sed 's/$/ # ;/g;'    >> bin/fkvnob.lexc        
 
-xfst -e "read lexc < bin/fkvnob.lexc"
+#xfst -e "read lexc < bin/fkvnob.lexc"
+
+printf "read lexc < bin/fkvnob.lexc \n\
+invert net \n\
+save stack bin/fkvnob.fst \n\
+quit \n" > tmpfile
+xfst -utf8 < tmpfile
+rm -f tmpfile
 
 
-# deretter gjer du dette i xfst:
-# invert
-# save bin/fkvnob.fst
 
