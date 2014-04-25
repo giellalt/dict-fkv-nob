@@ -1564,8 +1564,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob" re="om lengde">
             <t pos="A">lang</t>
             <xg>
-               <x/>
-               <xt>to meter lang</xt>
+               <x>Venet oon kahđen meetterin pitukainen.</x>
+               <xt>Båten er to meter lang.</xt>
             </xg>
          </tg>
       </mg>
@@ -1581,6 +1581,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e src="ta;ai">
+      <lg>
+         <l pos="A">praatikas</l>
+         <stem>praatikkhaa</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">pratsom</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ta;ai">
       <lg>
          <l pos="A">praatikas</l>
          <stem>praatikkhaa</stem>
