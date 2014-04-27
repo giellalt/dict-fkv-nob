@@ -54,14 +54,14 @@ For the full license text, see the link above.</lic>
          <stem>tä</stem>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">den her</t>
             <t pos="Pron">denne her</t>
             <t pos="Pron">dette her</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>denne/dette</t>
          </tg>
       </mg>
@@ -89,7 +89,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>seg selv</t>
          </tg>
       </mg>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>ingen</t>
          </tg>
       </mg>
@@ -158,7 +158,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>som</t>
          </tg>
       </mg>
@@ -182,12 +182,12 @@ For the full license text, see the link above.</lic>
          <stem>näi</stem>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">disse her</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>disse</t>
          </tg>
       </mg>
@@ -199,13 +199,13 @@ For the full license text, see the link above.</lic>
          <stem>si</stem>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">den</t>
             <t pos="Pron">det</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>den/det</t>
             <t>han/hun</t>
          </tg>
@@ -258,12 +258,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>ikke en</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>et og annet</t>
          </tg>
       </mg>
@@ -275,12 +275,12 @@ For the full license text, see the link above.</lic>
          <stem>molemii</stem>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">begge</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>begge to</t>
          </tg>
       </mg>
@@ -292,17 +292,17 @@ For the full license text, see the link above.</lic>
          <stem>muutampa</stem>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">noen</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>en/et</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>noen (stykker)</t>
          </tg>
       </mg>
@@ -334,12 +334,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hver og en</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>annenhver</t>
          </tg>
       </mg>
@@ -369,7 +369,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">kenen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">hvem sin</t>
          </tg>
       </mg>
@@ -379,7 +379,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">minun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">min</t>
             <t pos="Pron">mitt</t>
             <t pos="Pron">mine</t>
@@ -391,7 +391,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">mitä</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron">hva</t>
             <syng>
                <syn>mikä</syn>
@@ -404,7 +404,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Interr">miksei</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron" type="Interr">hvorfor ikke</t>
          </tg>
       </mg>
@@ -414,7 +414,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Interr">mones</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t pos="Pron" type="Interr">hvilken</t>
          </tg>
       </mg>
@@ -424,7 +424,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">ainua</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>eneste</t>
          </tg>
       </mg>
@@ -434,7 +434,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" nr="Pl">enimät</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>de fleste</t>
          </tg>
       </mg>
@@ -444,7 +444,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">het</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>de</t>
          </tg>
       </mg>
@@ -454,7 +454,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">itte kukin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hver og en</t>
          </tg>
       </mg>
@@ -464,7 +464,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">jokhainen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hver</t>
          </tg>
       </mg>
@@ -474,12 +474,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">joku</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>noen få</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>en eller annen</t>
          </tg>
       </mg>
@@ -489,7 +489,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">kaikenlainen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>allslags</t>
          </tg>
       </mg>
@@ -499,7 +499,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">kummoinen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hvordan</t>
             <t>hva slags</t>
          </tg>
@@ -510,7 +510,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">kumpi</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hvem/hvilken av to</t>
          </tg>
       </mg>
@@ -520,12 +520,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">kumpiki</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>begge</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>de er begge to lærere</t>
          </tg>
       </mg>
@@ -535,14 +535,14 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">meikäläinen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>jeg</t>
             <t>en av oss</t>
             <t>en som er som oss</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>jeg spiser nok krøkebær også</t>
          </tg>
       </mg>
@@ -552,13 +552,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">minkälainen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hvordan</t>
             <t>hva slags</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>ikke noen slags</t>
          </tg>
       </mg>
@@ -568,7 +568,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">monesko</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hva for en/ett (i rekkefølgen)?</t>
          </tg>
       </mg>
@@ -578,12 +578,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">moni</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>mange</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>noen (stykker)</t>
          </tg>
       </mg>
@@ -593,7 +593,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">muu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>annen</t>
          </tg>
       </mg>
@@ -603,7 +603,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">muuđan</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>en (eller annen)</t>
          </tg>
       </mg>
@@ -613,22 +613,22 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">toinen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>annen</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>et(t) og annet</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>den ene etter den andre</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>den ene ... den andre</t>
             <xg>
                <x/>
@@ -637,7 +637,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>hverandre</t>
             <xg>
                <x/>
@@ -651,7 +651,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">ussee</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>flere</t>
          </tg>
       </mg>
@@ -661,7 +661,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">yksikhään</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="nob">
             <t>ingen</t>
             <xg>
                <x>ei vähhääkhään</x>
