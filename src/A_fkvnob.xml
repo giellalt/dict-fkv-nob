@@ -1860,12 +1860,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg re="f.eks. skog">
+         <tg xml:lang="nob" re="f.eks. skog">
             <t pos="A">tett</t>
          </tg>
       </mg>
       <mg>
-         <tg re="f.eks. suppe">
+         <tg xml:lang="nob" re="f.eks. suppe">
             <t pos="A">tykk</t>
          </tg>
       </mg>
@@ -5606,7 +5606,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">aukinainen</l>
       </lg>
       <mg>
-         <tg re="f.eks. om båt">
+         <tg xml:lang="nob" re="f.eks. om båt">
             <t pos="A">åpen</t>
          </tg>
       </mg>
@@ -6346,7 +6346,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">kaksinen</l>
       </lg>
       <mg>
-         <tg re="i nektende setninger">
+         <tg xml:lang="nob" re="i nektende setninger">
             <t pos="A">særlig bra</t>
             <xg>
                <x/>
@@ -6777,7 +6777,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">lakso</l>
       </lg>
       <mg>
-         <tg re="av mark">
+         <tg xml:lang="nob" re="av mark">
             <t pos="A">slett</t>
             <t pos="A">jevn</t>
          </tg>
@@ -6848,7 +6848,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">lieppee</l>
       </lg>
       <mg>
-         <tg re="f.eks. kaffe eller annen væske">
+         <tg xml:lang="nob" re="f.eks. kaffe eller annen væske">
             <t pos="A">mild</t>
             <t pos="A">svak</t>
          </tg>
@@ -6869,7 +6869,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">likempi</l>
       </lg>
       <mg>
-         <tg re="den eller det som er ~">
+         <tg xml:lang="nob" re="den eller det som er ~">
             <t pos="A">nærmere</t>
          </tg>
       </mg>
@@ -7464,7 +7464,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">pituinen</l>
       </lg>
       <mg>
-         <tg re="om lengde">
+         <tg xml:lang="nob" re="om lengde">
             <t pos="A">lang</t>
          </tg>
       </mg>
@@ -7599,7 +7599,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">raharikas</l>
       </lg>
       <mg>
-         <tg re="av penger">
+         <tg xml:lang="nob" re="av penger">
             <t pos="A">rik</t>
          </tg>
       </mg>
@@ -7981,7 +7981,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">suurukainen</l>
       </lg>
       <mg>
-         <tg re="om omfang">
+         <tg xml:lang="nob" re="om omfang">
             <t pos="A">stor</t>
             <xg>
                <x/>
@@ -8075,7 +8075,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">tinatyven</l>
       </lg>
       <mg>
-         <tg re="om vannet">
+         <tg xml:lang="nob" re="om vannet">
             <t pos="A">helt stille</t>
          </tg>
       </mg>
@@ -8423,7 +8423,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">vanhurskas</l>
       </lg>
       <mg>
-         <tg re="relig.">
+         <tg xml:lang="nob" re="relig.">
             <t pos="A">rettferdig</t>
          </tg>
       </mg>
@@ -8613,7 +8613,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">virtainen</l>
       </lg>
       <mg>
-         <tg re="om vann">
+         <tg xml:lang="nob" re="om vann">
             <t pos="A">strømmet</t>
             <t pos="A">stri</t>
          </tg>
@@ -8810,7 +8810,7 @@ For the full license text, see the link above.</lic>
          <l pos="A">yksituumainen</l>
       </lg>
       <mg>
-         <tg re="brukes vanligvis i flertall om gjensidige forhold">
+         <tg xml:lang="nob" re="brukes vanligvis i flertall om gjensidige forhold">
             <t pos="A">enig</t>
          </tg>
       </mg>
