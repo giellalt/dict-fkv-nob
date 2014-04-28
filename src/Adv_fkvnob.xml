@@ -3551,7 +3551,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">avvujalkaisin ~ avojalkaisin</l>
+         <l pos="Adv">avojalkaisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">barfotet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">avojalkaisin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -5327,7 +5337,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">paremin ~ paremasti</l>
+         <l pos="Adv">paremin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>bedre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">paremasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
