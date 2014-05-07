@@ -1324,6 +1324,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">grav</t>
+            <t pos="N" gen="x">dal</t>
          </tg>
       </mg>
    </e>
@@ -56034,16 +56035,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">nunatakit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">nunatakker</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">karikallio</l>
       </lg>
       <mg>
@@ -56329,26 +56320,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">harjut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">åser</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">harjut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">rygger</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">jyppyrät</l>
       </lg>
       <mg>
@@ -56389,26 +56360,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">mesa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">mesa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">kero</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">voll</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">kero</l>
       </lg>
       <mg>
@@ -56424,26 +56375,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" gen="x">vollgrav</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">vaarat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">fjell</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">vaarat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">fjell</t>
          </tg>
       </mg>
    </e>
@@ -56469,16 +56400,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">laatasmaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">platå</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">provinssi</l>
       </lg>
       <mg>
@@ -56494,15 +56415,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" gen="x">åser</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">harjut</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="x">rygger</t>
          </tg>
       </mg>
@@ -56539,16 +56451,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">merikanaalit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">sjøkanaler</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
          <l pos="N">anikka</l>
       </lg>
       <mg>
@@ -56564,36 +56466,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" gen="x">sandgrunne</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">hietamatala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">sandgrunne</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">hietamatalat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">sandgrunner</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">guyotit</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">guyoter</t>
          </tg>
       </mg>
    </e>
@@ -56617,16 +56489,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">hauđathauđat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">daler</t>
-         </tg>
-      </mg>
-   </e>
+
    <e src="yr">
       <lg>
          <l pos="N">fossiilimettä</l>
@@ -56717,15 +56580,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">viinitarhaat</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">vingårder</t>
-         </tg>
-      </mg>
-   </e>
-   
+
       </r>
