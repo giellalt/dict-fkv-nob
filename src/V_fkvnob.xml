@@ -25,65 +25,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">muijeta</l>
-         <stem>muikene</stem>
-         <stem>muijen</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">surne</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">mahtuut</l>
-         <stem>mahđu</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">få plass til</t>
-            <t pos="V">ha rom</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">få plass</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">mahtaat</l>
-         <stem>mahđa</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">kunne</t>
-            <xg>
-               <x/>
-               <xt>Hva er dette, mon tro?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="V">muijoila</l>
-         <stem>muijoile</stem>
-         <stem>muijoil</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">le</t>
-            <t pos="V">smile</t>
-         </tg>
-      </mg>
-   </e>
+     
    <e src="ta;ai">
       <lg>
          <l pos="V">raskiit</l>
@@ -100,7 +42,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">løfte skjørt/bukse med belte</t>
+            <t pos="V">løfte skjørt eller bukse med belte</t>
             <t pos="V">stramme noe hårdt</t>
          </tg>
       </mg>
@@ -4336,8 +4278,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">pakke</t>
             <xg>
-               <x>mie pakkaan uhheettamhaan kaikki</x>
-               <xt>det blir lett så at jeg glemmer alt</xt>
+               <x>Mie pakkaan uhheettamhaan kaikki.</x>
+               <xt>Det blir lett så at jeg glemmer alt.</xt>
             </xg>
          </tg>
       </mg>
@@ -8386,6 +8328,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">svimle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">kuumeta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli het</t>
          </tg>
       </mg>
    </e>
@@ -15774,8 +15726,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">gjemme seg</t>
             <xg>
-               <x>pojat piilothiin sängyn alle</x>
-               <xt>guttene gjemte seg under senga</xt>
+               <x>Pojat piilothiin sängyn alle.</x>
+               <xt>Guttene gjemte seg under senga.</xt>
             </xg>
          </tg>
       </mg>
@@ -16793,8 +16745,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tape</t>
             <xg>
-               <x>se tappas sitte kaikki rahat</x>
-               <xt>han tapte så alle pengene</xt>
+               <x>Se tappas sitte kaikki rahat.</x>
+               <xt>Han tapte så alle pengene.</xt>
             </xg>
          </tg>
       </mg>
@@ -17121,8 +17073,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">ule</t>
             <t pos="V">hyle</t>
             <xg>
-               <x>hukka ulvoo vaaran kyljessä</x>
-               <xt>ulven uler på fjellsiden</xt>
+               <x>Hukka ulvoo vaaran kyljessä.</x>
+               <xt>Ulven uler i fjellsiden.</xt>
             </xg>
          </tg>
       </mg>
@@ -17602,8 +17554,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bry seg om</t>
             <xg>
-               <x>mie en välitä sinusta</x>
-               <xt>jeg bryr meg ikke om deg</xt>
+               <x>Mie en välitä sinusta.</x>
+               <xt>Jeg bryr meg ikke om deg.</xt>
             </xg>
          </tg>
       </mg>
