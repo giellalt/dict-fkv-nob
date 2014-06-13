@@ -10424,6 +10424,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">nakata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kaste</t>
+            <t pos="V">slenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="v">pienetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli mindre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">purjetella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">segle</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="V">neskätä</l>
@@ -12192,7 +12223,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta,ai">
       <lg>
          <l pos="V">tuomita</l>
          <stem>tuomitte</stem>
@@ -12201,6 +12232,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dømme</t>
+            <t pos="V">fordømme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">vapista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skjelve</t>
          </tg>
       </mg>
    </e>
