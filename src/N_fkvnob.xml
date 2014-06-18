@@ -36,8 +36,26 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="m">skibotnværing</t>
          </tg>
       </mg>
-   </e>
+   </e>  
    <e src="ai">
+      <lg>
+         <l pos="N">latu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">skispor</t>
+         </tg>
+      </mg>
+   <e src="ai">
+      <lg>
+         <l pos="N">pyhämiestenpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">allehelgensdag</t>
+         </tg>
+      </mg>
+   </e>   </e>   <e src="ai">
       <lg>
          <l pos="N">alattiolainen</l>
       </lg>
@@ -65,6 +83,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">bartre</t>
+         </tg>
+      </mg>
+   </e>
+ <e src="t">
+      <lg>
+         <l pos="N">paiju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">gåsunge</t>
          </tg>
       </mg>
    </e>
@@ -2897,7 +2925,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">kaljamaa</l>
+         <l pos="N">kaljama</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
