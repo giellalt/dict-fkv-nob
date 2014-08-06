@@ -1974,11 +1974,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hevne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">han hevnet seg på meg</t>
+            <xg>
+              <x>Hän kosti _XXX</x>
+              <xt>Han hevnet_XXX.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1990,14 +1989,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">skole</t>
             <t pos="V">undervise</t>
-            <t pos="V">være lærer</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gå på skole</t>
+            <t pos="V">ta i skole</t>
          </tg>
       </mg>
    </e>
@@ -2009,7 +2006,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ta i skole</t>
-            <t pos="V">skole</t>
             <t pos="V">undervise</t>
          </tg>
       </mg>
@@ -2048,6 +2044,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bli tørr</t>
             <t pos="V">tørke</t>
+            <xg>
+              <x>Paita kuivui.</x>
+              <xt>Skjorta tørka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2059,6 +2059,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tørke</t>
+            <xg>
+              <x>Se kuivatti paiđan.</x>
+              <xt>Han tørka skjorta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14560,11 +14564,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rumle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">magen rumler</t>
+            <xg>
+              <x>Maha korisee.</x>
+              <xt>Magen rumler.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14716,7 +14719,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">tisse</t>
+            <t pos="V">pisse</t>
          </tg>
       </mg>
    </e>
@@ -14738,10 +14741,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">høres</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
+        <
+         <x>Kuulosta hyvältä</x>
             <t pos="V">det høres bra ut</t>
          </tg>
       </mg>
