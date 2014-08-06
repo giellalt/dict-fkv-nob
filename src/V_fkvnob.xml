@@ -2163,11 +2163,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">hakke</t>
             <t pos="V">grave</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">jeg graver i potetland</t>
+            <xg>
+               <x>Mie kuokin putaattimaata.</x>
+               <xt>Jeg graver i potetåkeren</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3136,14 +3135,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gjemme seg</t>
+            <xg>
+            	<x>Pojat lymythiin sängyn alle.</x>
+            	<xt>guttene gjemte seg under senga.</xt>
             <syng>
                <syn>lymmyilä</syn>
             </syng>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">guttene gjemte seg under senga</t>
          </tg>
       </mg>
    </e>
@@ -3338,12 +3335,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">koste</t>
+            <xg>
+            	<xt>Mitä paita maksaa?</xt>
+            	<xt>Hva koster en skjorte?</xt>
+         	</xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="V">hva koster en skjorte?</t>
-         </tg>
+         
       </mg>
    </e>
    <e src="ta;ai">
@@ -3487,11 +3486,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">gå i sikksakk</t>
             <t pos="V">være innviklet</t>
             <t pos="V">bukte seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">stigen gikk i kroker og svinger gjennom skogen</t>
          </tg>
       </mg>
    </e>
@@ -4322,11 +4316,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">lønne</t>
             <t pos="V">ansette</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">Pekka ble ansatt som kokk</t>
+            <xg>
+            	<x>Pekka pakathiin kokiksi.</x>
+            	<xt>Pekka ble ansatt som kokk.</xt>
          </tg>
       </mg>
    </e>
@@ -4571,6 +4563,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bry seg om</t>
+            <xg>
+            	<x>Mie en perusta siitä.</x>
+            	<xt>Jeg bryr meg ikke om det.</xt>
          </tg>
       </mg>
       <mg>
@@ -4578,11 +4573,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">grunnlegge</t>
             <t pos="V">stifte</t>
             <t pos="V">starte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">jeg bryr meg ikke om det</t>
          </tg>
       </mg>
    </e>
@@ -5274,6 +5264,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">frykte</t>
             <t pos="V">være redd</t>
+            <xg>
+            	<x>Mie en pölkkään hukkaa.</x>
+            	<xt>Jeg er ikke redd for ulven.</xt>
+            </xg>	
          </tg>
       </mg>
       <mg>
