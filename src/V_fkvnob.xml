@@ -5265,14 +5265,9 @@ For the full license text, see the link above.</lic>
             <t pos="V">frykte</t>
             <t pos="V">være redd</t>
             <xg>
-            	<x>Mie en pölkkään hukkaa.</x>
+            	<x>Mie en pölkkää hukkaa.</x>
             	<xt>Jeg er ikke redd for ulven.</xt>
             </xg>	
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">jeg er ikke redd for ulven</t>
          </tg>
       </mg>
    </e>
@@ -6925,11 +6920,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">true</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">presten truet dem med helvete</t>
+            <xg>
+            	<x>Pappi uhkasi heitä helvetillä.</x>
+            	<xt>Presten truet dem med helvete.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7030,11 +7024,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tro</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">Pekka tror på Gud</t>
+            <xg>
+            	<x>Pekka uskoo Jumalhaan.</x>
+            	<x>Pekka tror på Gud.</xt>
+            </xg
          </tg>
       </mg>
    </e>
@@ -7621,21 +7614,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">unngå</t>
+            <xg>
+            	<x>Kaikki mikä oon liiaksi saatethaan välttäät.</x>
+            	<xt>Alt som er unødvendig skal unngås.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">være bra nok</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">alt som er unødvendig skal unngås</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">den er nok bra nok for meg</t>
+            <xg>
+            	<x>Se oon nokko hyvä minule.</x>
+            	<xt>Den er nok bra for meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13141,11 +13132,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">skille</t>
             <t pos="V">holde fra hverandre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">grensene skiller folk fra hverandre</t>
+            <xg>
+            <x>Rajat eristethään kansat toinen toisisthaan.</x>
+            <xt>Grensene skiller folk fra hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13634,11 +13624,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha lyst til</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">det hadde man ikke lyst til</t>
+            <xg>
+            	<x>Se ei huvita.</x>
+            	<xt>Det hadde man ikke lyst til.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13691,11 +13680,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha nytte av</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">en har nytte av å lære kvensk</t>
+            <xg>
+            	<x>Yksiki hyöttyy ko oppii kainuu.</x>
+            	<xt>En har nytte av å lære kvensk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13832,11 +13820,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gjøre kvalm</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">bare tanken gjør meg kvalm</t>
+            <xg>
+            	<x>Tyhä ajatuski iljettää minnuu.</x>
+            	<xt>Bare tanken gjør meg kvalm.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13941,11 +13928,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">komme på</t>
             <t pos="V">falle en inn</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">det falt meg inn</t>
+            <xg>
+            	<x>Se joukahti minulle._XXX</x>
+            	<xt>Det falt meg inn.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14349,7 +14335,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">det tok lang tid</t>
+            <t pos="V">_XXX</t>
+            <xg>
+            <x>Se kesti kauvoin.<x>
+            <xt>Det tok lang tid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14735,9 +14725,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">høres</t>
-        <
-         <x>Kuulosta hyvältä</x>
-            <t pos="V">det høres bra ut</t>
+        	<xg>
+         		<x>Kuulostaa hyvältä.</x>
+            	<xt>Det høres bra ut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14759,11 +14750,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gå lei av</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">jeg har gått lei av fisk</t>
+            <xg>
+            	<x>Mie olen kyllääntyny kalhaan.</x>
+            	<xt>Jeg har gått lei av fisk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
