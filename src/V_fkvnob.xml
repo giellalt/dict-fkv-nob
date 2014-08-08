@@ -15259,11 +15259,10 @@ For the full license text, see the link above.</lic>
             <t pos="V">gå</t>
             <t pos="V">passe</t>
             <t pos="V">lykkes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">det går ikke an å gjøre på den måten</t>
+            <xg>
+         		<x>Se ei menesty tehhä sillä laila.</x>
+            	<xt>Det går ikke an å gjøre på den måten.</xt>
+      		</xg>
          </tg>
       </mg>
    </e>
@@ -15376,11 +15375,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bli fornærmet</t>
             <t pos="V">ta seg nær</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">Pekka tok seg nær av den slags prat</t>
+            <xg>
+            	<x>Pekka nookkaantui semmosesta puhheesta.</x>
+            	<xt>Pekka tog seg nær av den slags prat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15437,11 +15435,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vise seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">månen viste seg på himmelen</t>
+            <xg>
+            	<x>Kuu näyttäänttyi taivhaala.</x>
+            	<xt>Mänen viste seg på himmelen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16105,11 +16102,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli stolt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">Pekka var stolt av seieren</t>
+            <xg>
+            	<x>Pekka pyöhistyi voitosta.</x>
+            	<xt>Pekka var stolt av seieren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16268,11 +16264,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">begynne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">jeg begynte å snakke</t>
+            <xg>
+            	<x>Mie rupesin puhumhaan.</x>
+            	<xt>Jeg begynte å snakke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16749,11 +16744,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">søke til</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">han/hun søkte til den yrkesskolen</t>
+            <xg>
+            	<x>Hän söökasi siihen ammattikoulhuun.</x>
+            	<xt>Hun søkte til den yrkesskolen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16924,11 +16918,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sprute</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">blodet spruter ut av årene</t>
+            <xg>
+            	<x>Veri truiskkuu ulvos suonista.</x>
+            	<xt>Blodet spruter ut av årene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17669,11 +17662,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">prøve</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">de prøver å dra</t>
+            <xg>
+            	<x>Het yritethään lähteet.</x>
+            	<xt>De prøver å dra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
