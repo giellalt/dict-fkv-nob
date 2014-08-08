@@ -3138,6 +3138,7 @@ For the full license text, see the link above.</lic>
             <xg>
             	<x>Pojat lymythiin sängyn alle.</x>
             	<xt>guttene gjemte seg under senga.</xt>
+            </xg>
             <syng>
                <syn>lymmyilä</syn>
             </syng>
@@ -4319,6 +4320,7 @@ For the full license text, see the link above.</lic>
             <xg>
             	<x>Pekka pakathiin kokiksi.</x>
             	<xt>Pekka ble ansatt som kokk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4566,6 +4568,7 @@ For the full license text, see the link above.</lic>
             <xg>
             	<x>Mie en perusta siitä.</x>
             	<xt>Jeg bryr meg ikke om det.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7026,8 +7029,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">tro</t>
             <xg>
             	<x>Pekka uskoo Jumalhaan.</x>
-            	<x>Pekka tror på Gud.</xt>
-            </xg
+            	<xt>Pekka tror på Gud.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14337,8 +14340,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">_XXX</t>
             <xg>
-            <x>Se kesti kauvoin.<x>
-            <xt>Det tok lang tid.</xt>
+            	<x>Se kesti kauvoin.<x>
+            	<xt>Det tok lang tid.</xt>
             </xg>
          </tg>
       </mg>
