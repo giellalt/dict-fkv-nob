@@ -15618,11 +15618,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">oppholde seg</t>
             <t pos="V">røre på seg på sommerbeite</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">reinsdyrene har alltid vært der på sommerbeite</t>
+            <xg>
+            <x>_XXX</x>
+            <xt>Reinsdyrene har alltid vært der på sommerbeite.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15797,11 +15796,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">gjøre en avstikker</t>
             <t pos="V">gå fra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">der er en vei til venster</t>
+            <xg>
+            <x>Tie poikkee siellä vasemale._XXX</x>
+            <xt>Der er en vei til venstre._XXX</xt>
+            </xg>
          </tg>
       </mg>
    </e>
