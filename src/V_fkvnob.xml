@@ -25,7 +25,8 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     
+     </sourcenote>
+   </lics>     
    <e src="ta;ai">
       <lg>
          <l pos="V">raskiit</l>
@@ -14340,7 +14341,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">_XXX</t>
             <xg>
-            	<x>Se kesti kauvoin.<x>
+            	<x>Se kesti kauvoin.</x>
             	<xt>Det tok lang tid.</xt>
             </xg>
          </tg>
@@ -17726,6 +17727,5 @@ For the full license text, see the link above.</lic>
             <t pos="V">organisere</t>
          </tg>
       </mg>
-   </e>
-         
+   </e>         
 </r>

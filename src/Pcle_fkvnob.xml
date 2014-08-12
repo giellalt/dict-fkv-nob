@@ -27,6 +27,26 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ai">
+      <lg>
+         <l pos="Pcle"
+            comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>untatt</t>
+            <xg>
+               <x>Kaikki paitti Maija osathaan kainuu</x>
+               <xt>alle untatt Maija kan kvensk</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>utenom</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Pcle">pikkusen</l>
@@ -108,11 +128,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>bare</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>jeg tenkte at bare jeg ikke faller i sjøen</t>
          </tg>
       </mg>
    </e>

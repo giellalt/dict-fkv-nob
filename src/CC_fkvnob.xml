@@ -50,11 +50,6 @@ For the full license text, see the link above.</lic>
             <t pos="CC">at</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>det blir mindre og mindre av det</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -207,26 +202,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>at</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="CC"
-            comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>untatt</t>
-            <xg>
-               <x/>
-               <xt>alle untatt Maija kan kvensk</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>utenom</t>
          </tg>
       </mg>
    </e>

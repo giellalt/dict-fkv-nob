@@ -109,11 +109,6 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">oppe på</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Hannu er på fjellet</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -134,11 +129,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>(i)mellom</t>
          </tg>
       </mg>
    </e>
@@ -192,11 +182,6 @@ For the full license text, see the link above.</lic>
             <t>blant annet</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>vi ville ikke følge med fienden</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -206,11 +191,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">opp på</t>
             <t pos="Pr">på</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Hannu klatret på fjellet</t>
          </tg>
       </mg>
    </e>
@@ -239,11 +219,6 @@ For the full license text, see the link above.</lic>
                <x>Hän oon minun tykönä</x>
                <xt>Hun/ Han er hos meg</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Liisa bor hos mor</t>
          </tg>
       </mg>
    </e>
@@ -333,7 +308,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>rundt (omkring) </t>
+            <t>rundt</t>
             <xg>
                <x>niilä oon aita talon ympäri</x>
                <xt>de har gjerde rundt huset</xt>
@@ -482,11 +457,6 @@ For the full license text, see the link above.</lic>
             <t>blant</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant vadsøværingene</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -521,11 +491,6 @@ For the full license text, see the link above.</lic>
             <t>i slutten</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i slutten av krigen</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -542,11 +507,6 @@ For the full license text, see the link above.</lic>
             <t>etter hvert</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>posten ble fraktet med båt langs sjøen</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -557,11 +517,6 @@ For the full license text, see the link above.</lic>
             <t>ned fra</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Hannu kom ned fra fjellet</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -570,16 +525,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>etter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>gutten for etter mannen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>jeg gir ikke etter</t>
          </tg>
       </mg>
    </e>
@@ -607,16 +552,6 @@ For the full license text, see the link above.</lic>
             <t>etter</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>etter en stund</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>den ene etter den andre</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -639,11 +574,6 @@ For the full license text, see the link above.</lic>
             <t>blant</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>der var det bark blandet i melen</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -652,11 +582,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>blant</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>plukk larvene bort fra melen</t>
          </tg>
       </mg>
    </e>
@@ -671,11 +596,6 @@ For the full license text, see the link above.</lic>
             <t>mellom</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>bestemor blandet bark i melen</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -685,11 +605,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t>med</t>
             <t>i</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>det ble blandet med tjære</t>
          </tg>
       </mg>
    </e>
@@ -714,11 +629,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>i stedet for</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Pekka fungerte som kokk i stedet for Anni</t>
          </tg>
       </mg>
    </e>
@@ -761,11 +671,6 @@ For the full license text, see the link above.</lic>
             <t>inne i</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Kreeta bor inne i skogen</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -787,16 +692,6 @@ For the full license text, see the link above.</lic>
             <t>sammenlignet</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i forhold til det/den</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>moltene her er små sammenlignet med dem der lengere borte</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -805,11 +700,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>bak</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>sola gikk ner bak fjellet</t>
          </tg>
       </mg>
    </e>
@@ -834,11 +724,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>for ... siden</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for mange år siden</t>
          </tg>
       </mg>
    </e>
@@ -875,16 +760,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>bak(fra)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>jeg plukket bær bak gjerdet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>vi var selvberget når det gjaldt smør</t>
          </tg>
       </mg>
    </e>
@@ -943,12 +818,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>(i)mellom</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>de bygget vei mellom Karasjok og Kautokeino</t>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>
@@ -958,7 +829,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>(i)mellom</t>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>
@@ -968,7 +840,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>(i)mellom</t>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>

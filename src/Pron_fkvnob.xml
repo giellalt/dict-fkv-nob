@@ -62,7 +62,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>denne/dette</t>
+            <t>denne</t>
+            <t>dette</t>
          </tg>
       </mg>
    </e>
@@ -206,8 +207,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>den/det</t>
-            <t>han/hun</t>
+            <t>han</t>
+            <t>hun</t>
          </tg>
       </mg>
    </e>
@@ -298,12 +299,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>en/et</t>
+            <t>en</t>
+            <t>et</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>noen (stykker)</t>
+            <t>noen</t>
          </tg>
       </mg>
    </e>
@@ -511,7 +513,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hvem/hvilken av to</t>
+            <t>hvem av to</t>
+            <t>hvilken av to</t>
          </tg>
       </mg>
    </e>
@@ -524,11 +527,6 @@ For the full license text, see the link above.</lic>
             <t>begge</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>de er begge to lærere</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -539,11 +537,6 @@ For the full license text, see the link above.</lic>
             <t>jeg</t>
             <t>en av oss</t>
             <t>en som er som oss</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>jeg spiser nok krøkebær også</t>
          </tg>
       </mg>
    </e>
@@ -569,7 +562,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hva for en/ett (i rekkefølgen)?</t>
+            <t>hvilken i ei rekke</t>
          </tg>
       </mg>
    </e>
@@ -584,7 +577,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>noen (stykker)</t>
+            <t>noen</t>
          </tg>
       </mg>
    </e>
@@ -604,7 +597,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>en (eller annen)</t>
+            <t>en eller annen</t>
          </tg>
       </mg>
    </e>
@@ -614,17 +607,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t>andre</t>
             <t>annen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>et(t) og annet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>den ene etter den andre</t>
          </tg>
       </mg>
       <mg>

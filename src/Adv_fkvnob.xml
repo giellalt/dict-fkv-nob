@@ -1495,10 +1495,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">utenat</t>
-        <xg>
-          <x/>
-          <xt>jeg kunne alle leksene utenat</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -1543,10 +1539,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">sist</t>
-        <xg>
-          <x/>
-          <xt>til sjuende og sist</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -3734,11 +3726,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t pos="Adv">fra før</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="Adv">han kjenner jeg fra før</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -3747,10 +3734,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">på et uvisst sted</t>
-        <xg>
-        <x/>
-        <xt>legen visste man ikke hvor var</xt>
-	</xg>
       </tg>
     </mg>
   </e>
@@ -4523,11 +4506,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t pos="Adv">likevel ikke</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="Adv">i hvert fall ikke</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -4754,11 +4732,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>nesten</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>Ailu har nærmere tre tusen reinsdyr</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -4902,11 +4875,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>helt</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>jeg er aldeles frisk</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -5019,10 +4987,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob" re="om to">
         <t>sammen</t>
-        <xg>
-          <x/>
-          <xt>det er en stund siden dere har vært sammen i Nordreisa</xt>
-        </xg>
       </tg>
     </mg>
   </e>
@@ -5118,11 +5082,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t>gift</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>han/hun er gift</t>
       </tg>
     </mg>
   </e>
@@ -5458,11 +5417,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>opp</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>reise seg på bena</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -5476,11 +5430,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t>nordover</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>det går ikke an</t>
       </tg>
     </mg>
   </e>
@@ -5590,12 +5539,8 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t>på gløtt. på klem</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>Døra står på gløtt</t>
+        <t>på gløtt</t>
+        <t>på klem</t>
       </tg>
     </mg>
   </e>
@@ -5606,11 +5551,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t>på gløtt</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>Pekka satt vinduet på gløtt</t>
       </tg>
     </mg>
   </e>
@@ -5966,7 +5906,7 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>ta vare på</t>
         <xg>
           <x>ottaat taltheen</x>
-          <xt>ta vare på, ta i bevaring</xt>
+          <xt>ta vare på</xt>
         </xg>
       </tg>
     </mg>
@@ -6000,11 +5940,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>alltid</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>det er meg likegyldig om så…</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -6013,11 +5948,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t>stramt</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>det var stramt om penger</t>
       </tg>
     </mg>
   </e>
@@ -6132,11 +6062,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     <mg>
       <tg xml:lang="nob">
         <t>vel</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>du kommer vel hjem i morgen?</t>
       </tg>
     </mg>
   </e>
@@ -6500,7 +6425,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <t>for å være på en sikre siden</t>
         <t>for sikkerhets skuld</t>
       </tg>
     </mg>
@@ -6545,12 +6469,7 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>ved siden av hverandre</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>de sitter side om side</t>
-      </tg>
-    </mg>
-  </e>
+   </e>
   <e src="ai">
     <lg>
       <l pos="Adv">vihaisesti</l>
@@ -6711,11 +6630,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
         <t>sammen</t>
       </tg>
     </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>skinnet gikk sammen med spekket</t>
-      </tg>
-    </mg>
   </e>
   <e src="ai">
     <lg>
@@ -6811,11 +6725,6 @@ For the full license text, see the link above.</lic><ref>Work by Terje Aronsen a
       <tg xml:lang="nob">
         <t>rundt</t>
         <t>omkring</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t>det vokste mye bjørker der rundt omkring</t>
       </tg>
     </mg>
   </e>
