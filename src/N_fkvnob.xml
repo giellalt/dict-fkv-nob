@@ -1118,7 +1118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">hasp</t>
+            <t pos="N" gen="m">haspe</t>
             <t pos="N" gen="m">krok</t>
          </tg>
       </mg>
@@ -5605,7 +5605,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">albu</t>
+            <t pos="N" gen="m">albue</t>
          </tg>
       </mg>
    </e>
@@ -14511,7 +14511,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob" re="på et redskap">
             <t pos="N" gen="n">blad</t>
-            <t pos="N" gen="m">edd</t>
             <t pos="N" gen="m">spiss</t>
             <t pos="N" gen="n">hode</t>
          </tg>
@@ -19971,7 +19970,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="n">elvedele</t>
+            <t pos="N" gen="n">åmot</t>
          </tg>
       </mg>
    </e>
@@ -22378,7 +22377,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="f">strikning</t>
+            <t pos="N" gen="f">strikking</t>
          </tg>
       </mg>
    </e>
@@ -22540,7 +22539,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">gullbrand</t>
             <t pos="N" gen="m">ringfinger</t>
             <syng>
                <syn>piikastrilli</syn>
@@ -24003,7 +24001,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="f">firfirsle</t>
+            <t pos="N" gen="f">firfisle</t>
             <t pos="N" gen="f">øgle</t>
             <syng>
                <syn>liisko</syn>
@@ -26615,7 +26613,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">gebiss</t>
-            <t pos="N" gen="f">kjøptenner</t>
          </tg>
       </mg>
    </e>
@@ -31757,7 +31754,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="f">slipning</t>
+            <t pos="N" gen="f">sliping</t>
          </tg>
       </mg>
    </e>
@@ -48453,16 +48450,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">tabeli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">tabel</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">taikausko</l>
       </lg>
       <mg>
@@ -51814,7 +51801,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="N" gen="m">grustak_-_steinbrudd</t>
+            <t pos="N" gen="m">grustak</t>
+            <t pos="N" gen="m">steinbrudd</t>
          </tg>
       </mg>
    </e>
@@ -51854,7 +51842,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="N" gen="m">nes_ved_elver</t>
+            <t pos="N" gen="m">elvenes</t>
          </tg>
       </mg>
    </e>
@@ -51864,7 +51852,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="N" gen="m">grustak_-_steinbrudd</t>
+            <t pos="N" gen="m">grustak</t>
+            <t pos="N" gen="m">steinbrudd</t>
          </tg>
       </mg>
    </e>
@@ -55289,16 +55278,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" gen="x">lavaområde</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="yr">
-      <lg>
-         <l pos="N">mesa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">mesa</t>
          </tg>
       </mg>
    </e>
