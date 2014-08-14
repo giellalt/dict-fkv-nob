@@ -3133,7 +3133,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">nådeløs</t>
             <xg>
                <x>Armoton kaunis</x>
-               <xt/>
+               <xt>Nådeløst vakker</xt>
             </xg>
          </tg>
       </mg>
@@ -4632,7 +4632,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">slapp</t>
             <xg>
                <x>Se oli siila kala</x>
-               <xt/>
+               <xt>Det var en slapp fisk</xt>
             </xg>
          </tg>
       </mg>
@@ -5344,12 +5344,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">disig</t>
-            <xg>
-               <x>Himmi sää oon umpu sää</x>
-               <xt/>
-            </xg>
             <syng>
                <syn>himmee</syn>
+               <syn>umpu</syn>
             </syng>
          </tg>
       </mg>
@@ -5383,8 +5380,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">taus</t>
             <xg>
-               <x>ole vaiti</x>
-               <xt/>
+               <x>Ole vaiti.</x>
+               <xt>Vær stille.</xt>
             </xg>
          </tg>
       </mg>
@@ -8243,7 +8240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">slik som denne/dette</t>
+            <t pos="A">slik som denne</t>
             <t pos="A">sånn her</t>
          </tg>
       </mg>
