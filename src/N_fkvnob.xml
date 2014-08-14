@@ -8351,11 +8351,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="m">mandag</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">søndag</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -9054,7 +9049,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">oktober</t>
             <syng>
-               <syn>oktooperikuu</syn>
+               <syn>oktooperi</syn>
             </syng>
          </tg>
       </mg>
@@ -9442,6 +9437,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">berg</t>
+            <t pos="N" gen="m">klippe</t>
+            <t pos="N" gen="n">stup</t>
          </tg>
       </mg>
    </e>
@@ -11989,6 +11986,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">skråning</t>
+            <t pos="N" gen="m">bakke</t>
+            <t pos="N" gen="m">brekke</t>
             <t pos="N" gen="f">li</t>
          </tg>
       </mg>
@@ -12076,6 +12075,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">rusk</t>
+            <t pos="N" gen="n">søppel</t>
          </tg>
       </mg>
    </e>
@@ -42968,6 +42968,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">nettside</t>
+            <t pos="N" gen="n">nettsted</t>
          </tg>
       </mg>
    </e>
@@ -44387,7 +44388,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">bibel</t>
+            <t pos="N" gen="m">Bibel</t>
          </tg>
       </mg>
    </e>
@@ -55507,6 +55508,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="N" gen="m">canyon</t>
+            <t pos="N" gen="n">juv</t>
          </tg>
       </mg>
    </e>
@@ -55758,7 +55760,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="N" gen="x">hei</t>
+            <t pos="N" gen="m">hei</t>
+            <t pos="N" gen="m">mo</t>
          </tg>
       </mg>
    </e>
