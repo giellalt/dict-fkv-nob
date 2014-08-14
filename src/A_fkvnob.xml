@@ -608,8 +608,8 @@ For the full license text, see the link above.</lic>
             <t pos="A">bøyd</t>
             <t pos="A">oppoverbøyd</t>
             <xg>
-               <x>Tyttärellä oon kiverä nokka</x>
-               <xt>Dattera har oppstoppernese</xt>
+               <x>Tyttärellä oon kiverä nokka.</x>
+               <xt>Dattera har oppstoppernese.</xt>
             </xg>
          </tg>
       </mg>
@@ -1316,10 +1316,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">rett</t>
             <t pos="A">høyre</t>
-            <xg>
-               <x/>
-               <xt>til høyre</xt>
-            </xg>
             <t pos="A">riktig</t>
          </tg>
       </mg>
@@ -3132,8 +3128,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">nådeløs</t>
             <xg>
-               <x>Armoton kaunis</x>
-               <xt>Nådeløst vakker</xt>
+               <x>Hän oon armoton kaunis</x>
+               <xt>Hun er nådeløst vakker</xt>
             </xg>
          </tg>
       </mg>
@@ -4631,8 +4627,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">slapp</t>
             <xg>
-               <x>Se oli siila kala</x>
-               <xt>Det var en slapp fisk</xt>
+               <x>Se oli siila kala.</x>
+               <xt>Det var en slapp fisk.</xt>
             </xg>
          </tg>
       </mg>
@@ -5911,14 +5907,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">herreløs</t>
-            <xg>
-               <x/>
-               <xt>Du store min tid!</xt>
-            </xg>
-            <xg>
-               <x/>
-               <xt>Gud bevare!</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -6121,7 +6109,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">gammel</t>
             <xg>
-               <x>(av aldern) vuođen ikhäinen</x>
+               <x>vuođen ikhäinen</x>
                <xt>ett år gammel</xt>
             </xg>
          </tg>
@@ -6355,10 +6343,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob" re="i nektende setninger">
             <t pos="A">særlig bra</t>
-            <xg>
-               <x/>
-               <xt>de husene deres var ikke særlig bra</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -6989,8 +6973,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">som er fra landet</t>
             <xg>
-              <x>Minkä maalainen?</x>
-              <xt>fra hvilket land?</xt>
+              <x>Minkä maalainen se oon?</x>
+              <xt>Fra hvilket land er den?</xt>
             </xg>
          </tg>
       </mg>
@@ -7990,10 +7974,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob" re="om omfang">
             <t pos="A">stor</t>
-            <xg>
-               <x/>
-               <xt>stokk som er en kubikkmeter stor</xt>
-            </xg>
          </tg>
       </mg>
    </e>

@@ -1967,8 +1967,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">nød</t>
            <xg>
-              <x>Minula oli hätä</x>
-              <xt>Jeg var veldig tissetrengt</xt>
+              <x>Minula oli hätä.</x>
+              <xt>Jeg var veldig tissetrengt.</xt>
            </xg>
          </tg>
       </mg>
@@ -2688,7 +2688,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="n">vett</t>
             <xg>
                <x>täyđessä järjessä</x>
-               <xt>være ved sine fulle fem</xt>
+               <xt>ved sine fulle fem</xt>
             </xg>
          </tg>
       </mg>
@@ -3808,7 +3808,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">fot</t>
             <xg>
-               <x>Ketarat taivhaala</x>
+               <x>ketarat taivhaala</x>
                <xt>beina i været</xt>
             </xg>
          </tg>
@@ -5003,8 +5003,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob" re="i tiltale">
             <t pos="Interj">kjære</t>
             <xg>
-             <x>Pekka kulta</x>
-             <xt>Kjære Pekka</xt>
+             <x>Pekka kulta!</x>
+             <xt>Kjære Pekka!</xt>
 	    </xg>
          </tg>
       </mg>
@@ -5068,19 +5068,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">tilstand</t>
             <t pos="N" gen="m">stand</t>
-            <xg>
-               <x/>
-               <xt>den er i god stand</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">form</t>
-            <xg>
-               <x/>
-               <xt>hun/han er i god form</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -5622,10 +5614,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">fart</t>
-            <xg>
-               <x/>
-               <xt>jeg satte fart i kyrne</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -5808,8 +5796,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">skitetrang</t>
             <xg>
-               <x>minula oon kaakkahoppu</x>
-               <xt>jeg må skite</xt>
+               <x>Minula oon kaakkahoppu.</x>
+               <xt>Jeg må skite.</xt>
             </xg>
          </tg>
       </mg>
@@ -6756,10 +6744,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">rest</t>
-            <xg>
-               <x/>
-               <xt>matrester</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -7260,9 +7244,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">verden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">veldig</t>
             <xg>
-               <x>se oli mailman hyvä kirjoittamhaan</x>
-               <xt>hun/han var veldig flink til å skrive</xt>
+               <x>Se oli mailman hyvä kirjoittamhaan.</x>
+               <xt>Hun var veldig flink til å skrive.</xt>
             </xg>
          </tg>
       </mg>
@@ -7597,10 +7586,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="f">mening</t>
             <t pos="N" gen="f">oppsikt</t>
             <t pos="N" gen="n">syn</t>
-            <xg>
-               <x/>
-               <xt>ikke i det hele tatt</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -7749,10 +7734,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="n">sinn</t>
             <t pos="N" gen="n">tanke</t>
-          <xg>
-            <x></x>
-            <xt>han har alltid krigen i minnet.</xt>
-	  </xg>
 	 </tg>
        </mg>
        <mg> 
@@ -7763,10 +7744,6 @@ For the full license text, see the link above.</lic>
        <mg>
           <tg>
             <t pos="N" gen="f">mening</t>
-          <xg>
-            <x></x>
-            <xt>det er mange meninger om det</xt>
-	  </xg>
          </tg>
       </mg>
    </e>
@@ -7902,14 +7879,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">hukommelse</t>
             <t pos="N" gen="n">minne</t>
-            <xg>
-               <x/>
-               <xt>jeg merket meg ikke det, jeg husker ikke det</xt>
-            </xg>
-            <xg>
-               <x/>
-               <xt>før jeg begynner å huske, før min tid</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -9497,14 +9466,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">lapp</t>
             <t pos="N" gen="m">plass</t>
+            </tg>
+            </mg>
+            <mg>
+            <tg>
+            <t pos="A">sant</t>
             <xg>
-               <x>se ei piđä paikkaa</x>
-               <xt>det er ikke sant</xt>
-            </xg>
-            <t pos="N" gen="n">sted</t>
-            <xg>
-               <x>se ei piđä paikkaa</x>
-               <xt>det er ikke sant</xt>
+               <x>Se ei piđä paikkaa.</x>
+               <xt>Det er ikke sant.</xt>
             </xg>
          </tg>
       </mg>
@@ -9599,7 +9568,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">tvang</t>
             <xg>
-               <x>Minun oon pakko mennä</x>
+               <x>Minun oon pakko mennä.</x>
                <xt>Jeg må dra.</xt>
             </xg>
          </tg>
@@ -13077,8 +13046,8 @@ For the full license text, see the link above.</lic>
             <t pos="N" gen="n">sted</t>
             <t pos="N" gen="m">plass</t>
             <xg>
-               <x>Minula ei ole sijjaa piilile</x>
-               <xt>jeg har ikke plass til en bil</xt>
+               <x>Minula ei ole sijjaa piilile.</x>
+               <xt>jeg har ikke plass til en bil.</xt>
             </xg>
          </tg>
       </mg>
@@ -13958,11 +13927,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">rygg</t>
-            <xg>
-               <x/>
-               <xt>gi juling</xt>
-               <xt>jule opp</xt>
-            </xg>
             <syng>
                <syn>selkä</syn>
             </syng>
@@ -14083,8 +14047,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">trolldom</t>
             <xg>
-               <x>Ei siinä ole taikkaa</x>
-               <xt>Det er ikke noe trolldom i det</xt>
+               <x>Ei siinä ole taikkaa.</x>
+               <xt>Det er ikke noe trolldom i det.</xt>
             </xg>
          </tg>
       </mg>
@@ -15077,7 +15041,7 @@ For the full license text, see the link above.</lic>
          </tg>
             <xg>
                <x>olla tulossa</x>
-               <xt>være på vei (hitover)</xt>
+               <xt>være på vei hitover</xt>
             </xg>
       </mg>
    </e>
@@ -17090,8 +17054,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m">morgen</t>
             <xg>
-               <x>hyvvää aamuu</x>
-               <xt>god morgen</xt>
+               <x>Hyvvää aamuu!</x>
+               <xt>God morgen!</xt>
             </xg>
          </tg>
       </mg>
@@ -17836,8 +17800,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="n">avsidesliggende sted</t>
             <xg>
-               <x>Mene enturhiin</x>
-               <xt>Dra tit peppern gror</xt>
+               <x>Mene enturhiin!</x>
+               <xt>Dra tit peppern gror!</xt>
             </xg>
          </tg>
       </mg>
@@ -19867,8 +19831,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="f">jul</t>
             <xg>
-               <x>Hyvvii joului.</x>
-               <xt>God jul.</xt>
+               <x>Hyvvii joului!</x>
+               <xt>God jul!</xt>
             </xg>
          </tg>
       </mg>
@@ -23909,8 +23873,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="f">bløtlegging</t>
             <xg>
-               <x>Hän pani vaatheet likhoon</x>
-               <xt>Hun la klærne i bløt</xt>
+               <x>Hän pani vaatheet likhoon.</x>
+               <xt>Hun la klærne i bløt.</xt>
             </xg>
          </tg>
       </mg>
@@ -27015,8 +26979,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="n">par</t>
             <xg>
-               <x>Mie olin sielä pari päivää</x>
-               <xt>Jeg var der et par dager</xt>
+               <x>Mie olin sielä pari päivää.</x>
+               <xt>Jeg var der et par dager.</xt>
             </xg>
          </tg>
       </mg>
@@ -28568,8 +28532,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="m1">somlekopp</t>
             <xg>
-               <x>Se oli puohakka</x>
-               <xt>Han var en somlekopp</xt>
+               <x>Se oli puohakka.</x>
+               <xt>Han var en somlekopp.</xt>
             </xg>
          </tg>
       </mg>
@@ -34431,12 +34395,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N" gen="n">råd</t>
             <xg>
-               <x>Mulla oon vara</x>
-               <xt>Jeg har råd</xt>
+               <x>Mulla oon vara.</x>
+               <xt>Jeg har råd.</xt>
             </xg>
             <xg>
-               <x>hänelä oon varraa</x>
-               <xt>han har råd</xt>
+               <x>Hänelä oon varraa.</x>
+               <xt>Han har råd.</xt>
             </xg>
          </tg>
       </mg>
@@ -39843,11 +39807,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x">området bak øre</t>
-            <xg comment="perhaps something like the German: 'er ist noch grün hinter den Ohren.'">
-               <x/>
-               <xt>han/hun er fremdeles et barn, ikke voksen</xt>
-            </xg>
+            <t pos="N" gen="x">området bak øret</t>
          </tg>
       </mg>
    </e>
