@@ -1,36 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="fkvnob" xml:lang="fkv">
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ai">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<r>
+  <e src="ai">
       <lg>
-         <l pos="Pcle"
-            comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
+         <l pos="Pcle">altso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>altså</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle">erikoisen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>spesielt</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle">kait</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>vel</t>
+            <xg>
+               <x>Kait se tullee.</x>
+               <xt>Hun kommer vel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle">kauheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>forferdelig</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle">kunnon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>skikkelig</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle">lähes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>nesten</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pcle" comment="in cip's humble oppinion this is not a CC but some adposition">paitti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -47,7 +84,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ta;ai">
       <lg>
          <l pos="Pcle">pikkusen</l>
       </lg>
@@ -57,71 +94,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">altso</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>altså</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">erikoisen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>spesielt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">kait</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>vel</t>
-            <xg>
-               <x>Kait se tullee.</x>
-               <xt>Hun kommer vel.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">kauheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>forferdelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">kunnon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>skikkelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pcle">lähes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>nesten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
+  <e src="ai">
       <lg>
          <l pos="Pcle">sati</l>
       </lg>
@@ -131,7 +104,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+  <e src="ai">
       <lg>
          <l pos="Pcle">yhä</l>
       </lg>

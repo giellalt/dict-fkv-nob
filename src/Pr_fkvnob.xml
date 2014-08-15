@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="fkvnob" xml:lang="fkv">
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta;ai">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<r>
+  <e src="ta;ai">
       <lg>
          <l pos="Pr">ennen</l>
       </lg>
@@ -43,7 +17,148 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
+      <lg>
+         <l pos="Pr">eđeltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>foran</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Pr">ilman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">uten</t>
+            <xg>
+               <x>ilman rahatta</x>
+               <xt>uten penger</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">jälkhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>etter</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">keskele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>midt i/på (til)</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">keskelä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>midt i/på</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">kiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>inntil</t>
+            <t>fast</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>fast</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">kohti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>mot</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">kohđi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>mot</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">likeltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>fra nærheten av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">liki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i nærheten av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Pr">läpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">gjennom</t>
+            <t pos="Pr">via</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">läpitte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>gjennom</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">pitkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>langs</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
       <lg>
          <l pos="Pr">poikki</l>
       </lg>
@@ -67,21 +182,43 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
       <lg>
-         <l pos="Pr">ilman</l>
+         <l pos="Pr">puolivälissä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">uten</t>
-            <xg>
-               <x>ilman rahatta</x>
-               <xt>uten penger</xt>
-            </xg>
+            <t>midtveis</t>
+            <t>halvveis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i midten av mai</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
+      <lg>
+         <l pos="Pr">siutte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>forbi</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Pr">sivvu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>forbi</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
       <lg>
          <l pos="Pr">vaila</l>
       </lg>
@@ -100,7 +237,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ta;ai">
       <lg>
          <l pos="Pr">yli</l>
       </lg>
@@ -112,169 +249,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>en får ikke ta brennvin over grensen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Pr">läpi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">gjennom</t>
-            <t pos="Pr">via</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">eđeltä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>foran</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">jälkhiin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>etter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">keskele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>midt i/på (til)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">keskelä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>midt i/på</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">kiini</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>inntil</t>
-            <t>fast</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>fast</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">kohđi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>mot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">kohti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>mot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">likeltä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>fra nærheten av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">liki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i nærheten av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">läpitte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>gjennom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">pitkin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>langs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">puolivälissä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>midtveis</t>
-            <t>halvveis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i midten av mai</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">siutte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>forbi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">sivvu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>forbi</t>
          </tg>
       </mg>
    </e>

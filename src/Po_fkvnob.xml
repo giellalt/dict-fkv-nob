@@ -1,33 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="fkvnob" xml:lang="fkv">
-   <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
-   <e src="ta;ai">
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<r>
+  <e src="ai">
+      <lg>
+         <l pos="Po">alapuolelta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>nedenfra</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">under</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>under bordet</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>under</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">alta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>under</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
       <lg>
          <l pos="Po">asti</l>
       </lg>
@@ -51,7 +70,642 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
+      <lg>
+         <l pos="Po">etheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>foran</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">eđessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>foran</t>
+            <xg>
+               <x>Se ooon juuri sinun silmiin eđessä.</x>
+               <xt>Den er akkurat foran øyene dine.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">hallussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i eie</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">joukossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>blant</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">kans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>med</t>
+            <xg>
+               <x>muorin kans</x>
+               <xt>med mor</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Po">kansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Po">med</t>
+            <xg>
+               <x>Hän tuli pojan kansa.</x>
+               <xt>Han kom med gutten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">kautta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Po">gjennom</t>
+            <t pos="Po">om</t>
+            <t pos="Po">via</t>
+            <xg>
+               <x>Nuutti reisasi Tukholman kautta.</x>
+               <xt>Knut reiste vias Stockholm.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">kohđalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>hos</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">lopula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i slutten</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Po">läpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">gjennom</t>
+            <t pos="Pr">via</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">myöten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>langs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>med tida</t>
+            <t>etter hvert</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">myötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">med</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>med seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>blant annet</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">myöđen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">langs med</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>langs</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Po">puolesta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">på vegne av</t>
+            <xg>
+               <x>Hän teki sen minun puolesta.</x>
+               <xt>Han gjorde det for min del.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">pääle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">opp på</t>
+            <t pos="Pr">på</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">päältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>ned fra</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">päälä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">på</t>
+            <t pos="Pr">oppe på</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">pörhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>etter</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">pörässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>etter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>Maija gikk etter meg</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">pörästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>etter</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Po">rinnala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">seassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i</t>
+            <t>blant</t>
+            <t>mellom</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sejassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>blant</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sejasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>blant</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sekhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i</t>
+            <t>blant</t>
+            <t>mellom</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">seurassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>med</t>
+            <t>i</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">seurhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>sammen med</t>
+            <xg>
+               <x>panna rusinoita seurhaan</x>
+               <xt>ha rosiner i, blande med rosiner</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sijassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i stedet for</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sijasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i stedet for</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sishään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>inn i</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sisäle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>inn i</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sisälä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>inne i</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">sisässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>inne i</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">suhtheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>i forhold til</t>
+            <t>sammenlignet</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">taka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>bak</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">takaisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for ... siden</t>
+            <xg>
+               <x>Met siiryimä Tromsshaan kolme vuotta takaisin.</x>
+               <xt>Vi flytta til Tromsø for tre år siden.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">takana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">bakenfor</t>
+            <t pos="Pr">bakom</t>
+            <t pos="Pr">bak</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">takaperin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for ... siden</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">takapäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for ... siden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for tre år siden</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">takia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for</t>
+            <t>på grunn av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">takkaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>bak(fra)</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="Po">tykköö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">hos</t>
+            <xg>
+               <x>Hän oon minun tykköö.</x>
+               <xt>Hun er hos meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">tykö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">til</t>
+            <xg>
+               <x>Hän tuli minun tykö.</x>
+               <xt>Hun kom til meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">tykönä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">hos</t>
+            <xg>
+               <x>Hän oon minun tykönä.</x>
+               <xt>Han er hos meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">tyköä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>fra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>Marja flyttet fra mor</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">tähđen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">på grunn av</t>
+            <xg>
+               <x>Herran tähđen!</x>
+               <xt>For Guds skyld!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>på grunnav</t>
+            <t>for</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>derfor</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">varten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">for ... skyld</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>for</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">vasten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">mot</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">vasthaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">i retning av</t>
+            <t pos="Pr">mot</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="Po">vieressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ved siden av</t>
+            <xg>
+               <x>Huonheen vieressä oon pihlajapuu.</x>
+               <xt>Det er rogntre ved huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">vierestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>(fra) ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="Po">vierheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t>ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
       <lg>
          <l pos="Po">vuoksi</l>
       </lg>
@@ -80,45 +734,43 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
       <lg>
-         <l pos="Po">alla</l>
+         <l pos="Po">välhiin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">under</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>under bordet</t>
+            <t>(i)mellom</t>
+            <xg>
+               <x>Minula jäivä sormet oven välhiin.</x>
+               <xt>jeg fikk fingrene mellom døra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
       <lg>
-         <l pos="Po">päälä</l>
+         <l pos="Po">välile</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">på</t>
-            <t pos="Pr">oppe på</t>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
       <lg>
-         <l pos="Po">takana</l>
+         <l pos="Po">väliltä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">bakenfor</t>
-            <t pos="Pr">bakom</t>
-            <t pos="Pr">bak</t>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ta;ai">
       <lg>
          <l pos="Po">välilä</l>
       </lg>
@@ -128,172 +780,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+  <e src="ai">
       <lg>
-         <l pos="Po">kautta</l>
+         <l pos="Po">välissä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Po">gjennom</t>
-            <t pos="Po">om</t>
-            <t pos="Po">via</t>
-            <xg>
-               <x>Nuutti reisasi Tukholman kautta.</x>
-               <xt>Knut reiste vias Stockholm.</xt>
-            </xg>
+            <t>mellom</t>
+            <t>imellom</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">myöđen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">langs med</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>langs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">myötä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">med</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>med seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant annet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">pääle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">opp på</t>
-            <t pos="Pr">på</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">tykö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">til</t>
-            <xg>
-               <x>Hän tuli minun tykö.</x>
-               <xt>Hun kom til meg.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">tykönä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">hos</t>
-            <xg>
-               <x>Hän oon minun tykönä.</x>
-               <xt>Han er hos meg.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">tähđen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">på grunn av</t>
-            <xg>
-               <x>Herran tähđen!</x>
-               <xt>For Guds skyld!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>på grunnav</t>
-            <t>for</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>derfor</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">varten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">for ... skyld</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">vasten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">mot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">vasthaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">i retning av</t>
-            <t pos="Pr">mot</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">vieressä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">ved siden av</t>
-            <xg>
-               <x>Huonheen vieressä oon pihlajapuu.</x>
-               <xt>Det er rogntre ved huset.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
+  <e src="ta;ai">
       <lg>
          <l pos="Po">ympäri</l>
       </lg>
@@ -314,530 +812,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t>katten gikk rundt omkring i stua</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">kansa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Po">med</t>
-            <xg>
-               <x>Hän tuli pojan kansa.</x>
-               <xt>Han kom med gutten.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">läpi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">gjennom</t>
-            <t pos="Pr">via</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">puolesta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">på vegne av</t>
-            <xg>
-               <x>Hän teki sen minun puolesta.</x>
-               <xt>Han gjorde det for min del.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">rinnala</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">ved siden av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Po">tykköö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">hos</t>
-            <xg>
-               <x>Hän oon minun tykköö.</x>
-               <xt>Hun er hos meg.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">alapuolelta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>nedenfra</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">alle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>under</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">alta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>under</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">eđessä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>foran</t>
-            <xg>
-               <x>Se ooon juuri sinun silmiin eđessä.</x>
-               <xt>Den er akkurat foran øyene dine.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>foran</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">hallussa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i eie</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">joukossa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">kans</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>med</t>
-            <xg>
-               <x>muorin kans</x>
-               <xt>med mor</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">kohđalta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>hos</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">lopula</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i slutten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">myöten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>langs</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>med tida</t>
-            <t>etter hvert</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">päältä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>ned fra</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">pörhään</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>etter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">pörässä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>etter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Maija gikk etter meg</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">pörästä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>etter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">seassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i</t>
-            <t>blant</t>
-            <t>mellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sejassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sejasta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sekhaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i</t>
-            <t>blant</t>
-            <t>mellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">seurassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>med</t>
-            <t>i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">seurhaan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>sammen med</t>
-            <xg>
-               <x>panna rusinoita seurhaan</x>
-               <xt>ha rosiner i, blande med rosiner</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sijassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i stedet for</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sijasta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i stedet for</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sishään</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>inn i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sisäle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>inn i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sisälä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>inne i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">sisässä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>inne i</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">suhtheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i forhold til</t>
-            <t>sammenlignet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">taka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>bak</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takaisin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for ... siden</t>
-            <xg>
-               <x>Met siiryimä Tromsshaan kolme vuotta takaisin.</x>
-               <xt>Vi flytta til Tromsø for tre år siden.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takaperin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for ... siden</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takapäin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for ... siden</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for tre år siden</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for</t>
-            <t>på grunn av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takkaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>bak(fra)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">tyköä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>fra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Marja flyttet fra mor</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">vierestä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>(fra) ved siden av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">vierheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>ved siden av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">välhiin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>(i)mellom</t>
-            <xg>
-               <x>Minula jäivä sormet oven välhiin.</x>
-               <xt>jeg fikk fingrene mellom døra.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">välile</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">väliltä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">välissä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
          </tg>
       </mg>
    </e>
