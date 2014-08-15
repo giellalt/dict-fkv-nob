@@ -3132,19 +3132,6 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
-      <lg>
-         <l pos="N">desemperi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">desember</t>
-            <syng>
-               <syn>desemperikuu</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
   <e src="ta;ai">
       <lg>
          <l pos="N">desemperikuu</l>
@@ -13401,18 +13388,6 @@
          </tg>
       </mg>
    </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kauppasentteri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">forretningssenter</t>
-            <t pos="N" gen="n">kjøpesenter</t>
-
-         </tg>
-      </mg>
-   </e>
  <e src="ta;ai">
       <lg>
          <l pos="N">kauppatavara</l>
@@ -15815,16 +15790,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">lommekniv</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">klosteri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">kloster</t>
          </tg>
       </mg>
    </e>
@@ -20891,12 +20856,7 @@
             <t pos="N" gen="f">bukt</t>
          </tg>
       </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="N" gen="n_21">lahti</l>
-      </lg>
-      <mg>
+            <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">slakt</t>
          </tg>
@@ -42556,19 +42516,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">smed</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta">
-      <lg>
-         <l pos="N">septemperi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">september</t>
-            <syng>
-               <syn>septemperikuu</syn>
-            </syng>
          </tg>
       </mg>
    </e>
