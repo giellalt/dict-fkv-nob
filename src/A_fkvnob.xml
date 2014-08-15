@@ -65,7 +65,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+  <e src="ai;ta">
       <lg>
          <l pos="A">aktiivinen</l>
       </lg>
@@ -73,18 +73,6 @@
          <tg xml:lang="nob">
             <t pos="A">aktiv</t>
          </tg>
-      </mg>
-   </e>
-  <e src="ta">
-      <lg>
-         <l pos="N">aktiivinen</l>
-         <stem>aktiivise</stem>
-         <stem>aktiivis</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="n">aktiv</t>
-	 </tg>
       </mg>
    </e>
   <e src="ai">
@@ -319,17 +307,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
-      <lg>
-         <l pos="A">auttii</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">øde</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
+  <e src="ta;ai">
       <lg>
          <l pos="A">auttii</l>
       </lg>
@@ -4786,17 +4764,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
-      <lg>
-         <l pos="A">pimmee</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">mørk</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta">
+  <e src="ta;ai">
       <lg>
          <l pos="N">pimmee</l>
          <stem>pimmee</stem>
@@ -5046,17 +5014,6 @@
             <syng>
                <syn>pusitiivinen</syn>
             </syng>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta;ai">
-      <lg>
-         <l pos="A">praatikas</l>
-         <stem>praatikkhaa</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">pratsom</t>
          </tg>
       </mg>
    </e>
@@ -8647,17 +8604,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
-      <lg>
-         <l pos="N">yksinkertainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">enkel</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta">
+  <e src="ta;ai">
       <lg>
          <l pos="A">yksinkertainen</l>
          <stem>yksinkertaise</stem>
