@@ -3392,7 +3392,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+  <e src="ta;ai">
       <lg>
          <l pos="N">ehtoolinen</l>
          <stem>ehtoolise</stem>
@@ -3404,16 +3404,6 @@
             <syng>
                <syn>rippi</syn>
             </syng>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="N">ehtoolinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">nattverd</t>
          </tg>
       </mg>
    </e>
@@ -10501,15 +10491,6 @@
       <mg>
          <tg>
             <t pos="N" gen="m">berg</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">jyppyrä</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">knaus</t>
          </tg>
       </mg>
@@ -13427,20 +13408,12 @@
       <mg>
          <tg>
             <t pos="N" gen="n">forretningssenter</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kauppasentteri</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="n">kjøpesenter</t>
+
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+ <e src="ta;ai">
       <lg>
          <l pos="N">kauppatavara</l>
       </lg>
@@ -14100,16 +14073,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">skaresnø</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kero</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">voll</t>
          </tg>
       </mg>
    </e>
@@ -15603,7 +15566,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">kivi</l>
          <stem>kive</stem>
@@ -15612,36 +15575,17 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">stein</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kivi</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="n">klipp</t>
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="N">kiviaika</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">steinalder</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kiviauttii</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">steinørken</t>
          </tg>
       </mg>
    </e>
@@ -15871,16 +15815,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">lommekniv</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">klosteri</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">kloster</t>
          </tg>
       </mg>
    </e>
@@ -19411,7 +19345,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">kuru</l>
          <stem>kurru</stem>
@@ -19424,21 +19358,12 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">kløft</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">kuru</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">canyon</t>
             <t pos="N" gen="n">juv</t>
          </tg>
       </mg>
    </e>
-  <e src="yr">
+   <e src="yr">
       <lg>
          <l pos="N">kurunpohja</l>
       </lg>
@@ -20832,16 +20757,6 @@
          </tg>
       </mg>
    </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">laatasmaa</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">sletteland</t>
-         </tg>
-      </mg>
-   </e>
   <e src="ta;ai">
       <lg>
          <l pos="N">laattii</l>
@@ -20964,7 +20879,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N" decl="n_21ie">lahti</l>
          <stem>lahđe</stem>
@@ -20984,16 +20899,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">slakt</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">lahti</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="f">bukt</t>
          </tg>
       </mg>
    </e>
@@ -21187,7 +21092,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">laki</l>
          <stem>laji</stem>
@@ -21201,15 +21106,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">fjelltopp</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">laki</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">topp</t>
          </tg>
       </mg>
@@ -24735,7 +24631,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">maa</l>
       </lg>
@@ -24743,15 +24639,6 @@
          <tg xml:lang="nob">
             <t pos="N" gen="f">jord</t>
             <t pos="N" gen="n">land</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maa</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">eiendom</t>
          </tg>
       </mg>
@@ -24895,22 +24782,13 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+  <e src="ai;yr">
       <lg>
          <l pos="N">maanpruuki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">jordbruk</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maanpruuki</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">gård</t>
          </tg>
       </mg>
@@ -24922,49 +24800,12 @@
       <mg>
          <tg>
             <t pos="N" gen="n">gods</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maanpruuki-ala</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="n">gårdsbruk</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maanpruuki-ala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">gods</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maanpruuki-ala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">gårdsbruk</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">maanpruukiala</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">landbrukskoloni</t>
          </tg>
       </mg>
    </e>
+  </e>
   <e src="yr">
       <lg>
          <l pos="N">maanpruukikoulu</l>
@@ -32197,7 +32038,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+  <e src="ai;yr">
       <lg>
          <l pos="N">pankki</l>
       </lg>
@@ -32206,15 +32047,6 @@
             <re>om hav</re>
             <t pos="N" gen="m">banke</t>
             <t pos="N" gen="m">havbanke</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">pankki</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">bredd</t>
             <t pos="N" gen="m">bank</t>
          </tg>
@@ -37391,35 +37223,6 @@
       <mg>
          <tg>
             <t pos="N" gen="n">fiskeområde</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">pyytöala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">jaktområde</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">pyytöala</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">fiskeområde</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">pyytöala</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="n">jaktområde</t>
          </tg>
       </mg>
@@ -38786,16 +38589,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">strandfiske</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">rantapankki</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">rev</t>
          </tg>
       </mg>
    </e>
@@ -40501,7 +40294,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+  <e src="ai;yr">
       <lg>
          <l pos="N">runka</l>
       </lg>
@@ -40510,15 +40303,6 @@
             <t pos="N" gen="m">smal dal</t>
             <t pos="N" gen="m">bekkedal</t>
             <t pos="N" gen="n">skar</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">runka</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="f">kløft</t>
          </tg>
       </mg>
@@ -41539,7 +41323,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">saari</l>
          <stem>saare</stem>
@@ -41548,16 +41332,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">holme</t>
-            <t pos="N" gen="f">øy</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">saari</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="f">øy</t>
          </tg>
       </mg>
@@ -44720,26 +44494,6 @@
          </tg>
       </mg>
    </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">sulku</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">sluse</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">sulku</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">sluse</t>
-         </tg>
-      </mg>
-   </e>
   <e src="ta;ai">
       <lg>
          <l pos="N">summa</l>
@@ -47804,7 +47558,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;ås">
       <lg>
          <l pos="N">tieva</l>
       </lg>
@@ -47813,16 +47567,6 @@
             <t pos="N" gen="m">kolle</t>
             <t pos="N" gen="m">ås</t>
             <t pos="N" gen="m">haug</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">tieva</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">ås</t>
          </tg>
       </mg>
    </e>
@@ -49154,16 +48898,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">kjesemage</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">tunneli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">tunnel</t>
          </tg>
       </mg>
    </e>
@@ -51175,7 +50909,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">vaara</l>
       </lg>
@@ -51187,16 +50921,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">fare</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">vaara</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="n">fjell</t>
          </tg>
       </mg>
    </e>
@@ -51247,20 +50971,11 @@
       <mg>
          <tg>
             <t pos="N" gen="m">fjelltopp</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">vaaranlaki</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="N" gen="m">tind</t>
          </tg>
       </mg>
    </e>
-  <e src="yr">
+ <e src="yr">
       <lg>
          <l pos="N">vaarannokka</l>
       </lg>
@@ -52099,20 +51814,10 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
-      <lg>
-         <l pos="N">vara</l>
-         <stem>varra</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">laftejern</t>
-         </tg>
-      </mg>
-   </e>
   <e src="ta;ai">
       <lg>
          <l pos="N">vara</l>
+         <stem>varra</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -52125,6 +51830,11 @@
                <x>Hänelä oon varraa.</x>
                <xt>Han har råd.</xt>
             </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">laftejern</t>
          </tg>
       </mg>
    </e>
@@ -52198,16 +51908,6 @@
       <lg>
          <l pos="N">varis</l>
          <stem>varikse</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="f">kråke</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="N">varis</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -54203,7 +53903,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+  <e src="ta;ai;yr">
       <lg>
          <l pos="N">vuoma</l>
       </lg>
@@ -54215,16 +53915,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">dalføre</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="yr">
-      <lg>
-         <l pos="N">vuoma</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="m">dal</t>
          </tg>
       </mg>
    </e>
