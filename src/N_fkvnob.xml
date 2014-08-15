@@ -21667,7 +21667,8 @@
             <t pos="N" gen="n">skispor</t>
          </tg>
       </mg>
-   <e src="ai">
+  </e>
+  <e src="ai">
       <lg>
          <l pos="N">pyhämiestenpäivä</l>
       </lg>
@@ -21676,7 +21677,7 @@
             <t pos="N" gen="m">allehelgensdag</t>
          </tg>
       </mg>
-   </e>   </e>
+  </e>
   <e src="ta;ai">
       <lg>
          <l pos="N">latva</l>
