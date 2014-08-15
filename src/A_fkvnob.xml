@@ -1181,7 +1181,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="m" pos="A">materie</t>
             <t pos="A">våt</t>
          </tg>
       </mg>
@@ -1927,7 +1926,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">nett</t>
             <t pos="A">søt</t>
          </tg>
       </mg>
@@ -2346,11 +2344,6 @@ For the full license text, see the link above.</lic>
          <stem>ulkomaalaise</stem>
          <stem>ulkomais</stem>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="m" pos="A">utlending</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">utenlandsk</t>
@@ -3163,21 +3156,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hjelpeløs</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">ehtoolinen</l>
-         <stem>ehtoolise</stem>
-         <stem>ehtoolis</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="m" pos="A">nattverd</t>
-            <syng>
-               <syn>rippi</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -8918,6 +8896,41 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">østlig</t>
          </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">aktiivinen</l>
+         <stem>aktiivise</stem>
+         <stem>aktiivis</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">aktiv</t>
+	 </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">pimmee</l>
+         <stem>pimmee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">mørk</t>
+	 </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">vanhin</l>
+         <stem>vanhime</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">eldst</t>
+            <t pos="N" gen="m">forelder</t>
+	 </tg>
       </mg>
    </e>
 </r>
