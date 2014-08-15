@@ -2818,7 +2818,7 @@
             <t pos="V">komme på</t>
             <t pos="V">falle en inn</t>
             <xg>
-            	<x>Se joukahti minule._XXX</x>
+            	<x>Se joukahti minule.</x>
             	<xt>Det falt meg inn.</xt>
             </xg>
          </tg>
@@ -5050,10 +5050,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hevne</t>
-            <xg>
-              <x>Hän kosti _XXX</x>
-              <xt>Han hevnet_XXX.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
