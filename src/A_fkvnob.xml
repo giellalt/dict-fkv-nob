@@ -2890,13 +2890,13 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+  <e src="ai" reverse="no">
       <lg>
          <l pos="A">leppääkassuuva</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A" nobfkv="no">om et sted der det vokser older</t>
+            <t pos="A">om et sted der det vokser older</t>
          </tg>
       </mg>
    </e>
