@@ -7,7 +7,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>det meste</t>
+            <t pos="Pron">det meste</t>
          </tg>
       </mg>
    </e>
@@ -17,12 +17,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>ca tre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>ca tre mil</t>
+            <t pos="Det">ca tre</t>
          </tg>
       </mg>
    </e>
@@ -32,7 +27,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>for mye</t>
+            <t pos="Adv">for mye</t>
          </tg>
       </mg>
    </e>
@@ -42,7 +37,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>et par</t>
+            <t pos="Det">et par</t>
          </tg>
       </mg>
    </e>
@@ -52,7 +47,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>2-3</t>
+            <t pos="Det">to-tre</t>
          </tg>
       </mg>
    </e>
@@ -62,12 +57,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>halvannen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>min sønn var halvannet år gammel når jeg dro</t>
+            <t pos="Det">halvannen</t>
          </tg>
       </mg>
    </e>
@@ -77,13 +67,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>noe over ti</t>
-            <t>mer enn ti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>der var det over ti kyr i fjøset</t>
+            <t pos="Det">noe over ti</t>
+            <t pos="Det">mer enn ti</t>
          </tg>
       </mg>
    </e>
@@ -93,7 +78,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>tusenvis</t>
+            <t pos="Adv">tusenvis</t>
          </tg>
       </mg>
    </e>
@@ -104,7 +89,7 @@
       <mg>
          <tg xml:lang="nob">
             <re>i negative setninger</re>
-            <t>minste</t>
+            <t pos="A">minste</t>
             <xg>
                <x>ei vähhääkhään</x>
                <xt>ikke det minste</xt>

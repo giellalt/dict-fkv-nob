@@ -7,7 +7,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>nedenfra</t>
+            <t pos="Pr">nedenfra</t>
          </tg>
       </mg>
    </e>
@@ -20,11 +20,6 @@
             <t pos="Pr">under</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>under bordet</t>
-         </tg>
-      </mg>
    </e>
   <e src="ai">
       <lg>
@@ -32,7 +27,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>under</t>
+            <t pos="Pr">under</t>
          </tg>
       </mg>
    </e>
@@ -42,7 +37,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>under</t>
+            <t pos="Pr">under</t>
          </tg>
       </mg>
    </e>
@@ -62,7 +57,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>fra</t>
+            <t pos="Pr">fra</t>
             <xg>
                <x>Mie olen ollu kristilinen lapsuuđesta asti.</x>
                <xt>Jeg har vært kristen siden barndommen.</xt>
@@ -76,7 +71,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>foran</t>
+            <t pos="Pr">foran</t>
          </tg>
       </mg>
    </e>
@@ -86,7 +81,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>foran</t>
+            <t pos="Pr">foran</t>
             <xg>
                <x>Se ooon juuri sinun silmiin eđessä.</x>
                <xt>Den er akkurat foran øyene dine.</xt>
@@ -100,7 +95,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i eie</t>
+            <t pos="Adv">i eie</t>
          </tg>
       </mg>
    </e>
@@ -110,7 +105,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>blant</t>
+            <t pos="Pr">blant</t>
          </tg>
       </mg>
    </e>
@@ -120,7 +115,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>med</t>
+            <t pos="Pr">med</t>
             <xg>
                <x>muorin kans</x>
                <xt>med mor</xt>
@@ -164,7 +159,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hos</t>
+            <t pos="Pr">hos</t>
          </tg>
       </mg>
    </e>
@@ -174,7 +169,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i slutten</t>
+            <t pos="Adv">i slutten</t>
          </tg>
       </mg>
    </e>
@@ -195,13 +190,13 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>langs</t>
+            <t pos="Pr">langs</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>med tida</t>
-            <t>etter hvert</t>
+            <t pos="Adv">med tida</t>
+            <t pos="Adv">etter hvert</t>
          </tg>
       </mg>
    </e>
@@ -216,12 +211,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>med seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>blant annet</t>
+            <t pos="Adv">blant annet</t>
          </tg>
       </mg>
    </e>
@@ -236,7 +226,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>langs</t>
+            <t pos="Pr">langs</t>
          </tg>
       </mg>
    </e>
@@ -271,7 +261,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>ned fra</t>
+            <t pos="Pr">ned fra</t>
          </tg>
       </mg>
    </e>
@@ -292,7 +282,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>etter</t>
+            <t pos="Pr">etter</t>
          </tg>
       </mg>
    </e>
@@ -302,12 +292,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>etter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Maija gikk etter meg</t>
+            <t pos="Pr">etter</t>
          </tg>
       </mg>
    </e>
@@ -317,7 +302,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>etter</t>
+            <t pos="Pr">etter</t>
          </tg>
       </mg>
    </e>
@@ -337,9 +322,9 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i</t>
-            <t>blant</t>
-            <t>mellom</t>
+            <t pos="Pr">i</t>
+            <t pos="Pr">blant</t>
+            <t pos="Pr">mellom</t>
          </tg>
       </mg>
    </e>
@@ -349,7 +334,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>blant</t>
+            <t pos="Pr">blant</t>
          </tg>
       </mg>
    </e>
@@ -359,7 +344,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>blant</t>
+            <t pos="Pr">blant</t>
          </tg>
       </mg>
    </e>
@@ -369,9 +354,9 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i</t>
-            <t>blant</t>
-            <t>mellom</t>
+            <t pos="Pr">i</t>
+            <t pos="Pr">blant</t>
+            <t pos="Pr">mellom</t>
          </tg>
       </mg>
    </e>
@@ -381,8 +366,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>med</t>
-            <t>i</t>
+            <t pos="Pr">med</t>
+            <t pos="Pr">i</t>
          </tg>
       </mg>
    </e>
@@ -392,7 +377,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>sammen med</t>
+            <t pos="Pr">sammen med</t>
             <xg>
                <x>panna rusinoita seurhaan</x>
                <xt>ha rosiner i, blande med rosiner</xt>
@@ -406,7 +391,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i stedet for</t>
+            <t pos="Pr">i stedet for</t>
          </tg>
       </mg>
    </e>
@@ -416,7 +401,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i stedet for</t>
+            <t pos="Pr">i stedet for</t>
          </tg>
       </mg>
    </e>
@@ -426,7 +411,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>inn i</t>
+            <t pos="Pr">inn i</t>
          </tg>
       </mg>
    </e>
@@ -436,7 +421,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>inn i</t>
+            <t pos="Pr">inn i</t>
          </tg>
       </mg>
    </e>
@@ -446,7 +431,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>inne i</t>
+            <t pos="Pr">inne i</t>
          </tg>
       </mg>
    </e>
@@ -456,7 +441,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>inne i</t>
+            <t pos="Pr">inne i</t>
          </tg>
       </mg>
    </e>
@@ -466,8 +451,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i forhold til</t>
-            <t>sammenlignet</t>
+            <t pos="Pr">i forhold til</t>
+            <t pos="Pr">sammenlignet med</t>
          </tg>
       </mg>
    </e>
@@ -477,7 +462,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>bak</t>
+            <t pos="Pr">bak</t>
          </tg>
       </mg>
    </e>
@@ -487,7 +472,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>for ... siden</t>
+            <t pos="Pr">for ... siden</t>
             <xg>
                <x>Met siiryimä Tromsshaan kolme vuotta takaisin.</x>
                <xt>Vi flytta til Tromsø for tre år siden.</xt>
@@ -513,7 +498,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>for ... siden</t>
+            <t pos="Pr">for ... siden</t>
          </tg>
       </mg>
    </e>
@@ -523,12 +508,11 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>for ... siden</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>for tre år siden</t>
+            <t pos="Pr">for ... siden</t>
+            <xg>
+               <x>kolme vuotta takapäin</x>
+               <xt>for tre år siden</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -538,8 +522,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>for</t>
-            <t>på grunn av</t>
+            <t pos="Pr">for</t>
+            <t pos="Pr">på grunn av</t>
          </tg>
       </mg>
    </e>
@@ -549,7 +533,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>bak(fra)</t>
+            <t pos="Pr">bakfra</t>
          </tg>
       </mg>
    </e>
@@ -601,12 +585,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>fra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>Marja flyttet fra mor</t>
+            <t pos="Pr">fra</t>
          </tg>
       </mg>
    </e>
@@ -625,13 +604,13 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>på grunnav</t>
-            <t>for</t>
+            <t pos="Pr">på grunnav</t>
+            <t pos="Pr">for</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>derfor</t>
+            <t pos="Pr">derfor</t>
          </tg>
       </mg>
    </e>
@@ -646,7 +625,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>for</t>
+            <t pos="Pr">for</t>
          </tg>
       </mg>
    </e>
@@ -691,7 +670,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>(fra) ved siden av</t>
+            <t pos="Pr">(fra) ved siden av</t>
          </tg>
       </mg>
    </e>
@@ -701,7 +680,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>ved siden av</t>
+            <t pos="Pr">ved siden av</t>
          </tg>
       </mg>
    </e>
@@ -720,17 +699,17 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>på grunn av</t>
+            <t pos="Pr">på grunn av</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>for sikkerhets skyld</t>
+            <t pos="Pr">for sikkerhets skyld</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>derfor</t>
+            <t pos="Pr">derfor</t>
          </tg>
       </mg>
    </e>
@@ -740,7 +719,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>(i)mellom</t>
+            <t pos="Pr">mellom</t>
             <xg>
                <x>Minula jäivä sormet oven välhiin.</x>
                <xt>jeg fikk fingrene mellom døra.</xt>
@@ -754,8 +733,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
+            <t pos="Pr">mellom</t>
+            <t pos="Pr">imellom</t>
          </tg>
       </mg>
    </e>
@@ -765,8 +744,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
+            <t pos="Pr">mellom</t>
+            <t pos="Pr">imellom</t>
          </tg>
       </mg>
    </e>
@@ -786,8 +765,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mellom</t>
-            <t>imellom</t>
+            <t pos="Pr">mellom</t>
+            <t pos="Pr">imellom</t>
          </tg>
       </mg>
    </e>
@@ -802,16 +781,11 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>rundt</t>
+            <t pos="Pr">rundt</t>
             <xg>
                <x>Niilä oon aita talon ympäri.</x>
                <xt>De har gjerde rundt huset.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>katten gikk rundt omkring i stua</t>
          </tg>
       </mg>
    </e>

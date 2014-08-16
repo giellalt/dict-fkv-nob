@@ -15,51 +15,6 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
-      <lg>
-         <l pos="CC">entä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>enn</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta;ai">
-      <lg>
-         <l pos="CC">ette</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CC">at</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="CC">ettei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>at ikke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>at han ikke går</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="CC">että</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>at</t>
-         </tg>
-      </mg>
-   </e>
   <e src="ta;ai">
       <lg>
          <l pos="CC">ja</l>
@@ -83,42 +38,6 @@
    </e>
   <e src="ta;ai">
       <lg>
-         <l pos="CC">jos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CC">dersom</t>
-            <t pos="CC">hvis</t>
-            <t pos="CC">om</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta;ai">
-      <lg>
-         <l pos="CC">ko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CC">da</t>
-            <t pos="CC">når</t>
-            <t pos="CC">enn</t>
-            <t pos="CC">som</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta">
-      <lg>
-         <l pos="CC">koska</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CC">fordi</t>
-            <t pos="CC">når</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ta;ai">
-      <lg>
          <l pos="CC">mutta</l>
       </lg>
       <mg>
@@ -133,27 +52,17 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>like</t>
+            <t pos="CC">like</t>
          </tg>
       </mg>
    </e>
   <e src="ai">
       <lg>
-         <l pos="CC">se</l>
+         <l pos="Adv">se</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>så</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="CC">sillä ko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>fordi</t>
+            <t pos="Adv">så</t>
          </tg>
       </mg>
    </e>
@@ -215,7 +124,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob" re="i spørsmål">
-            <t>eller</t>
+            <t pos="CC">eller</t>
          </tg>
       </mg>
    </e>

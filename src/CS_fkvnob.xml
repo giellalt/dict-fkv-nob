@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
+  <e src="ta;ai">
+      <lg>
+         <l pos="CC">ette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CC">at</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="CC">ettei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">at ikke</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">dersom</t>
+            <t pos="CS">hvis</t>
+            <t pos="CS">om</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta;ai">
+      <lg>
+         <l pos="CS">ko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">da</t>
+            <t pos="CS">når</t>
+            <t pos="CS">enn</t>
+            <t pos="CS">som</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ta">
+      <lg>
+         <l pos="CS">koska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">fordi</t>
+            <t pos="CS">når</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="CS">sillä ko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">fordi</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ai">
+      <lg>
+         <l pos="CC">että</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">at</t>
+         </tg>
+      </mg>
+   </e>
   <e src="ta">
       <lg>
          <l pos="CS">entä</l>

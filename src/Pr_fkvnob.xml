@@ -13,7 +13,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>heller</t>
+            <t pos="Pr">heller</t>
          </tg>
       </mg>
    </e>
@@ -23,7 +23,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>foran</t>
+            <t pos="Pr">foran</t>
          </tg>
       </mg>
    </e>
@@ -47,7 +47,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>etter</t>
+            <t pos="Pr">etter</t>
          </tg>
       </mg>
    </e>
@@ -57,7 +57,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>midt i/på (til)</t>
+            <t pos="Pr">til midt i</t>
+            <t pos="Pr">til midt på</t>
          </tg>
       </mg>
    </e>
@@ -67,7 +68,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>midt i/på</t>
+            <t pos="Pr">midt i/på</t>
          </tg>
       </mg>
    </e>
@@ -77,13 +78,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>inntil</t>
-            <t>fast</t>
+            <t pos="Pr">inntil</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>fast</t>
+            <t pos="Adv">fast</t>
          </tg>
       </mg>
    </e>
@@ -93,7 +93,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mot</t>
+            <t pos="Pr">mot</t>
          </tg>
       </mg>
    </e>
@@ -103,7 +103,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mot</t>
+            <t pos="Pr">mot</t>
          </tg>
       </mg>
    </e>
@@ -113,7 +113,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>fra nærheten av</t>
+            <t pos="Pr">fra nærheten av</t>
          </tg>
       </mg>
    </e>
@@ -123,7 +123,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>i nærheten av</t>
+            <t pos="Pr">i nærheten av</t>
          </tg>
       </mg>
    </e>
@@ -144,7 +144,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>gjennom</t>
+            <t pos="Pr">gjennom</t>
          </tg>
       </mg>
    </e>
@@ -154,7 +154,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>langs</t>
+            <t pos="Pr">langs</t>
          </tg>
       </mg>
    </e>
@@ -164,7 +164,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>på den andre sida av</t>
+            <t pos="Pr">på den andre sida av</t>
             <xg>
                <x>poikki jokkee</x>
                <xt>på andre sida av elva</xt>
@@ -173,8 +173,8 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>tvers over</t>
-            <t>gjennom</t>
+            <t pos="Pr">tvers over</t>
+            <t pos="Pr">gjennom</t>
             <xg>
                <x>Se voi mennä poikki.</x>
                <xt>Den kan brekke.</xt>
@@ -184,17 +184,12 @@
    </e>
   <e src="ai">
       <lg>
-         <l pos="Pr">puolivälissä</l>
+         <l pos="Adv">puolivälissä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>midtveis</t>
-            <t>halvveis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>i midten av mai</t>
+            <t pos="Adv">midtveis</t>
+            <t pos="Adv">halvveis</t>
          </tg>
       </mg>
    </e>
@@ -204,7 +199,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>forbi</t>
+            <t pos="Pr">forbi</t>
          </tg>
       </mg>
    </e>
@@ -214,7 +209,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>forbi</t>
+            <t pos="Pr">forbi</t>
          </tg>
       </mg>
    </e>
@@ -231,11 +226,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>klokka er ti på et</t>
-         </tg>
-      </mg>
    </e>
   <e src="ta;ai">
       <lg>
@@ -244,11 +234,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">over</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>en får ikke ta brennvin over grensen</t>
          </tg>
       </mg>
    </e>

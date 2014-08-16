@@ -7,7 +7,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>eneste</t>
+            <t pos="Det">eneste</t>
          </tg>
       </mg>
    </e>
@@ -17,7 +17,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>de fleste</t>
+            <t pos="Det">de fleste</t>
          </tg>
       </mg>
    </e>
@@ -37,7 +37,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>de</t>
+            <t pos="Pron">de</t>
          </tg>
       </mg>
    </e>
@@ -65,7 +65,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>seg selv</t>
+            <t pos="Pron">seg selv</t>
          </tg>
       </mg>
    </e>
@@ -75,7 +75,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hver og en</t>
+            <t pos="Pron">hver og en</t>
          </tg>
       </mg>
    </e>
@@ -90,17 +90,17 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron" type="Rel">som</t>
+            <t pos="CS">som</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>hver og en</t>
+            <t pos="Pron">hver og en</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>annenhver</t>
+            <t pos="Det">annenhver</t>
          </tg>
       </mg>
    </e>
@@ -110,7 +110,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hver</t>
+            <t pos="Det">hver</t>
          </tg>
       </mg>
    </e>
@@ -120,12 +120,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>noen få</t>
+            <t pos="Det">noen få</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>en eller annen</t>
+            <t pos="Det">en eller annen</t>
          </tg>
       </mg>
    </e>
@@ -135,7 +135,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>allslags</t>
+            <t pos="A">allslags</t>
          </tg>
       </mg>
    </e>
@@ -183,7 +183,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>ingen</t>
+            <t pos="Pron">ingen</t>
          </tg>
       </mg>
    </e>
@@ -193,8 +193,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hvordan</t>
-            <t>hva slags</t>
+            <t pos="Det">hva slags</t>
          </tg>
       </mg>
    </e>
@@ -204,8 +203,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hvem av to</t>
-            <t>hvilken av to</t>
+            <t pos="Pron">hvem av to</t>
+            <t pos="Pron">hvilken av to</t>
          </tg>
       </mg>
    </e>
@@ -215,7 +214,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>begge</t>
+            <t pos="Det">begge</t>
          </tg>
       </mg>
    </e>
@@ -235,9 +234,9 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>jeg</t>
-            <t>en av oss</t>
-            <t>en som er som oss</t>
+            <t pos="Pron">jeg</t>
+            <t pos="Pron">en av oss</t>
+            <t pos="Pron">en som er som oss</t>
          </tg>
       </mg>
    </e>
@@ -288,7 +287,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>som</t>
+            <t pos="CS">som</t>
          </tg>
       </mg>
    </e>
@@ -298,13 +297,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hvordan</t>
-            <t>hva slags</t>
+            <t pos="Det">hva slags</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>ikke noen slags</t>
+            <t pos="Det">ikke noen slags</t>
          </tg>
       </mg>
    </e>
@@ -346,7 +344,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>begge to</t>
+            <t pos="Pron">begge to</t>
          </tg>
       </mg>
    </e>
@@ -366,7 +364,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>hvilken i ei rekke</t>
+            <t pos="Det">hvilken i ei rekke</t>
          </tg>
       </mg>
    </e>
@@ -376,12 +374,12 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>mange</t>
+            <t pos="A">mange</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>noen</t>
+            <t pos="Det">noen</t>
          </tg>
       </mg>
    </e>
@@ -391,7 +389,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>annen</t>
+            <t pos="Det">annen</t>
          </tg>
       </mg>
    </e>
@@ -408,13 +406,13 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>en</t>
-            <t>et</t>
+            <t pos="Det">en</t>
+            <t pos="Det">et</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>noen</t>
+            <t pos="Det">noen</t>
          </tg>
       </mg>
    </e>
@@ -424,7 +422,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>en eller annen</t>
+            <t pos="Pron">en eller annen</t>
          </tg>
       </mg>
    </e>
@@ -465,7 +463,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>disse</t>
+            <t pos="Det">disse</t>
          </tg>
       </mg>
    </e>
@@ -494,8 +492,8 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>han</t>
-            <t>hun</t>
+            <t pos="Pron">han</t>
+            <t pos="Pron">hun</t>
          </tg>
       </mg>
    </e>
@@ -528,18 +526,18 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>andre</t>
-            <t>annen</t>
+            <t pos="Det">andre</t>
+            <t pos="Det">annen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>den ene ... den andre</t>
+            <t pos="Det">den ene ... den andre</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t>hverandre</t>
+            <t pos="Pron">hverandre</t>
          </tg>
       </mg>
    </e>
@@ -566,12 +564,6 @@
             <t pos="Pron">dette her</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>denne</t>
-            <t>dette</t>
-         </tg>
-      </mg>
    </e>
   <e src="ai">
       <lg>
@@ -579,7 +571,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>flere</t>
+            <t pos="A">flere</t>
          </tg>
       </mg>
    </e>
@@ -591,18 +583,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">en</t>
-            <t pos="Pron">et</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>ikke en</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t>et og annet</t>
+            <t pos="Det">en</t>
+            <t pos="Det">et</t>
          </tg>
       </mg>
    </e>
@@ -612,7 +594,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t>ingen</t>
+            <t pos="Det">ingen</t>
          </tg>
       </mg>
    </e>
