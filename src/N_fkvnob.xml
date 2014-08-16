@@ -1122,8 +1122,7 @@
          <stem>airo</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>i båt</re>
+         <tg xml:lang="nob" re="i båt">
             <t pos="N" gen="f">åre</t>
          </tg>
       </mg>
@@ -9463,8 +9462,7 @@
          <stem>jalkapoikka</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om gutt</re>
+         <tg xml:lang="nob" re="om gutt">
             <t pos="N" gen="m">løsunge</t>
          </tg>
       </mg>
@@ -9485,8 +9483,7 @@
          <stem>jalkatyttäre</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om jente</re>
+         <tg xml:lang="nob" re="om jente">
             <t pos="N" gen="m">løsunge</t>
          </tg>
       </mg>
@@ -12250,8 +12247,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
-            <re>rommål</re>
+         <tg xml:lang="nob" re="rommål">
             <t pos="N">to liter</t>
          </tg>
       </mg>
@@ -31947,8 +31943,7 @@
          <l pos="N">pankki</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om hav</re>
+         <tg xml:lang="nob" re="om hav">
             <t pos="N" gen="m">banke</t>
             <t pos="N" gen="m">havbanke</t>
             <t pos="N" gen="m">bredd</t>
@@ -48899,8 +48894,7 @@
          <stem>tuohertamis</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om fiske</re>
+         <tg xml:lang="nob" re="om fiske">
             <t pos="N" gen="f">lystring</t>
          </tg>
       </mg>

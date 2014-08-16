@@ -9274,8 +9274,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om utseende</re>
+         <tg xml:lang="nob" re="om utseende">
             <t pos="V">se ut</t>
          </tg>
       </mg>
@@ -15648,8 +15647,7 @@
          <stem>uita</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <re>om tømmer</re>
+         <tg xml:lang="nob" re="om tømmer">
             <t pos="V">fløte</t>
          </tg>
       </mg>
