@@ -5,6 +5,12 @@
 # Førebels er det berre eit shellscript.
 # Kommando for å lage fkvnob.fst
 
+# @cip: makefilen er allerede for lengst ferdig,
+# dette skriptet kan slettes.
+# ../make-bildict
+# kommando:
+# make -f make-bildict SLANG=swe TLANG=sma TNUM=all
+
 # sh fkvnob.sh
 
 echo ""
