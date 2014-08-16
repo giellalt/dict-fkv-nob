@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">eli</l>
       </lg>
@@ -15,7 +16,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">ja</l>
       </lg>
@@ -26,7 +27,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="CC">joko ... tahi</l>
       </lg>
@@ -36,7 +37,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">mutta</l>
       </lg>
@@ -46,7 +47,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="CC">sama</l>
       </lg>
@@ -56,7 +57,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Adv">se</l>
       </lg>
@@ -66,7 +67,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">tahi</l>
       </lg>
@@ -80,7 +81,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="CC">tai</l>
       </lg>
@@ -94,7 +95,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="CC">vai</l>
       </lg>
@@ -108,7 +109,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="CC">vaikka</l>
       </lg>
@@ -118,7 +119,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="CC">vain</l>
       </lg>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">ennen</l>
       </lg>
@@ -17,7 +18,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">eđeltä</l>
       </lg>
@@ -27,7 +28,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">ilman</l>
       </lg>
@@ -41,7 +42,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">jälkhiin</l>
       </lg>
@@ -51,7 +52,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">keskele</l>
       </lg>
@@ -62,7 +63,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">keskelä</l>
       </lg>
@@ -72,7 +73,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">kiini</l>
       </lg>
@@ -87,7 +88,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">kohti</l>
       </lg>
@@ -97,7 +98,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">kohđi</l>
       </lg>
@@ -107,7 +108,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">likeltä</l>
       </lg>
@@ -117,7 +118,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">liki</l>
       </lg>
@@ -127,7 +128,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Pr">läpi</l>
       </lg>
@@ -138,7 +139,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">läpitte</l>
       </lg>
@@ -148,7 +149,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">pitkin</l>
       </lg>
@@ -158,7 +159,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">poikki</l>
       </lg>
@@ -182,7 +183,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Adv">puolivälissä</l>
       </lg>
@@ -193,7 +194,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">siutte</l>
       </lg>
@@ -203,7 +204,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Pr">sivvu</l>
       </lg>
@@ -213,7 +214,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">vaila</l>
       </lg>
@@ -227,7 +228,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Pr">yli</l>
       </lg>

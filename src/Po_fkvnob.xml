@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <r>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">alapuolelta</l>
       </lg>
@@ -11,7 +12,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">alla</l>
       </lg>
@@ -21,7 +22,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">alle</l>
       </lg>
@@ -31,7 +32,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">alta</l>
       </lg>
@@ -41,7 +42,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">asti</l>
       </lg>
@@ -65,7 +66,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">etheen</l>
       </lg>
@@ -75,7 +76,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">eđessä</l>
       </lg>
@@ -89,7 +90,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">hallussa</l>
       </lg>
@@ -99,7 +100,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">joukossa</l>
       </lg>
@@ -109,7 +110,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">kans</l>
       </lg>
@@ -123,7 +124,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Po">kansa</l>
       </lg>
@@ -137,7 +138,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">kautta</l>
       </lg>
@@ -153,7 +154,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">kohđalta</l>
       </lg>
@@ -163,7 +164,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">lopula</l>
       </lg>
@@ -173,7 +174,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Po">läpi</l>
       </lg>
@@ -184,7 +185,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">myöten</l>
       </lg>
@@ -200,7 +201,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">myötä</l>
       </lg>
@@ -215,7 +216,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">myöđen</l>
       </lg>
@@ -230,7 +231,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Po">puolesta</l>
       </lg>
@@ -244,7 +245,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">pääle</l>
       </lg>
@@ -255,7 +256,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">päältä</l>
       </lg>
@@ -265,7 +266,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">päälä</l>
       </lg>
@@ -276,7 +277,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">pörhään</l>
       </lg>
@@ -286,7 +287,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">pörässä</l>
       </lg>
@@ -296,7 +297,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">pörästä</l>
       </lg>
@@ -306,7 +307,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Po">rinnala</l>
       </lg>
@@ -316,7 +317,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">seassa</l>
       </lg>
@@ -328,7 +329,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sejassa</l>
       </lg>
@@ -338,7 +339,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sejasta</l>
       </lg>
@@ -348,7 +349,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sekhaan</l>
       </lg>
@@ -360,7 +361,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">seurassa</l>
       </lg>
@@ -371,7 +372,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">seurhaan</l>
       </lg>
@@ -385,7 +386,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sijassa</l>
       </lg>
@@ -395,7 +396,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sijasta</l>
       </lg>
@@ -405,7 +406,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sishään</l>
       </lg>
@@ -415,7 +416,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sisäle</l>
       </lg>
@@ -425,7 +426,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sisälä</l>
       </lg>
@@ -435,7 +436,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">sisässä</l>
       </lg>
@@ -445,7 +446,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">suhtheen</l>
       </lg>
@@ -456,7 +457,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">taka</l>
       </lg>
@@ -466,7 +467,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">takaisin</l>
       </lg>
@@ -480,7 +481,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">takana</l>
       </lg>
@@ -492,7 +493,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">takaperin</l>
       </lg>
@@ -502,7 +503,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">takapäin</l>
       </lg>
@@ -516,7 +517,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">takia</l>
       </lg>
@@ -527,7 +528,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">takkaa</l>
       </lg>
@@ -537,7 +538,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta">
+   <e src="ta">
       <lg>
          <l pos="Po">tykköö</l>
       </lg>
@@ -551,7 +552,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">tykö</l>
       </lg>
@@ -565,7 +566,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">tykönä</l>
       </lg>
@@ -579,7 +580,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">tyköä</l>
       </lg>
@@ -589,7 +590,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">tähđen</l>
       </lg>
@@ -614,7 +615,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">varten</l>
       </lg>
@@ -629,7 +630,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">vasten</l>
       </lg>
@@ -639,7 +640,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">vasthaan</l>
       </lg>
@@ -650,7 +651,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">vieressä</l>
       </lg>
@@ -664,7 +665,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">vierestä</l>
       </lg>
@@ -674,7 +675,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">vierheen</l>
       </lg>
@@ -684,7 +685,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">vuoksi</l>
       </lg>
@@ -713,7 +714,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">välhiin</l>
       </lg>
@@ -727,7 +728,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">välile</l>
       </lg>
@@ -738,7 +739,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">väliltä</l>
       </lg>
@@ -749,7 +750,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">välilä</l>
       </lg>
@@ -759,7 +760,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ai">
+   <e src="ai">
       <lg>
          <l pos="Po">välissä</l>
       </lg>
@@ -770,7 +771,7 @@
          </tg>
       </mg>
    </e>
-  <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Po">ympäri</l>
       </lg>
