@@ -19039,7 +19039,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">kupla</l>
+         <l pos="N">kupla</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -24843,11 +24843,11 @@
    </e>
    <e src="yr">
       <lg>
-         <l pos="">maatalo</l>
+         <l pos="N">maatalo</l>
       </lg>
       <mg>
          <tg>
-            <t pos="" gen="m">bondegard</t>
+            <t pos="N" gen="m">bondegard</t>
          </tg>
       </mg>
    </e>

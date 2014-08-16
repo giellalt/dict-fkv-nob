@@ -4768,12 +4768,12 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">pimmee</l>
+         <l pos="A">pimmee</l>
          <stem>pimmee</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="n">mørk</t>
+            <t pos="A">mørk</t>
          </tg>
       </mg>
    </e>
@@ -7719,13 +7719,12 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">vanhin</l>
+         <l pos="A">vanhin</l>
          <stem>vanhime</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="n">eldst</t>
-            <t pos="N" gen="m">forelder</t>
+            <t pos="A">eldst</t>
          </tg>
       </mg>
    </e>
