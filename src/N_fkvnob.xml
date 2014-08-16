@@ -6258,8 +6258,8 @@
          <l pos="N">hektu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m" re="rommål">ca 100 liter</t>
+         <tg xml:lang="nob" re="rommål">
+            <t pos="N" gen="m">ca 100 liter</t>
          </tg>
       </mg>
    </e>
@@ -43526,16 +43526,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">ringing</t>
-         </tg>
-      </mg>
-   </e>
-  <e src="ai">
-      <lg>
-         <l pos="A">sokkee</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">blind</t>
          </tg>
       </mg>
    </e>
