@@ -1,1 +1,1 @@
-xmllint -noout --dtdvalid scripts/dict_fkvnob.dtd src/*
+xmllint -noout --dtdvalid scripts/dict_fkvnob.dtd src/*.xml
