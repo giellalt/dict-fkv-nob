@@ -4,11 +4,11 @@
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
-<!ATTLIST l decl NMTOKEN #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos CDATA #REQUIRED >
+<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
+                  N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
-<!ATTLIST l stem NMTOKEN #IMPLIED >
+<!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 
@@ -26,12 +26,12 @@
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
-<!ATTLIST t decl ( a1 | a4 | ax | f | m | m1 | x ) #IMPLIED >
-<!ATTLIST t gen ( a | a1 | a2 | f | f1 | m | m1 | m2 | n | v | x ) #IMPLIED >
-<!ATTLIST t nr NMTOKEN #IMPLIED >
-<!ATTLIST t pos CDATA #REQUIRED >
+<!ATTLIST t gen ( f | m | n ) #IMPLIED >
+<!ATTLIST t nr ( Pl ) #IMPLIED >
+<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
+                  N | Num | Po | Pr | Pron | V ) #REQUIRED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
-<!ATTLIST t type NMTOKEN #IMPLIED >
+<!ATTLIST t type ( Prop ) #IMPLIED >
 
 <!ELEMENT tg ( syng | t | xg )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
