@@ -3388,7 +3388,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t decl="m" pos="N" gen="m">nattverd</t>
+            <t pos="N" gen="m">nattverd</t>
             <syng>
                <syn>rippi</syn>
             </syng>
@@ -3715,7 +3715,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">engelskmann</t>
-            <t pos="N" gen="a">engelsk</t>
             <syng>
                <syn>engelskmanni</syn>
             </syng>
@@ -3866,7 +3865,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a2">førstefødt</t>
+            <t pos="A">førstefødt</t>
          </tg>
       </mg>
    </e>
@@ -11339,7 +11338,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a">kvensk</t>
+            <t pos="A">kvensk</t>
          </tg>
       </mg>
    </e>
@@ -11393,7 +11392,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a">kvensk</t>
+            <t pos="A">kvensk</t>
             <t pos="N" gen="n">kvensk språk</t>
          </tg>
       </mg>
@@ -12679,7 +12678,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">kareler</t>
-            <t pos="N" gen="a2">karelsk</t>
+            <t pos="A">karelsk</t>
          </tg>
       </mg>
    </e>
@@ -13490,7 +13489,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">kamerat</t>
+            <t pos="N" gen="m">kamerat</t>
             <xg>
                <x>Voi kaveri, sie olit oikheessa.</x>
                <xt>Oi kamerat, du hadde rett.</xt>
@@ -14731,7 +14730,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">glød</t>
-            <t pos="N" gen="v">glanse</t>
          </tg>
       </mg>
    </e>
@@ -18490,7 +18488,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">gullbille</t>
+            <t pos="N" gen="m">gullbille</t>
          </tg>
       </mg>
    </e>
@@ -19734,7 +19732,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a">kvensk</t>
+            <t pos="A">kvensk</t>
          </tg>
       </mg>
       <mg>
@@ -20836,7 +20834,7 @@
    </e>
    <e src="ta;ai;yr">
       <lg>
-         <l pos="N" decl="n_21ie">lahti</l>
+         <l pos="N">lahti</l>
          <stem>lahđe</stem>
          <stem>lahte</stem>
       </lg>
@@ -29048,7 +29046,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">nordmann</t>
-            <t pos="N" gen="a">norsk</t>
+            <t pos="A">norsk</t>
          </tg>
       </mg>
    </e>
@@ -30108,7 +30106,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a">selvgjort</t>
+            <t pos="A">selvgjort</t>
          </tg>
       </mg>
    </e>
@@ -30570,7 +30568,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob" re="uten far eller mor eller begge to">
-            <t pos="N" gen="a">foreldreløs</t>
+            <t pos="A">foreldreløs</t>
          </tg>
       </mg>
    </e>
@@ -32100,7 +32098,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">papp</t>
+            <t pos="N" gen="m">papp</t>
          </tg>
       </mg>
    </e>
@@ -33515,9 +33513,9 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">pigg</t>
-            <t pos="N" gen="m1">insektsbrodd</t>
-            <t pos="N" gen="m1">torn</t>
+            <t pos="N" gen="m">pigg</t>
+            <t pos="N" gen="m">insektsbrodd</t>
+            <t pos="N" gen="m">torn</t>
          </tg>
       </mg>
    </e>
@@ -36245,7 +36243,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob" re="til å veie med">
-            <t pos="N" gen="f1">vekt</t>
+            <t pos="N" gen="f">vekt</t>
          </tg>
       </mg>
    </e>
@@ -36268,7 +36266,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">somlekopp</t>
+            <t pos="N" gen="m">somlekopp</t>
             <xg>
                <x>Se oli puohakka.</x>
                <xt>Han var en somlekopp.</xt>
@@ -41462,8 +41460,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m2">tysker</t>
-            <t pos="N" gen="a2">tysk</t>
+            <t pos="N" gen="m">tysker</t>
+            <t pos="A">tysk</t>
          </tg>
       </mg>
    </e>
@@ -48609,7 +48607,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="f1">fyrstikkeske</t>
+            <t pos="N" gen="f">fyrstikkeske</t>
          </tg>
       </mg>
    </e>
@@ -50076,7 +50074,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">elvegrein</t>
-            <t pos="N" gen="x">meander</t>
+            <t pos="N" gen="m">meander</t>
          </tg>
       </mg>
    </e>
@@ -50371,7 +50369,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">enspråklig person</t>
+            <t pos="N" gen="m">enspråklig person</t>
          </tg>
       </mg>
       <mg>
@@ -51103,7 +51101,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a1">avdød</t>
+            <t pos="A">avdød</t>
             <syng>
                <syn>vainaja</syn>
             </syng>
@@ -51116,7 +51114,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="a1">avdød</t>
+            <t pos="A">avdød</t>
          </tg>
       </mg>
    </e>
@@ -52812,7 +52810,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m1">vestavind</t>
+            <t pos="N" gen="m">vestavind</t>
          </tg>
       </mg>
    </e>
