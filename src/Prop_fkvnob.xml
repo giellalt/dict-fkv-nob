@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
+<r>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Aafrikka</l>
+         <stem>Aafrika</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Afrika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Aarne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Arne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Aasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Asia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Aatami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Adam</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Amerikka</l>
+         <stem>Amerika</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Amerika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Atlantteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Atlanterhavet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Biblia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Bibel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">C-vitamiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">C-vitamin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Englanti</l>
+         <stem>Englanni</stem>
+         <stem>Englantti</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">England</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Erkinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">Eriksmesse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Eurooppa</l>
+         <stem>Euroopa</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Europa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Finmarkku</l>
+         <stem>Finmarku</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Finnmark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Harmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" type="Prop">Gråen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Isokarfuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Storebjørn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Isokarhuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Storebjørn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Isoämmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">oldemor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Isämeiđän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Fadervår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Juhaneksen päivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">St.Hansdagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Jumala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Gud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Jäämeri</l>
+         <stem>Jäämere</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Ishavet</t>
+            <t pos="N" gen="n">Nordishavet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Kainhuunmaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Kvænland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Kainhuunmeri</l>
+         <stem>Kainhuunmere</stem>
+         <stem>Kainhuunmer</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Kvænhavet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Katekismus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Katekismus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Ketseemane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Getsemane</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Klaarikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Katekismus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Kruunu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">stat</t>
+            <syng>
+               <syn>valtakunta</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Kvääninmaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Kvænland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Kvääninmeri</l>
+         <stem>Kvääninmere</stem>
+         <stem>Kvääninmer</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Kvænhavet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Laurinpakkanen</l>
+         <stem>Laurinpakkase</stem>
+         <stem>Laurinpakkas</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Larsokfrost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Laurinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Larsok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Maarianpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Marias budskapsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Mikkelinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">Mikkelsmesse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Norja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Norge</t>
+            <syng>
+               <syn>Ruiđa</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N" type="Prop">Otava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">Karlsvogna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Peruna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Bergen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Piplia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Bibel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Pohjanmeri</l>
+         <stem>Pohjanmere</stem>
+         <stem>Pohjanmer</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Nordsjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N" type="Prop">Pohjantähti</l>
+         <stem>Pohjantähđe</stem>
+         <stem>Pohjantähte</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">Nordstjerne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">Polarstjerna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Pohjola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Norden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Pyhä Henki</l>
+         <stem>Pyhän Henge</stem>
+         <stem>Pyhhää Henkke</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Den Hellige Ånd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Raamattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Bibel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Rairo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Leirbotn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Raironjärvi</l>
+         <stem>Raironjärve</stem>
+         <stem>Raironjärve</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Leirbotnvann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Ruiđa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Norge</t>
+            <syng>
+               <syn>Norja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Ruottii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Sverige</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Rusko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Brunen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Sionin laulut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Sions sanger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Suomi</l>
+         <stem>Suome</stem>
+         <stem>Suome</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Finland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N" type="Prop">Suomi-seura</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">finskforening</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">TV</l>
+         <stem>TV:ee</stem>
+         <stem>TV:ee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">TV</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Tanmarkku</l>
+         <stem>Tanmarku</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Danmark</t>
+            <syng>
+               <syn>Tanska</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Tanska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Danmark</t>
+            <syng>
+               <syn>Tanmarkku</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Turja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="m">Kola</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Unkaarni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Ungarn</t>
+            <syng>
+               <syn>Unkari</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N" type="Prop">Unkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="n">Ungarn</t>
+            <syng>
+               <syn>Unkaarni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+</r>
