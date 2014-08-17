@@ -5,6 +5,18 @@
 <r>
    <e src="ta">
       <lg>
+         <l pos="N">tuhanen</l>
+         <stem>tuhase</stem>
+         <stem>tuhat</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tusen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
          <l pos="N">Aafrikka</l>
          <stem>Aafrika</stem>
       </lg>
