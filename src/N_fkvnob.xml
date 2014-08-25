@@ -3,6 +3,16 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="rk">
+      <lg>
+         <l pos="N">kunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommune</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">tuhanen</l>
