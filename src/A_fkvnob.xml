@@ -15,6 +15,20 @@
    </e>
    <e src="ai">
       <lg>
+         <l pos="A">hoppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">travel</t>
+            <xg>
+               <x>Jeg har det travelt.</x>
+               <xt>Minula oon hoppu.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="A">ahkera</l>
       </lg>
       <mg>
