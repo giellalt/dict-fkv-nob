@@ -3,16 +3,6 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_nobfkv.dtd">
 <r>
- <e src="ki">
-      <lg>
-         <l pos="N">pryyssi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">brus</t>
-         </tg>
-      </mg>
-   </e>
    <e src="rk">
       <lg>
          <l pos="N">kunta</l>
@@ -54601,6 +54591,16 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">øl</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">pryyssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brus</t>
          </tg>
       </mg>
    </e>
