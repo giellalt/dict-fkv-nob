@@ -4207,18 +4207,6 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">oikheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">rett</t>
-            <t pos="A">riktig</t>
-            <t pos="A">korrekt</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">oikkee</l>
@@ -4542,18 +4530,6 @@
             <t pos="A">bar</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">paljon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">mye</t>
-            <t pos="A">mange</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">paras</l>
@@ -7779,18 +7755,6 @@
             <t pos="A">frivillig</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">varhain</l>
-         <stem>varhaime</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">tidlig</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">varhainen</l>
