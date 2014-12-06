@@ -23,6 +23,15 @@
             <t pos="V">agitere</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utstyre seg</t>
+            <xg>
+              <x>sonnustaat villatröijyn ja turkin kans</x>
+              <xt>utstyre seg med ulltrøye og pels</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -3034,18 +3043,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kveles</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="V">jyristä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">tordne</t>
-            <t pos="V">brake</t>
-            <t pos="V">dundre</t>
+            <t pos="V">gi lov</t>
+            <xg>
+               <x/>
+               <xt>faren gav lov til han å dra</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3348,8 +3350,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">stille på skrå</t>
-            <t pos="V">bøye</t>
+            <t pos="V">gå</t>
          </tg>
       </mg>
    </e>
@@ -3359,20 +3360,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">helle</t>
-            <t pos="V">lute</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">kaluta</l>
-         <stem>kalluu</stem>
-         <stem>kalun</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">gnage</t>
+            <t pos="V">dra</t>
          </tg>
       </mg>
    </e>
@@ -6580,7 +6568,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">stable</t>
+            <t pos="V">komme</t>
          </tg>
       </mg>
    </e>
@@ -9246,8 +9234,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">vise</t>
-            <t pos="V">drive og vise</t>
+            <t pos="V">få til å springe</t>
+            <t pos="V">få til å galoppere</t>
          </tg>
       </mg>
    </e>
@@ -9260,7 +9248,7 @@
             <t pos="V">vise seg</t>
             <xg>
                <x>Kuu näyttäänttyi taivhaala.</x>
-               <xt>Mänen viste seg på himmelen.</xt>
+               <xt>Månen viste seg på himmelen.</xt>
             </xg>
          </tg>
       </mg>
@@ -9440,15 +9428,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">være</t>
-            <xg>
-               <x>Hän oon poika.</x>
-               <xt>Han er en gutt.</xt>
-            </xg>
-            <xg>
-               <x>Het ovvat täälä.</x>
-               <xt>De er her.</xt>
-            </xg>
+            <t pos="V">bryte løs noe</t>
          </tg>
       </mg>
    </e>
@@ -9661,11 +9641,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">ta</t>
-            <xg>
-               <x>ottaat taltheen</x>
-               <xt>ta vare på</xt>
-            </xg>
+            <t pos="V">få til å romme</t>
          </tg>
       </mg>
    </e>
@@ -9959,7 +9935,7 @@
          <tg xml:lang="nob">
             <t pos="V">pakke</t>
             <xg>
-               <x>Mie pakkaan uhheettamhaan kaikki.</x>
+               <x>Mie pakkaan unheettamhaan kaikki.</x>
                <xt>Det blir lett så at jeg glemmer alt.</xt>
             </xg>
          </tg>
@@ -10053,7 +10029,7 @@
             <t pos="V">lønne</t>
             <t pos="V">ansette</t>
             <xg>
-               <x>Pekka pakathiin kokiksi.</x>
+               <x>Pekka palkathiin kokiksi.</x>
                <xt>Pekka ble ansatt som kokk.</xt>
             </xg>
          </tg>
@@ -11734,7 +11710,7 @@
          <tg xml:lang="nob">
             <t pos="V">dovne</t>
             <xg>
-               <x>Minun oon jalka puutunu.</x>
+               <x>Minun jalka oon puutunu.</x>
                <xt>Foten min dovnet av.</xt>
             </xg>
          </tg>
@@ -12866,7 +12842,7 @@
             <t pos="V">forsøke</t>
             <t pos="V">prøve</t>
             <xg>
-               <x>Mie rännäsin kylle teehä hyvin.</x>
+               <x>Mie rännäsin kyllä tehđä hyvin.</x>
                <xt>Jeg forsøkte å gjøre det bra.</xt>
             </xg>
          </tg>
@@ -15156,7 +15132,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">stirre</t>
+            <t pos="V">oppholde seg</t>
          </tg>
       </mg>
    </e>
@@ -15625,7 +15601,7 @@
          <tg xml:lang="nob">
             <t pos="V">true</t>
             <xg>
-               <x>Pappi uhkasi heitä helvetillä.</x>
+               <x>Pappi uhkasi heitä helvetilä.</x>
                <xt>Presten truet dem med helvete.</xt>
             </xg>
          </tg>
@@ -16507,8 +16483,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">strekkes</t>
-            <t pos="V">ligge og dra seg</t>
+            <t pos="V">drive på med noe</t>
          </tg>
       </mg>
       <mg>
@@ -17238,7 +17213,7 @@
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">leke</t>
+            <t pos="V">sette en felle</t>
          </tg>
       </mg>
    </e>
