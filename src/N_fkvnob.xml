@@ -54619,4 +54619,735 @@
          </tg>
       </mg>
    </e>
+   
+   <e src="oa">
+      <lg>
+         <l pos="N">kainulainen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kven</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">norjalainen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">nordmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aamu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">morgen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">adressi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">adresse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aika</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">tid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aikamasiini</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">tidsmaskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aikamatka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">tidsreise</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">anorakki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">anorakk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">asfalttitie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">asfaltvei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">assii</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">sak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">asumapari</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">samboer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aurinko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">sol</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">aviisi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">avis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">avvain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">nøkkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">daattamasiini</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">datamaskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+               <l pos="N">dilli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">dill</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">dongerihousut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">dongeribukser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">ehđotus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">forslag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">elämä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">liv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">eno</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">onkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">faari</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">far</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">fati</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">fiksuuni</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fiksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">filmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">film</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">flyyi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fly</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">frisyyri</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">frisyre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">frisööri</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">frisør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">fryysi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fryseboks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">haiju</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">lukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hamet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">skjørt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hamina</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">havn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hammas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">tann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hamppu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">hamp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">herraväki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">herskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hilla</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">molte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">histooria</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">histori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hoppu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">hast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">housut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">bukser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">huoli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">bekymring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">huonet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">hus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hykset</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">hår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hylly</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">hylle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">hyysikkä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">do</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">höystö</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">krydder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">idee</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">idé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">ihmet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">under</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">ihminen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">menneske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">ilta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kveld</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">ilma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">vær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">institutti</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">institutt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">isovanhiimet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">besteforeldre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">itä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">øst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">jakka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">jakk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">jalka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">jalkapallo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fotball</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">jano</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">tørst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">joggekenkä</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">joggesko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">joki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">elv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">juoma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">drikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">juusto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">ost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">järvi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">innsjø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">jääkaappi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kjøleskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kaappi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">skap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">katu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">gate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kafea</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kafé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kaffi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kaffe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kaffijuusto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kaffeost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kaffikattila</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kaffekjele</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kaffikuppi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kaffekopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kainu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kvensk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kakko</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">kake</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kalafaprikki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fiskefabrikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oa">
+      <lg>
+         <l pos="N">kalavelli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N" gen="x">fiskesuppe</t>
+         </tg>
+      </mg>
+   </e>
 </r>
