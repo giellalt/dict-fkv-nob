@@ -54619,77 +54619,6 @@
          </tg>
       </mg>
    </e>
-   
-   <e src="oa">
-      <lg>
-         <l pos="N">kainulainen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">kven</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">norjalainen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">nordmann</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">aamu</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">morgen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">adressi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">adresse</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">aika</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">tid</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">aikamasiini</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">tidsmaskin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">aikamatka</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">tidsreise</t>
-         </tg>
-      </mg>
-   </e>
    <e src="oa">
       <lg>
          <l pos="N">anorakki</l>
@@ -54712,16 +54641,6 @@
    </e>
    <e src="oa">
       <lg>
-         <l pos="N">assii</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">sak</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
          <l pos="N">asumapari</l>
       </lg>
       <mg>
@@ -54732,71 +54651,11 @@
    </e>
    <e src="oa">
       <lg>
-         <l pos="N">aurinko</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">sol</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">aviisi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">avis</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">avvain</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">nøkkel</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">daattamasiini</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">datamaskin</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
                <l pos="N">dilli</l>
       </lg>
       <mg>
          <tg>
             <t pos="N" gen="x">dill</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">dongerihousut</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">dongeribukser</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">ehđotus</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N" gen="x">forslag</t>
          </tg>
       </mg>
    </e>
