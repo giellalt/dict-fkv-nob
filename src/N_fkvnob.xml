@@ -3,6 +3,41 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+</e>
+   <e src="es">
+      <lg>
+         <l pos="N">suunittelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">planlegging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+    <lg>
+        <l pos="N">haamustaminen</l>
+        <stem>haamustamise</stem>
+        <stem>haamustamis</stem>
+    </lg>
+    <mg>
+        <tg xml:lang="nob">
+            <t pos="N" gen="f">dannelse</t>
+        </tg>
+    </mg>
+    </e>
+   <e src="es">
+    <lg>
+        <l pos="N">säilyttäminen</l>
+        <stem>säilyttämise</stem>
+        <stem>säilyttämis</stem>
+    </lg>
+    <mg>
+        <tg xml:lang="nob">
+            <t pos="N" gen="f">bevare</t>
+        </tg>
+    </mg>
+    </e>
    <e src="rk">
       <lg>
          <l pos="N">kunta</l>
@@ -44569,7 +44604,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">syntakti</l>
+         <l pos="N">kti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
