@@ -1618,9 +1618,11 @@
          <l pos="N">arenteeri</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" re="form for jordleie">
             <t pos="N" gen="f">arrendering</t>
-         </tg>
+            <t pos="N" gen="f">forpaktning</t>
+            <t pos="N" gen="f">feste</t>
+         </tg>     
       </mg>
    </e>
    <e src="ai">
@@ -2573,6 +2575,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="n">datum</t>
+            <t pos="N" gen="n">dato</t>
          </tg>
       </mg>
    </e>
