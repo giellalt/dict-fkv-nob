@@ -5,6 +5,196 @@
 <r>
    <e src="es">
       <lg>
+         <l pos="N">valitteminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">velging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ulosanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgivelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">markkööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">markør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">legitimiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">legitimitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">struktuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">struktur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rankaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stemmighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tendenssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tendens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">koheessii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kohesjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pitenemä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forlengelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">morfologii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morfologi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">distribuuttii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">distribusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aukkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">åpenhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">umpisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lukkethet av f.eks. stavelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">karaktääri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">karakter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fenomeeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fenomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">piteneminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forlengning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lyheneminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forkortning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">läpinäkyvyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjennomsynlighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">näkyvyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">synlighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">loogisuus</l>
       </lg>
       <mg>
