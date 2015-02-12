@@ -3,6 +3,88 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="es">
+      <lg>
+         <l pos="V">piđetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli lengre</t>
+            <t pos="V">lenges</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">haamustaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">danne</t>
+            <t pos="V">forme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">funkeerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fungere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">yksinkertaistaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">simplifisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">suoristella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rette ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">komenteerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kommentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">elästyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vitalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">ulosanttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gi ut</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="V">aavistaat</l>
