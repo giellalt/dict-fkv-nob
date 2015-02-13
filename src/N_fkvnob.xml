@@ -440,8 +440,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">morgenmat</t>
             <t pos="N" gen="m">frokost</t>
+            <t pos="N" gen="m">morgenmat</t>
          </tg>
       </mg>
    </e>
@@ -507,11 +507,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">ABC-bok</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="f">abc-bok</t>
          </tg>
       </mg>
    </e>
@@ -639,7 +634,7 @@
    <e src="ta;ai">
       <lg>
          <l pos="N">ahneus</l>
-         <stem>ahneukse</stem>
+         <stem>ahneuđe</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7389,7 +7384,7 @@
          <stem>huka</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="bratt bakke">
+         <tg xml:lang="nob">
             <t pos="N" gen="m">varg</t>
             <t pos="N" gen="m">ulv</t>
             <syng>
@@ -7404,11 +7399,8 @@
       </lg>
       <mg>
          <tg xml:lang="nob" re="krok til å ta opp fisken">
-            <t pos="N" gen="m">høgg</t>
-            <xg>
-               <x>olla menossa</x>
-               <xt>være på vei</xt>
-            </xg>
+            <t pos="N" gen="m">klepp</t>
+            <t pos="N" gen="m">høtt</t>
          </tg>
       </mg>
       <mg>
