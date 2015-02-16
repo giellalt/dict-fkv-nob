@@ -5,6 +5,62 @@
 <r>
    <e src="es">
       <lg>
+         <l pos="N">essiintyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forekomst</t>
+            <t pos="N">framtreden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">muistaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">husk</t>
+            <t pos="N">hukommelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kuvvaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beskriving</t>
+            <t pos="N">skildring</t>
+            <t pos="N">fotografering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">poikkeema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">unntak</t>
+            <t pos="N">avvik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vaihettelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veksling</t>
+            <t pos="N">variasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">tyskäläinen</l>
       </lg>
       <mg>
