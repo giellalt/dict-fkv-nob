@@ -5,6 +5,39 @@
 <r>
    <e src="es">
       <lg>
+         <l pos="A">tulleeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blivende</t>
+            <t pos="A">kommende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">painoton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">trykklett</t>
+            <t pos="A">vektløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">olematon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ikke eksisterendek</t>
+            <t pos="A">ubetydelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">histoorillinen</l>
       </lg>
       <mg>
