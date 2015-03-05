@@ -3,6 +3,17 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="ki">
+      <lg>
+         <l pos="V">määritellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">definere</t>
+            <t pos="V">presisere</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="V">piđetä</l>
@@ -618,6 +629,16 @@
    </e>
    <e src="ai">
       <lg>
+         <l pos="V">elämöitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">holde leven</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="V">elämöiđä</l>
       </lg>
       <mg>
@@ -626,6 +647,7 @@
          </tg>
       </mg>
    </e>
+
    <e src="ai">
       <lg>
          <l pos="V">elättäät</l>
@@ -966,6 +988,16 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">frahđata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">frakte</t>
          </tg>
       </mg>
    </e>
@@ -6186,6 +6218,16 @@
             <t pos="V">promenere</t>
             <t pos="V">spasere</t>
             <t pos="V">gå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="V">kävelöitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kjevle ut</t>
          </tg>
       </mg>
    </e>
