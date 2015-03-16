@@ -11080,7 +11080,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">håndfull av to hender</t>
+            <t pos="N" gen="m">to hender i skålform</t>
          </tg>
       </mg>
    </e>
@@ -11535,7 +11535,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">fiskesverm</t>
+            <t pos="N" gen="m">fiskestim</t>
          </tg>
       </mg>
    </e>
@@ -15812,6 +15812,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">svinskrubb</t>
+            <t pos="N" gen="m">skrubbær</t>
          </tg>
       </mg>
    </e>
@@ -19943,7 +19944,7 @@
          <l pos="N">kyynärä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" re="lengdemål">
             <t pos="N" gen="m">alen</t>
          </tg>
       </mg>
@@ -23403,7 +23404,7 @@
          <l pos="N">luhta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" re="gressaktig plante">
             <t pos="N" gen="m">starr</t>
          </tg>
       </mg>
@@ -24808,7 +24809,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">verdensundergang</t>
+            <t pos="N" gen="m">verdens undergang</t>
          </tg>
       </mg>
    </e>
@@ -26124,6 +26125,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">varde</t>
+            <t pos="N" gen="m">merkestein</t>
          </tg>
       </mg>
    </e>
