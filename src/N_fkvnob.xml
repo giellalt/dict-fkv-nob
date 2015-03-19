@@ -8171,18 +8171,6 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">höyhen</l>
-         <stem>höyhene</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="n">dun</t>
-            <t pos="N" gen="f">fjær</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">höyhenonki</l>
          <stem>höyhenonge</stem>
          <stem>höyhenonkke</stem>
@@ -15940,6 +15928,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">erfaring</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">opplevelse</t>
          </tg>
       </mg>
    </e>
@@ -24744,6 +24737,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">mulighet</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">vilkår</t>
          </tg>
       </mg>
    </e>
@@ -41428,6 +41426,11 @@
             <t pos="N" gen="m">ordfører</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">styreleder</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -46501,6 +46504,11 @@
             <t pos="N" gen="m">vare</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">gjenstand</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -47618,6 +47626,11 @@
             <t pos="N" gen="n">gjøremål</t>
             <t pos="N" gen="f">virksomhet</t>
             <t pos="N" gen="n">tiltak</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">formål</t>
          </tg>
       </mg>
    </e>
@@ -54224,6 +54237,11 @@
             <t pos="N" gen="n">felleskap</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">bånd</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -55853,16 +55871,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kokemus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">opplevelse</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">fristi</l>
       </lg>
       <mg>
@@ -55983,16 +55991,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">toimi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">formål</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">revitaliseeraaminen</l>
       </lg>
       <mg>
@@ -56008,6 +56006,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">drift</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="x">aktivitet</t>
          </tg>
       </mg>
    </e>
@@ -56048,16 +56051,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">enaresame</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">toimi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">tiltak</t>
          </tg>
       </mg>
    </e>
@@ -56173,31 +56166,11 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">yhtheys</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">bånd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kuvvaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">fotograf</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">fristi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">frist</t>
          </tg>
       </mg>
    </e>
@@ -56293,16 +56266,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">meininki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">mening</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">revitaliseeraamistyö</l>
       </lg>
       <mg>
@@ -56358,16 +56321,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">vilkår</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">mooli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">mål</t>
          </tg>
       </mg>
    </e>
@@ -56483,16 +56436,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">miljöö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">miljø</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">ympäripreevi</l>
       </lg>
       <mg>
@@ -56528,16 +56471,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">kalender</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">seminaari</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">seminar</t>
          </tg>
       </mg>
    </e>
@@ -56583,31 +56516,11 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kirjailiija</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">forfatter</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kulttuuripersoona</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">kulturperson</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">litteratuuri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">litteratur</t>
          </tg>
       </mg>
    </e>
@@ -56773,16 +56686,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tähtitaivas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">stjernehimmel</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">filmi-ilta</l>
       </lg>
       <mg>
@@ -56808,16 +56711,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">arkivfaglig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">verkosto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">nettverk</t>
          </tg>
       </mg>
    </e>
@@ -56878,16 +56771,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">kjerringrokksaft</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">safti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">saft</t>
          </tg>
       </mg>
    </e>
@@ -57123,26 +57006,6 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">lähđet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">kilde</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">styyrinjohtaaja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">styreleder</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kieliprošekti</l>
       </lg>
       <mg>
@@ -57233,31 +57096,11 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">toiminta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">aktivitet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">lanseeraus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">lansering</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">biblioteekki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">bibliotek</t>
          </tg>
       </mg>
    </e>
@@ -57368,26 +57211,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="x">forslag</t>
-         </tg>
-      </mg>
-   </e>
-      <e src="pirjo">
-      <lg>
-         <l pos="N">administrašuuni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">administrasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="pirjo">
-      <lg>
-         <l pos="N">sananjohtaaja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="m">ordfører</t>
          </tg>
       </mg>
    </e>
