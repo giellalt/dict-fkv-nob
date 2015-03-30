@@ -11845,31 +11845,18 @@
    <e src="ta">
       <lg>
          <l pos="N">kampet</l>
-         <stem>kamphee</stem>
+         <stem>kampphee</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">redskap</t>
             <t pos="N" gen="n">verktøy</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N" nr="Pl">kamppheet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N" gen="n">utstyr</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N" gen="n">klær</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+      <e src="ta;ai">
       <lg>
          <l pos="N">kana</l>
          <stem>kanna</stem>
@@ -19404,6 +19391,7 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="f">støtte</t>
+            <t pos="N" gen="x">tilskudd</t>
             <syng>
                <syn>haasinkuurto</syn>
             </syng>
@@ -29009,7 +28997,7 @@
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">nunatak</l>
+         <l pos="N">nunatakki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -34942,7 +34930,7 @@
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">porrasaskelheet</l>
+         <l pos="N">porrasaskelet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -42139,11 +42127,11 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" nr="Pl">sellat</l>
+         <l pos="N">sella</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">seler</t>
+            <t pos="N" gen="m">sele</t>
          </tg>
       </mg>
    </e>
@@ -44421,11 +44409,11 @@
    </e>
    <e src="yr">
       <lg>
-         <l pos="N">suolavesialthaat</l>
+         <l pos="N">suolavesiallas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="m">saltvannsdammer</t>
+            <t pos="N" gen="m">saltvannsdam</t>
          </tg>
       </mg>
    </e>
@@ -55969,17 +55957,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">kurtto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N" gen="x">tilskudd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
+      <e src="ki">
       <lg>
          <l pos="N">työtely</l>
       </lg>
@@ -56446,7 +56424,7 @@
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kotisivu</l>
+         <l pos="N">kotisivvu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -57060,7 +57038,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" gen="x"></t>
+            <t pos="N" gen="støtteordning"></t>
          </tg>
       </mg>
    </e>
