@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
@@ -21,7 +21,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli lengre</t>
-            <t pos="V">lenges</t>
          </tg>
       </mg>
    </e>
@@ -52,7 +51,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">simplifisere</t>
+            <t pos="V">forenkle</t>
          </tg>
       </mg>
    </e>
