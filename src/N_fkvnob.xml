@@ -3,6 +3,16 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="mk">
+      <lg>
+         <l pos="N">isoämmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N" gen="f">oldemor</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">essiintyminen</l>
@@ -12061,7 +12071,7 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">kansakoulunopettaja</l>
+         <l pos="N">kansakoulunopettaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -30614,9 +30624,9 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">ođottamaaika</l>
-         <stem>ođottamaaija</stem>
-         <stem>ođottamaaikka</stem>
+         <l pos="N">ođottama-aika</l>
+         <stem>ođottama-aija</stem>
+         <stem>ođottama-aikka</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
