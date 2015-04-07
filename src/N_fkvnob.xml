@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
@@ -8120,7 +8120,6 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N" gen="m">stut</t>
-            <t pos="N" gen="m">tyr</t>
             <t pos="N" gen="m">kastrert okse</t>
             <syng>
                <syn>sonni</syn>
