@@ -25230,11 +25230,11 @@
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" nr="Pl">mantelit</l>
+         <l pos="N">manteli</l>
       </lg>
       <mg>
          <tg xml:lang="nob" re="organ i svelget">
-            <t pos="N" gen="m">mandler</t>
+            <t pos="N" gen="m">mandel</t>
          </tg>
       </mg>
       <mg>
@@ -43392,7 +43392,7 @@
          <tg xml:lang="nob">
             <t pos="N" gen="m">sjokolade</t>
             <syng>
-               <syn>šukulaati</syn>
+               <syn>sukulaati</syn>
             </syng>
          </tg>
       </mg>
@@ -50711,7 +50711,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" nr="Pl">vaatheet</l>
+         <l pos="N" nr="Pl">vaattheet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -55003,9 +55003,9 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">šukulaati</l>
-         <stem>šukulaati</stem>
-         <stem>šukulaatti</stem>
+         <l pos="N">sukulaati</l>
+         <stem>sukulaati</stem>
+         <stem>sukulaatti</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
