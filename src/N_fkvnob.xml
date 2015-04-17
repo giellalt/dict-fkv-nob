@@ -3,6 +3,304 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="es">
+      <lg>
+         <l pos="N">grammatikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grammatikk</t>
+            <syng>
+               <syn>kielioppi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">graadivaihettelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gradveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">genetiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">genitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">galluppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gallup</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">funksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">funksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">fossiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fossil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">foorumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">fiction</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">festivaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">festival</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">essiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">essiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">elatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">eepos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">epos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">debatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">debatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">dynamiitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dynamitt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">departementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">desember</t>
+            <syng>
+               <syn>departtementti</syn>
+               <syn>teparttimentti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">debatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">debatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">asettehđas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ammunisjonsfabrikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">areena</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arena</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gt">
+      <lg>
+         <l pos="N">allekirjotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">underskrift</t>
+         </tg>
+      </mg>
+   </e>
+<e src="gt">
+      <lg>
+         <l pos="N">ajjaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjører</t>
+            <t pos="N">fører</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">aikasaapas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsstøvel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">allatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">allativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adverbiaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adverbial</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adjektiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adjektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adessiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adessiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ablatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ablativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">abessiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">abessiv</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">isoämmi</l>
@@ -2929,18 +3227,7 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">departementti</l>
-         <stem>departementi</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">departement</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
+      <e src="ta;ai">
       <lg>
          <l pos="N">desemperikuu</l>
       </lg>
