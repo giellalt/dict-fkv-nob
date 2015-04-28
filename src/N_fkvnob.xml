@@ -3,6 +3,77 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="mk">
+      <lg>
+         <l pos="N">kepponen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielivuosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">kieliplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkplan</t>
+            <t pos="N">handlingsplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kehittäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utvikling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">karviainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stikkelsbær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">karhhuunpenikkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bjørnunge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kaffiautomaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffeautomat</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">korrelaatti</l>
@@ -956,12 +1027,15 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">aaret</l>
+         <l pos="N">aarret</l>
          <stem>arthee</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skatt</t>
+            <syng>
+               <syn>aaret</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -8626,6 +8700,16 @@
          </tg>
       </mg>
    </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">iđentiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">identitet</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">ien</l>
@@ -8939,11 +9023,14 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">ilmottaaja</l>
+         <l pos="N">ilmoittaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utgiver</t>
+            <syng>
+               <syn>ilmottaaja</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -11550,9 +11637,9 @@
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">kainun kieli</l>
-         <stem>kainun kiele</stem>
-         <stem>kainun kiel</stem>
+         <l pos="N">kainunkieli</l>
+         <stem>kainunkiele</stem>
+         <stem>kainunkiel</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -43684,6 +43771,16 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sukker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kaurinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kavring</t>
          </tg>
       </mg>
    </e>
