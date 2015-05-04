@@ -5,6 +5,115 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">kontturi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kontaktifoorumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontaktforum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kondisunaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kondisjonalis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">komunaaliministeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunalminister</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">komunaalidepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunaldepartement</t>
+         </tg>
+      </mg>
+   </e><e src="mk">
+      <lg>
+         <l pos="N">komplementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">komplement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kommunikašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunikasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kommentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommentar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">koijukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bjørkeskog</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">koiju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bjørk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kirjotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skrift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">kepponen</l>
       </lg>
       <mg>
@@ -293,7 +402,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">desember</t>
+            <t pos="N">departement</t>
             <syng>
                <syn>departtementti</syn>
                <syn>teparttimentti</syn>
@@ -16456,6 +16565,7 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">møterom</t>
             <t pos="N">forsamlingshus</t>
          </tg>
       </mg>
