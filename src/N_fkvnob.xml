@@ -5,6 +5,98 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">käyttääjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bruker</t>
+            <t pos="N">forbruker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">käsifooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mobiltelefon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kyylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kule</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kyylälaakeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulelager</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">käräjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ting</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kväänisentteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvenkultursenter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kumisaapas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gummistøvel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kultarauttii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gullsmed</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kramafooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grammofon</t>
+            <t pos="N">platespiller</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">kontturi</l>
       </lg>
       <mg>
@@ -18876,6 +18968,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kultur</t>
+            <syng>
+               <syn>kylttyyri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -19719,6 +19814,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bekostning</t>
+            <syng>
+               <syn>kustannus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -20098,9 +20196,9 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">kväänin kieli</l>
-         <stem>kväänin kiele</stem>
-         <stem>kväänin kiel</stem>
+         <l pos="N">kvääninkieli</l>
+         <stem>kvääninkiele</stem>
+         <stem>kvääninkiel</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
