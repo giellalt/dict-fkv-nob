@@ -3,6 +3,48 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+     <e src="mk">
+      <lg>
+         <l pos="N">kierros</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">runde</t>
+            <t pos="N">omgang</t>
+            <t pos="N">dreining</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="mk">
+      <lg>
+         <l pos="N">kolekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kollekt</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="es">
+      <lg>
+         <l pos="N">lokaalikaasus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lokalkasus</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="mk">
+      <lg>
+         <l pos="N">lestaatilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">læstadianer</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">käyttääjä</l>
@@ -6276,6 +6318,9 @@
          <tg xml:lang="nob">
             <t pos="N">trening</t>
             <t pos="N">øving</t>
+            <syng>
+               <syn>harjotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -25013,6 +25058,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">løk</t>
+            <syng>
+               <syn>löökki</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -25023,6 +25071,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">løklukt</t>
+            <syng>
+               <syn>löökkihaiju</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -25564,6 +25615,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">major</t>
+            <syng>
+               <syn>majuuri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -25601,6 +25655,9 @@
             <t pos="N">kjøttmeis</t>
             <syng>
                <syn>talitiainen</syn>
+            </syng>
+            <syng>
+               <syn>makkaratianen</syn>
             </syng>
          </tg>
       </mg>
