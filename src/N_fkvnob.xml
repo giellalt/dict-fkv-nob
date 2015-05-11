@@ -3,7 +3,52 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
-     <e src="ki">
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">passiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">passiivi</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+     <e src="es">
+      <lg>
+         <l pos="N">partitiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">partitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">organisasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisasjon</t>
+            <syng>
+               <syn>organisašuuni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikheinkirjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettskrivning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
       <lg>
          <l pos="N">normeerinki</l>
       </lg>
@@ -13,7 +58,27 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="es">
+      <lg>
+         <l pos="N">objekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">objekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">normeerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">normering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
       <lg>
          <l pos="N">meklari</l>
       </lg>
@@ -23,7 +88,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">meklari</l>
       </lg>
@@ -33,7 +98,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">miljonääri</l>
       </lg>
@@ -43,7 +108,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">minuutti</l>
          <stem>minuti</stem>
@@ -54,7 +119,7 @@
          </tg>
       </mg>
    </e>
-     </e>
+   </e>
      <e src="rk">
       <lg>
          <l pos="N">meedia</l>
@@ -65,7 +130,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">kierros</l>
       </lg>
@@ -77,7 +142,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">kolekti</l>
       </lg>
@@ -87,7 +152,7 @@
          </tg>
       </mg>
    </e>
-     <e src="es">
+   <e src="es">
       <lg>
          <l pos="N">lokaalikaasus</l>
       </lg>
@@ -97,7 +162,7 @@
          </tg>
       </mg>
    </e>
-     <e src="mk">
+   <e src="mk">
       <lg>
          <l pos="N">lestaatilainen</l>
       </lg>
