@@ -3,7 +3,6 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
-   </e>
    <e src="es">
       <lg>
          <l pos="N">passiivi</l>
@@ -14,8 +13,7 @@
          </tg>
       </mg>
    </e>
-   </e>
-     <e src="es">
+   <e src="es">
       <lg>
          <l pos="N">partitiivi</l>
       </lg>
@@ -119,8 +117,7 @@
          </tg>
       </mg>
    </e>
-   </e>
-     <e src="rk">
+   <e src="rk">
       <lg>
          <l pos="N">meedia</l>
       </lg>
@@ -313,7 +310,8 @@
             <t pos="N">kommunaldepartement</t>
          </tg>
       </mg>
-   </e><e src="mk">
+   </e>
+   <e src="mk">
       <lg>
          <l pos="N">komplementti</l>
       </lg>
