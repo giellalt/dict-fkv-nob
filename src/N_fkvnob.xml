@@ -3,6 +3,108 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="mk">
+      <lg>
+         <l pos="N">planeetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">planet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pluraali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pluralis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">perfekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">perfektum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;mk">
+      <lg>
+         <l pos="N">pedagoogi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pedagog</t>
+            <syng>
+               <syn>petakooki</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;mk">
+      <lg>
+         <l pos="N">pedagogikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pedagogikk</t>
+            <syng>
+               <syn>petakokikki</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pataljoona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bataljon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">parannus</l>
+         <stem>parannukse</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbedring</t>
+            <t pos="N">helbredelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">paijunkissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gåsunge</t>
+            <syng>
+               <syn>paivunkissa</syn>
+               <syn>paivunlammas</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">paivukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seljebuske</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">passiivi</l>
@@ -34172,6 +34274,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bil</t>
+            <syng>
+               <syn>biili</syn>
+            </syng>
          </tg>
       </mg>
    </e>
