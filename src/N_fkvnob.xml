@@ -3,6 +3,151 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="ai">
+      <lg>
+         <l pos="N">puhheenjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordfører</t>
+            <t pos="N">ordstyrer</t>
+            <syng>
+               <syn>sananjohtaaja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">publisiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">publisitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">prusessi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosess</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prošekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pronomeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pronomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">preteriti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">preteritum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">preposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">preposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">preesensi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">predikatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">predikativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">postposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">postposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">poljin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pedal</t>
+            <t pos="N">tråbrett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pokaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pokal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">poengi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">poeng</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pluskvamperfekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pluskvamperfektum</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">planeetti</l>
@@ -36686,13 +36831,16 @@
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="mk">
       <lg>
-         <l pos="N">psykolooki</l>
+         <l pos="N">psykoloogi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">psykolog</t>
+            <syng>
+               <syn>psykolooki</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -42360,6 +42508,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ordfører</t>
+            <syng>
+               <syn>puhheenjohtaaja</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
