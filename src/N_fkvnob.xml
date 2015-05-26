@@ -3,6 +3,158 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="mk">
+      <lg>
+         <l pos="N">rangastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straff</t>
+            <syng>
+               <syn>rangaistus</syn>
+            </syng>
+         </tg>
+      </mg
+   </e><e src="mk">
+      <lg>
+         <l pos="N">rakennus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bygning</t>
+            <syng>
+               <syn>rakenus</syn>
+            </syng>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">rajotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">begrensning</t>
+            <t pos="N">innskrenkning</t>
+            <syng>
+               <syn>rajoitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pääverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedverb</t>
+         </tg>
+      </mg>
+   </e
+   <e src="mk">
+      <lg>
+         <l pos="N">päänalanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hodepute</t>
+            <syng>
+               <syn>päänalainen</syn>
+            </syng>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pummitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bombing</t>
+            <syng>
+               <syn>pommitus</syn>
+            </syng>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pummi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bombe</t>
+            <syng>
+               <syn>pommi</syn>
+            </syng>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pyhänmiestenpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">allehelgensdag</t>
+            <syng>
+               <syn>pyhämiestenpäivä</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">potunpano</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">potetplanting</t>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">potunotto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">potetopptak</t>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">potunkaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">potetkål</t>
+            <t pos="N">potetris</t>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pottulaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">potetbinge</t>
+         </tg>
+      </mg
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pottukuokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">potethakke</t>
+         </tg>
+      </mg
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">puhheenjohtaaja</l>
@@ -2301,6 +2453,7 @@
             <t pos="N">pute</t>
             <syng>
                <syn>päänalainen</syn>
+               <syn>päänalanen</syn>
             </syng>
          </tg>
       </mg>
@@ -22525,6 +22678,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">allehelgensdag</t>
+            <syng>
+               <syn>pyhänmiestenpäivä</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -35780,7 +35936,7 @@
          <tg xml:lang="nob">
             <t pos="N">bombe</t>
             <syng>
-               <syn>pommi</syn>
+               <syn>pummi</syn>
             </syng>
          </tg>
       </mg>
@@ -35795,7 +35951,7 @@
          <tg xml:lang="nob">
             <t pos="N">bombing</t>
             <syng>
-               <syn>pommitus</syn>
+               <syn>pummitus</syn>
             </syng>
          </tg>
       </mg>
@@ -38366,6 +38522,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hodepute</t>
+            <syng>
+               <syn>päänalanen</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
@@ -39124,6 +39283,9 @@
          <tg xml:lang="nob">
             <t pos="N">begrensning</t>
             <t pos="N">innskrenkning</t>
+            <syng>
+               <syn>rajotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -39145,6 +39307,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bygning</t>
+            <syng>
+               <syn>rakennus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -39242,6 +39407,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">straff</t>
+            <syng>
+               <syn>rangastus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
