@@ -5,6 +5,135 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">desemperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">desember</t>
+            <syng>
+               <syn>joulukuu</syn>
+               <syn>desemperikuu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N">joulukuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">desember</t>
+            <syng>
+               <syn>desemperikuu</syn>
+               <syn>desemperi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">septemperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">september</t>
+            <syng>
+               <syn>septemperikuu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">mai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mai</t>
+            <syng>
+               <syn>maikuu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">sekotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blanding</t>
+            <syng>
+               <syn>sekoitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">saviruoho</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">meldestokk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">rekturi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rektor</t>
+            <syng>
+               <syn>rektori</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rejeerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regjering</t>
+            <syng>
+               <syn>hallitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">rauđaskoiju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hengebjørk</t>
+            <syng>
+               <syn>rauđaskoivu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">rautaskruvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jernskrue</t>
+            <syng>
+               <syn>rautaskruuvi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">rangastus</l>
       </lg>
       <mg>
@@ -14,7 +143,7 @@
                <syn>rangaistus</syn>
             </syng>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -27,7 +156,7 @@
                <syn>rakenus</syn>
             </syng>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -52,7 +181,7 @@
             <t pos="N">hovedverb</t>
          </tg>
       </mg>
-   </e
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">päänalanen</l>
@@ -64,7 +193,7 @@
                <syn>päänalainen</syn>
             </syng>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -77,7 +206,7 @@
                <syn>pommitus</syn>
             </syng>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -90,7 +219,7 @@
                <syn>pommi</syn>
             </syng>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -113,7 +242,7 @@
          <tg xml:lang="nob">
             <t pos="N">potetplanting</t>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -123,7 +252,7 @@
          <tg xml:lang="nob">
             <t pos="N">potetopptak</t>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -134,7 +263,7 @@
             <t pos="N">potetkål</t>
             <t pos="N">potetris</t>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -144,7 +273,7 @@
          <tg xml:lang="nob">
             <t pos="N">potetbinge</t>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -154,7 +283,7 @@
          <tg xml:lang="nob">
             <t pos="N">potethakke</t>
          </tg>
-      </mg
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -3074,6 +3203,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">april</t>
+            <syng>
+               <syn>aprillikuu</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -3084,6 +3216,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">april</t>
+            <syng>
+               <syn>aprilli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4140,7 +4275,7 @@
          </tg>
       </mg>
    </e>
-      <e src="ta;ai">
+   <e src="ta;ai">
       <lg>
          <l pos="N">desemperikuu</l>
       </lg>
@@ -5346,6 +5481,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">februar</t>
+            <syng>
+               <syn>fepruaarikuu</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -5356,6 +5494,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">februar</t>
+            <syng>
+               <syn>fepruaari</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -6481,6 +6622,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">regjering</t>
+            <syng>
+               <syn>rejeerinki</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -7170,6 +7314,10 @@
          <tg xml:lang="nob">
             <t pos="N">høymåned</t>
             <t pos="N">juli</t>
+            <syng>
+               <syn>juulikuu</syn>
+               <syn>juuli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -10561,6 +10709,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">januar</t>
+            <syng>
+               <syn>januaarikuu</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -10571,6 +10722,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">januar</t>
+            <syng>
+               <syn>januaari</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -11331,6 +11485,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">juli</t>
+            <syng>
+               <syn>heinäkuu</syn>
+               <syn>juuli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -11341,6 +11499,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">juli</t>
+            <syng>
+               <syn>heinäkuu</syn>
+               <syn>juuli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -11353,6 +11515,7 @@
             <t pos="N">juni</t>
             <syng>
                <syn>kesäkuu</syn>
+               <syn>juunikuu</syn>
             </syng>
          </tg>
       </mg>
@@ -11364,6 +11527,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">juni</t>
+            <syng>
+               <syn>kesäkuu</syn>
+               <syn>juuni</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -26699,6 +26866,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mars</t>
+            <syng>
+               <syn>marsi</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -39911,6 +40081,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jernskrue</t>
+            <syng>
+               <syn>rautaskruvi</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -40003,6 +40176,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hengebjørk</t>
+            <syng>
+               <syn>rauđaskoiju</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -40209,6 +40385,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rektor</t>
+            <syng>
+               <syn>rekturi</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -43341,6 +43520,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">blanding</t>
+            <syng>
+               <syn>sekotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
