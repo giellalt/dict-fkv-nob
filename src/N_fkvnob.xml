@@ -3,6 +3,98 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="es">
+      <lg>
+         <l pos="N">verbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">verb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">translatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">translativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">syntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">setning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">superlatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">superlativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">suffiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">suffiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">substantiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">substantiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">subjekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">subjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">singulaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">singularis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">seuraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">følge</t>
+            <t pos="N">konsekvens</t>
+            <t pos="N">virkning</t>            
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">desemperi</l>
