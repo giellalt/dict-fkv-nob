@@ -3,6 +3,375 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r>
+   <e src="mk">
+      <lg>
+         <l pos="N">ökonomii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">økonomi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">äänestäjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">velger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ymmärrys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forståelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">yhtheiskunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samfunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">vähemistökieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">minoritetsspråk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">viranomainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">myndighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">vikaatheenvarsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">orv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vikaatet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ljå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">viikkoaviisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ukeavis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">varotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">varsel</t>
+            <t pos="N">advarsel</t>
+            <syng>
+               <syn>varoitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">vahvistaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsterkning</t>
+            <t pos="N">styrking</t>
+            <t pos="N">bekreftelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">vaaranlajet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjelltopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ulkopuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utside</t>
+            <t pos="N">ytterside</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">työväjenparttii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeiderparti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tunnussana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">passord</t>
+            <t pos="N">løsenord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tromssalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tromsøværing</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">transkripti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transkripsjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tesimeetteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">desimeter</t>
+            <syng>
+               <syn>desimeetteri</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tesilitteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">desiliter</t>
+            <syng>
+               <syn>desilitteri</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">terotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sliping</t>
+            <syng>
+               <syn>teroitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">telefooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">telefon</t>
+            <syng>
+               <syn>telefuuni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">teema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tarkotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">            
+            <t pos="N">betydning</t>
+            <t pos="N">mening</t>
+            <t pos="N">hensikt</t>
+            <syng>
+               <syn>tarkoitus</syn>               
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">talitianen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjøttmeis</t>
+            <syng>
+               <syn>talitiainen</syn>
+               <syn>makkaratiainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">taivutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøyning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tabeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tabell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">symboli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">symbol</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">sukupuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stamtre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">styyrinjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">styreleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">styyri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">styre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">stipendi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stipend</t>
+            <syng>
+               <syn>stipenti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">staatinministeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">statsminister</t>
+            <syng>
+               <syn>staatsministeri</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">sokkerilaatta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjokolade</t>
+            <syng>
+               <syn>sukulaati</syn>
+               <syn>sokkerlaatta</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">verbi</l>
@@ -4388,6 +4757,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">desiliter</t>
+            <syng>
+               <syn>tesilitteri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4398,6 +4770,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">desimeter</t>
+            <syng>
+               <syn>tesimeetteri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -26446,6 +26821,7 @@
             </syng>
             <syng>
                <syn>makkaratianen</syn>
+               <syn>talitianen</syn>
             </syng>
          </tg>
       </mg>
@@ -44936,6 +45312,7 @@
             <t pos="N">sjokolade</t>
             <syng>
                <syn>sukulaati</syn>
+               <syn>sokkerilaatta</syn>
             </syng>
          </tg>
       </mg>
@@ -45463,6 +45840,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">statsminister</t>
+            <syng>
+               <syn>staatinministeri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -45526,6 +45906,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stipend</t>
+            <syng>
+               <syn>stipendi</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -45559,6 +45942,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">student</t>
+            <syng>
+               <syn>stytentti</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -47533,6 +47919,7 @@
             <t pos="N">kjøttmeis</t>
             <syng>
                <syn>makkaratiainen</syn>
+               <syn>talitianen</syn>
             </syng>
          </tg>
       </mg>
@@ -47940,6 +48327,10 @@
          <tg xml:lang="nob">
             <t pos="N">betydning</t>
             <t pos="N">mening</t>
+            <t pos="N">hensikt</t>
+            <syng>
+               <syn>tarkotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -48289,6 +48680,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">telefon</t>
+            <syng>
+               <syn>telefooni</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -48439,6 +48833,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sliping</t>
+            <syng>
+               <syn>terotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -52996,12 +53393,15 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">vapahtaja</l>
+         <l pos="N">vapahtaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">frelser</t>
             <t pos="N">frigjører</t>
+            <syng>
+               <syn>vapahtaja</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -53158,6 +53558,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">advarsel</t>
+            <t pos="N">varsel</t>
+            <syng>
+               <syn>varotus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -56555,6 +56959,7 @@
             <t pos="N">sjokolade</t>
             <syng>
                <syn>sokkerlaatta</syn>
+               <syn>sokkerilaatta</syn>
             </syng>
          </tg>
       </mg>
