@@ -5,6 +5,35 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">makkaratianen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjøttmeis</t>
+            <syng>
+               <syn>talitiainen</syn>
+               <syn>talitianen</syn>
+               <syn>makkaratiainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">harjotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trening</t>
+            <t pos="N">øving</t>
+            <syng>
+               <syn>harjoitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">ökonomii</l>
       </lg>
       <mg>
