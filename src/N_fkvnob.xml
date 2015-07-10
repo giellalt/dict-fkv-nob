@@ -5,6 +5,79 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">ehđokas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kandidat</t>
+            <syng>
+               <syn>kandidaatti</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">lampi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tjern</t>
+            <t pos="N">vatn</t>
+            <syng>
+               <syn>lompola</syn>
+               <syn>lompolo</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">lajet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">topp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">rikolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbryter</t>
+            <t pos="N">gjerningsmann</t>
+            <t pos="N">brottsmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">esivanhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forfader</t>
+            <syng>
+               <syn>materivanhiin</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">majesteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">majestet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">makkaratianen</l>
       </lg>
       <mg>
@@ -6374,6 +6447,9 @@
          <tg xml:lang="nob">
             <t pos="N">døpefont</t>
             <t pos="N">font</t>
+            <syng>
+               <syn>funtti</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -7990,6 +8066,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pinseri</t>
+            <syng>
+               <syn>heluntaikuostet</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -9022,7 +9101,7 @@
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">hohtimet</l>
+         <l pos="N">hohđin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11448,6 +11527,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">svane</t>
+            <syng>
+               <syn>joukhanen</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -13493,6 +13575,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hålkeføre</t>
+            <syng>
+               <syn>kaljamaa</syn>             
+            </syng>
          </tg>
       </mg>
       <mg>
@@ -13587,6 +13672,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kalori</t>
+            <syng>
+               <syn>kaluri</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -13826,6 +13914,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kandidat</t>
+            <syng>
+               <syn>ehđokas</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -13976,6 +14067,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">folkekultur</t>
+            <syng>
+               <syn>kylttyyri</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -17981,6 +18075,9 @@
          <tg xml:lang="nob">
             <t pos="N">befaling</t>
             <t pos="N">ordre</t>
+            <syng>
+               <syn>komennus</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -24978,6 +25075,7 @@
             <t pos="N">vatn</t>
             <syng>
                <syn>lompolo</syn>
+               <syn>lampi</syn>
             </syng>
          </tg>
       </mg>
@@ -24993,6 +25091,7 @@
             <t pos="N">vatn</t>
             <syng>
                <syn>lompola</syn>
+               <syn>lampi</syn>
             </syng>
          </tg>
       </mg>
@@ -57659,7 +57758,10 @@
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forfeder</t>
+            <t pos="N">forfader</t>
+            <syng>
+               <syn>esivanhiin</syn>
+            </syng>
          </tg>
       </mg>
    </e>
