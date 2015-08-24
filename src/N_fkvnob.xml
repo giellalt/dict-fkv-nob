@@ -5,6 +5,55 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">organisašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisasjon</t>
+            <syng>
+               <syn>organisasioni</syn>
+               <syn>organisasuuni</syn>
+               <syn>järjestö</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kardinaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunntall</t>
+            <t pos="N">kardinal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaasus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">vuona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lam</t>
+            <syng>
+               <syn>karitta</syn>            
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">stytentti</l>
       </lg>
       <mg>
@@ -1202,6 +1251,8 @@
             <t pos="N">organisasjon</t>
             <syng>
                <syn>organisašuuni</syn>
+               <syn>organisasioni</syn>
+               <syn>järjestö</syn>
             </syng>
          </tg>
       </mg>
@@ -12490,6 +12541,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">organisasjon</t>
+            <syng>
+               <syn>organisašuuni</syn>
+               <syn>organisasioni</syn>
+               <syn>organisasuuni</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -14486,6 +14542,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lam</t>
+            <syng>
+               <syn>vuona</syn>            
+            </syng>
          </tg>
       </mg>
    </e>
@@ -32393,6 +32452,11 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="N">organisasjon</t>
+            <syng>
+               <syn>organisašuuni</syn>
+               <syn>organisasuuni</syn>
+               <syn>järjestö</syn>
+            </syng>
          </tg>
       </mg>
    </e>
