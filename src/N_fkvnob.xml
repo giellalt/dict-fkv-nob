@@ -5,6 +5,84 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="N">stytentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">student</t>
+            <syng>
+               <syn>studentti</syn>
+               <syn>opiskeliija</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">opiskeliija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">student</t>
+            <syng>
+               <syn>studentti</syn>
+               <syn>stytentti</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="rk">
+      <lg>
+         <l pos="N">norjalaistamistrolli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fornorskningstroll</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">löökkihaiju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">løklukt</t>
+            <syng>
+               <syn>löökihaiju</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">löökki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">løk</t>
+            <syng>
+               <syn>lööki</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kaksonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tvilling</t>
+            <syng>
+               <syn>kaksoinen</syn>
+               <syn>tvillinki</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">ehđokas</l>
       </lg>
       <mg>
@@ -13316,6 +13394,7 @@
             <t pos="N">tvilling</t>
             <syng>
                <syn>tvillinki</syn>
+               <syn>kaksonen</syn>
             </syng>
          </tg>
       </mg>
@@ -46072,6 +46151,7 @@
             <t pos="N">student</t>
             <syng>
                <syn>stytentti</syn>
+               <syn>opiskeliija</syn>
             </syng>
          </tg>
       </mg>
@@ -51326,6 +51406,7 @@
          <tg xml:lang="nob">
             <t pos="N">tvilling</t>
             <syng>
+               <syn>kaksoinen</syn>
                <syn>kaksonen</syn>
             </syng>
          </tg>
