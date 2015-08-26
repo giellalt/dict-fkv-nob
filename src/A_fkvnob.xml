@@ -5,6 +5,386 @@
 <r>
    <e src="mk">
       <lg>
+         <l pos="A">kansalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nasjonal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">historialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">historisk</t>
+            <syng>
+               <syn>histoorialinen</syn>
+               <syn>histoorillinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">pirunnäkönen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">djevelsk</t>
+            <t pos="A">jævlig</t>
+            <syng>
+               <syn>pirunnäköinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">näkönen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lys</t>
+            <syng>
+               <syn>näköinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">sisänen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">indre</t>
+            <t pos="A">intern</t>
+            <syng>
+               <syn>sisäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">alkupöränen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">opprinnelig</t>
+            <syng>
+               <syn>alkupöräinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">tämmänen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">slik</t>
+            <t pos="A">sånn</t>
+            <syng>
+               <syn>tämmäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">äkänen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">plutselig</t>
+            <syng>
+               <syn>äkäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sur</t>
+            <t pos="A">gretten</t>
+            <t pos="A">hissig</t>
+            <syng>
+               <syn>äkäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">alaikänen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mindreårig</t>
+            <syng>
+               <syn>vähäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">vähänen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ubetydelig</t>
+            <t pos="A">liten</t>
+            <syng>
+               <syn>alaikäinen</syn>
+               <syn>alaikhäinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">pölynen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">støvet</t>
+            <syng>
+               <syn>pölyinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">nykynen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nåtidig</t>
+            <t pos="A">nåværende</t>
+            <syng>
+               <syn>nykyinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">rynkkynen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rynket</t>
+            <syng>
+               <syn>rynkkyinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">hirmunen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">veldig</t>
+            <t pos="A">enorm</t>
+            <syng>
+               <syn>hirmuinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">vilunen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kjølig</t>
+            <syng>
+               <syn>viluinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">pikkunen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">liten</t>
+            <syng>
+               <syn>pikkuinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">ikunen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">evig</t>
+            <syng>
+               <syn>ikuinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">semmonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sådan</t>
+            <t pos="A">sånn</t>
+            <t pos="A">slik</t>
+            <syng>
+               <syn>semmoinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">vapaaehtonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">frivillig</t>
+            <syng>
+               <syn>vapaaehtoinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">puolikokonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">halvstor</t>
+            <syng>
+               <syn>puolikokoinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">louhikkonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">storsteinet</t>
+            <syng>
+               <syn>louhikkoinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">kotitekonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hjemmelaget</t>
+            <syng>
+               <syn>kotitekoinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">yksmielinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">enig</t>
+            <t pos="A">enstemmig</t>
+            <syng>
+               <syn>yksimielinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">romanttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">romantisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">yksinkertanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">enkel</t>
+            <syng>
+               <syn>yksinkertainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">monikertanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mangedobbel</t>
+            <syng>
+               <syn>monikertainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">kaitanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">smal</t>
+            <syng>
+               <syn>kaitainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">tasanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">slett</t>
+            <t pos="A">jevn</t>
+            <syng>
+               <syn>tasainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="A">vähävoipanen</l>
       </lg>
       <mg>
@@ -329,6 +709,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">historisk</t>
+            <syng>
+               <syn>histoorialinen</syn>
+               <syn>historialinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -587,6 +971,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mindreårig</t>
+            <syng>
+               <syn>alaikäinen</syn>
+               <syn>alaikänen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -599,6 +987,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mindreårig</t>
+            <syng>
+               <syn>alaikänen</syn>
+               <syn>alaikhäinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -658,6 +1050,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">opprinnelig</t>
+            <syng>
+               <syn>alkupöränen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -1535,6 +1930,9 @@
          <tg xml:lang="nob">
             <t pos="A">veldig</t>
             <t pos="A">enorm</t>
+            <syng>
+               <syn>hirmunen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -1566,6 +1964,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">historisk</t>
+            <syng>
+               <syn>historialinen</syn>
+               <syn>histoorillinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -1807,6 +2209,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">evig</t>
+            <syng>
+               <syn>ikunen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -2233,6 +2638,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">smal</t>
+            <syng>
+               <syn>kaitanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -2851,6 +3259,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hjemmelaget</t>
+            <syng>
+               <syn>kotitekonen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4131,6 +4542,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mangedobbel</t>
+            <syng>
+               <syn>monikertanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4587,11 +5001,17 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">nåværende</t>
+            <syng>
+               <syn>nykynen</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">nåtidig</t>
+            <syng>
+               <syn>nykynen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4625,6 +5045,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lys</t>
+            <syng>
+               <syn>näkönen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -5198,6 +5621,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">liten</t>
+            <syng>
+               <syn>pikkunen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -5300,6 +5726,9 @@
          <tg xml:lang="nob">
             <t pos="A">djevelsk</t>
             <t pos="A">jævlig</t>
+            <syng>
+               <syn>pirunnäkönen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -5841,6 +6270,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">støvet</t>
+            <syng>
+               <syn>pölynen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -6279,6 +6711,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">rynket</t>
+            <syng>
+               <syn>rynkkynen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -6546,6 +6981,9 @@
             <t pos="A">sådan</t>
             <t pos="A">sånn</t>
             <t pos="A">slik</t>
+            <syng>
+               <syn>semmonen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -6719,6 +7157,10 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">indre</t>
+            <t pos="A">intern</t>
+            <syng>
+               <syn>sisänen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -7142,6 +7584,9 @@
          <tg xml:lang="nob">
             <t pos="A">slett</t>
             <t pos="A">jevn</t>
+            <syng>
+               <syn>tasanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -8280,6 +8725,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">frivillig</t>
+            <syng>
+               <syn>vapaaehtonen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -8712,6 +9160,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">kjølig</t>
+            <syng>
+               <syn>vilunen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -8866,6 +9317,9 @@
          <tg xml:lang="nob">
             <t pos="A">ubetydelig</t>
             <t pos="A">liten</t>
+            <syng>
+               <syn>vähänen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -9087,6 +9541,9 @@
          <tg xml:lang="nob">
             <t pos="A">enig</t>
             <t pos="A">enstemmig</t>
+            <syng>
+               <syn>yksmielinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -9099,6 +9556,9 @@
       <mg>
          <tg xml:lang="nob">
             <t pos="A">enkel</t>
+            <syng>
+               <syn>yksinkertanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
