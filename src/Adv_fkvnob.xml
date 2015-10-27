@@ -28,6 +28,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="Adv">eriliikasesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">særlig</t>
+            <t pos="Adv">spesielt</t>
+            <syng>
+               <syn>eriliikaisesti</syn>
+               <syn>erikoisesti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Adv">erikoisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">særlig</t>
+            <t pos="Adv">spesielt</t>
+            <syng>
+               <syn>eriliikaisesti</syn>
+               <syn>eriliikasesti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Adv">noin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">så der</t>
+            <t pos="Adv">så</t>
+            <t pos="Adv">cirka</t>
+            <syng>
+               <syn>nuoin</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="Adv">selvästi</l>
       </lg>
       <mg>
@@ -617,6 +662,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">særlig</t>
             <t pos="Adv">spesielt</t>
+            <syng>
+               <syn>eriliikasesti</syn>
+               <syn>erikoisesti</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -3097,6 +3146,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">så der</t>
             <t pos="Adv">så</t>
+            <syng>
+               <syn>noin</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
