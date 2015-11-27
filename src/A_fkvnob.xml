@@ -3837,16 +3837,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai" reverse="no">
-      <lg>
-         <l pos="A">leppääkassuuva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">om et sted der det vokser older</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="A">lestadiolainen</l>
@@ -8603,7 +8593,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">noe som ikke er løgn</t>
+            <t pos="A">løgnfri</t>
          </tg>
       </mg>
    </e>
