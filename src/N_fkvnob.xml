@@ -3920,7 +3920,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">matblanding for hester og kyr</t>
+            <t pos="N">fôr</t>
          </tg>
       </mg>
    </e>
@@ -6199,16 +6199,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">fatilinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob" re="om mengde">
-            <t pos="N">et fat fullt av noe</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">favoritti</l>
       </lg>
       <mg>
@@ -7261,6 +7251,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">hentetur</t>
             <t pos="N">en tur for å hente noe</t>
          </tg>
       </mg>
@@ -7993,7 +7984,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">matblanding for hester og kyr</t>
+            <t pos="N">fôr</t>
          </tg>
       </mg>
    </e>
@@ -21919,8 +21910,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">en som bor i en bygd</t>
             <t pos="N">sambygding</t>
+            <t pos="N">bygdeværing</t>
          </tg>
       </mg>
       <mg>
@@ -31310,7 +31301,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nygift par</t>
-            <t pos="N">par som ikke har vært lenge gift</t>
          </tg>
       </mg>
       <mg>
@@ -32229,7 +32219,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">fiskestang med snøre og krok</t>
+            <t pos="N">fiskestang</t>
          </tg>
       </mg>
    </e>
@@ -44067,16 +44057,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">savo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">språket som snakkes i Savolaks</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">savolainen</l>
       </lg>
       <mg>
@@ -47553,7 +47533,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">den første delen av vinteren</t>
+            <t pos="N">høstvinter</t>
          </tg>
       </mg>
    </e>
