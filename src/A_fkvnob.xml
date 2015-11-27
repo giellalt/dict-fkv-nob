@@ -4320,10 +4320,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">som er fra landet</t>
+            <t pos="A">fra et land</t>
             <xg>
-               <x>Minkä maalainen se oon?</x>
-               <xt>Fra hvilket land er den?</xt>
+               <x>Minkä maalainen sie olet? Mie olen ruijalainen.</x>
+               <xt>Hvor er du fra? Jeg er norsk.</xt>
             </xg>
          </tg>
       </mg>
@@ -8255,6 +8255,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">utenlandsk</t>
+            <t pos="A">utlending</t>
          </tg>
       </mg>
    </e>
