@@ -3111,8 +3111,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">la en drikke</t>
-            <t pos="V">få en til å drikke</t>
+            <t pos="V">skjenke</t>
+            <xg>
+               <x>Hän juotti minut humalhoon.</x>
+               <xt>Han skjenket meg full.</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -15095,7 +15099,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">stoppe med nål og tråd</t>
             <t pos="V">stoppe</t>
          </tg>
       </mg>
