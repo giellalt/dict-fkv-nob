@@ -28,6 +28,19 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">kielikeskus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språksenter</t>
+            <syng>
+               <syn>kielisentteri</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">monikertaisuus</l>
       </lg>
       <mg>
@@ -59311,6 +59324,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">språksenter</t>
+            <syng>
+               <syn>kielikeskus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
