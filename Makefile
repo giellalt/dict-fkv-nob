@@ -13,7 +13,7 @@ bin/fkv.txt: src/*_fkvnob.xml
 	@echo
 	@echo "*** Making txt file of the lemmas of the dictionary ***"
 	@echo
-	@xsltproc script/fkv.xsl src/*_fkvnob.xml > bin/fkv.txt
+	@xsltproc scripts/fkv.xsl src/*_fkvnob.xml > bin/fkv.txt
 
 
 # Making html dictionary
