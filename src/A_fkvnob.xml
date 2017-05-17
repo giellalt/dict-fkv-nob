@@ -28,6 +28,47 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="A">aktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">aktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">ajattelematon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utenkelig</t>
+            <t pos="A">umulig</t
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">aijankohthainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">aktuell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">A-klassinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">førsteklasses</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="A">kansalinen</l>
       </lg>
       <mg>
