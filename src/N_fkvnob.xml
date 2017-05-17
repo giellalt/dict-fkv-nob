@@ -28,28 +28,30 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
-         <l pos="N">aijankuulu</l>
+         <l pos="N">aijankulu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hobby</t>
             <t pos="N">fritidssyssel</t>
+            <t pos="N">tidsfordriv</t>
             <syng>
-               <syn>aijankuuluhomma</syn>
+               <syn>aijankuluhomma</syn>
             </syng>
          </tg>
       </mg>
    </e>
    <e src="mk">
       <lg>
-         <l pos="N">aijankuuluhomma</l>
+         <l pos="N">aijankuluhomma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hobby</t>
             <t pos="N">fritidssyssel</t>
+            <t pos="N">tidsfordriv</t>
             <syng>
-               <syn>aijankuulu</syn>
+               <syn>aijankulu</syn>
             </syng>
          </tg>
       </mg>
@@ -2969,6 +2971,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tidsfordriv</t>
+            <t pos="N">hobby</t>
+            <t pos="N">fritidssyssel</t>
          </tg>
       </mg>
       <mg>
