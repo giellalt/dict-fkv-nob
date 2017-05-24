@@ -5998,7 +5998,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">evne</t>
-            <t pos="V">duge</t>
+            <t pos="V">greie</t>
             <t pos="V">være i stand til</t>
          </tg>
       </mg>
@@ -6647,6 +6647,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">felle</t>
+            <xg>
+               <x>langettaat tuomion</x>
+               <xt>felle dom</xt>
+            </xg>
             <t pos="V">få til å snuble</t>
             <t pos="V">sette krokfot</t>
          </tg>
@@ -6800,6 +6804,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">få til å springe</t>
             <t pos="V">få til å galoppere</t>
+            <xg>
+               <x>Met laukotimma hevoissii.</x>
+               <xt>Vi fikk hestene til å springe.</xt>
+               <xt>Vi fikk hestene til å galoppere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
