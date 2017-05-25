@@ -8087,8 +8087,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">få til å romme</t>
-            <t pos="V">passe inn</t>
+            <t pos="V">få til å rommes</t>
+            <t pos="V">gjøre plass til</t>
          </tg>
       </mg>
    </e>
@@ -9272,7 +9272,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">få til å sove</t>
+            <xg>
+               <x>nukuttaat lapsii</x>
+               <xt>få ungene til å sove</xt>
+            </xg>
+            <t pos="V">svæve</t>
+            <xg>
+               <x>nukuttaat lapsii</x>
+               <xt>svæve ungene</xt>
+            </xg>
             <t pos="V">bedøve</t>
+            <xg>
+               <x>nukuttaat ennen leikkausta</x>
+               <xt>bedøve før operasjon</xt>
+            </xg>
          </tg>
       </mg>
    </e>
