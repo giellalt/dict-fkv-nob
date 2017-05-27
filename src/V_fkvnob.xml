@@ -11913,11 +11913,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">legge seg opp i</t>
+            <xg>
+               <x>Han legger seg opp i mine saker.</x>
+               <xt>Hän puuttuu minun assiissiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mangle</t>
+            <xg>
+               <x>Barn mangler skoene.</x>
+               <xt>Lapselta puututhaan kengät.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16156,6 +16164,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mangle</t>
+            <xg>
+               <x>Barn mangler skoene.</x>
+               <xt>Lapselta vailuthaan kengät.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
