@@ -2252,7 +2252,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hore</t>
-            <t pos="V">drive med hor</t>
+            <t pos="V">drive hor</t>
          </tg>
       </mg>
    </e>
@@ -2313,7 +2313,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hoppe</t>
-            <t pos="V">drive og hoppe</t>
+            <t pos="V">sprette</t>
          </tg>
       </mg>
    </e>
@@ -2388,7 +2388,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V" val="IV">hyöttyy</l>
+         <l pos="V" val="IV">hyöttyyt</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2679,7 +2679,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="mk">
       <lg>
          <l pos="V">iljetä</l>
          <stem>ilkkee</stem>
@@ -2687,7 +2687,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">føle ubehag</t>
+            <t pos="V">tore</t>
+            <t pos="V">våge</t>
             <t pos="V">få seg til</t>
          </tg>
       </mg>
@@ -3008,6 +3009,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">måtte</t>
             <t pos="V">bli tvunget til</t>
+            <t pos="V">være nødt til</t>
          </tg>
       </mg>
       <mg>
@@ -3109,11 +3111,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gi drikke</t>
+            <xg>
+               <x>juottaat hevoiselle vettä</x>
+               <xt>gi hesten vann å drikke</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob" re="med flytende metall">
             <t pos="V">lodde</t>
+            <xg>
+               <x>juottaat metallii</x>
+               <xt>lodde metall</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3123,7 +3133,6 @@ For the full license text, see the link above.</lic>
                <x>Hän juotti minut humalhoon.</x>
                <xt>Han skjenket meg full.</xt>
             </xg>
-
          </tg>
       </mg>
    </e>
