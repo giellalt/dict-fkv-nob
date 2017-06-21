@@ -3181,6 +3181,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bevege</t>
             <t pos="V">flytte på seg</t>
+            <t pos="V">ferdes</t>
          </tg>
       </mg>
       <mg>
@@ -3287,7 +3288,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">etterlate</t>
             <t pos="V">la bli igjen</t>
             <t pos="V">la være igjen</t>
-            <t pos="V">elte</t>
+            <t pos="V">forlate</t>
+            <t pos="V">overlate</t>
          </tg>
       </mg>
       <mg>
@@ -3309,7 +3311,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">fryse til is</t>
+            <t pos="V">fryse</t>
+            <xg>
+               <x>Lampi jäättyy talvela.</x>
+               <xt>Vatnet fryser på vinteren.</xt>
+            </xg>
+            <t pos="V">ise</t>
+            <xg>
+               <x>Sivakat jääđythiin.</x>
+               <xt>Skiene iset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3320,7 +3331,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">fryse til is</t>
+            <t pos="V">fryse</t>
+            <xg>
+               <x>Kalan häyttyy jääđyttäät ettei se mene pilhaan.</x>
+               <xt>Fisken må fryses slik at den ikke blir ødelagt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
