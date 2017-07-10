@@ -12,11 +12,22 @@
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
 <!ELEMENT lg ( l, stem* ) >
 
 <!ELEMENT mg ( tg ) >
 
-<!ELEMENT r ( e+ ) >
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xml:lang (fkv) #IMPLIED>
+<!ATTLIST r id (fkvnob) #IMPLIED>
 
 <!ELEMENT stem ( #PCDATA ) >
 
