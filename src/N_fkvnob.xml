@@ -28,6 +28,116 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">fotograaffi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fotograf</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">amatöörifotograaffi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">amatørfotograf</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">alkohooli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">alkohol</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">alkkaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nybegynner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">akšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">TV-akšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">TV-aksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ämmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">eukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">akka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ajatusmailma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tankesett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">äijinäiji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oldefar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">aijankulu</l>
       </lg>
       <mg>
@@ -3423,6 +3533,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nemåne</t>
+            <t pos="N">synkende måne</t>
+            <t pos="N">minkende måne</t>
          </tg>
       </mg>
    </e>
@@ -57033,6 +57145,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fingerbøl</t>
+            <t pos="N">nålehus</t>
          </tg>
       </mg>
    </e>
