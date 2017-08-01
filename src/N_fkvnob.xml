@@ -28,6 +28,109 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">armeija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">armé</t>
+            <xg>
+               <x>Punainen armeija</x>
+               <xt>Den røde armé</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">armas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjæreste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">apuneuvosentraali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelpemiddelsentral</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">apuketarat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krykker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">appivanhemat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svigerforeldre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ankkeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ankel</t>
+            <syng>
+               <syn>nilkka</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ämpäriloma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøttekott</t>
+            <syng>
+               <syn>ämpärikotti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ämpärikotti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøttekott</t>
+            <syng>
+               <syn>ämpäriloma</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ammunišuunilaakeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ammunisjonslager</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">fotograaffi</l>
       </lg>
       <mg>
@@ -4536,6 +4639,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bosted</t>
+            <t pos="N">leirplass</t>
          </tg>
       </mg>
    </e>
@@ -30967,6 +31071,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ankel</t>
+            <syng>
+               <syn>ankkeli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
