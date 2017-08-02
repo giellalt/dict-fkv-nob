@@ -28,6 +28,92 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">auvainknappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">døråpner</t>
+            <syng>
+               <syn>avvainknappi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">avvainknappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">døråpner</t>
+            <syng>
+               <syn>auvainknappi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">aurinkopaistet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solskinn</t>
+            <syng>
+               <syn>päivänpaistet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">päivänpaistet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solskinn</t>
+            <syng>
+               <syn>aurinkopaistet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">auringonsavvu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solrøyk</t>
+            <t pos="N">ølrøyk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asuransi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsikring</t>
+            <syng>
+               <syn>vakkuutus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asumasija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">boplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">perustus</l>
       </lg>
       <mg>
