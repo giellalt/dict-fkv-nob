@@ -28,6 +28,91 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">perustus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stiftelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asumaperustus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">boligstiftelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asumapiilikohtaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bobiltreff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kohtaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">treff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kohtaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">møte</t>
+            <syng>
+               <syn>möötti</syn>
+               <syn>kokkous</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asumapiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bobil</t>
+            <t pos="N">campingbil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">assuuja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innbygger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">assii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">armeija</l>
       </lg>
       <mg>
@@ -4739,6 +4824,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">grad</t>
+            <t pos="N">skritt</t>
          </tg>
       </mg>
    </e>
@@ -4760,6 +4846,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">koppskap</t>
+            <t pos="N">kjøkkenskap</t>
          </tg>
       </mg>
    </e>
