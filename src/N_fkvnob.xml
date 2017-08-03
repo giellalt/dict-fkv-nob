@@ -28,6 +28,61 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">asukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innbygger</t>
+            <syng>
+               <syn>assuuja</syn>
+               <syn>asukas</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">askel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trinn</t>
+            <syng>
+               <syn>askelet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ärryttäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mobbing</t>
+            <t pos="N">terging</t>
+            <syng>
+               <syn>kiusaaminen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kiusaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mobbing</t>
+            <t pos="N">berging</t>
+            <syng>
+               <syn>ärryttäminen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">auvainknappi</l>
       </lg>
       <mg>
@@ -184,6 +239,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">innbygger</t>
+            <syng>
+               <syn>asukko</syn>
+               <syn>asukas</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4885,6 +4944,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">trinn</t>
             <t pos="N">steg</t>
+            <syng>
+               <syn>askel</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4998,6 +5060,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beboer</t>
+            <t pos="N">innbygger</t>
+            <syng>
+               <syn>assuuja</syn>
+               <syn>asukko</syn>
+            </syng>
          </tg>
       </mg>
    </e>
