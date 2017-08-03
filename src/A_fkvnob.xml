@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="A">aukipää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">barhodet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="A">aktiivinen</l>
       </lg>
       <mg>
@@ -1066,6 +1076,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">naken</t>
+            <syng>
+               <syn></syn>
+            </syng>
          </tg>
       </mg>
    </e>
