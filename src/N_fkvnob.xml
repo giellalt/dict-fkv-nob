@@ -28,6 +28,126 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">dyšši</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dusj</t>
+            <syng>
+               <syn>dyssi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">budšetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">budsjett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">bringebääri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bringebær</t>
+            <syng>
+               <syn>vaarain</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">briitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">booli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bål</t>
+            <syng>
+               <syn>nuotio</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">myyntö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">salg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">pilettimyyntö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">billettsalg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">bestyyrari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bestyrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">baviaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bavian</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">äyskarri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øsekar</t>
+            <t pos="N">ausekar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">akkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">akkar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">asukko</l>
       </lg>
       <mg>
@@ -31915,6 +32035,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bål</t>
+            <syng>
+               <syn>booli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -53417,6 +53540,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bringebær</t>
+            <syng>
+               <syn>bringebääri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
