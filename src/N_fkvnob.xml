@@ -28,6 +28,210 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">eturathaanveto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forhjulstrekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">etukätheinen luulo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fordom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">etukäjenmuistelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">plakat</t>
+            <t pos="N">opplysning</t>
+            <syng>
+               <syn>etukäsimuistelus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">etu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fordel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">etana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snegle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">etaaši</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etasje</t>
+            <syng>
+               <syn>kerta</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">engelsmanni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">engelskmann</t>
+            <syng>
+               <syn>englantilainen</syn>
+               <syn>engelskmanni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elläinhauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fangstgrop</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elläävähoppeetermomeetteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvikksølvtermometer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">termomeetteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">termometer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elästyttämistyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">revitaliseringsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elämys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opplevelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elämäntapa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">levemåte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">elämänkokemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livserfaring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">tunttiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjenner</t>
+            <t pos="N">ekspert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">asiantunttiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ekspert</t>
+            <syng>
+               <syn>ekspertti</syn>
+               <syn>assiintunttiija</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">ekspertti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ekspert</t>
+            <syng>
+               <syn>assiintunttiija</syn>
+               <syn>asiantunttiija</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">assiintunttiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ekspert</t>
+            <syng>
+               <syn>ekspertti</syn>
+               <syn>asiantunttiija</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">dyšši</l>
       </lg>
       <mg>
@@ -6290,6 +6494,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">engelskmann</t>
             <syng>
                <syn>englantilainen</syn>
+               <syn>engelsmanni</syn>
             </syng>
          </tg>
       </mg>
@@ -6305,6 +6510,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">engelskmann</t>
             <syng>
                <syn>engelskmanni</syn>
+               <syn>engelsmanni</syn>
             </syng>
          </tg>
       </mg>
