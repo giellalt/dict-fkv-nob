@@ -28,6 +28,105 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">premiääri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">premiere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">filmipremiääri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">filmpremiere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">fastalääki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fastlege</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">fasta näyttely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">permanent utstilling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">fannu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">familiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">familie</t>
+            <syng>
+               <syn>peret</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">faakiopetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">foredrag</t>
+            <syng>
+               <syn>faakimuistelus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">faakimuistelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">foredrag</t>
+            <syng>
+               <syn>faakiopetus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">faakimies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">eturathaanveto</l>
       </lg>
       <mg>
@@ -35806,6 +35905,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">familie</t>
+            <syng>
+               <syn>familiä</syn>
+            </syng>
          </tg>
       </mg>
    </e>
