@@ -28,6 +28,96 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">frinsta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flyfille</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">friiaamatuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">friertur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">fraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kuvanottaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fotograf</t>
+            <syng>
+               <syn>fotograaffi</syn>
+               <syn>kuvvaaja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">forkeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forkle</t>
+            <syng>
+               <syn>flakkari</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">floota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flåte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">flakkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forkle</t>
+            <syng>
+               <syn>forkeli</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">filmitupa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kino</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">premiääri</l>
       </lg>
       <mg>
@@ -789,6 +879,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fotograf</t>
+            <syng>
+               <syn>kuvvaaja</syn>
+               <syn>kuvanottaaja</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -59416,6 +59510,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fotograf</t>
+            <syng>
+               <syn>fotograaffi</syn>
+               <syn>kuvanottaaja</syn>
+            </syng>
          </tg>
       </mg>
    </e>
