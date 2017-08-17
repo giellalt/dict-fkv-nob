@@ -28,6 +28,59 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">halkopuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vedskie</t>
+            <syng>
+               <syn>halko</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">haisuhetelmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stinkfrukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">hetelmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">haavanlehti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ospeløv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">hääpari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brudepar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">frinsta</l>
       </lg>
       <mg>
@@ -8410,6 +8463,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vedskie</t>
+            <syng>
+               <syn>halkopuu</syn>
+            </syng>
          </tg>
       </mg>
    </e>
