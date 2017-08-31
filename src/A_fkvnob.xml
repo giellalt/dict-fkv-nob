@@ -28,6 +28,86 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="A">hoppeeharmaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sølvgrå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">hengistynny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">andpusten</t>
+            <syng>
+               <syn>hengestynny</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">härski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">harsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">harkkuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ujevn</t>
+            <t pos="A">ruglete</t>
+            <syng>
+               <syn>harkkunen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">färirikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fargerik</t>
+            <syng>
+               <syn>kirjaava</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">elektrinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">elektrisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="A">briittiläinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">britisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="A">aukipää</l>
       </lg>
       <mg>
@@ -1759,6 +1839,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ujevn</t>
+            <t pos="A">ruglete</t>
+            <syng>
+               <syn>harkkuinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -1873,6 +1957,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">andpusten</t>
+            <syng>
+               <syn>hengistynny</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -3092,6 +3179,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">fargerik</t>
+            <syng>
+               <syn>färirikas</syn>
+            </syng>
          </tg>
       </mg>
    </e>
