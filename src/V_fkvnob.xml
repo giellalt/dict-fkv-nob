@@ -28,6 +28,52 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="V">friiata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">flørte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">fortjeenata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fortjene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="V">eđistyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utvikle seg</t>
+            <syng>
+               <syn>kehittyyt</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">eđistäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utvikle</t>
+            <syng>
+               <syn>kehittäät</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="V">amppuut moolhiin</l>
       </lg>
       <mg>
@@ -4022,6 +4068,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">utvikle seg</t>
             <t pos="V">bli utviklet</t>
+            <syng>
+               <syn>eđistyyt</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -4033,6 +4082,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">utvikle</t>
+            <syng>
+               <syn>eđistäät</syn>
+            </syng>
          </tg>
       </mg>
    </e>
