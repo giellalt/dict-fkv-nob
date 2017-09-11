@@ -28,6 +28,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="N">honninkiplaatta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">honningvoksplate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">honninkimettiinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">homethaiju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mugglukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">hoksaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fantasi</t>
+            <t pos="N">oppfinnsomhet</t>
+            <xg>
+               <x>Hoksaus oon rajaton.</x>
+               <xt>Bare fantasien setter grenser.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">hietajyvä</l>
       </lg>
       <mg>
