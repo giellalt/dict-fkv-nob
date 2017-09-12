@@ -26,6 +26,126 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="es">
+      <lg>
+         <l pos="N">kvanttori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvantor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kvanttorifraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvantorfrase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konjunksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konjunksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">persoonasuffiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personsuffiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">subjunksuunisyntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">subjunksjonsetning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">subjunksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">subjunksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">preesens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">verbaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">verbal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">imperatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">imperativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nomeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tavu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stavelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">haamustus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">danning</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">honninkiplaatta</l>
@@ -1945,16 +2065,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">translativ</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">syntakti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">setning</t>
          </tg>
       </mg>
    </e>
