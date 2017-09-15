@@ -28,6 +28,71 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">trekki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trekk</t>
+            <xg>
+               <x>yhtheinen trekki</x>
+               <xt>felles trekk</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">variasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">variasjon</t>
+            <syng>
+               <syn>vaihettelu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aktiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aktiv</t>
+            <xg>
+               <x>Verbin haamu oon aktiivissa.</x>
+               <xt>Verbets form står i aktiv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">defineeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bestemmelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eroitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskjell</t>
+            <t pos="N">differanse</t>
+            <syng>
+               <syn>eroitus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">kvanttori</l>
       </lg>
       <mg>
@@ -3531,6 +3596,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">veksling</t>
             <t pos="N">variasjon</t>
+            <syng>
+               <syn>variasuuni</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -7143,6 +7211,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">differanse</t>
             <t pos="N">forskjell</t>
+            <syng>
+               <syn>eroitus</syn>
+            </syng>
          </tg>
       </mg>
       <mg>
