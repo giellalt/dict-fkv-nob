@@ -28,6 +28,77 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">derivasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konstruksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konstruksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">proadverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">proadverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">derivasuunisuffiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avledningssuffiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ilmoittaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">uttryck</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">omistus-syntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eierskapssyntaks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ylisyntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overordnet setning</t>
+            <t pos="N">oversetning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">trekki</l>
       </lg>
       <mg>
@@ -435,6 +506,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">frase</t>
+            <t pos="N">setning</t>
          </tg>
       </mg>
    </e>
