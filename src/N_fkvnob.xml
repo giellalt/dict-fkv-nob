@@ -28,6 +28,106 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">komplementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utfylling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ylösrakenus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppbygning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spesiaalivaihettelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spesialstadieveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ylheisvaihettelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">generell stadieveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">enkliitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">enklitikon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kokkoontumaverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontrakt verb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konstateeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fortellende setning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">konteksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontekst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">olokaasus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påstedskasus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">persoonahaamu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">possessiivisuffiksi</l>
       </lg>
       <mg>
@@ -3174,6 +3274,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">komplement</t>
+            <t pos="N">utfylling</t>
          </tg>
       </mg>
    </e>
