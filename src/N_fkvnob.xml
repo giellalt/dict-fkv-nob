@@ -28,6 +28,92 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">ordinaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordenstall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">jakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">periode</t>
+            <t pos="N">fase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aijanjakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsrom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">komparasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">komparasuuni</t>
+            <t pos="N">sammenligning</t>
+            <t pos="N">jevnføring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kvanttoripronomeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvantorpronomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">normaalisyntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vanlig setning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">olotila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilstand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vaihtoehto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">alternativ</t>
+            <syng>
+               <syn>alternatiivi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">ylösrakenus</l>
       </lg>
       <mg>
@@ -5202,6 +5288,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">alternativ</t>
+            <syng>
+               <syn>vaihtoehto</syn>
+            </syng>
          </tg>
       </mg>
    </e>
