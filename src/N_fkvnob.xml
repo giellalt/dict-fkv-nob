@@ -28,6 +28,72 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">tulevaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">framtid</t>
+            <syng>
+               <syn>tulleevaisuus</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tunnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">følelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">verttaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammenligning</t>
+            <syng>
+               <syn>komparasuuni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">verttausfraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jamføringsfrase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">verttaussana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jamføringsord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eksistensi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eksistens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">ordinaali</l>
       </lg>
       <mg>
@@ -66,6 +132,9 @@ For the full license text, see the link above.</lic>
             <t pos="N">komparasuuni</t>
             <t pos="N">sammenligning</t>
             <t pos="N">jevnføring</t>
+            <syng>
+               <syn>verttaus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -52492,6 +52561,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">framtid</t>
+            <syng>
+               <syn>tulevaisuus</syn>
+            </syng>
          </tg>
       </mg>
    </e>
