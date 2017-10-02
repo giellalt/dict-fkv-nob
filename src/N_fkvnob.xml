@@ -28,6 +28,69 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="N">proadjektiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">proadjektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">prosana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pro-ord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">resiprookkipronomeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">resiprokt pronomen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">resultaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">resultat</t>
+            <syng>
+               <syn>tulos</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tapattuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hendelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tavuraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stavelsesgrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">tulevaisuus</l>
       </lg>
       <mg>
@@ -52641,6 +52704,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">resultat</t>
+            <syng>
+               <syn>resultaatti</syn>
+            </syng>
          </tg>
       </mg>
    </e>
