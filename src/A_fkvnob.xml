@@ -28,6 +28,49 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="A">synonyyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">synonym</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konsonanttirankainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konsonantstammet</t>
+            <t pos="A">med konsonantstamme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kaksirankainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tostammet</t>
+            <t pos="A">med to stammer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">yksirankainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">enstammet</t>
+            <t pos="A">med en stamme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">nollapaikkainen</l>
       </lg>
       <mg>
