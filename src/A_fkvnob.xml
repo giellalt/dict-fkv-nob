@@ -28,6 +28,93 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="A">aspektuaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">aspektuell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konnektiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konnektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">prototyyppinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">typisk</t>
+            <syng>
+               <syn>tyypilinen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sananloppuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ordfinal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">obligatoorinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">obligatorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paralellinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">parallell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sivvupainolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bitrykket</t>
+            <xg>
+               <x>sivvupainolinen tavu</x>
+               <xt>bitrykket stavelse</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">disjunktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">disjunktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">ekvivalentti</l>
       </lg>
       <mg>
@@ -8502,6 +8589,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">typisk</t>
+            <syng>
+               <syn>prototyyppinen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
