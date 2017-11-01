@@ -26,6 +26,85 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tavalissiimmin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vanligst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kauan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">muutamesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">iblant</t>
+            <t pos="Adv">av og til</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">alun alkkain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">opprinnelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vanhaastansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">opprinnelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">huonosti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">dårlig</t>
+            <xg>
+               <x>Mie puhun huonosti ruijaa.</x>
+               <xt>Jeg snakker norsk dårlig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuohon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">der</t>
+            <xg>
+               <x>Istu tuohon!</x>
+               <xt>Sett deg der!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Adv">heti aikhoin</l>
