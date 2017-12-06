@@ -26,6 +26,51 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ia">
+      <lg>
+         <l pos="N">apaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(fangst</t>
+            <t pos="N">notvarp</t>
+            <t pos="N">notkast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">allio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(stein)helle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">alanko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lavland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ahkio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pulk</t>
+            <syng>
+               <syn>ahkii</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e
    <e src="es">
       <lg>
          <l pos="N">adjektiividefineeraus</l>
@@ -4823,6 +4868,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pulk</t>
+            <syng>
+               <syn>ahkio</syn>
+            </syng>
          </tg>
       </mg>
    </e>
