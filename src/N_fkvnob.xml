@@ -28,11 +28,112 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">harja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">landtunge</t>
+            <t pos="N">eid</t>
+            <xg>
+               <x>Mäntyharja oon Pollon ja Raumavuonon välissä.</x>
+               <xt>Nordkjoseidet ligger mellom Nordjosbotn og Straumfjorden.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hammas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tind</t>
+            <xg>
+               <x>Vaakahammas oon Etelä-Varangissa.</x>
+               <xt>Vaggtind ligger i Sør-Varanger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hamari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">berghammer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hamara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">økserygg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">fästinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">festning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">feltti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trålfelt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">elva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stor elv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">autto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannholdig myr</t>
+            <t pos="N">lavland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">armi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arm</t>
+            <t pos="N">sidevei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">apaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">(fangst</t>
+            <t pos="N">fangst</t>
             <t pos="N">notvarp</t>
             <t pos="N">notkast</t>
          </tg>
@@ -9866,6 +9967,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">ås</t>
             <t pos="N">rygg</t>
+            <t pos="N">haug</t>
          </tg>
       </mg>
    </e>
