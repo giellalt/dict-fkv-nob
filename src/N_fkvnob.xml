@@ -28,6 +28,61 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">härkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(rein)okse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hyppylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakketopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">humppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hump</t>
+            <t pos="N">forhøyning</t>
+            <t pos="N">ås</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">huippu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">topp</t>
+            <syng>
+               <syn>lajet</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hoola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hole</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">hete</l>
       </lg>
       <mg>
@@ -2447,6 +2502,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">topp</t>
+            <syng>
+               <syn>huippu</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -11606,6 +11664,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">grotte</t>
+            <t pos="N">grop</t>
+            <t pos="N">åpning</t>
          </tg>
       </mg>
    </e>
