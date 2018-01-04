@@ -28,6 +28,93 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">järämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">juomus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">garn til å fiske under isen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">juhta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">djup i sjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jorra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elvekulp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jurma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høl</t>
+            <syng>
+               <syn>jorma</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jolma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sund</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskehjell</t>
+            <t pos="N">hjell</t>
+            <syng>
+               <syn>jälli</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jaara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saubukk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">härkä</l>
       </lg>
       <mg>
@@ -13991,6 +14078,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">høl</t>
+            <syng>
+               <syn>jurma</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
@@ -14720,6 +14810,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">berg</t>
             <t pos="N">knaus</t>
+            <t pos="N">fjelltopp</t>
          </tg>
       </mg>
    </e>
