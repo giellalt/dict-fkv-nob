@@ -28,6 +28,75 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">kallokas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skalle</t>
+            <t pos="N">fottøy av reinskinn</t>
+            <syng>
+               <syn>kallokka</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaljakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">glatt islag</t>
+            <t pos="N">hålke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaivos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgravd grop</t>
+            <t pos="N">fure</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høgt og bratt fjell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaarre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">reingjerde</t>
+            <t pos="N">ledegjerde til fuglefelle</t>
+            <t pos="N">tørr plass i myr</t>
+            <t pos="N">eid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaalis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjell som fiskere bruker som landemerke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">järämä</l>
       </lg>
       <mg>
@@ -16207,6 +16276,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">klippe</t>
             <t pos="N">svaberg</t>
+            <t pos="N">berg</t>
          </tg>
       </mg>
    </e>
@@ -16245,6 +16315,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skalle</t>
+            <syng>
+               <syn>kallokas</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
