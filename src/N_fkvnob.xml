@@ -28,6 +28,66 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">kartakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(gammel) inngjerding</t>
+            <t pos="N">(gammel) reingjerde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">karhakka</l>
+         <stem>karhaaka</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">furu</t>
+            <t pos="N">kronglefuru</t>
+            <t pos="N">ungt tynnvokst tre</t>
+            <syng>
+               <syn>karhaakka</syn>             
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">karha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammenraket haug av høy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kannas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nes</t>
+            <t pos="N">odde</t>
+            <t pos="N">bakre del av sledemeie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kangas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mo</t>
+            <t pos="N">hei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">kallokas</l>
       </lg>
       <mg>
@@ -74,7 +134,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">kaarre</l>
+         <l pos="N">kaarršet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -16937,6 +16997,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">furu</t>
             <t pos="N">kronglefuru</t>
+            <syng>
+               <syn>karhakka</syn>             
+            </syng>
          </tg>
       </mg>
    </e>
