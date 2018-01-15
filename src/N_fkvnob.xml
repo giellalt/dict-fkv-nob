@@ -28,6 +28,49 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">keläs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tørr åpen plass (med dårlig høyvekst)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kelhä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">haug</t>
+            <t pos="N">ås</t>
+            <t pos="N">mark med dårlig høyvekst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">keila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trang vik</t>
+            <t pos="N">keile</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaulanne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eid (i myr)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">kartakka</l>
       </lg>
       <mg>
@@ -18444,6 +18487,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">mark</t>
             <t pos="N">eng</t>
+            <t pos="N">voll</t>
+            <t pos="N">seter</t>
          </tg>
       </mg>
       <mg>
@@ -18685,6 +18730,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob" re="ble tidligere spist rundt kl. tolv">
             <t pos="N">hovedmåltid</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">midt på dagen</t>
          </tg>
       </mg>
    </e>
