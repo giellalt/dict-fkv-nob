@@ -28,6 +28,68 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">korsa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skar</t>
+            <t pos="N">gjel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kontturi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">del av et reingjerde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kontti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skreppe av never</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kirkkomaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kyrkogård</t>
+            <t pos="N">gravplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kippi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaierheis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kolari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tjærebrenner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">keläs</l>
       </lg>
       <mg>
@@ -23844,6 +23906,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">dalsøkk</t>
             <t pos="N">ravine</t>
+            <t pos="N">kløft</t>
+            <t pos="N">juv</t>
          </tg>
       </mg>
    </e>
