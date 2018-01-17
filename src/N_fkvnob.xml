@@ -28,6 +28,80 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">kura</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leire</t>
+            <t pos="N">slam</t>
+            <t pos="N">søle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kuppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fordypning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kukkura</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">haug</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kukku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kuikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storlom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kraavi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grav</t>
+            <t pos="N">grøft</t>
+            <t pos="N">bekkefar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">koskenniska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sted i elva der fossen begynner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">korsa</l>
       </lg>
       <mg>
@@ -23051,6 +23125,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">gammelt gress</t>
             <t pos="N">fjorårsgress</t>
+            <t pos="N">brent jord</t>
             <syng>
                <syn>kuloheinä</syn>
             </syng>
