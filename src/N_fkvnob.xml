@@ -28,6 +28,51 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">lakkamänty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">furu med flat krone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">laituri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kai</t>
+            <t pos="N">brygge</t>
+            <syng>
+               <syn>pryky</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lah(đ)enperä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">den innerste delen av en vik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">laakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stor slette</t>
+            <t pos="N">slak treløs dal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">käärme</l>
       </lg>
       <mg>
@@ -25439,7 +25484,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">laatas</l>
          <stem>laathaa</stem>
@@ -25448,6 +25493,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">mo</t>
             <t pos="N">slette</t>
+            <t pos="N">flate</t>
          </tg>
       </mg>
    </e>
@@ -40675,6 +40721,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">kai</t>
             <t pos="N">brygge</t>
+            <syng>
+               <syn>laituri</syn>
+            </syng>
          </tg>
       </mg>
    </e>
