@@ -28,6 +28,86 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">loma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dal</t>
+            <t pos="N">åpernt område</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">linkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">liten bakke</t>
+            <t pos="N">bakkekneik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lauttauspaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fløteplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lehto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lavtliggende mark med løvskog</t>
+            <t pos="N">lund</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">laukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gressløk</t>
+            <syng>
+               <syn>ruuholööki</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lanja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">slett parti av i fjellsida</t>
+            <t pos="N">avsats</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lalva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ende</t>
+            <t pos="N">topp</t>
+            <t pos="N">øvre løp av en elv</t>
+            <t pos="N">enden av en veg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">lakkamänty</l>
       </lg>
       <mg>
@@ -27958,13 +28038,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">lohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">loft</t>
+            <t pos="N">dal høgt oppe på fjellet</t>
          </tg>
       </mg>
    </e>
@@ -28372,14 +28453,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">loukku</l>
          <stem>louku</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">felle</t>
+            <t pos="N">(dyre)felle</t>
+            <t pos="N">fangstbås</t>
          </tg>
       </mg>
    </e>
@@ -45440,6 +45522,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gressløk</t>
+            <syng>
+               <syn>laukka</syn>
+            </syng>
          </tg>
       </mg>
    </e>
