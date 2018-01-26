@@ -28,6 +28,68 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">murto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sumpmark</t>
+            <t pos="N">ujevn mark med morkne træer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">matara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvitmaure</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">markkina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">markedsplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">mađet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lake</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">luusua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elveos</t>
+            <t pos="N">elveutløp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">luova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stillas til å oppbevare mat og høy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">loma</l>
       </lg>
       <mg>
@@ -28488,13 +28550,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">luhta</l>
       </lg>
       <mg>
          <tg xml:lang="nob" re="gressaktig plante">
             <t pos="N">starr</t>
+            <t pos="N">starrgress</t>
+            <t pos="N">myrslåtte</t>
+            <t pos="N">myrstrand</t>
          </tg>
       </mg>
    </e>
@@ -29022,7 +29087,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">luppo</l>
          <stem>lupo</stem>
@@ -29031,6 +29096,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">liten dal</t>
             <t pos="N">gjel</t>
+            <t pos="N">søkk</t>
+            <t pos="N">senkning</t>
          </tg>
       </mg>
    </e>
@@ -29491,13 +29558,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">maaheinä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gress fra innmarka</t>
+            <t pos="N">enghøy</t>
+            <t pos="N">naturhøy på tørr voll</t>
          </tg>
       </mg>
    </e>
@@ -30375,13 +30444,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">marasto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tørr mark</t>
+            <t pos="N">lang morene med bjørkeskog</t>
          </tg>
       </mg>
    </e>
@@ -30946,6 +31016,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">brink</t>
             <t pos="N">mel</t>
+            <t pos="N">elvemel</t>
+            <t pos="N">bakke</t>
+            <t pos="N">skrent</t>
          </tg>
       </mg>
    </e>
