@@ -28,6 +28,48 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">nokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bergnese</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">nunni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjellnese</t>
+            <t pos="N">fjelltopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">nausti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naust</t>
+            <t pos="N">skur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">nakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">baksiden av øksebladet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">murto</l>
       </lg>
       <mg>
@@ -33624,7 +33666,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">nielu</l>
       </lg>
@@ -33632,6 +33674,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">fiskestim</t>
             <t pos="N">svelg</t>
+            <t pos="N">smal passasje</t>
          </tg>
       </mg>
    </e>
@@ -34412,7 +34455,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">nurkka</l>
          <stem>nurka</stem>
@@ -34420,6 +34463,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob" re="utenfor huset">
             <t pos="N">hjørne</t>
+            <t pos="N">krok</t>
          </tg>
       </mg>
    </e>
@@ -34435,7 +34479,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">nurmikko</l>
          <stem>nurmiko</stem>
@@ -34444,6 +34488,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">gresseng</t>
             <t pos="N">plen</t>
+            <t pos="N">gressmark</t>
          </tg>
       </mg>
       <mg>
