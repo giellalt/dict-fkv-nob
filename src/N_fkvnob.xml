@@ -28,6 +28,138 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">patteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høy fjell med bare steinur på toppen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">parras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rand</t>
+            <t pos="N">kant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">palo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sted efter (skog)brann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">palkkio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">erstatning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pajukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seljebuske</t>
+            <syng>
+               <syn>paivukko</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">paju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">selje</t>
+            <syng>
+               <syn>paivu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">paiski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småmåse</t>
+            <t pos="N">fiskemåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">paalu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ortta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tregrense</t>
+            <t pos="N">skoggrense</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">orjapuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sør</t>
+            <syng>
+               <syn>orja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">olka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rundaktig høgde i fjellside</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">oivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rund fjelltopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">nokka</l>
       </lg>
       <mg>
@@ -4237,6 +4369,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">seljebuske</t>
+            <syng>
+               <syn>pajukko</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -36140,7 +36275,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">pahta</l>
+			 <l pos="N">pahta</l>
          <stem>pahđa</stem>
       </lg>
       <mg>
@@ -36205,7 +36340,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">paikka</l>
          <stem>paika</stem>
@@ -36214,6 +36349,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">lapp</t>
             <t pos="N">plass</t>
+            <t pos="N">sted</t>
          </tg>
       </mg>
       <mg>
@@ -36412,6 +36548,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">selje</t>
+            <syng>
+               <syn>paju</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -36495,7 +36634,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">pakka</l>
          <stem>paka</stem>
@@ -36503,6 +36642,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pakke</t>
+            <t pos="N">bakke (i sjøen)</t>
+            <t pos="N">fiskeplass</t>
          </tg>
       </mg>
    </e>
@@ -37470,6 +37611,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">jerngryte</t>
             <t pos="N">gryte</t>
+            <t pos="N">rund fordypning i terrenget</t>
          </tg>
       </mg>
       <mg>
