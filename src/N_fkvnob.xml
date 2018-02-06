@@ -28,6 +28,48 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">putti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trangt pass i fjellet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pursilo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dypt sted i bekk eller elv</t>
+            <t pos="N">sted med sterk strøm i elv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">puro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">purnu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grop</t>
+            <t pos="N">dal med bratte sider</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">pukti</l>
       </lg>
       <mg>
@@ -41813,6 +41855,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">bod</t>
             <t pos="N">magasin</t>
+            <t pos="N">butikk</t>
          </tg>
       </mg>
    </e>
@@ -42100,6 +42143,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tre</t>
+            <t pos="N">ved</t>
          </tg>
       </mg>
    </e>
@@ -42195,6 +42239,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stabbur</t>
+            <t pos="N">skjå</t>
+            <t pos="N">(egne)bu</t>
+            <t pos="N">båtskur</t>
          </tg>
       </mg>
    </e>
