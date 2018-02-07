@@ -28,6 +28,105 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">rauma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strøm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ratamo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">groblad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skar</t>
+            <t pos="N">festering til seil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">steinur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">raasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gress</t>
+            <t pos="N">kvann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pääskinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svale</t>
+            <syng>
+               <syn>pääskyinen</syn>
+               <syn>pääskynen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">päri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">berg</t>
+            <t pos="N">steinrøys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pyörret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannvirvel</t>
+            <t pos="N">strømsted i elv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pysty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakke</t>
+            <t pos="N">bratt li</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">putti</l>
       </lg>
       <mg>
@@ -42682,7 +42781,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">pää</l>
       </lg>
@@ -42690,6 +42789,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">hode</t>
             <t pos="N">ende</t>
+            <t pos="N">fjell</t>
+            <t pos="N">høgde</t>
          </tg>
       </mg>
    </e>
@@ -43326,7 +43427,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai:ia">
       <lg>
          <l pos="N">raakku</l>
          <stem>raaku</stem>
@@ -43334,6 +43435,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skjell</t>
+            <t pos="N">musling</t>
          </tg>
       </mg>
    </e>
@@ -43920,7 +44022,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">rapa</l>
          <stem>rappa</stem>
@@ -43928,6 +44030,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gjørme</t>
+            <t pos="N">søle</t>
+            <t pos="N">blaut leire</t>
          </tg>
       </mg>
    </e>
