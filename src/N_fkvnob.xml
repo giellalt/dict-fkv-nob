@@ -28,6 +28,28 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">rovi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brann</t>
+            <t pos="N">brent jord eller land</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">steinet høgdedrag</t>
+            <t pos="N">skogbevokst høgdedrag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">rokki</l>
       </lg>
       <mg>
@@ -45452,7 +45474,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">ronkka</l>
          <stem>ronka</stem>
@@ -45460,6 +45482,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hofte</t>
+            <t pos="N">grop</t>
+            <t pos="N">bekkedal</t>
+            <t pos="N">elvefar</t>
          </tg>
       </mg>
    </e>
@@ -45531,6 +45556,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">steinørken</t>
+            <t pos="N">kløft</t>
          </tg>
       </mg>
    </e>
@@ -46123,7 +46149,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">ruto</l>
          <stem>ruđo</stem>
@@ -46133,6 +46159,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">skog</t>
             <t pos="N">småskog</t>
+            <t pos="N">tett småskog</t>
          </tg>
       </mg>
       <mg>
