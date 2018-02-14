@@ -28,6 +28,63 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">selkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjellrygg</t>
+            <t pos="N">skjær</t>
+            <t pos="N">grunne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">selkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">staur</t>
+            <t pos="N">kjepp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">satama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">havn</t>
+            <syng>
+               <syn>hamina</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">saikara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">staur</t>
+            <t pos="N">kjepp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">röyttäs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bratt, ofte steinete skar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">rovi</l>
       </lg>
       <mg>
@@ -10989,6 +11046,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">havn</t>
+            <syng>
+               <syn>satama</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -46188,7 +46248,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">ruuho</l>
       </lg>
@@ -46196,6 +46256,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">høy</t>
             <t pos="N">gress</t>
+            <t pos="N">gressbevokst mark</t>
             <syng>
                <syn>ruoho</syn>
             </syng>
@@ -46676,6 +46737,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">utleire</t>
             <t pos="N">lang sjøstrand</t>
+            <t pos="N">lav sjøstrand</t>
          </tg>
       </mg>
    </e>
@@ -47545,7 +47607,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">høystakk</t>
             <syng>
-               <syn>luova</syn>
+               <syn>suova</syn>
             </syng>
          </tg>
       </mg>
