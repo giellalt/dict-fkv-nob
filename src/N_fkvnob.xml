@@ -28,6 +28,29 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">siiti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bebyggelse</t>
+            <t pos="N">bosetning</t>
+            <t pos="N">gård</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">siikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bekk</t>
+            <t pos="N">liten myr med sivende vann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">selkä</l>
       </lg>
       <mg>
@@ -48603,6 +48626,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gårdsplass</t>
+            <t pos="N">slett område på fjellet</t>
          </tg>
       </mg>
    </e>
