@@ -28,6 +28,126 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">suorki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sunti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sund</t>
+            <syng>
+               <syn>sunni</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sunni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sund</t>
+            <syng>
+               <syn>sunti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sullu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øy</t>
+            <t pos="N">holm i sjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ställi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avsats i fjellet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">staffu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">båtstø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">šoru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">haug</t>
+            <t pos="N">bakke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">soppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjørne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">haug</t>
+            <t pos="N">rund fjelltopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">skarkku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ør</t>
+            <t pos="N">flat sandstrekning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">skaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søkk eller bakke i sjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">siiti</l>
       </lg>
       <mg>
@@ -49584,13 +49704,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ia">
       <lg>
          <l pos="N">soro</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">klakk</t>
+            <t pos="N">grunn i sjøen</t>
          </tg>
       </mg>
    </e>
@@ -49867,13 +49988,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia">
       <lg>
          <l pos="N">staatti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stat</t>
+            <t pos="N">offentlig myndighet</t>
          </tg>
       </mg>
    </e>
@@ -50681,6 +50803,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">basseng</t>
             <t pos="N">kulp</t>
+            <t pos="N">lon</t>
          </tg>
       </mg>
    </e>
