@@ -28,6 +28,134 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">tšokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">haug</t>
+            <t pos="N">rund fjelltopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">tolpano</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjellrygg med bratte skråninger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">tiilimylly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">teglmølle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">tiensuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stedet der vei begynner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">tervauuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tjæreovn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">talvisija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterboplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">haasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(høy)hesje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">talvihaasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høyhesje for vinterbevaring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">takusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakside</t>
+            <syng>
+               <syn>takus</syn>
+            </syng
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">takus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakside</t>
+            syng>
+               <syn>takusta</syn>
+            </syng
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">taali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dal</t>
+            <t pos="N">senkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">susihauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ulvefelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">suorki</l>
       </lg>
       <mg>
@@ -51960,7 +52088,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">takka</l>
          <stem>taka</stem>
@@ -51969,6 +52097,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">ildsted</t>
             <t pos="N">peis</t>
+            <t pos="N">sted på fjellet der det er godt å gå opp</t>
          </tg>
       </mg>
       <mg>
