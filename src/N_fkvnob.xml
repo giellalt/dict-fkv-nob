@@ -28,6 +28,80 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">baara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vaaka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">våg</t>
+            <t pos="N">bukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vuopaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjos</t>
+            <t pos="N">smal vik i elv eller innsjø</t>
+            <t pos="N">vassholdig, smal myrstripe</t>
+            <syng>
+               <syn>uopaja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">uopaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjos</t>
+            <t pos="N">smal vik i elv eller innsjø</t>
+            <t pos="N">vassholdig, smal myrstripe</t>
+            <syng>
+               <syn>vuopaja</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">uitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smal slåttemark</t>
+            <t pos="N">slåttemark som er under vann om våren</t>
+            <t pos="N">bekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">töyry</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(liten) ås</t>
+            <t pos="N">bakke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">tšokka</l>
       </lg>
       <mg>
@@ -55040,6 +55114,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">hus</t>
             <t pos="N">stue</t>
+            <t pos="N">hytte</t>
          </tg>
       </mg>
    </e>
@@ -57154,6 +57229,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">voll</t>
+            <t pos="N">åker</t>
+            <t pos="N">eng</t>
          </tg>
       </mg>
    </e>
