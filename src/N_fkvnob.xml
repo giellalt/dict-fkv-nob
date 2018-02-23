@@ -28,6 +28,52 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">veräjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grind</t>
+            <t pos="N">port</t>
+            <syng>
+               <syn>verrääjä</syn>
+               <syn>vörrääjä</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vartto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høg ås med utsikt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vanni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vatn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjul</t>
+            <t pos="N">uthus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">vaara</l>
       </lg>
       <mg>
@@ -57109,6 +57155,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bytte</t>
+            <t pos="N">veksling</t>
          </tg>
       </mg>
    </e>
@@ -58722,6 +58769,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">port</t>
             <syng>
                <syn>vörrääjä</syn>
+               <syn>veräjä</syn>
             </syng>
          </tg>
       </mg>
@@ -58958,7 +59006,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ia">
       <lg>
          <l pos="N">veto</l>
          <stem>veđo</stem>
@@ -58966,6 +59014,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trekk</t>
+            <t pos="N">drag</t>
             <t pos="N">veddemål</t>
             <xg>
                <x>Lyömäkö vettoo?</x>
@@ -60476,6 +60525,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">port</t>
             <syng>
                <syn>verrääjä</syn>
+               <syn>veräjä</syn>
             </syng>
          </tg>
       </mg>
