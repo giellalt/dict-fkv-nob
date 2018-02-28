@@ -28,6 +28,63 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">vuori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vuopio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">(smal) vik</t>
+            <t pos="N">kjos</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vuononperä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjordbotn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">viika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vik</t>
+            <syng>
+               <syn>viikka</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">viikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vik</t>
+            <syng>
+               <syn>viika</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">veräjä</l>
       </lg>
       <mg>
@@ -59916,7 +59973,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;yr">
+   <e src="ta;ai;yr:ia">
       <lg>
          <l pos="N">vuoma</l>
       </lg>
@@ -59928,6 +59985,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dalføre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vidstrakt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">treløs myr</t>
          </tg>
       </mg>
    </e>
@@ -60435,13 +60502,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">väylä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lei</t>
+            <t pos="N">hovedelv</t>
+            <t pos="N">leid i fjorden</t>
          </tg>
       </mg>
    </e>
@@ -61005,6 +61074,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skinnål</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skomakernål</t>
          </tg>
       </mg>
    </e>
