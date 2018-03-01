@@ -5773,7 +5773,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mk">
       <lg>
          <l pos="V">kunnioittaat</l>
          <stem>kunnioita</stem>
@@ -5783,6 +5783,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">verdsette</t>
             <t pos="V">hedre</t>
             <t pos="V">ære</t>
+            <t pos="V">respektere</t>
          </tg>
       </mg>
    </e>
@@ -16265,7 +16266,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;mk">
       <lg>
          <l pos="V">vahđata</l>
          <stem>vahtaa</stem>
@@ -16274,6 +16275,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">vakte</t>
+            <t pos="V">vokte</t>
          </tg>
       </mg>
    </e>
