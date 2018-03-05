@@ -28,6 +28,119 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="es">
       <lg>
+         <l pos="A">kymmenes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tiende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">yhđekses</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">niende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kahđekses</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">åttende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kahđekses</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sjuende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">seittemes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sjuende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kuuđes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sjette</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">neljes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fjerde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">myötäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">(svakt) hellende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">koutu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bred</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">korkea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">høy</t>
+            <syng>
+               <syn>korkkee</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">jyrkkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bratt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">aspektuaalinen</l>
       </lg>
       <mg>
@@ -3730,6 +3843,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">høy</t>
+            <syng>
+               <syn>korkea</syn>
+            </syng>
          </tg>
       </mg>
    </e>
