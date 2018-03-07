@@ -26,6 +26,119 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="ia">
+      <lg>
+         <l pos="A">ylimäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øverste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">ylinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øvre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">yli-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øvre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">ylempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øvre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">vähä(-)</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">liten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">vierhiinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tilstøtende</t>
+            <t pos="A">neste</t>
+            <t pos="A">ved siden av</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">sisä-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">indre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">silko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">glatt</t>
+            <t pos="A">slett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">sakea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">ruskea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">brun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="A">päälimäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øvre</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">kymmenes</l>
@@ -10076,7 +10189,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="A">väärä</l>
       </lg>
@@ -10089,6 +10202,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">krum</t>
             <t pos="A">buet</t>
+            <t pos="A">kroket</t>
          </tg>
       </mg>
    </e>
