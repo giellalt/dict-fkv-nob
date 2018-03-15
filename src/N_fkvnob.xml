@@ -28,6 +28,139 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">pontikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smørflyndre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">voisantikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smørflyndre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">voiflynteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smørflyndre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kuormakko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sandskrubb</t>
+            <syng>
+               <syn>kuormakka</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">krooflynteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråflyndre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kevätturska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vårtorsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lotaturska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">loddetorsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kutukala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gytefisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">aapaturska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">havtorsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">asentoturska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stasjonær torsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">asentokala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stasjonær fisk (som vandrer ikke)</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">taaraturska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">taretorsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">yngeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">yngel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">vuori</l>
       </lg>
       <mg>
@@ -24963,6 +25096,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sandskrubb</t>
+            <syng>
+               <syn>kuormakko</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -33496,6 +33632,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">torskeyngel</t>
+            <t pos="N">mort</t>
+            <t pos="N">småfisk</t>
          </tg>
       </mg>
       <mg>
@@ -47864,14 +48002,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ia">
       <lg>
          <l pos="N">santikka</l>
          <stem>santika</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">flyndre</t>
+            <t pos="N">rødspette</t>
          </tg>
       </mg>
    </e>
