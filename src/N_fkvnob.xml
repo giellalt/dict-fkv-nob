@@ -28,6 +28,108 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">vesitainari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blåsteinbit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">poulakko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flekksteinbit</t>
+            <syng>
+               <syn>poulakka</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">poulakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flekksteinbit</t>
+            <syng>
+               <syn>poulakko</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">taarestainari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">taresteinbit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">steimpiitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">steinbit</t>
+            <syng>
+               <syn>mustastainari</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">mustastainari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">steinbit</t>
+            <syng>
+               <syn>steimpiitti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kesälota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommerlodde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kevätlota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vårlodde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">mätilota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rognlodde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">rautalota</l>
       </lg>
       <mg>
@@ -50618,13 +50720,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ia">
       <lg>
          <l pos="N">stainari</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">steinbit</t>
+            <t pos="N">gråsteinbit</t>
          </tg>
       </mg>
    </e>
@@ -52423,13 +52525,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ia">
       <lg>
          <l pos="N">tainari</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">steinbit</t>
+            <t pos="N">gråsteinbit</t>
          </tg>
       </mg>
    </e>
