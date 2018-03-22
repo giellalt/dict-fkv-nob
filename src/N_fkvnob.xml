@@ -28,6 +28,127 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">faakina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spekkhogger</t>
+            <syng>
+               <syn>vaakuna</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vaakuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spekkhogger</t>
+            <syng>
+               <syn>faakina</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">valkeakala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvithval</t>
+            <t pos="N">hvitfisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">vookevaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vågehval</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">saitavalas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seihval</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">rautaskatto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kloskate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">merikissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storskate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">skaatta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">porstanki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skateegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">pakkesilli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småsil</t>
+            <t pos="N">tobis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">makrelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">makrell</t>
+            <syng>
+               <syn>makrili</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">vesitainari</l>
       </lg>
       <mg>
@@ -31667,6 +31788,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">makrell</t>
+            <syng>
+               <syn>makrelli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
