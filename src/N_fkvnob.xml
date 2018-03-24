@@ -28,6 +28,50 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">hol(o)keri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håkjerring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hokki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pigghå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">haija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hai</t>
+            <syng>
+               <syn>haijikala</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">springari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvitnos</t>
+            <t pos="N">springer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">faakina</l>
       </lg>
       <mg>
@@ -11656,6 +11700,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hai</t>
+            <syng>
+               <syn>haija</syn>
+            </syng>
          </tg>
       </mg>
    </e>
