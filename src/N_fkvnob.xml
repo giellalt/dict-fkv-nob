@@ -26,17 +26,103 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e src="ia">
+   </e><e src="ia">
       <lg>
-         <l pos="N">hol(o)keri</l>
+         <l pos="N">rääkki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">håkjerring</t>
+            <t pos="N">rek</t>
+         </tg>
+      </mg>
+   </e>
+   </e><e src="ia">
+      <lg>
+         <l pos="N">maihyljet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">maisel</t>
+         </tg>
+      </mg>
+   </e>
+   </e><e src="ia">
+      <lg>
+         <l pos="N">ryssänhyljet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grønlandssel</t>
+            <t pos="N">russekobbe</t>
+         </tg>
+      </mg>
+   </e>
+   </e><e src="ia">
+      <lg>
+         <l pos="N">jääkatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ringsel</t>
+            <t pos="N">snadd</t>
          </tg>
       </mg>
    </e>
    <e src="ia">
+      <lg>
+         <l pos="N">aapahyljet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storkobbe</t>
+            <t pos="N">blåsel</t>
+            <syng>
+               <syn>jiekkainen</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">jiekkainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storkobbe</t>
+            <t pos="N">blåsel</t>
+            <syng>
+               <syn>aapahyljet</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">prykte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brugde</t>
+            <syng>
+               <syn>prykti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">prykti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brugde</t>
+            <syng>
+               <syn>prykte</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   </e><e src="ia">
       <lg>
          <l pos="N">hokki</l>
       </lg>
