@@ -28,6 +28,150 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="ia">
       <lg>
+         <l pos="N">ristiräätti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjøstjerne</t>
+            <syng>
+               <syn>ristirääppä</syn>
+               <syn>meritähti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ristirääppä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjøstjerne</t>
+            <syng>
+               <syn>ristiräätti</syn>
+               <syn>meritähti</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">sikaraakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">griseskjell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">lammaskraakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saueskjell</t>
+            <syng>
+               <syn>lamphaanraakku</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hevoskraakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hesteskjell</t>
+            <syng>
+               <syn>hevosenraakku</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kuiski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">musling</t>
+            <t pos="N">skjell</t>
+            <syng>
+               <syn>raakku</syn>
+               <syn>kraakku</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kraakku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">musling</t>
+            <t pos="N">skjell</t>
+            <syng>
+               <syn>raakku</syn>
+               <syn>kuiski</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">krilli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krill</t>
+            <t pos="N">småfisk</t>
+            <syng>
+               <syn>kriili</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">hummeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hummer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kuningaskrapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kongekrabbe</t>
+            <syng>
+               <syn>ryssänkrapu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">ryssänkrapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kongekrabbe</t>
+            <syng>
+               <syn>kuningaskrapu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
          <l pos="N">rääkki</l>
       </lg>
       <mg>
@@ -13331,7 +13475,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">hesteskjell</t>
             <syng>
-               <syn>raakku</syn>
+               <syn>hevoskraakku</syn>
             </syng>
          </tg>
       </mg>
@@ -24189,6 +24333,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skjell</t>
+            <t pos="N">musling</t>
+            <syng>
+               <syn>kraakku</syn>
+               <syn>kuiski</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -24460,6 +24609,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">krill</t>
             <t pos="N">småfisk</t>
+            <syng>
+               <syn>krilli</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -27850,7 +28002,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">saueskjell</t>
             <syng>
-               <syn>raakku</syn>
+               <syn>lammaskraakku</syn>
             </syng>
          </tg>
       </mg>
@@ -28610,9 +28762,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kuskjell</t>
-            <syng>
-               <syn>raakku</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -33013,6 +33162,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sjøstjerne</t>
+            <syng>
+               <syn>ristirääppä</syn>
+               <syn>ristiräätti</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -42849,9 +43002,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bukkeskjell</t>
-            <syng>
-               <syn>raakku</syn>
-            </syng>
          </tg>
       </mg>
    </e>
