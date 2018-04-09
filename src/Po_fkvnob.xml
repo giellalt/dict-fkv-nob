@@ -26,6 +26,114 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mk">
+      <lg>
+         <l pos="Po">sishäänpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">innover</t>
+            <xg>
+               <x>Kynsi kassuu sishäänpäin.</x>
+               <xt>Negelen vokser innover.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">ulvospäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">utover</t>
+            <xg>
+               <x>Oksat kasuthaan ulvospäin.</x>
+               <xt>Greinene vokser utover.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">ulospäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">utover</t>
+            <xg>
+               <x>Oksat kasuthaan ulospäin.</x>
+               <xt>Greinene vokser utover.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">kohti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">imot</t>
+            <xg>
+               <x>Het kävelthiin kohti horisonttii.</x>
+               <xt>De gikk rett imot horisonten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">kohđi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">imot</t>
+            <xg>
+               <x>Het kävelthiin kohđi horisonttii.</x>
+               <xt>De gikk rett imot horisonten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">takana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">bortom</t>
+            <xg>
+               <x>Huonet mukan takana.</x>
+               <xt>Huset bortom svingen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">toisela puolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">bortom</t>
+            <xg>
+               <x>Huonet toisela puolela mukkaa.</x>
+               <xt>Huset bortom svingen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">innom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">tykö</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="Po">alkkain</l>
@@ -705,6 +813,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">i retning av</t>
             <t pos="Pr">mot</t>
+            <t pos="Pr">imot</t>
+            <xg>
+            	<x>Heilä ei ole mithään sitä vasthaan, ette soffassa oon kissakarvoi.</x>
+            	<xt>De har ikke noe imot kattehår i sofaen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -807,13 +920,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mk">
       <lg>
          <l pos="Po">välilä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
+            <t pos="Pr">imellom</t>
          </tg>
       </mg>
    </e>
