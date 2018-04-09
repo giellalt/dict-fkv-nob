@@ -233,7 +233,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">gjennom</t>
+            <t pos="Pr">igjennom</t>
             <t pos="Pr">via</t>
+            <xg>
+            	<x>Het kävelthiin tunneliita läpi.</x> 
+	            <xt>De gikk gjennom tunnelen.</xt>  
+	        </xg>          
          </tg>
       </mg>
    </e>
