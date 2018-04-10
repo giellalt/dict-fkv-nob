@@ -28,6 +28,104 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="Po">alaspäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">nedover</t>
+            <xg>
+               <x>Het kävelthiin alaspäin kattuu.</x>
+               <xt>De spaserte nedover gata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">ylöspäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">oppover</t>
+            <xg>
+               <x>Ko sie kävelet kattuu ylöspäin löyđät lensmanin talon.</x>
+               <xt>Når du går oppover gata finner du huset til lensmannen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">sisälä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">inni</t>
+            <xg>
+               <x>Arkun sisälä.</x>
+               <xt>Inni kista.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">yläpuolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ovenfor</t>
+            <xg>
+               <x>Harakanpesä oon matalammiitten oksiin yläpuolela.</x>
+               <xt>Skjæreredet ligger ovenfor de laveste grenene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">alapuolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">nedenfor</t>
+            <xg>
+               <x>Hän assuu kirkon alapuolela.</x>
+               <xt>Han/hun bor nedenfor kirken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">vastapuolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">overfor</t>
+            <xg>
+               <x>Koulu oon keltaisen huonheen vastapuolela.</x>
+               <xt>Skolen er overfor det gule huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">eđessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">overfor</t>
+            <xg>
+               <x>Seissoot vaikkeuđen eđessä.</x>
+               <xt>Stå overfor et problem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="Po">sishäänpäin</l>
       </lg>
       <mg>
@@ -357,6 +455,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs</t>
+            <xg>
+               <x>Poika kulkkee fieruaa myöten.</x>
+               <xt>Gutten går langs fjæra.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -393,6 +495,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs</t>
+            <xg>
+               <x>Poika kulkkee fieruaa myöđen.</x>
+               <xt>Gutten går langs fjæra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -598,6 +704,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">inne i</t>
+            <xg>
+               <x>Istuut piilin sisälä.</x>
+               <xt>Sitte inne i bilen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
