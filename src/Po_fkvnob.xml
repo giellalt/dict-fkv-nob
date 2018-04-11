@@ -28,6 +28,104 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mk">
       <lg>
+         <l pos="Po">ympäri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">omkring</t>
+            <xg>
+               <x>puhhuut probleemin ympäri</x>
+               <xt>snakke omkring problemet</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">sisäpuolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">innenfor</t>
+            <xg>
+               <x>Lehmät häyttyy pyssyyt aiđan sisäpuolela.</x>
+               <xt>Kuerne må bli værende innenfor gjerdet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">ulkopuolela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">utenfor</t>
+            <xg>
+               <x>Hän seissoo talon ulkopuolela.</x>
+               <xt>Han/hun står utenfor huset.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">jälkhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ifølge</t>
+            <xg>
+               <x>Assiintunttiijoitten jälkhiin se kannattaa ajatella miljöötä.</x>
+               <xt>Ifølge ekspertene lønner det seg å tenke på miljøet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">siutte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">forbi</t>
+            <xg>
+               <x>Met kävelemmä nyt kirkon siutte.</x>
+               <xt>Vi spaserer nå forbi kirken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">sivvu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">forbi</t>
+            <xg>
+               <x>Piika käveli klasin sivvu.</x>
+               <xt>Tjenestepiken gikk forbi vinduet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="Po">etheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">forbi</t>
+            <xg>
+               <x>Anttaat toinen mennä etheen.</x>
+               <xt>Slippe forbi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="Po">alaspäin</l>
       </lg>
       <mg>
