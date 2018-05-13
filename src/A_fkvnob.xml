@@ -488,7 +488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">treverdig</t>
+            <t pos="A">nullverdig</t>
             <xg>
                <x>nollapaikkainen verbi</x>
                <xt>nullverdig verb</xt>
@@ -534,20 +534,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>yksipaikkainen verbi</x>
                <xt>enverdig verb</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="A">modaalinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">modal-</t>
-            <xg>
-               <x>modaalinen verbi</x>
-               <xt>modalverb</xt>
             </xg>
          </tg>
       </mg>
