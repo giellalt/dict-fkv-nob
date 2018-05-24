@@ -26,6 +26,26 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="N">kanki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="N">herraväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">herskap</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="N">ristiräätti</l>
@@ -14278,6 +14298,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">travelhet</t>
+            <t pos="N">hast</t>
             <xg>
                <x>Minula oon hoppu.</x>
                <xt>Jeg har det travelt.</xt>
@@ -62375,7 +62396,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">jakk</t>
+            <t pos="N">jakke</t>
          </tg>
       </mg>
    </e>
