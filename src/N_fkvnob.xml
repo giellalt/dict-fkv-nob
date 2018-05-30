@@ -33500,7 +33500,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="N">mieli</l>
          <stem>miele</stem>
@@ -33510,6 +33510,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">sinn</t>
             <t pos="N">tanke</t>
+            <t pos="N">mening</t>
+            <t pos="N">humør</t>
          </tg>
       </mg>
       <mg>
@@ -37548,7 +37550,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai:mj">
       <lg>
          <l pos="N">osa</l>
          <stem>ossa</stem>
@@ -37558,6 +37560,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">part</t>
             <t pos="N">rolle</t>
             <t pos="N">del</t>
+            <t pos="N">andel</t>
          </tg>
       </mg>
    </e>
@@ -42631,7 +42634,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;mj">
       <lg>
          <l pos="N">prikku</l>
          <stem>priku</stem>
@@ -42639,6 +42642,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">prikk</t>
+            <t pos="N">flekk</t>
          </tg>
       </mg>
    </e>
@@ -42991,7 +42995,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mj">
       <lg>
          <l pos="N">puhuminen</l>
       </lg>
@@ -42999,6 +43003,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">snakk</t>
             <t pos="N">snakking</t>
+            <t pos="N">prat</t>
          </tg>
       </mg>
    </e>
@@ -62529,13 +62534,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="oa">
+   <e src="oa;mj">
       <lg>
          <l pos="N">oppitiima</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">leksjon</t>
+            <t pos="N">undervisningstime</t>
          </tg>
       </mg>
    </e>
@@ -64287,7 +64293,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">internet</t>
+            <t pos="N">internett</t>
          </tg>
       </mg>
    </e>
