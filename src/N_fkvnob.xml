@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="N">uni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drøm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="N">tällinki</l>
       </lg>
       <mg>
@@ -58173,7 +58183,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="N">vaimo</l>
       </lg>
@@ -58182,6 +58192,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">frue</t>
             <t pos="N">hustru</t>
             <t pos="N">kone</t>
+            <t pos="N">kvinne</t>
          </tg>
       </mg>
    </e>
@@ -59445,13 +59456,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="N">velli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">suppe</t>
+            <t pos="N">velling</t>
          </tg>
       </mg>
    </e>
@@ -62772,13 +62784,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="oa">
+   <e src="oa;mj">
       <lg>
          <l pos="N">vesimuki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vannmugg</t>
+            <t pos="N">vannkanne</t>
          </tg>
       </mg>
    </e>
