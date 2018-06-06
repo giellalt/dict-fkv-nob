@@ -26,6 +26,44 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="V">henkkaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">henge</t>
+            <xg>
+              <x>Kuva henkkaa seinälä.</x>
+              <xt>Bilden henger på veggen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">henkastaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">henge</t>
+            <xg>
+              <x>Sie saatat hengastaat kuvan tuohon.</x>
+              <xt>Du kan henge bilden der.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">anssoot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sette opp felle</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="V">rajata</l>
@@ -96,13 +134,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;mj">
       <lg>
          <l pos="V">friiata</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">flørte</t>
+            <t pos="V">ha følge med</t>
          </tg>
       </mg>
    </e>
@@ -1636,7 +1675,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">haukkuut</l>
          <stem>hauku</stem>
@@ -1646,6 +1685,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">bjeffe</t>
             <t pos="V">gjø</t>
             <t pos="V">skjelle</t>
+            <t pos="V">bebreide</t>
+            <t pos="V">klage</t>
          </tg>
       </mg>
    </e>
@@ -2121,7 +2162,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">hoksata</l>
          <stem>hoksaa</stem>
@@ -2130,6 +2171,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">komme på</t>
+            <t pos="V">finne</t>
          </tg>
       </mg>
    </e>
@@ -2695,7 +2737,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">häyttyyt</l>
          <stem>häyđy</stem>
@@ -2704,6 +2746,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">måtte</t>
+            <t pos="V">være nødt til</t>
             <syng>
                <syn>häättyyt</syn>
             </syng>
