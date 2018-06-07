@@ -28,6 +28,27 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="V">käskeet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gi ordre</t>
+            <t pos="V">kalle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">kaupata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drive handel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="V">henkkaat</l>
       </lg>
       <mg>
@@ -3404,7 +3425,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">jähtyyt</l>
          <stem>jähđy</stem>
@@ -3413,6 +3434,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bli avkjølt</t>
             <t pos="V">bli kald</t>
+            <t pos="V">kjølne</t>
          </tg>
       </mg>
    </e>
@@ -6095,7 +6117,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">kuttuut</l>
          <stem>kuttu</stem>
@@ -6105,6 +6127,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">be</t>
             <t pos="V">kalle</t>
             <t pos="V">invitere</t>
+            <t pos="V">be om å komme</t>
          </tg>
       </mg>
    </e>
@@ -6783,7 +6806,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">laittaat</l>
          <stem>laita</stem>
@@ -6791,6 +6814,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lage</t>
+            <t pos="V">gjøre</t>
          </tg>
       </mg>
    </e>
@@ -7470,7 +7494,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">lisätä</l>
          <stem>lissää</stem>
@@ -7479,6 +7503,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">legge til</t>
+            <t pos="V">tilsette</t>
+            <t pos="V">føye til</t>
+            <t pos="V">øke</t>
          </tg>
       </mg>
    </e>
