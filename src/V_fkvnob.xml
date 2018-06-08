@@ -28,6 +28,26 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="V">piikata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">se hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">näjetellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">se hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="V">käskeet</l>
       </lg>
       <mg>
@@ -8509,7 +8529,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">meinata</l>
          <stem>meinaa</stem>
@@ -8529,6 +8549,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">ha som mening</t>
             <t pos="V">tenke seg</t>
+            <t pos="V">synes</t>
          </tg>
       </mg>
    </e>
@@ -8581,7 +8602,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">mennä</l>
          <stem>mene</stem>
@@ -8591,6 +8612,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">begi seg</t>
             <t pos="V">gå</t>
+            <t pos="V">ferdes</t>
          </tg>
       </mg>
    </e>
@@ -9150,7 +9172,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">nauraat</l>
       </lg>
@@ -9441,6 +9463,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">stå opp</t>
             <t pos="V">stige</t>
+            <t pos="V">stikke opp</t>
          </tg>
       </mg>
    </e>
@@ -11300,7 +11323,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">pittäät</l>
          <stem>piđä</stem>
@@ -11324,6 +11347,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bruke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">må</t>
          </tg>
       </mg>
    </e>
