@@ -26,6 +26,73 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+  <e src="mj">
+      <lg>
+         <l pos="V">tutustuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli kjent</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="mj">
+      <lg>
+         <l pos="V">syklata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sykle</t>
+            <syng>
+               <syn>syklätä</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+  <e src="mj">
+      <lg>
+         <l pos="V">soittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spille</t>
+            <xg>
+              <x>Pekka soittaa kitaarii.</x>
+              <xt>Pekka spiller gitar.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">saattaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">makte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">rinkata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ringe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="V">rinkastaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ringe</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mj">
       <lg>
          <l pos="V">näjetellä</l>
@@ -14432,6 +14499,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sykle</t>
+            <syng>
+               <syn>syklata</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -14684,7 +14754,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">tahtoot</l>
          <stem>tahđo</stem>
@@ -14692,6 +14762,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ville</t>
+            <t pos="V">ønske</t>
          </tg>
       </mg>
    </e>
