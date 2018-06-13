@@ -10561,7 +10561,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="stor">
+         <tg xml:lang="nob">
+         <re>"stor"</re>
             <t pos="N">elv</t>
          </tg>
       </mg>
@@ -11194,7 +11195,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fierua</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om stranden og vannet">
+         <tg xml:lang="nob">
+         <re>"om stranden og vannet"</re>
             <t pos="N">fjære</t>
          </tg>
       </mg>
@@ -11204,7 +11206,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fierva</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om stranden og vannet">
+         <tg xml:lang="nob">
+         <re>"om stranden og vannet"</re>
             <t pos="N">fjære</t>
             <syng>
                <syn>laskuvesi</syn>
