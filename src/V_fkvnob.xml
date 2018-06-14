@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
   <e src="mj">
       <lg>
+         <l pos="V">vaatettiit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kle på sig</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="mj">
+      <lg>
          <l pos="V">tutustuut</l>
       </lg>
       <mg>
@@ -17251,7 +17261,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">viippyyt</l>
          <stem>viivy</stem>
@@ -17260,6 +17270,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">drøye</t>
+            <t pos="V">bli lenge</t>
+            <t pos="V">forbli</t>
          </tg>
       </mg>
    </e>
@@ -17298,7 +17310,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="V">viittiit</l>
          <stem>viitti</stem>
@@ -17307,6 +17319,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">ville</t>
             <t pos="V">gidde</t>
+            <t pos="V">orke</t>
          </tg>
       </mg>
    </e>
