@@ -30727,7 +30727,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. trylleformular">
+         <tg xml:lang="nob">
+         <re>"f.eks. trylleformular"</re>
             <t pos="N">formular</t>
          </tg>
       </mg>
@@ -30930,7 +30931,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="del av en hestesele">
+         <tg xml:lang="nob">
+         <re>"del av en hestesele"</re>
             <t pos="N">bogtre</t>
          </tg>
       </mg>
@@ -31564,7 +31566,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">löyly</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i badstua">
+         <tg xml:lang="nob">
+         <re>"i badstua"</re>
             <t pos="N">os</t>
             <t pos="N">damp</t>
             <syng>
@@ -31629,7 +31632,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">maaherra</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="hist.">
+         <tg xml:lang="nob">
+         <re>"hist."</re>
             <t pos="N">amtmann</t>
          </tg>
       </mg>
@@ -31654,7 +31658,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">maakko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="spes. på fisk">
+         <tg xml:lang="nob">
+         <re>"spes. på fisk"</re>
             <t pos="N">mage</t>
          </tg>
       </mg>
@@ -31987,7 +31992,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">maikuu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="måned">
+         <tg xml:lang="nob">
+         <re>"måned"</re>
             <t pos="N">mai</t>
             <syng>
                <syn>mai</syn>
