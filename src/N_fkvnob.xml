@@ -20289,7 +20289,8 @@ For the full license text, see the link above.</lic>
          <stem>kauppamiehe</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mannlig">
+         <tg xml:lang="nob">
+         <re>"mannlig"</re>
             <t pos="N">kjøpmann</t>
          </tg>
       </mg>
@@ -20505,7 +20506,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">keili</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="fugl">
+         <tg xml:lang="nob">
+         <re>"fugl"</re>
             <t pos="N">tjeld</t>
          </tg>
       </mg>
@@ -20521,7 +20523,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. over fjellet">
+         <tg xml:lang="nob">
+         <re>"f.eks. over fjellet"</re>
             <t pos="N">ferdselsvei</t>
          </tg>
       </mg>
@@ -20987,7 +20990,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kerppu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="for husdyr">
+         <tg xml:lang="nob">
+         <re>"for husdyr"</re>
             <t pos="N">bunt av tørket bjørkeris med blad</t>
          </tg>
       </mg>
@@ -21127,7 +21131,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="ble tidligere spist rundt kl. tolv">
+         <tg xml:lang="nob">
+         <re>"ble tidligere spist rundt kl. tolv"</re>
             <t pos="N">hovedmåltid</t>
          </tg>
       </mg>
@@ -22949,7 +22954,8 @@ For the full license text, see the link above.</lic>
          <l pos="N" nr="Pl">koiranpäivät</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="23.7.-23.8.">
+         <tg xml:lang="nob">
+         <re>"23.7.-23.8."</re>
             <t pos="N">hundedagene</t>
          </tg>
       </mg>
@@ -23081,7 +23087,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kokhoonpano</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f. eks. i en bok">
+         <tg xml:lang="nob">
+         <re>"f.eks. i en bok"</re>
             <t pos="N">samling</t>
          </tg>
       </mg>
@@ -23416,7 +23423,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">koni</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="dårlig">
+         <tg xml:lang="nob">
+         <re>"dårlig"</re>
             <t pos="N">hest</t>
          </tg>
       </mg>
@@ -23982,7 +23990,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="der strømmen snur seg">
+         <tg xml:lang="nob">
+         <re>"der strømmen snur seg"</re>
             <t pos="N">liten foss</t>
             <t pos="N">elvestryk</t>
          </tg>
@@ -24352,7 +24361,8 @@ For the full license text, see the link above.</lic>
          <stem>koulumiehe</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mannlig">
+         <tg xml:lang="nob">
+         <re>"mannlig"</re>
             <t pos="N">lærer</t>
          </tg>
       </mg>
@@ -24564,7 +24574,8 @@ For the full license text, see the link above.</lic>
          <l pos="N" nr="Pl">krannikset</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i forhold til hverandre">
+         <tg xml:lang="nob">
+         <re>"i forhold til hverandre"</re>
             <t pos="N">naboer</t>
          </tg>
       </mg>
@@ -24717,7 +24728,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">krenkku</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="til å sitte på">
+         <tg xml:lang="nob">
+         <re>"til å sitte på"</re>
             <t pos="N">krakk</t>
          </tg>
       </mg>
@@ -25010,7 +25022,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kruuvamies</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mannlig">
+         <tg xml:lang="nob">
+         <re>"mannlig</re>
             <t pos="N">gruvearbeider</t>
          </tg>
       </mg>
@@ -25431,7 +25444,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="i tiltale">
+         <tg xml:lang="nob">
+         <re>"i tiltale"</re>
             <t pos="Interj">kjære</t>
             <xg>
                <x>Pekka kulta!</x>
@@ -25743,7 +25757,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kuohukko</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="sted der det er">
+         <tg xml:lang="nob">
+         <re>"sted der det er"</re>
             <t pos="N">brus</t>
             <t pos="N">skum</t>
          </tg>
@@ -26319,7 +26334,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kusta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="til å koste med">
+         <tg xml:lang="nob">
+         <re>"til å koste med"</re>
             <t pos="N">kost</t>
          </tg>
       </mg>
