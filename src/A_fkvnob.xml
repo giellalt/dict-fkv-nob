@@ -26,6 +26,32 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="A">hoppuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">travel</t>
+            <t pos="A">opptatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">hoikkanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">smal</t>
+            <t pos="A">slank</t>
+            <t pos="A">tynn</t>
+            <syng>
+               <syn>hoikka</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="A">ylimäinen</l>
@@ -910,7 +936,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;mj">
       <lg>
          <l pos="A">hirmunen</l>
       </lg>
@@ -918,6 +944,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">veldig</t>
             <t pos="A">enorm</t>
+            <t pos="A">forferdelig</t>
             <syng>
                <syn>hirmuinen</syn>
             </syng>
@@ -1607,20 +1634,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">administrativ</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">hoppu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">travel</t>
-            <xg>
-               <x>Minula oon hoppu.</x>
-               <xt>Jeg har det travelt.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2728,6 +2741,9 @@ For the full license text, see the link above.</lic>
             <t pos="A">smal</t>
             <t pos="A">slank</t>
             <t pos="A">tynn</t>
+            <syng>
+               <syn>hoikkanen</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -2898,7 +2914,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;mj">
       <lg>
          <l pos="A">hööli</l>
       </lg>
@@ -2906,6 +2922,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">kjekk</t>
             <t pos="A">grei</t>
+            <t pos="A">høflig</t>
          </tg>
       </mg>
    </e>
