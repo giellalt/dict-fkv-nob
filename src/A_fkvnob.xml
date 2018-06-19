@@ -28,6 +28,38 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="A">minkälainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hvordan</t>
+            <t pos="A">hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">kumara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kroket</t>
+            <t pos="A">krøkt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">kappee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">smal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="A">hoppuinen</l>
       </lg>
       <mg>
@@ -3571,7 +3603,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="A">kaunis</l>
          <stem>kaunhii</stem>
@@ -3580,6 +3612,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">ven</t>
             <t pos="A">pen</t>
+            <t pos="A">vakker</t>
          </tg>
       </mg>
    </e>
@@ -3949,6 +3982,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">vakker</t>
             <t pos="A">utilnærmelig</t>
             <t pos="A">staselig</t>
+            <t pos="A">prektig</t>
          </tg>
       </mg>
    </e>
