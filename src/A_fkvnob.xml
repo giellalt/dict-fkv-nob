@@ -28,6 +28,42 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="A">vappaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ledig</t>
+            <syng>
+               <syn>vapaa</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">sotahullu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">krigsentusiast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="A">oranssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">oransje</t>
+            <syng>
+               <syn>oransi</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="A">minkälainen</l>
       </lg>
       <mg>
@@ -6049,6 +6085,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">oransje</t>
+            <syng>
+               <syn>oranssi</syn>
+            </syng>
          </tg>
       </mg>
    </e>
@@ -7853,13 +7892,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="A">siivo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">snill</t>
+            <t pos="A">ordentlig</t>
          </tg>
       </mg>
    </e>
@@ -7984,6 +8024,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">artig</t>
             <t pos="A">morsom</t>
+            <t pos="A">trivelig</t>
          </tg>
       </mg>
       <mg>
@@ -9498,6 +9539,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">fri</t>
             <t pos="A">ledig</t>
+            <syng>
+               <syn>vappaa</syn>
+            </syng>
          </tg>
       </mg>
    </e>
