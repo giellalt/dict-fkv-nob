@@ -26,6 +26,90 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ennen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">før</t>
+            <t pos="Adv">tidligere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ei vieläkhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ikke ennå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ei tietenkhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">selvsagt ikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ei olheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ikke i det hele tatt</t>
+            <t pos="Adv">slett ikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ei kuitenkhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">likevel ikke</t>
+            <t pos="Adv">i hvert fall ikke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">ei koskhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">aldrig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">under</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">aikana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">under</t>
+            <t pos="Adv">rundt</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="Adv">ylempänä</l>
@@ -384,6 +468,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">ennå</t>
             <t pos="Adv">fremdeles</t>
+            <t pos="Adv">alltid</t>
          </tg>
       </mg>
    </e>
@@ -444,6 +529,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">nedenfor</t>
             <t pos="Adv">på nedsida av</t>
+            <t pos="Adv">under</t>
          </tg>
       </mg>
    </e>
