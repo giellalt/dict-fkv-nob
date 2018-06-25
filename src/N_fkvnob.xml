@@ -45732,7 +45732,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rapatainari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="skjellsord">
+         <tg xml:lang="nob">
+         <re>"skjellsord"</re>
             <t pos="N">slusk</t>
             <t pos="N">drittsekk</t>
          </tg>
@@ -45822,7 +45823,8 @@ For the full license text, see the link above.</lic>
          <stem>rathaa</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. i klokke, mølle">
+         <tg xml:lang="nob">
+         <re>"f.eks. i klokke, mølle"</re>
             <t pos="N">hjul</t>
          </tg>
       </mg>
@@ -46133,7 +46135,8 @@ For the full license text, see the link above.</lic>
          <stem>ravintto</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mat eller lign.">
+         <tg xml:lang="nob">
+         <re>"mat eller lign."</re>
             <t pos="N">næring</t>
          </tg>
       </mg>
@@ -46648,7 +46651,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">riippo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="øverste kant på båtside">
+         <tg xml:lang="nob">
+         <re>"øverste kant på båtside"</re>
             <t pos="N">ripe</t>
          </tg>
       </mg>
@@ -47761,7 +47765,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ruuma</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i hus">
+         <tg xml:lang="nob">
+         <re>"i hus"</re>
             <t pos="N">rom</t>
          </tg>
       </mg>
@@ -47853,7 +47858,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ruutu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. i vinduet">
+         <tg xml:lang="nob">
+         <re>"f.eks. i vinduet"</re>
             <t pos="N">rute</t>
          </tg>
       </mg>
@@ -48085,7 +48091,8 @@ For the full license text, see the link above.</lic>
          <stem>räkinkki</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="skolefag">
+         <tg xml:lang="nob">
+         <re>"skolefag"</re>
             <t pos="N">regning</t>
          </tg>
       </mg>
@@ -48096,6 +48103,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="skolefag">
+         <re>"skolefag"</re>
             <t pos="N">regning</t>
          </tg>
       </mg>
