@@ -28,6 +28,47 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="Adv">kuulemin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">etter forlydende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">kunka paljon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hvor mye</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">kunka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hvordan</t>
+            <t pos="Adv">på hvilken måte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">illoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">om kveldene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="Adv">ennen</l>
       </lg>
       <mg>
@@ -1732,6 +1773,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">etterpå</t>
             <t pos="Adv">seinere</t>
+            <t pos="Adv">etter</t>
          </tg>
       </mg>
    </e>
@@ -2006,6 +2048,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">midt i</t>
+            <t pos="Adv">midt på</t>
             <t pos="Adv">uferdig</t>
          </tg>
       </mg>
@@ -2140,13 +2183,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="Adv">kohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nesten</t>
+            <t pos="Adv">ganske</t>
+            <t pos="Adv">straks</t>
+            <t pos="Adv">snart</t>
          </tg>
       </mg>
    </e>
