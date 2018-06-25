@@ -39049,7 +39049,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pankki</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om hav">
+         <tg xml:lang="nob">
+         <re>"om hav"</re>
             <t pos="N">banke</t>
             <t pos="N">havbanke</t>
             <t pos="N">bredd</t>
@@ -39497,7 +39498,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">passi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="dokument">
+         <tg xml:lang="nob">
+         <re>"dokument"</re>
             <t pos="N">pass</t>
          </tg>
       </mg>
@@ -39558,7 +39560,8 @@ For the full license text, see the link above.</lic>
          <stem>patto</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="for å stenge fisk med">
+         <tg xml:lang="nob">
+         <re>"for å stenge fisk med"</re>
             <t pos="N">demning</t>
             <t pos="N">stengsel</t>
          </tg>
@@ -40759,7 +40762,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pijo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="på innsida">
+         <tg xml:lang="nob">
+         <re>"på innsida"</re>
             <t pos="N">håndflate</t>
             <t pos="N">neve</t>
             <syng>
@@ -41093,7 +41097,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pinnahäkki</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="for høy">
+         <tg xml:lang="nob">
+         <re>"for høy"</re>
             <t pos="N">hekk</t>
          </tg>
       </mg>
@@ -42654,7 +42659,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pounu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="stor">
+         <tg xml:lang="nob">
+         <re>"stor"</re>
             <t pos="N">tue</t>
          </tg>
       </mg>
@@ -42968,7 +42974,8 @@ For the full license text, see the link above.</lic>
          <stem>pruukki</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="det å bruke">
+         <tg xml:lang="nob">
+         <re>"det å bruke"</re>
             <t pos="N">bruk</t>
          </tg>
       </mg>
@@ -43074,7 +43081,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pröövi</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. skoleprøve">
+         <tg xml:lang="nob">
+         <re>"f.eks. skoleprøve"</re>
             <t pos="N">prøve</t>
          </tg>
       </mg>
@@ -43376,7 +43384,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">puntari</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="til å veie med">
+         <tg xml:lang="nob">
+         <re>"til å veie med"</re>
             <t pos="N">vekt</t>
          </tg>
       </mg>
@@ -44391,7 +44400,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">päret</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="av tre, stein">
+         <tg xml:lang="nob">
+         <re>"av tre, stein"</re>
             <t pos="N">spon</t>
          </tg>
       </mg>
@@ -45197,7 +45207,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">raavu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en slags stang i hesjer o.l.">
+         <tg xml:lang="nob">
+         <re>"en slags stang i hesjer o.l."</re>
             <t pos="N">rå</t>
          </tg>
       </mg>
