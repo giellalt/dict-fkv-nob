@@ -37797,7 +37797,8 @@ For the full license text, see the link above.</lic>
          <stem>otta</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="kroppsdel">
+         <tg xml:lang="nob">
+         <re>"kroppsdel"</re>
             <t pos="N">panne</t>
          </tg>
       </mg>
@@ -37986,7 +37987,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">paakariuuni</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="vedfyrt og av stein">
+         <tg xml:lang="nob">
+         <re>"vedfyrt og av stein"</re>
             <t pos="N">bakerovn</t>
          </tg>
       </mg>
@@ -38334,7 +38336,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="til å farge stoff med">
+         <tg xml:lang="nob">
+         <re>"til å farge stoff med"</re>
             <t pos="N">farge</t>
          </tg>
       </mg>
@@ -38428,7 +38431,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">paistiuuni</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="moderne">
+         <tg xml:lang="nob">
+         <re>"moderne"</re>
             <t pos="N">steikeovn</t>
          </tg>
       </mg>
@@ -38721,7 +38725,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">palainen</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en liten ~">
+         <tg xml:lang="nob">
+         <re>"en liten ~"</re>
             <t pos="N">bit</t>
          </tg>
       </mg>
@@ -38789,7 +38794,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">paljo</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="ovalt ~ til å vaske i">
+         <tg xml:lang="nob">
+         <re>"ovalt ~ til å vaske i"</re>
             <t pos="N">kar</t>
          </tg>
       </mg>
