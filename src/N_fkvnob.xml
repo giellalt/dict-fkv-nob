@@ -53541,6 +53541,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="for å stenge vann med">
+         <re>"for å stenge vann med"</re>
             <t pos="N">stengsel</t>
          </tg>
       </mg>
@@ -54277,7 +54278,8 @@ For the full license text, see the link above.</lic>
          <stem>tepu</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i sjøen">
+         <tg xml:lang="nob">
+         <re>"i sjøen"</re>
             <t pos="N">tang</t>
             <syng>
                <syn>staara</syn>
@@ -54469,7 +54471,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="på et redskap">
+         <tg xml:lang="nob">
+         <re>"på et redskap"</re>
             <t pos="N">blad</t>
             <t pos="N">spiss</t>
             <t pos="N">hode</t>
@@ -54655,7 +54658,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tietyömies</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mannlig">
+         <tg xml:lang="nob">
+         <re>"mannlig"</re>
             <t pos="N">veiarbeider</t>
          </tg>
       </mg>
@@ -54936,7 +54940,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tiski</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i butikken">
+         <tg xml:lang="nob">
+         <re>"i butikken"</re>
             <t pos="N">disk</t>
          </tg>
       </mg>
@@ -55186,7 +55191,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tooma</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i fiskeredskap">
+         <tg xml:lang="nob">
+         <re>"i fiskeredskap"</re>
             <t pos="N">snor</t>
             <t pos="N">snøre</t>
          </tg>
@@ -55602,7 +55608,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">trolli</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="også som skjellsord">
+         <tg xml:lang="nob">
+         <re>"også som skjellsord"</re>
             <t pos="N">troll</t>
             <t pos="N">heks</t>
          </tg>
@@ -55922,7 +55929,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tullimies</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mannlig">
+         <tg xml:lang="nob">
+         <re>"mannlig"</re>
             <t pos="N">toller</t>
          </tg>
       </mg>
@@ -55997,7 +56005,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tumppu</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="rundt og tykkt">
+         <tg xml:lang="nob">
+         <re>"rundt og tykt"</re>
             <t pos="N">kvensk brød</t>
          </tg>
       </mg>
