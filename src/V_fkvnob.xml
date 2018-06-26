@@ -7241,7 +7241,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="i stykker">
+         <tg xml:lang="nob">
+	         <re>i stykker</re>
             <t pos="V">klippe</t>
          </tg>
       </mg>
@@ -7475,7 +7476,8 @@ For the full license text, see the link above.</lic>
          <stem>liikuta</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. grøt">
+         <tg xml:lang="nob">
+	         <re>f.eks. grøt</re>
             <t pos="V">røre</t>
             <t pos="V">bevege</t>
          </tg>
@@ -7661,7 +7663,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">lohjeta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en bit">
+         <tg xml:lang="nob">
+	         <re>en bit</re>
             <t pos="V">løsne</t>
             <t pos="V">falle av</t>
          </tg>
@@ -8235,7 +8238,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">lähđetyttäät</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. smuts">
+         <tg xml:lang="nob">
+	         <re>f.eks. smuts</re>
             <t pos="V">ta bort</t>
          </tg>
       </mg>
@@ -8395,7 +8399,8 @@ For the full license text, see the link above.</lic>
          <stem>maalan</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. vegg">
+         <tg xml:lang="nob">
+	         <re>f.eks. vegg</re>
             <t pos="V">male</t>
          </tg>
       </mg>
@@ -9410,7 +9415,8 @@ For the full license text, see the link above.</lic>
          <stem>nilota</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. bark">
+         <tg xml:lang="nob">
+	         <re>f.eks. bark</re>
             <t pos="V">flekke</t>
          </tg>
       </mg>
@@ -9798,7 +9804,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="om utseende">
+         <tg xml:lang="nob">
+	         <re>om utseende</re>
             <t pos="V">se ut</t>
          </tg>
       </mg>
@@ -9851,6 +9858,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" re="~ere">
+	         <re>f.eks. bli strakere, bli rettere</re>
             <t pos="V">bli strak</t>
             <t pos="V">bli rett</t>
          </tg>
