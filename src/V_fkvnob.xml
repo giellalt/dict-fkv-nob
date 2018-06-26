@@ -6709,7 +6709,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">käänelä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="frekv.">
+         <tg xml:lang="nob">
+	         <re>frekv.</re>
             <t pos="V">snu</t>
          </tg>
       </mg>
@@ -9857,7 +9858,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">oijeta</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="~ere">
+         <tg xml:lang="nob">
 	         <re>f.eks. bli strakere, bli rettere</re>
             <t pos="V">bli strak</t>
             <t pos="V">bli rett</t>
@@ -16611,7 +16612,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">vaistota</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om været">
+         <tg xml:lang="nob">
+	         <re>om været</re>
             <t pos="V">stilne</t>
          </tg>
       </mg>
@@ -16841,12 +16843,14 @@ For the full license text, see the link above.</lic>
          <l pos="V">vanuttaat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. votter">
+         <tg xml:lang="nob">
+	         <re>f.eks. votter</re>
             <t pos="V">tove</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="deig">
+         <tg xml:lang="nob">
+	         <re>deig</re>
             <t pos="V">kna</t>
          </tg>
       </mg>
@@ -17429,7 +17433,8 @@ For the full license text, see the link above.</lic>
          <stem>viljel</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="jord">
+         <tg xml:lang="nob">
+	         <re>jord</re>
             <t pos="V">dyrke</t>
          </tg>
       </mg>
@@ -17896,7 +17901,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">väävätä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="med vevestol">
+         <tg xml:lang="nob">
+	         <re>med vevestol</re>
             <t pos="V">veve</t>
          </tg>
       </mg>
