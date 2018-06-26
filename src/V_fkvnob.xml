@@ -3604,7 +3604,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="for eks. studiene">
+         <tg xml:lang="nob">
+	         <re>f.eks. studiene</re>
             <t pos="V">avbryte</t>
          </tg>
       </mg>
@@ -3880,7 +3881,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">kankkoot</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. stein, røtter osv.">
+         <tg xml:lang="nob">
+	         <re>f.eks. stein, røtter osv.</re>
             <t pos="V">bryte opp</t>
          </tg>
       </mg>
@@ -3920,7 +3922,8 @@ For the full license text, see the link above.</lic>
          <stem>kanta</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="kalve, lamme">
+         <tg xml:lang="nob">
+	         <re>kalve, lamme</re>
             <t pos="V">bære</t>
          </tg>
       </mg>
@@ -3967,7 +3970,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="garn, lin">
+         <tg xml:lang="nob">
+	         <re>garn, lin</re>
             <t pos="V">sette ut</t>
          </tg>
       </mg>
@@ -4047,7 +4051,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="i antall">
+         <tg xml:lang="nob">
+	         <re>i antall</re>
             <t pos="V">øke</t>
          </tg>
       </mg>
@@ -4195,7 +4200,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">kattoskella</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="frekv.">
+         <tg xml:lang="nob">
+	         <re>frekv.</re>
             <t pos="V">se på</t>
          </tg>
       </mg>
@@ -4339,7 +4345,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="om katten">
+         <tg xml:lang="nob">
+	         <re>om katten</re>
             <t pos="V">male</t>
          </tg>
       </mg>
@@ -4643,7 +4650,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">kiehattaat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="fort, en gang">
+         <tg xml:lang="nob">
+	         <re>fort, en gang</re>
             <t pos="V">koke</t>
          </tg>
       </mg>
@@ -7177,7 +7185,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">lauttuut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om været">
+         <tg xml:lang="nob">
+	         <re>om været</re>
             <t pos="V">bli mildere</t>
          </tg>
       </mg>
