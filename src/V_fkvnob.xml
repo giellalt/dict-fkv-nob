@@ -13718,7 +13718,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">saunoot</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i badstu eller i vannet">
+         <tg xml:lang="nob">
+	         <re>i badstu eller i vannet</re>
             <t pos="V">bade badstu</t>
             <t pos="V">bade</t>
          </tg>
@@ -13731,6 +13732,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>f.eks. rekke bussen</re>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
          </tg>
