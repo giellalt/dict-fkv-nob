@@ -14168,7 +14168,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="om vannet i fjæra">
+         <tg xml:lang="nob">
+	         <re>om vannet i fjæra</re>
             <t pos="V">renne bort</t>
          </tg>
       </mg>
@@ -15646,7 +15647,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">triivata</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. foretak">
+         <tg xml:lang="nob">
+	         <re>f.eks. foretak</re>
             <t pos="V">drive</t>
          </tg>
       </mg>
@@ -15894,7 +15896,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">tuohustaat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="etter fisk">
+         <tg xml:lang="nob">
+	         <re>etter fisk</re>
             <t pos="V">lystre</t>
          </tg>
       </mg>
@@ -16022,7 +16025,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">tyyhetä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="~mere">
+         <tg xml:lang="nob">
+	         <re>bli tommere</re>
             <t pos="V">bli tom</t>
          </tg>
       </mg>
@@ -16039,7 +16043,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="spes. på ski, bil o.l.">
+         <tg xml:lang="nob">
+	         <re>spes. på ski, bil o.l.</re>
             <t pos="V">styre</t>
          </tg>
       </mg>
@@ -16153,7 +16158,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. av vann">
+         <tg xml:lang="nob">
+	         <re>f.eks. av vann</re>
             <t pos="V">bli full</t>
          </tg>
       </mg>
@@ -16222,7 +16228,8 @@ For the full license text, see the link above.</lic>
          <stem>uita</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om tømmer">
+         <tg xml:lang="nob">
+	         <re>om tømmer</re>
             <t pos="V">fløte</t>
          </tg>
       </mg>
