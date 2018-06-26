@@ -10023,7 +10023,8 @@ For the full license text, see the link above.</lic>
          <stem>onki</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="med stang">
+         <tg xml:lang="nob">
+	         <re>med stang</re>
             <t pos="V">fiske</t>
          </tg>
       </mg>
@@ -10160,7 +10161,8 @@ For the full license text, see the link above.</lic>
          <stem>osan</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="når man sikter">
+         <tg xml:lang="nob">
+	         <re>når man sikter</re>
             <t pos="V">kunne</t>
             <t pos="V">treffe</t>
          </tg>
@@ -10409,7 +10411,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="av flo">
+         <tg xml:lang="nob">
+	         <re>av flo</re>
             <t pos="V">stige</t>
          </tg>
       </mg>
@@ -10871,7 +10874,8 @@ For the full license text, see the link above.</lic>
          <stem>paukata</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en gang">
+         <tg xml:lang="nob">
+	         <re>en gang</re>
             <t pos="V">smelle</t>
          </tg>
       </mg>
