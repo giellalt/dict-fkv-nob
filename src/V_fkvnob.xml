@@ -10997,7 +10997,8 @@ For the full license text, see the link above.</lic>
          <stem>pelan</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="kort, musikk osv.">
+         <tg xml:lang="nob">
+	         <re>f.eks. kort, musikk osv.</re>
             <t pos="V">spille</t>
          </tg>
       </mg>
@@ -11688,7 +11689,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">potkaista</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en gang">
+         <tg xml:lang="nob">
+	         <re>en gang</re>
             <t pos="V">sparke</t>
          </tg>
       </mg>
@@ -12760,7 +12762,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">raivata</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. jord">
+         <tg xml:lang="nob">
+	         <re>f.eks. jord</re>
             <t pos="V">rydde</t>
          </tg>
       </mg>
@@ -12834,7 +12837,8 @@ For the full license text, see the link above.</lic>
          <stem>ratkais</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en søm">
+         <tg xml:lang="nob">
+	         <re>en søm</re>
             <t pos="V">sprette opp</t>
             <t pos="V">løse</t>
          </tg>
@@ -12859,7 +12863,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">ratkoot</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="rein">
+         <tg xml:lang="nob">
+	         <re>rein</re>
             <t pos="V">sprette opp</t>
             <t pos="V">skille ut</t>
          </tg>
@@ -13104,7 +13109,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">ristiit</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i kirka ev en prest">
+         <tg xml:lang="nob">
+	         <re>i kirka av en prest</re>
             <t pos="V">døpe</t>
          </tg>
       </mg>
@@ -13154,7 +13160,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">rokastaat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="fisk i krok">
+         <tg xml:lang="nob">
+	         <re>fisk i krok</re>
             <t pos="V">kleppe</t>
          </tg>
       </mg>
@@ -13520,7 +13527,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="f.eks. hjem">
+         <tg xml:lang="nob">
+	         <re>f.eks. hjem</re>
             <t pos="V">følge</t>
          </tg>
       </mg>
