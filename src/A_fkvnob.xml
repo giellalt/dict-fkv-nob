@@ -3479,8 +3479,12 @@ For the full license text, see the link above.</lic>
          <l pos="A">kaksinen</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i nektende setninger">
+         <tg xml:lang="nob">
+	         <re>i nektende setninger</re>
             <t pos="A">særlig bra</t>
+            <syng>
+	            <syn>kakkonen</syn>
+	            </syng>
          </tg>
       </mg>
    </e>
@@ -10428,7 +10432,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">yksituumainen</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="brukes vanligvis i flertall om gjensidige forhold">
+         <tg xml:lang="nob">
+	         <re>brukes vanligvis i flertall om gjensidige forhold</re>
             <t pos="A">enig</t>
          </tg>
       </mg>
