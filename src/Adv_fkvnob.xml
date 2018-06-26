@@ -1051,7 +1051,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">enämppää</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="i nektende setninger">
+         <tg xml:lang="nob">
+	         <re>i nektende setninger</re>
             <t pos="Adv">mer</t>
             <xg>
                <x>Mie en saata sannoot enämppää.</x>
@@ -2068,7 +2069,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">kauvoimin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om tid">
+         <tg xml:lang="nob">
+	         <re>om tid</re>
             <t pos="Adv">lengere</t>
          </tg>
       </mg>
@@ -2472,7 +2474,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">kovossa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="på et sted">
+         <tg xml:lang="nob">
+	         <re>på et sted</re>
             <t pos="Adv">samlet</t>
          </tg>
       </mg>
@@ -3100,7 +3103,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">makka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="når man tviler på det som blir sagt">
+         <tg xml:lang="nob">
+	         <re>når man tviler på det som blir sagt</re>
             <t pos="Adv">liksom</t>
          </tg>
       </mg>
@@ -3342,7 +3346,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">molemin</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om to">
+         <tg xml:lang="nob">
+	         <re>om to</re>
             <t pos="Adv">sammen</t>
          </tg>
       </mg>
@@ -3364,7 +3369,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">muka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="når en ikke tror på det som blir sagt">
+         <tg xml:lang="nob">
+	         <re>når en ikke tror på det som blir sagt</re>
             <t pos="Adv">liksom</t>
          </tg>
       </mg>
