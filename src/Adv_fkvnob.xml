@@ -28,6 +28,79 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="Adv">tođesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">selvsagt</t>
+            <t pos="Adv">selvfølgelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">päälä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">puolele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">til ens side</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">pitkhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">pareminki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">også bedre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">myötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">med</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Adv">melkhein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nesten</t>
+            <t pos="Adv">temmelig</t>
+            <t pos="Adv">ganske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="Adv">kuulemin</l>
       </lg>
       <mg>
@@ -5283,13 +5356,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="Adv">tarkasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nøyaktig</t>
+            <t pos="Adv">nøye</t>
          </tg>
       </mg>
    </e>
