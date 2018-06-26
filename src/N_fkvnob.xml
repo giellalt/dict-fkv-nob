@@ -59531,7 +59531,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">veivikka</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="mest positivt">
+         <tg xml:lang="nob">
+         <re>"mest positiv"</re>
             <t pos="N">luring</t>
          </tg>
       </mg>
@@ -59573,7 +59574,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">veljenpoika</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="brorsønn">
+         <tg xml:lang="nob">
+         <re>"brorsønn"</re>
             <t pos="N">nevø</t>
          </tg>
       </mg>
@@ -59583,7 +59585,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">veljentytär</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="brordatter">
+         <tg xml:lang="nob">
+         <re>"brordatter"</re>
             <t pos="N">niese</t>
          </tg>
       </mg>
@@ -59799,7 +59802,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">veripylsy</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="med blod, talg, mel og rosiner">
+         <tg xml:lang="nob">
+         <re>"med blod, talg, mel og rosiner"</re>
             <t pos="N">blodpølse</t>
          </tg>
       </mg>
@@ -61231,7 +61235,8 @@ For the full license text, see the link above.</lic>
          <stem>vuot</stem>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="som man lager klær av">
+         <tg xml:lang="nob">
+         <re>"som man lager klær av"</re>
             <t pos="N">hud</t>
             <t pos="N">skinn</t>
          </tg>
@@ -61610,8 +61615,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob"
-             re="spesielt om forholdet mellom fastboende og reidriftsamer">
+         <tg xml:lang="nob">
+             <re>"spesielt om forholdet mellom fastboende og reidriftsamer"</re>
             <t pos="N">gjestevenn</t>
          </tg>
       </mg>
