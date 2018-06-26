@@ -600,7 +600,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">akottuut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om en mann">
+         <tg xml:lang="nob">
+	         <re>om en mann</re>
             <t pos="V">bli gift</t>
          </tg>
       </mg>
@@ -1303,7 +1304,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">fläkätä</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="fisk">
+         <tg xml:lang="nob">
+	         <re>om fisk</re>
             <t pos="V">kløyve</t>
             <t pos="V">dele på langs</t>
             <t pos="V">dele i to</t>
@@ -1826,7 +1828,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">hauttoonttuut</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="om mat">
+         <tg xml:lang="nob">
+	         <re>om mat</re>
             <t pos="V">trekke</t>
             <t pos="V">modnes</t>
          </tg>
@@ -2186,7 +2189,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">hirnattaat</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en gang">
+         <tg xml:lang="nob">
+	         <re>en gang</re>
             <t pos="V">knegge</t>
          </tg>
       </mg>
@@ -2206,7 +2210,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">hirttäät</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="en person">
+         <tg xml:lang="nob">
+	         <re>om en person</re>
             <t pos="V">henge</t>
          </tg>
       </mg>
@@ -2229,7 +2234,8 @@ For the full license text, see the link above.</lic>
          <l pos="V">hivelttyyt</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="av ledd">
+         <tg xml:lang="nob">
+	         <re>av ledd</re>
             <t pos="V">bli vond</t>
          </tg>
       </mg>
@@ -3416,7 +3422,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="nob" re="med flytende metall">
+         <tg xml:lang="nob">
+	         <re>med flytende metall</re>
             <t pos="V">lodde</t>
             <xg>
                <x>juottaat metallii</x>
