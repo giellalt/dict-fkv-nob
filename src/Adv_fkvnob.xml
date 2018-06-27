@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
+         <l pos="Adv">uloskäsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lengere ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="Adv">tođesti</l>
       </lg>
       <mg>
@@ -6540,7 +6550,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="Adv">viimen</l>
       </lg>
@@ -6548,6 +6558,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">til sist</t>
             <t pos="Adv">endelig</t>
+            <t pos="Adv">til slutt</t>
          </tg>
       </mg>
       <mg>
@@ -6750,13 +6761,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mj">
       <lg>
          <l pos="Adv">vähän</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">lite</t>
+            <t pos="Adv">litt</t>
          </tg>
       </mg>
       <mg>
@@ -6890,6 +6902,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">galt</t>
+            <t pos="Adv">feil</t>
          </tg>
       </mg>
    </e>
