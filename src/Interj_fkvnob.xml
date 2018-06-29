@@ -26,6 +26,44 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="Interj">riivattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">pokker</t>
+            <xg>
+               <x>Voi riivattu!</x>
+               <xt>Det var som pokker!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Interj">poka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">jammen</t>
+            <xg>
+               <x>Joo poka se oli reisu!</x>
+               <xt>Det var jammen noe til reise!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Interj">pahus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">søren</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Interj">aamen</l>
