@@ -26,6 +26,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="Po">ympärille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">rundt</t>
+            <t pos="Pr">omkring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Po">yli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">over</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Po">takkaa</l>
@@ -68,13 +89,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;mj">
       <lg>
          <l pos="Po">ympäri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">om</t>
+            <t pos="Pr">omkring</t>
+            <t pos="Pr">rundt omkring</t>
             <xg>
                <x>Met puhuma assiin ympäri.</x>
                <xt>Vi snakker om saken.</xt>
