@@ -26,6 +26,36 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e src="mj">
+      <lg>
+         <l pos="Pron">pari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">et par</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Pron">muutama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">noen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
+         <l pos="Pron">joka toinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">annenhver</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="Pron">muutamppi</l>
@@ -141,11 +171,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hver og en</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Det">annenhver</t>
          </tg>
       </mg>
    </e>
