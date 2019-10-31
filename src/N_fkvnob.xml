@@ -6608,6 +6608,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kattilakaffi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffe i kjele</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">korrelaatti</l>
@@ -7759,6 +7769,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tidsregning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">käännös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oversettelse</t>
          </tg>
       </mg>
    </e>
@@ -26426,6 +26446,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">en som inviterer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">historii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">historie</t>
          </tg>
       </mg>
    </e>
