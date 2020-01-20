@@ -48,6 +48,36 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
+         <l pos="N">kuivuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tørke</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="mj">
+      <lg>
+         <l pos="N">avuttomuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelpeløshet</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="mj">
+      <lg>
+         <l pos="N">vatkaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaster</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mj">
+      <lg>
          <l pos="N">tyyny</l>
       </lg>
       <mg>
