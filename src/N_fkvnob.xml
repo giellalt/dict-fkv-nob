@@ -37226,6 +37226,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+         <e src="ai">
+      <lg>
+         <l pos="N">kehoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppfordring</t>
+         </tg>
+      </mg>
+   </e>
    <e src="yr">
       <lg>
          <l pos="N">oliivilehto</l>
@@ -37233,6 +37243,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">olivenlund</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="yr">
+      <lg>
+         <l pos="N">heikkous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svakhet</t>
          </tg>
       </mg>
    </e>
