@@ -46,7 +46,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="aili">
       <lg>
          <l pos="N">kuivuus</l>
       </lg>
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="mj">
+      <e src="aili">
       <lg>
          <l pos="N">avuttomuus</l>
       </lg>
@@ -66,7 +66,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="mj">
+         <e src="aili">
       <lg>
          <l pos="N">kasvu</l>
       </lg>
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="mj">
+            <e src="aili">
       <lg>
          <l pos="N">frisbiigolfi</l>
       </lg>
@@ -86,7 +86,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="mj">
+            <e src="aili">
       <lg>
          <l pos="N">dolomiittihaamu</l>
       </lg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="mj">
+         <e src="aili">
       <lg>
          <l pos="N">frisbii</l>
       </lg>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="mj">
+            <e src="aili">
       <lg>
          <l pos="N">kuttumus</l>
       </lg>
@@ -116,7 +116,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="mj">
+         <e src="aili">
       <lg>
          <l pos="N">ylinäkymä</l>
       </lg>
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="mj">
+         <e src="aili">
       <lg>
          <l pos="N">vatkaaja</l>
       </lg>
@@ -37215,7 +37215,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ai">
+      <e src="aili">
       <lg>
          <l pos="N">olo</l>
       </lg>
@@ -37226,7 +37226,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="ai">
+         <e src="aili">
       <lg>
          <l pos="N">kehoitus</l>
       </lg>
@@ -37246,13 +37246,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="yr">
+      <e src="aili">
       <lg>
          <l pos="N">heikkous</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">svakhet</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="yr">
+      <lg>
+         <l pos="N">mahtavuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storhet</t>
          </tg>
       </mg>
    </e>
@@ -37266,7 +37276,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="yr">
+         <e src="aili">
       <lg>
          <l pos="N">narkomaani</l>
       </lg>
@@ -54202,7 +54212,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">tehtäävä</l>
+         <l pos="N">tehtävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
