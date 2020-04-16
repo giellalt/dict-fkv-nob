@@ -37236,6 +37236,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">hoitamapöytä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stellebord</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">kansalistaras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nasjonalpark</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">haastet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utfordring</t>
+         </tg>
+      </mg>
+   </e>
    <e src="yr">
       <lg>
          <l pos="N">oliivilehto</l>
@@ -37256,7 +37286,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="yr">
+            <e src="aili">
       <lg>
          <l pos="N">mahtavuus</l>
       </lg>
@@ -64887,6 +64917,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forslag</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">klossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kloss</t>
          </tg>
       </mg>
    </e>
