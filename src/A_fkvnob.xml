@@ -136,7 +136,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">annen farget</t>
+            <t pos="A">flerfarget</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="grom">
+      <lg>
+         <l pos="A">epätasainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ujevn</t>
          </tg>
       </mg>
    </e>
