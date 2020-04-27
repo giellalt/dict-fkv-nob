@@ -2129,7 +2129,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;me">
       <lg>
          <l pos="V">hihđata</l>
          <stem>hihtaa</stem>
@@ -2372,7 +2372,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;me">
       <lg>
          <l pos="V">huilata</l>
          <stem>huilaa</stem>
@@ -2387,6 +2387,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">flyte</t>
+               <re>spes. på ski, bil o.l.</re>
             <t pos="V">renne</t>
          </tg>
       </mg>
