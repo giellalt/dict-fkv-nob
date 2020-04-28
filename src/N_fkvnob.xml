@@ -28,6 +28,186 @@ For the full license text, see the link above.</lic>
    </lics>
       <e src="bildetema">
       <lg>
+         <l pos="N">sisäkatto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innetak</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">ulkokatto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utetak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">undulaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">undulat</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="bildetema">
+      <lg>
+         <l pos="N">bamse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bamse</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">teddykarhuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bamse</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">kukkapotto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vase</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">vaasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vase</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">vaatekaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klesskap</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">vaatetkaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klesskap</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">vaatetkliipa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klesklypep</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">vaatteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaterpass</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">vagina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjede</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">vahvistaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsterker</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">vahvistaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsterker</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">valhaanliiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">manet</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">valkealööki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvitløk</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">valkialööki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvitløk</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">valkkeelööki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvitløk</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
          <l pos="N">varoituskolmikantti</l>
       </lg>
       <mg>
