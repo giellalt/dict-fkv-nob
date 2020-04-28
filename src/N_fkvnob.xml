@@ -26,6 +26,127 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+                                                                   <e src="bildetema">
+      <lg>
+         <l pos="N">österi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">østers</t>
+         </tg>
+      </mg>
+   </e>
+                                                                <e src="bildetema">
+      <lg>
+         <l pos="N">amperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ampere</t>
+         </tg>
+      </mg>
+   </e>
+                                                             <e src="bildetema">
+      <lg>
+         <l pos="N">daattaruutu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grensesnitt</t>
+         </tg>
+      </mg>
+   </e>
+                                                          <e src="bildetema">
+      <lg>
+         <l pos="N">hartia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skulder</t>
+         </tg>
+      </mg>
+   </e>
+                                                       <e src="bildetema">
+      <lg>
+         <l pos="N">kottikärry</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trillebår</t>
+         </tg>
+      </mg>
+   </e>
+                                                    <e src="bildetema">
+      <lg>
+         <l pos="N">rasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eske</t>
+         </tg>
+      </mg>
+   </e>
+                                                 <e src="bildetema">
+      <lg>
+         <l pos="N">kubikkimeetteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kubikkmeter</t>
+         </tg>
+      </mg>
+   </e>
+                                              <e src="bildetema">
+      <lg>
+         <l pos="N">kraana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kran</t>
+         </tg>
+      </mg>
+   </e>
+                                           <e src="bildetema">
+      <lg>
+         <l pos="N">kukkapeti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blomsterbed</t>
+         </tg>
+      </mg>
+   </e>
+                                        <e src="bildetema">
+      <lg>
+         <l pos="N">kuljettaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjåfør</t>
+         </tg>
+      </mg>
+   </e>
+                                           <e src="bildetema">
+      <lg>
+         <l pos="N">kuljettaja</l>
+         
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjåfør</t>
+         </tg>
+      </mg>
+   </e>
+                                     <e src="bildetema">
+      <lg>
+         <l pos="N">letku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannslange</t>
+         </tg>
+      </mg>
+   </e>
                                   <e src="bildetema">
       <lg>
          <l pos="N">watti</l>
@@ -30656,7 +30777,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">loova</l>
       </lg>
@@ -55984,7 +56105,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;bildetema">
       <lg>
          <l pos="N">trillepoori</l>
       </lg>
