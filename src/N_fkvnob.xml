@@ -26,7 +26,217 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-                                                                   <e src="bildetema">
+      <e src="bildetema">
+      <lg>
+         <l pos="N">varoituskolmikantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">varselstrekant</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">herätyskello</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vekkerklokke</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">vekkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vekkerklokke</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">videokaamera</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">videokamera</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">videonpellaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">videospiller</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">viinieddikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vineddik</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">viissauđenhammas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">visdomstann</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">vishauenhammas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">visdomstann</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">villajakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strikkejakke</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">villateppeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ullteppe</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">vinkelhake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinkkeli</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">virrankatkaisija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strømbryter</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">virrankatkaisiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strømbryter</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">ylikirjotus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tittel</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">ylikirjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tittel</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">ylileuka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjeve</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">ylileuka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overkjeve</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">ympäriajo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omkjøring</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">ympärimitta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omkrets</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">vyökleninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nattkjole</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">yökleninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nattkjole</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
       <lg>
          <l pos="N">österi</l>
       </lg>
@@ -36,7 +246,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                                <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">amperi</l>
       </lg>
@@ -46,7 +256,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                             <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">daattaruutu</l>
       </lg>
@@ -56,7 +266,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                          <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">hartia</l>
       </lg>
@@ -66,7 +276,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                       <e src="bildetema">
+       <e src="bildetema">
       <lg>
          <l pos="N">kottikärry</l>
       </lg>
@@ -76,7 +286,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                    <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">rasia</l>
       </lg>
@@ -86,7 +296,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                                 <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">kubikkimeetteri</l>
       </lg>
@@ -96,7 +306,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                              <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">kraana</l>
       </lg>
@@ -106,7 +316,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                           <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">kukkapeti</l>
       </lg>
@@ -116,7 +326,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                        <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">kuljettaaja</l>
       </lg>
@@ -126,7 +336,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                           <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">kuljettaja</l>
          
@@ -137,7 +347,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                     <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">letku</l>
       </lg>
@@ -147,7 +357,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                                  <e src="bildetema">
+    <e src="bildetema">
       <lg>
          <l pos="N">watti</l>
       </lg>
@@ -157,7 +367,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                               <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">ohmi</l>
       </lg>
@@ -167,7 +377,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                            <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">rievu</l>
       </lg>
@@ -177,7 +387,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                         <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">siili</l>
       </lg>
@@ -187,7 +397,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                      <e src="bildetema">
+     <e src="bildetema">
       <lg>
          <l pos="N">voltti</l>
       </lg>
@@ -197,7 +407,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                      <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">proppu</l>
       </lg>
@@ -212,7 +422,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                   <e src="bildetema">
+      <e src="bildetema">
       <lg>
          <l pos="N">äsky</l>
       </lg>
@@ -222,7 +432,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-                <e src="me">
+     <e src="me">
       <lg>
          <l pos="N">keli</l>
       </lg>
@@ -232,7 +442,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-             <e src="me">
+     <e src="me">
       <lg>
          <l pos="N">sivakkapuku</l>
       </lg>
@@ -242,7 +452,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-          <e src="me">
+    <e src="me">
       <lg>
          <l pos="N">sivakkaskraapa</l>
       </lg>
@@ -49418,7 +49628,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">santapaperi</l>
       </lg>
@@ -49892,7 +50102,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;bildetema">
       <lg>
          <l pos="N">seinäkello</l>
       </lg>
