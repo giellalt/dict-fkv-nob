@@ -60717,13 +60717,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">foreldre</t>
+            <t pos="N">forelder</t>
          </tg>
       </mg>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">vanhiimet</l>
+         <l pos="N" nr="Pl">vanhiimet</l>
          <stem>vanhiimi</stem>
          <stem>vanhiimi</stem>
       </lg>
@@ -65095,16 +65095,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dansemusikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">vanhiimet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">foreldre</t>
          </tg>
       </mg>
    </e>
