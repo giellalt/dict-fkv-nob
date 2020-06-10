@@ -689,6 +689,26 @@ For the full license text, see the link above.</lic>
    </e>
         <e src="bildetema">
       <lg>
+         <l pos="N">orgaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organ</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">sukupuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjønn</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
          <l pos="N">suumaski</l>
       </lg>
       <mg>
