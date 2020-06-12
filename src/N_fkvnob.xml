@@ -3452,7 +3452,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">pyörret</l>
+         <l pos="N">pyöret</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4377,6 +4377,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">reingjerde</t>
             <t pos="N">ledegjerde til fuglefelle</t>
             <t pos="N">tørr plass i myr</t>
+            <t pos="N">eid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ia">
+      <lg>
+         <l pos="N">kaaret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">eid</t>
          </tg>
       </mg>
@@ -9407,15 +9417,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">aarret</l>
+         <l pos="N">aaret</l>
          <stem>arthee</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skatt</t>
-            <syng>
-               <syn>aaret</syn>
-            </syng>
          </tg>
       </mg>
    </e>
