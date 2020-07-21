@@ -28,6 +28,66 @@ For the full license text, see the link above.</lic>
    </lics>
         <e src="bildetema">
       <lg>
+         <l pos="N">puvunjakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dressjakke</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">pyblikymi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">publikum</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">pyjama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pyjamas</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">pyrrelööki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">purreløk</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">pystöpriimu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vertikalstrek</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="bildetema">
+      <lg>
+         <l pos="N">pyökki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bøk</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
          <l pos="N">pyöröpenkki</l>
       </lg>
       <mg>
