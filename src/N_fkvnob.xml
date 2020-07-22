@@ -26,6 +26,207 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">laastari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">plaster</t>
+         </tg>
+      </mg>
+   </e> 
+         <e src="bildetema">
+      <lg>
+         <l pos="N">laskusuoni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vene</t>
+         </tg>
+      </mg>
+   </e> 
+        <e src="bildetema">
+      <lg>
+         <l pos="N">leikkoprättä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjærefjøl</t>
+         </tg>
+      </mg>
+   </e> 
+           <e src="bildetema">
+      <lg>
+         <l pos="N">leipäristeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brødrister</t>
+         </tg>
+      </mg>
+   </e> 
+        <e src="bildetema">
+      <lg>
+         <l pos="N">linjaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">linjal</t>
+         </tg>
+      </mg>
+   </e> 
+          <e src="bildetema">
+      <lg>
+         <l pos="N">lokavaatetkori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skittentøyskurv</t>
+         </tg>
+      </mg>
+   </e> 
+           <e src="bildetema">
+      <lg>
+         <l pos="N">luuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om telefonrør</re>
+            <t pos="N">rør</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">lyhenys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forkortelse</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">lähättääjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avsender</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">lyski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lyske</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">maissi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mais</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">makarooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">makaroni</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">maksoplanketti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innbetalingsblankett</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">mandoliini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mandolin</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">mankeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rulle</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">matalapaino</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lavtrykk</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">megabyytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">megabyte</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">meny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">meny</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">mikroaaltouuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mikrobølgeovn</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">mikropaarouuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mikrobølgeovn</t>
+         </tg>
+      </mg>
+   </e>
         <e src="bildetema">
       <lg>
          <l pos="N">minuttiviisari</l>
@@ -35433,6 +35634,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">reisende</t>
+              <t pos="N">passasjer</t>
          </tg>
       </mg>
    </e>
