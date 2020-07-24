@@ -28,6 +28,248 @@ For the full license text, see the link above.</lic>
    </lics>
         <e src="bildetema">
       <lg>
+         <l pos="N">heinäsirkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gresshoppe</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">heisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">heis</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">hengari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kleshenger</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">hengitys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">åndedrett</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">hermetikkipurkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hermetikkboks</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">herraskartano</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">herregård</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">hetta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hette</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">hiiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjær</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">hontaaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndtak</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">hyasintti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hyasint</t>
+          <t pos="N">svibel</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">hygieeni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hygiene</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">hyysikkäpaperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">toalettpapir</t>
+           <t pos="N">dopapir</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">häkläneula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">heklenål</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">industrii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">industri</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">iiris</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">iris</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">injekšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">injeksjon</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">isovarvas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stortå</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">jakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jakke</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">jekki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jekk</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">jenka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenge</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">jäähockey</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ishockey</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">jälmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelm</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kaakao</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kakao</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kaktus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaktus</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
          <l pos="N">kanariinlintu</l>
       </lg>
       <mg>
