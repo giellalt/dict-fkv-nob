@@ -26,6 +26,499 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kanariinlintu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kanarifugl</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kantarelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kantarell</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">karhi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">harv</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">karosseri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">karosseri</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">kassuuhuonet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veksthus</t>
+          <t pos="N">drivhus</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kattotiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">takstein</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">kelentteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rekkverk</t>
+          <t pos="N">gelender</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">kerä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nøste</t>
+         </tg>
+      </mg>
+   </e>
+   <!--       <e src="bildetema">
+      <lg>
+         <l pos="N">keuhkoputki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bronkie</t>
+         </tg>
+      </mg>
+   </e>     --> 
+   <!--       <e src="bildetema">
+      <lg>
+         <l pos="N">keuhkosäkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lungesekk</t>
+         </tg>
+      </mg>
+   </e>   --> 
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kioski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kiosk</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kirsikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kirsebær</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">klarinetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klarinett</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">klitoris</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klitoris</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">klötši</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kløtsj</t>
+           <t pos="N">clutch</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">koffertti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">koffert</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kokkaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matlaging</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">kolja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kolje</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">kolumni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spalte</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kompassi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kompass</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kompressi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kompress</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">konstiluistelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunstløp</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">konteineri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konteiner</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kontrabasso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontrabass</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">koopa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kåpe</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">keskikohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">midtpunkt</t>
+         </tg>
+      </mg>
+   </e>
+      <!--     <e src="bildetema">
+      <lg>
+         <l pos="N">korkinaukaisiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">korketrekker</t>
+         </tg>
+      </mg>
+   </e>  --> 
+        <e src="bildetema">
+      <lg>
+         <l pos="N">korkkeepaino</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høytrykk</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">korridoori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">korridor</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kransarteeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kransarterie</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">kredittikortti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kreditkort</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">krokus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krokus</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">kruukku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krukke</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">kuivauskaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tørkeskap</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kuivaustrumma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tørketrommel</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">kumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gummi</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kuminauha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gummistrikk</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">kuottafoori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">putetrekk</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kutomatikku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strikkepinne</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kvadraatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvadrat</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kvartaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvartal</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kviteerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvittering</t>
+         </tg>
+      </mg>
+   </e>
+  <!--        <e src="bildetema">
+      <lg>
+         <l pos="N" nr="Pl">lihapollerit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjøttboller</t>   
+         </tg>
+      </mg>
+   </e>  --> 
+       <e src="bildetema">
+      <lg>
+         <l pos="N">käsijäsen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndledd</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">käsipallo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndball</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">käsiprämssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndbrems</t>
+         </tg>
+      </mg>
+   </e> 
+        <e src="bildetema">
+      <lg>
+         <l pos="N">käsipyntti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">armbånd</t>
+         </tg>
+      </mg>
+   </e> 
+        <e src="bildetema">
+      <lg>
+         <l pos="N">köökimašiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjøkkenmaskin</t>
+         </tg>
+      </mg>
+   </e> 
+            <e src="bildetema">
+      <lg>
+         <l pos="N">käveliijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fotgjenger</t>
+         </tg>
+      </mg>
+   </e> 
          <e src="bildetema">
       <lg>
          <l pos="N">laastari</l>
