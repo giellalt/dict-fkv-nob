@@ -26,6 +26,147 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">ajobaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjørebane</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
+         <l pos="N">allepriimustus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">understrek</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">ambulanssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ambulanse</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">aorta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aorta</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">apuhoittaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjelpepleier</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">asparges</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">asparges</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">astiinpesostatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppvaskstativ</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">aurinkoprillat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solbrille</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="bildetema">
+      <lg>
+         <l pos="N">badminton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">badminton</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">bandy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bandy</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">baromeetteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">barometer</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">begonia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">begonia</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kyynel</l>
+           <stem>kyynelhee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tåre</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">bestikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bestikk</t>
+         </tg>
+      </mg>
+   </e>
         <e src="bildetema">
       <lg>
          <l pos="N">bidee</l>
@@ -30822,6 +30963,7 @@ For the full license text, see the link above.</lic>
    <e src="ta;ai">
       <lg>
          <l pos="N">kyynelet</l>
+          <l pos="N">kyynel</l>
          <stem>kyynelhee</stem>
       </lg>
       <mg>
