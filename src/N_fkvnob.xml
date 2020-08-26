@@ -26,6 +26,117 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">gigabyytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gigabyte</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">megabyytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">megabyte</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="bildetema">
+      <lg>
+         <l pos="N">milligramma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">milligram</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">gramma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gram</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">kusirööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">urinrør</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="bildetema">
+      <lg>
+         <l pos="N">henkirööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">luftrør</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">näkörööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lysrør</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">geometrii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">geometri</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="bildetema">
+      <lg>
+         <l pos="N">jouli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">joule</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="bildetema">
+      <lg>
+         <l pos="N">celsius-graadi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">celsiusgrad</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="bildetema">
+      <lg>
+         <l pos="N">kilowatti-tiima</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kilowatt-time</t>
+          <t pos="N">kilowattime</t>
+         </tg>
+      </mg>
+   </e>
         <e src="bildetema">
       <lg>
          <l pos="N">isoraha</l>
