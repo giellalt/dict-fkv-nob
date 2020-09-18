@@ -1622,6 +1622,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="A">energinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">energisk</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">tulleeva</l>
@@ -3150,6 +3161,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>vuođen ikhäinen</x>
                <xt>ett år gammel</xt>
+            </xg>
+            <xg>
+               <x>eri-ikhäinen</x>
+               <xt>av ulik alder</xt>
             </xg>
          </tg>
       </mg>
