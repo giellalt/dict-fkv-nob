@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+        <e src="ks">
+      <lg>
+         <l pos="N">aaretarkku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skattkiste</t>
+         </tg>
+      </mg>
+   </e>
           <e src="bildetema">
       <lg>
          <l pos="N">artteeri</l>
@@ -63086,11 +63096,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">råd</t>
             <xg>
-               <x>Minula oon varraa.</x>
+               <x>Minula oon vara.</x>
                <xt>Jeg har råd.</xt>
             </xg>
             <xg>
-               <x>Hänelä oon varraa.</x>
+               <x>Hänelä oon vara.</x>
                <xt>Han har råd.</xt>
             </xg>
          </tg>
