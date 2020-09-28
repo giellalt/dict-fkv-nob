@@ -2239,8 +2239,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">proppi</t>
-         </tg>
+            <t pos="N">sikring</t> 
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">propp</t>
+        </tg>
       </mg>
    </e>
          <e src="bildetema">
@@ -4046,6 +4051,15 @@ For the full license text, see the link above.</lic>
       <e src="bildetema">
       <lg>
          <l pos="N">proppu</l>
+      </lg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sikring</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
+      <lg>
           <l pos="N">sikrinki</l>
       </lg>
             <mg>
@@ -31414,7 +31428,6 @@ For the full license text, see the link above.</lic>
    <e src="ta;ai">
       <lg>
          <l pos="N">kyynelet</l>
-          <l pos="N">kyynel</l>
          <stem>kyynelhee</stem>
       </lg>
       <mg>
