@@ -149,11 +149,43 @@ For the full license text, see the link above.</lic>
    </e>
   <e src="ks">
       <lg>
+         <l pos="V">innostuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli ivrig</t>
+            <t pos="V">bli interessert</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ks">
+      <lg>
          <l pos="V">höyrätä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">frakte</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ks">
+      <lg>
+         <l pos="V">imettäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">amme</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="ks">
+      <lg>
+         <l pos="V">ikävöitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lengte</t>
+            <t pos="V">savne</t>
          </tg>
       </mg>
    </e>
