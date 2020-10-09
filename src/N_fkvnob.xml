@@ -290,11 +290,21 @@ For the full license text, see the link above.</lic>
    </e>
          <e src="ks">
       <lg>
-         <l pos="N">inhimilinen</l>
+         <l pos="N">juolukka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">menneskelig</t>
+            <t pos="N">blokkebær</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">juustohöylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ostehøvel</t>
          </tg>
       </mg>
    </e>
@@ -65944,6 +65954,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vinddrag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">juuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinddrag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">juureton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rotløs</t>
          </tg>
       </mg>
    </e>
