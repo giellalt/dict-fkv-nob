@@ -1773,6 +1773,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ks">
+      <lg>
+         <l pos="A">kassuuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">voksende</t>
+            <t pos="A">økende</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ks">
+      <lg>
+         <l pos="A">kelvolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">brukbar</t>
+            <t pos="A">anvendelig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">tulleeva</l>
@@ -3980,6 +4002,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">udugelig</t>
+            <t pos="A">ubrukelig</t>
          </tg>
       </mg>
    </e>
