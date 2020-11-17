@@ -26,6 +26,96 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+        <e src="grom">
+      <lg>
+         <l pos="N">tieđonankaruus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nysgjerrighet</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ki">
+      <lg>
+         <l pos="N">punahiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rødmus</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">lumihiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snømus</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="ki">
+      <lg>
+         <l pos="N">maahiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">markmus</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="N">tunturihiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjellmarkmus</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">murtukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vånd</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="ki">
+      <lg>
+         <l pos="N">nokkahiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spissmus</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="N">harmaajakylkihiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråsidemus</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="ki">
+      <lg>
+         <l pos="N">kiikkuhiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klatremus</t>
+         </tg>
+      </mg>
+   </e>
         <e src="ks">
       <lg>
          <l pos="N">aaretarkku</l>
@@ -6209,13 +6299,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia:ki">
       <lg>
          <l pos="N">peura</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">villrein</t>
+            <t pos="N">rådyr</t>
          </tg>
       </mg>
    </e>
@@ -23956,13 +24047,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta:ki">
       <lg>
          <l pos="N">karhuu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bjørn</t>
+              <t pos="N">brunbjørn</t>
          </tg>
       </mg>
    </e>
@@ -25840,7 +25932,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">kettu</l>
          <stem>ketu</stem>
@@ -25848,6 +25940,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rev</t>
+             <t pos="N">rødrev</t>
          </tg>
       </mg>
    </e>
@@ -26074,7 +26167,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">kieruna</l>
       </lg>
@@ -51134,7 +51227,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">riekko</l>
          <stem>rieko</stem>
@@ -51142,6 +51235,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rype</t>
+            <t pos="N">lirype</t>
          </tg>
       </mg>
    </e>
