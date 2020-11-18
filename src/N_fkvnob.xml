@@ -548,6 +548,76 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">forbannelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kirrous</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">husmus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kotihiiri</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">hjemreise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kotimatka</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">nabofamilie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kranniperet</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">krokodille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krokotilli</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">kummitusmuistelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spøkelseshistorie</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">kusihoppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tissetrang</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
          <l pos="N">lentohamina</l>
@@ -26816,8 +26886,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">kiroussana</l>
-         <stem>kiroussanna</stem>
+         <l pos="N">kirroussana</l>
+         <stem>kirroussanna</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -29801,7 +29871,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">blomster</t>
+            <t pos="N">liten blomst</t>
          </tg>
       </mg>
    </e>
@@ -31278,6 +31348,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">strikking</t>
+            <t pos="N">strikketøy</t>
          </tg>
       </mg>
    </e>
