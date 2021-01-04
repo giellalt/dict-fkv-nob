@@ -618,6 +618,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">kväänikansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvenfolket</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">kyläkoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bygdeskole</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">kynsilakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">neglelakk</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
          <l pos="N">lentohamina</l>
@@ -31619,6 +31649,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dørstokk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">terskel</t>
          </tg>
       </mg>
    </e>
