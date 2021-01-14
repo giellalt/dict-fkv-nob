@@ -814,6 +814,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">idrettilaaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">idrettslag</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">idrettiraati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">idrettsråd</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">idrettipiiri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">idrettskrets</t>
+         </tg>
+      </mg>
+   </e>
        <e src="bildetema">
       <lg>
          <l pos="N">agurkki</l>
@@ -3230,7 +3260,7 @@ For the full license text, see the link above.</lic>
    </e>
         <e src="bildetema">
       <lg>
-         <l pos="N">sikkersneula</l>
+         <l pos="N">sikkarineula</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3310,7 +3340,7 @@ For the full license text, see the link above.</lic>
    </e>
         <e src="bildetema">
       <lg>
-         <l pos="N">slalom</l>
+         <l pos="N">slaalomi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4060,11 +4090,11 @@ For the full license text, see the link above.</lic>
    </e>
         <e src="bildetema">
       <lg>
-         <l pos="N">vaatetkliipa</l>
+         <l pos="N">vaatetkliippa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">klesklypep</t>
+            <t pos="N">klesklype</t>
          </tg>
       </mg>
    </e>
@@ -4300,7 +4330,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="bildetema">
       <lg>
-         <l pos="N">amperi</l>
+         <l pos="N">ampääri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -56062,7 +56092,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">idrett</t>
             <t pos="N">sport</t>
          </tg>
       </mg>
