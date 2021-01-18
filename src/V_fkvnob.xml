@@ -11719,26 +11719,102 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skulle</t>
+             <xg>
+               <x> Mitä met piđämä tehđä?</x>
+               <xt>Hva skal vi gjøre?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde</t>
+             <xg>
+               <x> Piđätkö sie minun kirjat hetken aikkaa ko mie solmin kenkänauhat?</x>
+               <xt>Holder du bøkene mine en liten stund mens jeg knytter skolissene?</xt>
+            </xg>
+             <xg>
+               <x> Sanajohtaja piti pitkän puhheen miljöön ympäri.</x>
+               <xt>Ordføreren holdt en lang tale om miljøet.</xt>
+            </xg>
+             <xg>
+               <x> Met piđämä möötin nyt.</x>
+               <xt>Vi holder møtet nå.</xt>
+            </xg>
+             <xg>
+               <x>Entisaikhaan het piđethiin elläimiitä.</x>
+               <xt>I gamle dager hadde de husdyr.</xt>
+            </xg>
+             <xg>
+               <x> Piđä sommaa! (til en)</x>
+               <xt>Ha det moro!</xt>
+            </xg>
+            <xg>
+               <x> Piđäkkää sommaa! (til flere)</x>
+               <xt>Ha det moro!</xt>
+            </xg>
+             <xg>
+               <x> Piđä hyvvää! (til en)</x>
+               <xt>Ha det bra!</xt>
+            </xg>
+            <x> Piđäkkää hyvvää! (til flere)</x>
+               <xt>Ha det bra!</xt>
+            </xg>
+            <xg>
+               <x> Skruuvit piđethään kirjahyllyn paikoilens.</x>
+               <xt>Skruene holder hyllen på plass.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">synes</t>
-         </tg>
+             <xg>
+               <x> Hän pittää sinnuu seppänä työmiehenä.</x>
+               <xt>Han synes du er en bra arbeidskar.</xt>
+            </xg>
+            <xg>
+               <x>Mie piđän ette mailma oon pieni.</x>
+               <xt>Jeg synes at verden er liten.</xt>
+            </xg>
+         </tg>   
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bruke</t>
+            <xg>
+               <x> Se kannattaa pittää karttaa ja kompassii.</x>
+               <xt>Det lønner seg å bruke kart og kompass.</xt>
+            </xg>
+              <xg>
+               <x>Mie halluun pittäät sitä.</x>
+               <xt>Jeg vil bruke den.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <tg xml:lang="nob">
+            <t pos="V">forbruke</t>
+            <xg>
+               <x>Biili pittää paljon bensiinii.</x>
+               <xt>Bilen bruker mye bensin.</xt>
+            </xg>
+              <xg>
+               <x>Han brukte alt han hadde tjent.</x>
+               <xt>Hän piti kaikki rahat mitä oli tienanu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">må</t>
+             <xg>
+               <x> Se pittää olla tosi.</x>
+               <xt>Det må være sant.</xt>
+            </xg>
+             <xg>
+               <x>Mie piđän mennä nyt.</x>
+               <xt>Jeg må gå nå.</xt>
+            </xg>
+         </tg>
          </tg>
       </mg>
    </e>
