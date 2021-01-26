@@ -11756,7 +11756,8 @@ For the full license text, see the link above.</lic>
                <x> Piđä hyvvää! (til en)</x>
                <xt>Ha det bra!</xt>
             </xg>
-            <x> Piđäkkää hyvvää! (til flere)</x>
+             <xg>
+               <x> Piđäkkää hyvvää! (til flere)</x>
                <xt>Ha det bra!</xt>
             </xg>
             <xg>
@@ -11791,6 +11792,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
         <tg xml:lang="nob">
             <t pos="V">forbruke</t>
             <xg>
@@ -11814,7 +11816,6 @@ For the full license text, see the link above.</lic>
                <x>Mie piđän mennä nyt.</x>
                <xt>Jeg må gå nå.</xt>
             </xg>
-         </tg>
          </tg>
       </mg>
    </e>
