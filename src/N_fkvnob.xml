@@ -658,6 +658,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">leirikoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leirskole</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">linnunpoika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fugleunge</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">lumienkeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snøengel</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="ks">
+      <lg>
+         <l pos="N">lumimies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">snømann</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
          <l pos="N">lentohamina</l>
@@ -33030,6 +33070,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">lamphaanlapa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sauebog</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">lamppu</l>
@@ -33258,6 +33308,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">barnebarn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">lapsenlapsenlapsi</l>
+         <stem>lapsenlapsenlapse</stem>
+         <stem>lapsenlapsenlas</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oldebarn</t>
          </tg>
       </mg>
    </e>
@@ -33862,6 +33924,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bakerovn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">leipomapaperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakepapir</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
+         <l pos="N">leipomapulveri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakepulver</t>
          </tg>
       </mg>
    </e>
