@@ -26,6 +26,16 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+           <e src="kl">
+      <lg>
+         <l pos="N">nahanvetämärauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">redskap for tørking av saueskinn</t>
+         </tg>
+      </mg>
+   </e>
         <e src="grom">
       <lg>
          <l pos="N">tieđonankaruus</l>
@@ -55163,7 +55173,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;kl">
       <lg>
          <l pos="N">silmä</l>
       </lg>
@@ -55179,6 +55189,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <mg>
+         <tg xml:lang="nob">
+            <t pos="N">maske</t>
+         </tg>
+      </mg>
    <e src="ta;ai">
       <lg>
          <l pos="N">silmäkarva</l>
