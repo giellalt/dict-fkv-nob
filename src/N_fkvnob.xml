@@ -26,6 +26,357 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+       <e src="grom">
+      <lg>
+         <l pos="N">personaaliroikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personalgruppe</t>
+         </tg>
+      </mg
+        </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">kielentutkiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildemappe</t>
+         </tg>
+      </mg
+        </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">kuvamappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildemappe</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">kirjoitustyyppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skrifttype</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">filmiala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">filmområde</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">työala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsområde</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">joiku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">joik</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">tavusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakgrunn</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">vaikkeusgraadi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vanskelighetsgrad</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">assiproosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sakprosa</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">pääpoengi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedpoeng</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">yhtheisteko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samhandling</t>
+         </tg>
+      </mg
+        </e>
+           <e src="grom">
+      <lg>
+         <l pos="N">fantasiirikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fantasifull</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">kielenpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkbruk</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">lisäteema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilleggstema</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">jälkityö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etterarbeid</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">praksiisimuistelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">praksisfortelling</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">vaatitteminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påkledning</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">äänenpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stemmebruk</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">päätapattuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedhandling</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">kieliloova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkeske</t>
+         </tg>
+      </mg
+        </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">rytmi-instrumentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rytmeinstrument</t>
+         </tg>
+      </mg
+        </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">lapsiroikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">barnegruppe</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">kuvapuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>Den siden av arket der bildet er</re>
+            <t pos="N">bildeside</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">muisteliijanääni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fortellerstemme</t>
+         </tg>
+      </mg
+        </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">färjäysaktiviteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fargeleggingsaktivitet</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">färjäysarkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fargeleggingsark</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">verifiseerauskoodi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">verifiseringskode</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">meediapellaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mediaspiller</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">pittääjännimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brukernavn</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">sanakortti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordkort</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">raamiplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rammeplan</t>
+         </tg>
+      </mg
+        </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">kuvabiblioteekki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildebibliotek</t>
+         </tg>
+      </mg
+        </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">roikka-aktiviteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gruppeaktivitet</t>
+         </tg>
+      </mg
+        </e>
+           <e src="grom">
+      <lg>
+         <l pos="N">nettipretta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettbrett</t>
+         </tg>
+      </mg
+        </e>
            <e src="kl">
       <lg>
          <l pos="N">nahanvetämärauta</l>
@@ -69095,7 +69446,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">minorotetsungdom</t>
+            <t pos="N">minoritetsungdom</t>
          </tg>
       </mg>
    </e>
