@@ -26,6 +26,456 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+           <e src="grom">
+      <lg>
+         <l pos="N">vaatitteminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påkledning</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">silmäkontakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øyekontakt</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">jälkityöaktiviteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etterabeidsaktivitet</t>
+         </tg>
+      </mg>
+      </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">alaslastaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedlasting</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">sisälelokkaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innlogging</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">autopellaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">autospilling</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">ylösotto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opptak</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">iPadi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">iPad</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">mimikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mimikk</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">pdf-fiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pdf-fil</t>
+         </tg>
+      </mg>
+      </e>
+           <e src="grom">
+      <lg>
+         <l pos="N">kuvakirja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildebok</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">progresjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">progresjon</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">inspirasjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inspirasjon</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">dokumentasjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dokumentasjon</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">kolleega</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kollega</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">moduuli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">modul</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">nettukursi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettkurs</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">neliskantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">firkant</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">paneeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">panel</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">mikrofuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mikrofon</t>
+         </tg>
+      </mg>
+      </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">sekvensi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sekvens</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">prosedyyri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosedyre</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">pensseli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pensel</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">keituripukki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">geitepukk</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">animasjuunifilmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">animasjonsfilm</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">animasjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">animasjon</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">hunteeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">refleksjon</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">faktateksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">faktatekst</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">haravanvarsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">puslespill</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">palapeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">puslespill</t>
+         </tg>
+      </mg>
+      </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">termi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">term</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">fokus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fokus</t>
+         </tg>
+      </mg>
+      </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">puuloova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tre-eske</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">samanlaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">likhet</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">avvainsana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nøkkelord</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">nettikauppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettbutikk</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">maininta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omtale</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">favoriittiruoka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pengepung</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">rahapussi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pengepung</t>
+         </tg>
+      </mg>
+      </e>
+         <e src="grom">
+      <lg>
+         <l pos="N">luononlaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naturlov</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="grom">
+      <lg>
+         <l pos="N">elämänlaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livslov</t>
+         </tg>
+      </mg>
+      </e>
+        <e src="grom">
+      <lg>
+         <l pos="N">färipala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fargebrikke</t>
+         </tg>
+      </mg>
+      </e>
+     <e src="grom">
+      <lg>
+         <l pos="N">prettapeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brettspill</t>
+         </tg>
+      </mg>
+      </e>
+          <e src="grom">
+      <lg>
+         <l pos="N">raakatipsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">råtips</t>
+         </tg>
+      </mg>
+      </e>
+       <e src="grom">
+      <lg>
+         <l pos="N">färitema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fargetema</t>
+         </tg>
+      </mg>
+      </e>
        <e src="grom">
       <lg>
          <l pos="N">takaisinknappi</l>
@@ -1189,7 +1639,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-       <e src="bildetema">
+       <e src="bildetema;grom">
       <lg>
          <l pos="N">geometrii</l>
       </lg>
@@ -42769,7 +43219,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;grom">
       <lg>
          <l pos="N">oorninki</l>
          <stem>oorningi</stem>
@@ -42777,6 +43227,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ordning</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rekkefølge</t>
          </tg>
       </mg>
    </e>
@@ -49456,13 +49911,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;grom">
       <lg>
          <l pos="N">pyhäpäivä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">helligdag</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høytid</t>
          </tg>
       </mg>
    </e>

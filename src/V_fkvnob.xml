@@ -26,7 +26,107 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-           <e src="bildetema">
+          <e src="grom">
+      <lg>
+         <l pos="V">zoomata sisäle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">zoome inn</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">herättäät intressin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vekke interesse</t>
+         </tg>
+      </mg>
+   </e>
+          <e src="grom">
+      <lg>
+         <l pos="V">lokata ulos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">logge ut</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">lokata sisäle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">logge inn</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="grom">
+      <lg>
+         <l pos="V">registreerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">registrere</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="grom">
+      <lg>
+         <l pos="V">postata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">poste</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="grom">
+      <lg>
+         <l pos="V">refereerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">referere</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">stimuleerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stimulere</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="grom">
+      <lg>
+         <l pos="V">animeerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">animere</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="grom">
+      <lg>
+         <l pos="V">klassifiseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">klassifisere</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="bildetema">
       <lg>
          <l pos="V">häklätä</l>
       </lg>
@@ -76,7 +176,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e src="mj">
+     <e src="mj;grom">
       <lg>
          <l pos="V">flavuttaat</l>
       </lg>
@@ -14648,7 +14748,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;grom">
       <lg>
          <l pos="V">sovitella</l>
       </lg>
