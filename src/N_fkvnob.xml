@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
        <e src="grom">
       <lg>
+         <l pos="N">takaisinknappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilbakeknapp</t>
+         </tg>
+      </mg>
+     </e>
+       <e src="grom">
+      <lg>
          <l pos="N">personaaliroikka</l>
       </lg>
       <mg>
@@ -45496,7 +45506,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;grom">
       <lg>
          <l pos="N">personaali</l>
       </lg>
@@ -67726,7 +67736,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;grom">
       <lg>
          <l pos="N">äänifiili</l>
       </lg>
