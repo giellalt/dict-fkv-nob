@@ -26,6 +26,37 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="ae">
+      <lg>
+         <l pos="N">aarihauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skattegrav</t>
+         </tg>
+      </mg>
+      </e>
+      <e src="ae">
+      <lg>
+         <l pos="N">aarethauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skattegrav</t>
+         </tg>
+      </mg>
+      </e>
+     <e src="ae">
+      <lg>
+         <l pos="N">aapamatala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re<ute på havet</re>
+            <t pos="N">banke</t>
+         </tg>
+      </mg>
+      </e>
          <e src="ki">
       <lg>
          <l pos="N">pääorganisašuuni</l>
@@ -16502,7 +16533,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ae">
       <lg>
          <l pos="N">aaret</l>
          <stem>arthee</stem>
@@ -16510,6 +16541,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skatt</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gravskatt</t>
          </tg>
       </mg>
    </e>
@@ -16719,13 +16755,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ae">
       <lg>
          <l pos="N">aijankäänet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">solsnu</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solverv</t>
          </tg>
       </mg>
    </e>
@@ -16913,7 +16954,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ae">
       <lg>
          <l pos="N">aitta</l>
          <stem>aita</stem>
