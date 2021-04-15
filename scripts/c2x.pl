@@ -12,13 +12,13 @@ while (<>)
 	chomp ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
 	my ($lemma, $POS, $trans) = split /\t/ ;
-	print STDOUT "   <e src=\"yr\">\n";
+	print STDOUT "   <e src=\"ki\">\n";
 	print STDOUT "      <lg>\n";
-	print STDOUT "         <l pos=\"N\">$lemma</l>\n";
+	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
-	print STDOUT "         <tg>\n";
-	print STDOUT "            <t pos=\"$POS\" gen=\"x\">$trans</t>\n";
+	print STDOUT "         <tg xml:lang=\"nob\"\>\n";
+	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans2</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans3</t>\n";
 	print STDOUT "         </tg>\n";
