@@ -13837,7 +13837,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">organisasjon</t>
             <syng>
-               <syn>organisasioni</syn>
                <syn>organisasuuni</syn>
                <syn>järjestö</syn>
             </syng>
@@ -15074,7 +15073,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">organisasjon</t>
             <syng>
                <syn>organisašuuni</syn>
-               <syn>organisasioni</syn>
                <syn>järjestö</syn>
             </syng>
          </tg>
@@ -26582,7 +26580,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">organisasjon</t>
             <syng>
                <syn>organisašuuni</syn>
-               <syn>organisasioni</syn>
                <syn>organisasuuni</syn>
             </syng>
          </tg>
@@ -46792,21 +46789,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ekorn</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">organisasioni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">organisasjon</t>
-            <syng>
-               <syn>organisašuuni</syn>
-               <syn>organisasuuni</syn>
-               <syn>järjestö</syn>
-            </syng>
          </tg>
       </mg>
    </e>
