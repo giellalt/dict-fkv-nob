@@ -1,6 +1,7 @@
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #REQUIRED >
+<!ATTLIST e dial (p|r|v|pv|rv|pr|prv) #IMPLIED >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
@@ -48,10 +49,8 @@
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
-
-<!ELEMENT x ( #PCDATA ) >
+<!ATTLIST tg dial (p|r|v|pv|rv|pr|prv) #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
-
+<!ELEMENT x ( #PCDATA ) >
 <!ELEMENT xt ( #PCDATA ) >
-
