@@ -4864,6 +4864,201 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">sisäpuolipotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innsidespark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">ulkopuolipotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utsidespark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">nuskapotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjørnespark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">rangaistuspotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straffespark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">rangaistuskenttä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straffefeltet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">rangaistusfeltti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">straffefelt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">keskipaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">midtbanen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">puolustusraito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsvarsrekke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">hyökkäysraito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">angrepsrekke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">varapellaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innbytter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">träänätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">laakinjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lagleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">linjatuomari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">linjedommer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">assistenttituomari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">assistentdommer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">ilmanpotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frispark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">vapaapotku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frispark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">nuskaflaku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjørneflagg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">moolimies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">moolivahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målvakt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">keeper</t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
          <l pos="N">lentohamina</l>
