@@ -5289,6 +5289,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">sirkkeliharjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sirkeltrening</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">sölkäharjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ryggøvelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">vattaharjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mageøvelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">situp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l pos="N">voimahyppy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spensthopp </t>
+         </tg>
+      </mg>
+   </e>
          <e src="pnp">
       <lg>
          <l pos="N">lentohamina</l>
