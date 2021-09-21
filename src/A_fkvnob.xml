@@ -2683,7 +2683,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ae">
       <lg>
          <l pos="A">armas</l>
          <stem>armhaa</stem>
@@ -8321,6 +8321,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">russisk</t>
+              <xg>
+               <x>Kafeassa tarjothiin ryssän punajuurivellii.</x>
+               <xt>På kafeen ble det servert russisk rødbetsuppe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8330,7 +8334,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	       <re>vanligere: ryssän</re>
             <t pos="A">russisk</t>
+              <xg>
+               <x>Kafeassa tarjothiin ryssäläistä punajuurivellii.</x>
+               <xt>På kafeen ble det servert russisk rødbetsuppe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10495,7 +10504,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	       <re>vanligere: ryssän</re>
             <t pos="A">russisk</t>
+             <xg>
+               <x>Kafeassa tarjothiin venäläistä punajuurivellii.</x>
+               <xt>På kafeen ble det servert russisk rødbetsuppe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
