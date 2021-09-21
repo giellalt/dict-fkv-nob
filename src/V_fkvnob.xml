@@ -26,6 +26,27 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+        <e src="ae">
+      <lg>
+         <l pos="V">rikkoot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ødelegge</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ae">
+      <lg>
+         <l pos="V">ammutella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	        <re>for eksempel av veps</re>
+            <t pos="V">bli stukket</t>
+         </tg>
+      </mg>
+   </e>
           <e src="grom">
       <lg>
          <l pos="V">zoomata sisäle</l>
@@ -8055,7 +8076,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="V">levitellä</l>
+         <l pos="V">a
+	         ellä</l>
          <stem>levittele</stem>
          <stem>levitel</stem>
       </lg>
