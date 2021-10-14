@@ -119,16 +119,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Num">kaks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Num">to</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Num">kaksi</l>
@@ -261,21 +251,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Num">tretten</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">kuus</l>
-         <stem>kuuđe</stem>
-         <stem>kuut</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Num">seks</t>
-            <syng>
-               <syn>kuusi</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -536,21 +511,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Num">tusen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Num">viis</l>
-         <stem>viiđe</stem>
-         <stem>viit</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Num">fem</t>
-            <syng>
-               <syn>viisi</syn>
-            </syng>
          </tg>
       </mg>
    </e>
