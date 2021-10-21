@@ -5510,6 +5510,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+       <e src="ki">
+      <lg>
+         <l pos="N">kieliraati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkråd</t>
+         </tg>
+      </mg>
+   </e>
        <e src="kt">
       <lg>
          <l pos="N">idrettipiiri</l>
@@ -25452,16 +25462,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gammeltante</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">isovanhiimet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">besteforeldre</t>
          </tg>
       </mg>
    </e>
@@ -68472,18 +68472,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="N" nr="Pl">vanhiimet</l>
-         <stem>vanhiimi</stem>
-         <stem>vanhiimi</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">foreldre</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="N">vanhoittenkoti</l>
@@ -72905,16 +72893,6 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>esivanhiin</syn>
             </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">materivanhiimet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forfedre</t>
          </tg>
       </mg>
    </e>
