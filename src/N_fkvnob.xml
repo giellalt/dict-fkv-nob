@@ -14487,7 +14487,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">forfader</t>
             <syng>
-               <syn>materivanhiin</syn>             
+               <syn>maaterivanhiin</syn>             
             </syng>
          </tg>
       </mg>
@@ -20211,17 +20211,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">myndighet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">esivanhin</l>
-         <stem>esivanhema</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forfeder</t>
          </tg>
       </mg>
    </e>
@@ -41466,21 +41455,24 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" nr="Pl">maaterivanhiimet</l>
+         <l pos="N" nr="Pl">maaterivanhiin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forfedre</t>
+            <t pos="N">forfader</t>
+            <syng>
+               <syn>esivanhiin</syn>
+            </syng>
          </tg>
       </mg>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">maateriäijit</l>
+         <l pos="N">maateriäijä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forfedre</t>
+            <t pos="N">forfader</t>
          </tg>
       </mg>
    </e>
@@ -72880,19 +72872,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nattliv</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="oa">
-      <lg>
-         <l pos="N">materivanhiin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forfader</t>
-            <syng>
-               <syn>esivanhiin</syn>
-            </syng>
          </tg>
       </mg>
    </e>
