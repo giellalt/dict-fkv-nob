@@ -13960,12 +13960,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ae">
       <lg>
          <l pos="N">armas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>også i tiltale: min kjære, min elskede</re>
             <t pos="N">kjæreste</t>
          </tg>
       </mg>
@@ -33062,7 +33063,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;aht">
       <lg>
          <l pos="N">konto</l>
       </lg>
@@ -33070,6 +33071,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">tåke</t>
             <t pos="N">skodde</t>
+              <xg>
+               <x>Konto meni maahan.</x>
+               <xt>Tåken gikk i bakken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57651,11 +57656,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">russer</t>
+             <xg>
+               <x>Ikävä homma, ryssät voitethiin matsin! (om fotballkamp)</x>
+               <xt>Så dumt, russerne vant kampen!</xt>
+            </xg>
+             <xg>
+               <x>Voi synti ette ryssät voitethiin matsin! (om fotballkamp)</x>
+               <xt>Så dumt, russerne vant kampen!</xt>
+            </xg>
+         </tg>
+            <xg>
+               <x>Ryssät pruukathaan tulla kesälä markkinoile</x>
+               <xt>Russerne pleier å kommer om sommeren under markedet</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">russisk språk</t>
+             <xg>
+               <x>De snakker russisk.</x>
+               <xt>Het puhuthaan ryssää.</xt>
+            </xg>
+              <xg>
+               <x>Han studerer russisk.</x>
+               <xt>Hän studeeraa ryssää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57667,7 +57693,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>vanligere: ryssä</re>
             <t pos="N">russer</t>
+             <xg>
+               <x>Ryssäläiset pruukathaan tulla kesälä markkinoile</x>
+               <xt>Russerne pleier å kommer om sommeren under markedet</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69397,6 +69428,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">russisk språk</t>
+             <xg>
+               <x>De snakker russisk.</x>
+               <xt>Het puhuthaan ryssää.</xt>
+            </xg>
+              <xg>
+               <x>Han studerer russisk.</x>
+               <xt>Hän studeeraa ryssää.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69408,7 +69447,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>vanligere: ryssä</re>
             <t pos="N">russer</t>
+            <xg>
+               <x>Venäläiset pruukathaan tulla kesälä markkinoile.</x>
+               <xt>Russerne pleier å komme om sommeren under markedet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71414,6 +71458,19 @@ For the full license text, see the link above.</lic>
        <mg>
          <tg xml:lang="nob">
             <t pos="N">bånd</t>
+         </tg>
+      </mg>
+             <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontakt</t>
+              <xg>
+               <x>Piđämä yhtheyttä!</x>
+               <xt>La oss holde kontakten!</xt>
+            </xg>
+             <xg>
+               <x>Met olema yhtheyđessä!</x>
+               <xt>Vi holder kontakten!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
