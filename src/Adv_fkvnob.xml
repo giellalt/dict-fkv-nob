@@ -709,7 +709,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ae">
       <lg>
          <l pos="Adv">aivan</l>
       </lg>
@@ -721,6 +721,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bare</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fullstendig</t>
          </tg>
       </mg>
    </e>
