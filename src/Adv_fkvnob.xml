@@ -389,6 +389,382 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ajosin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kjørende</t>
+            <xg>
+               <x>Het menthiin ajosin Tromsshaan.</x>
+               <xt>De dro kjørende til Tromsø.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">alempanna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lengre ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ennenvanhaasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i gamle dager</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">framila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">framme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hajala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i stykker</t>
+            <xg>
+               <x>Klasi oon hajala.</x>
+               <xt>Glasset er i stykker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hajale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i stykker</t>
+            <xg>
+               <x>Klasi meni hajale.</x>
+               <xt>Glasset gikk i stykker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hetikohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">snart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hihtosin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på ski</t>
+            <xg>
+               <x>Menin hihtosin Kaaransjokheen.</x>
+               <xt>Jeg gikk på ski til Karasjok.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hupakassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">beruset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">itkheilä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på gråten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">julmasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">mye</t>
+            <xg>
+               <x>Sielä oli kallaa niin julmasti.</x>
+               <xt>Det var så mye fisk der.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">keskenhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">seg imellom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hvor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kävelten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">til fots</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">käyten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">til fots</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lastheela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">med forakt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lentosin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">med fly</t>
+            <xg>
+               <x>Met menimä lentosin Uslhuun.</x>
+               <xt>Vi reiste med fly til Oslo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lähjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">flat</t>
+            <xg>
+               <x>Painaat lähjään.</x>
+               <xt>Klemme flat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">melko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ganske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">muutosin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ellers</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nokitusten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ansikt til ansikt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nurinniskoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">over ende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">oikkeesthaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">egentlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pilassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ødelagt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sivvumennen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i forbifarten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">suorastans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">rett og slett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">mennä tyrmhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="">miste bevisstheten</t>
+            <xg>
+               <x>Mennä tyrmhiin.</x>
+               <xt>Miste bevisstheten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">täkempännä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nærmere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">täythöön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">full</t>
+            <xg>
+               <x>Ämmi pani kirnun täythöön päälistä.</x>
+               <xt>Mor fylte kjernen full av fløte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">uiten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">svømmende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">valjusti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">mye</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">viimesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">til slutt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vähhiimitten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">minst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vähittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i det minste</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Adv">heti aikhoin</l>

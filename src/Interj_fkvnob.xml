@@ -189,6 +189,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="uit">
+      <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">hei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="uit">
+      <lg>
+         <l pos="Interj">halloo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">hallo</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Interj">noh</l>
@@ -260,6 +280,16 @@ For the full license text, see the link above.</lic>
                <x>Hyvvää päivää!</x>
                <xt>God dag!</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="uit">
+      <lg>
+         <l pos="Interj">terve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">hei</t>
          </tg>
       </mg>
    </e>
