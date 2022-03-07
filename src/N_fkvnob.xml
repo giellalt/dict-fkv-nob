@@ -5530,6 +5530,196 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">seksuaalinen suunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seksuell legning</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">singeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">singel</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">yksinelläävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">enslig</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">aviokumppani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ektefelle</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">elämänkumppani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livspartner</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="N">bonus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bonus</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">bonuslapsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bonusbarn</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">satheenkaari-ihmiset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regnbuefolk</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">vesikaari-ihmiset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regnbuefolk</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">trans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transi</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">transihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transperson</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">transvaimo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transkvinne</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">transnainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transkvinne</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">transmies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transmann</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">raiskaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">voldtekt</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">vihapraatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hatprat</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">vihapuhet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hatprat</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">diskrimineerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diskriminering</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="kt">
+      <lg>
+         <l pos="N">rasismi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rasisme</t>
+         </tg>
+      </mg>
+   </e>
        <e src="bildetema">
       <lg>
          <l pos="N">agurkki</l>
@@ -35222,6 +35412,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">følgesvenn</t>
             <t pos="N">kamerat</t>
+            <t pos="N">partner</t>
          </tg>
       </mg>
    </e>
@@ -72381,7 +72572,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">samboer</t>
+            <t pos="N">samboerpar</t>
          </tg>
       </mg>
    </e>
