@@ -41,7 +41,7 @@
 <!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
-                  N | Num | Po | Pr | Pron | V ) #REQUIRED >
+                  N | Num | Po | Pr | Pron | V | Phrase) #REQUIRED >
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
