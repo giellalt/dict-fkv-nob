@@ -3434,6 +3434,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">akseptere</t>
             <t pos="V">godta</t>
+            <t pos="V">godkjenne</t>
          </tg>
       </mg>
    </e>
@@ -10981,6 +10982,58 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ta vare på</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ottaat käytthöön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta i bruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ottaat pithoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta i bruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">printata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">printe</t>
+            <t pos="Phrase">skrive ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tulostaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">skrive ut</t>
+            <t pos="Phrase">printe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">hylätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">avvise</t>
          </tg>
       </mg>
    </e>
