@@ -26,6 +26,118 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+         <e src="ame">
+      <lg>
+         <l pos="V">olestuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stanse</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ai">
+      <lg>
+         <l pos="V">tykätä synttii</l>
+      </lg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="V">synes synd på</t>
+            <xg>
+               <x>Hän tykkää synttii kođittomiista.</x>
+               <xt>Hun synes synd på de hjemløse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      </e>
+              <e src="ai">
+      <lg>
+         <l pos="V">sääliit</l>
+      </lg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="V">synes synd på</t>
+            <xg>
+               <x>Mie säälin kaikkii pakolaissii.</x>
+               <xt>Jeg synes synd på flyktningene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      </e>
+           <e src="ai">
+      <lg>
+         <l pos="V">survoot</l>
+      </lg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stampe</t>
+            <xg>
+               <x>Met survoima ruotukanmarjat tampussa.</x>
+               <xt>Vi stampet ripsbærene i stampen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stumpe</t>
+            <xg>
+               <x>Teini-ikäiset survothiin sigareetit.</x>
+               <xt>Tenåringene stumpet sigarettene.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stappe</t>
+            <xg>
+               <x>Pikkuveli survoi kaikki neuvot ransselhiin.</x>
+               <xt>Lillebror stappet alle tingene i ranselen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+        <e src="ai">
+      <lg>
+         <l pos="V">kađottaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">miste</t>
+            <xg>
+               <x>Pikkulapsi kađotti vantthuut ulkona.</x>
+               <xt>Den lille ungen mistet vottene ute.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+           <e src="ai">
+      <lg>
+         <l pos="V">huolestuttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bekymre seg</t>
+            <xg>
+               <x>Koko assii huolestutti minnuu.</x>
+               <xt>Hele saken bekymret meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+        <e src="ai">
+      <lg>
+         <l pos="V">asuttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bosette</t>
+            <xg>
+               <x>Tanskan kuningas halus asuttaat Finmarkun.</x>
+               <xt>Danskekongen ønsket å bosette Finnmark.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
         <e src="ae">
       <lg>
          <l pos="V">rikkoot</l>
