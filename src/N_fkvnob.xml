@@ -2143,8 +2143,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">avføringstrang</t>
              <xg>
-               <x>Kattungen må bæsje.</x>
-               <xt>Kissanpenikällä oon paskahätä.</xt>
+               <x>Kissanpenikällä oon paskahätä.</x>
+               <xt>Kattungen må bæsje.</xt>
             </xg>
          </tg>
       </mg>
@@ -2157,8 +2157,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">avføringstrang</t>
              <xg>
-               <x>Kattungen må bæsje.</x>
-               <xt>Kissanpenikällä oon paskahoppu.</xt>
+               <x>Kissanpenikällä oon paskahoppu.</x>
+               <xt>Kattungen må bæsje.</xt>
             </xg>
          </tg>
       </mg>
@@ -12941,7 +12941,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">tind</t>
             <xg>
                <x>Vaakahammas oon Etelä-Varangissa.</x>
-               <xt>Vaggtind ligger i Sør-Varanger.</xt>
+               <xt>Vaggetind ligger i Sør-Varanger.</xt>
             </xg>
          </tg>
       </mg>
@@ -58604,12 +58604,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">russisk språk</t>
              <xg>
-               <x>De snakker russisk.</x>
-               <xt>Het puhuthaan ryssää.</xt>
-            </xg>
-              <xg>
-               <x>Han studerer russisk.</x>
-               <xt>Hän studeeraa ryssää.</xt>
+               <x>Het puhuthaan ryssää.</x>
+               <xt>De snakker russisk.</xt>
             </xg>
          </tg>
       </mg>
@@ -61117,7 +61113,64 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	           <re>bånd eller snøre til å binde, feste med</re>
+            <t pos="N">binding</t>
+              <xg>
+               <x>Sivakansitheen oon pantu tiukasti.</x>
+               <xt>Bindingen på skiene er satt på stramt.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	           <re>bånd i overført betydning, tilknytning, forbindelse</re>
+            <t pos="N">bånd</t>
+              <xg>
+               <x>Lasten ja vanhiimiitten välilä oon tihhee siđet.</x>
+               <xt>Mellom barn og foreldre er det tette bånd.</xt>
+            </xg>
+               <xg>
+               <x>Het tehthiin sen siksi ette vahvistaat sitheet krannimaitten välilä.</x>
+               <xt>De gjorde det for å styrke båndene mellom nabolandene.</xt>
+            </xg>
+              <xg>
+               <x>Veljesten välilä olthiin väkkeevät sitheet.</x>
+               <xt>Mellom brødrene var det sterke bånd.</xt>
+            </xg>
+             <xg>
+               <x>Ystävyys- ja verisitheet oon tärkkeet osat elämää.</x>
+               <xt>Vennskaps- og blodsbånd er viktige deler av livet.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	         <re>tøystykke til å binde om noe eller forbinding, stykke av absorberende materiale for å forbinde og suge opp væske. Også om perm og rygg på bok</re>
             <t pos="N">bind</t>
+              <xg>
+               <x>Tämä oon niin helppo ette mie saatan tehđä sen silmät siđottunna.</x>
+               <xt>Dette er så lett at jeg kan gjøre det med bind for øynene.</xt>
+            </xg>
+              <xg>
+               <x>Paikka oli niin salainen ette häytyi olla siđet silmiin eđessä.</x>
+               <xt>Stedet var så hemmelig at man måtte ha bind for øynene.</xt>
+            </xg>
+              <xg>
+               <x>Het panthiin sitheen haavan pääle.</x>
+               <xt>De forbandt såret.</xt>
+            </xg>
+              <xg>
+               <x>Sie häyđyt vaihettaat sitheen kerran päivässä.</x>
+               <xt>Du må skifte forbinding en gang hver dag.</xt>
+            </xg>
+          <xg>
+               <x>Minula oon kuukautiset. Oonko kelhään siđet?</x>
+               <xt>Jeg har mensen. Er det noen som har bind?</xt>
+            </xg>
+               <xg>
+               <x>Kirjan siđet oon nahasta.</x>
+               <xt>Permen og ryggen på boka er av skinn.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
