@@ -5431,12 +5431,19 @@ For the full license text, see the link above.</lic>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
             <t pos="Phrase">ha tid til</t>
-            <t pos="Phrase">bli ferdig</t>
+            <xg>  
+	            <x>Erkki kerkis leipomhaan jo ennen murkinaa.</x>
+		      <xt>Erik rakk å bake alt før frokost.</xt>
+		      </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli ferdig</t>
+            		          <xg>  
+	            <x>Ko hän kerkis syömästä ja juomasta, hän kattoi vähäsen TV:tä ja luki aviisin.</x>
+		      <xt>Da hun ble ferdig med å spise og drikke så hun på TV og leste avisa.</xt>
+		      </xg>
          </tg>
       </mg>
    </e>
@@ -16860,11 +16867,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">komme</t>
+            		          <xg>  
+	            <x>Hän tuli kothiin eilen.</x>
+		      <xt>Hun kom hjem i går.</xt>
+		      </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli</t>
+                <xg>  
+	            <x>Hän tuli iloiseksi.</x>
+		      <xt>Hun ble glad.</xt>
+		      </xg>
+		        <xg>  
+	            <x>Hänestä tuli opettaaja.</x>
+		      <xt>Han ble lærer.</xt>
+		      </xg>
          </tg>
       </mg>
    </e>
@@ -19107,7 +19126,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="V">öksyyt</l>
+         <l pos="V">eksyyt</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -19124,6 +19143,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">olje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">taippuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bøye</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">pystyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">klare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">markeerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">markere</t>
          </tg>
       </mg>
    </e>
