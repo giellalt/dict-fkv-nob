@@ -283,6 +283,50 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Interj">aamuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">god morgen</t>
+            <xg>
+               <x>Hyvvää aamuu!</x>
+               <xt>God morgen!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Interj">hyvvää yötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">god natt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Interj">hyvvää vyötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">god natt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Interj">hyvvää ilttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">god kveld</t>
+         </tg>
+      </mg>
+   </e>
    <e src="uit">
       <lg>
          <l pos="Interj">terve</l>
