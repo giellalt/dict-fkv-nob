@@ -10866,16 +10866,72 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">være</t>
+             <xg>
+               <x>Hän oon kymmenen vuotta vanhaa.</x>
+               <xt>Hun er ti år.</xt>
+            </xg>
+             <xg>
+               <x>Sie olet seppä.</x>
+               <xt>Du er flink.</xt>
+            </xg>
+              <xg>
+               <x>Tet oletta sepät.</x>
+               <xt>Du er flink.</xt>
+            </xg>
+           <xg>
+               <x>Minun täti oon sananjohtaaja.</x>
+               <xt>Tanta mi er ordfører.</xt>
+            </xg>
+              <xg>
+               <x>Duuki pittää olla punainen.</x>
+               <xt>Duken skal være rød.</xt>
+            </xg>
+              <xg>
+               <x>Kirja oon minun.</x>
+               <xt>Boka er mi.</xt>
+            </xg>
+             <xg>
+               <x>Oonko sinula nälkä?</x>
+               <xt>Er du sulten?</xt>
+            </xg>
+              <xg>
+               <x>Sisälä oon lämmin.</x>
+               <xt>Inne er det varmt.</xt>
+            </xg>
+               <xg>
+               <x>Sie häyđyt olla varovainen.</x>
+               <xt>Du må være forsiktig.</xt>
+            </xg>
+              <xg>
+               <x>Se oon ollu fiini feeriä.</x>
+               <xt>Det har vært en fin ferie.</xt>
+            </xg>
+              <xg>
+               <x>Ole siivo ja täknää vielä yhđen krokodillin, lapsi sanoi.</x>
+               <xt>Vær så snill og tegn en krokodille til, sa barnet.</xt>
+            </xg>
+               <xg>
+               <x>Olkaa siivot ja autakkaa minnuu, Espen sanoi trolliile.</x>
+               <xt>Vær så snill og hjelp meg, sa Espen til trollene.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha</t>
+                          <xg>
+               <x>Minula oon kaksi kissaa.</x>
+               <xt>Jeg har to katter.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bli</t>
+               <xg>
+               <x>Se tullee olemhaan niin.</x>
+               <xt>Det blir slik.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11169,7 +11225,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <t pos="Phrase">passe på</t>
             <xg>
-               <x>piä huolen siitä, ette paikka jää hyvhään kunthoon ko lähet</x>
+               <x>Piä huolen siitä, ette paikka jää hyvhään kunthoon ko lähet</x>
                <xt>pass på at stedet er i god stand når du drar</xt>
             </xg>
          </tg>
