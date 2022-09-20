@@ -38490,7 +38490,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai;yr">
       <lg>
-         <l pos="N">laki</l>
+         <l pos="N" hid="Hom1">laki</l>
          <stem>laji</stem>
          <stem>lakki</stem>
       </lg>
@@ -38499,6 +38499,13 @@ For the full license text, see the link above.</lic>
             <t pos="N">lov</t>
          </tg>
       </mg>
+   </e>
+   <e src="ta;ai;yr">
+      <lg>
+         <l pos="N" hid="Hom2">laki</l>
+         <stem>laje</stem>
+         <stem>lakki</stem>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fjelltopp</t>
