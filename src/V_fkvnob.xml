@@ -7497,9 +7497,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">promenere</t>
-            <t pos="V">spasere</t>
             <t pos="V">gå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spasere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">promenere</t>
          </tg>
       </mg>
    </e>
@@ -7578,12 +7586,6 @@ For the full license text, see the link above.</lic>
          <l pos="V">käyđä</l>
          <stem>käve</stem>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">spasere</t>
-            <t pos="V">gå</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ta en tur</t>
@@ -9552,8 +9554,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gå</t>
-            <t pos="V">passe</t>
             <t pos="V">lykkes</t>
             <xg>
                <x>Se ei menesty tehhä sillä laila.</x>
@@ -9593,9 +9593,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">begi seg</t>
             <t pos="V">gå</t>
-            <t pos="V">ferdes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">begi seg</t>
          </tg>
       </mg>
    </e>
