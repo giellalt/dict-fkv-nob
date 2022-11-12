@@ -1,0 +1,384 @@
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="fkvnob" xml:lang="fkv">
+  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Terje Aronsen and Verena Schall at Kainun institutti, Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+    <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+  </lics>
+  <e>
+    <lg>
+      <l context="mie" pos="V">ei</l>
+      <analysis>IV_Neg_Act_Sg3</analysis>
+      <mini_paradigm>
+        <analysis ms="IV_Neg_Act_Sg1">
+          <wordform>en</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Sg2">
+          <wordform>et</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Sg3">
+          <wordform>ei</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl1">
+          <wordform>emmä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl2">
+          <wordform>että</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl3">
+          <wordform>ei</wordform>
+        </analysis>
+      </mini_paradigm>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>3. person entall</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Muori ei tule kaupunkhiin tääpänä.</x>
+          <xt>Mor kommer ikke til byen i dag.</xt>
+        </xg>
+        <xg>
+          <x>Muori ei tullu eilen.</x>
+          <xt>Mor kom ikke i går.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">en</l>
+      <lemma_ref lemmaID="ei_v">ei</lemma_ref>
+      <analysis>IV_Neg_Act_Sg1</analysis>
+      <algu lekseemi_id="62984" sanue_id="11665"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om meg selv</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>En tule kaupunkhiin tääpänä.</x>
+          <xt>Jeg kommer ikke til byen i dag.</xt>
+        </xg>
+        <xg>
+          <x>En tullu eilen.</x>
+          <xt>Jeg kom ikke i går.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">et</l>
+      <lemma_ref lemmaID="ei_v">ei</lemma_ref>
+      <analysis>IV_Neg_Act_Sg2</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om deg</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Etkö tule kaupunkhiin tääpänä?</x>
+          <xt>Kommer du ikke til byen i dag?</xt>
+        </xg>
+        <xg>
+          <x>Etkö tullu eilen?</x>
+          <xt>Kom du ikke i går?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">emmä</l>
+      <lemma_ref lemmaID="ei_v">ei</lemma_ref>
+      <analysis>IV_Neg_Act_Pl1</analysis>
+      <algu lekseemi_id="23512" sanue_id="45722"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om oss</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Met emmä tule kaupunkhiin tääpänä.</x>
+          <xt>Vi kommer ikke til byen i dag.</xt>
+        </xg>
+        <xg>
+          <x>Met emmä tulheet eilen.</x>
+          <xt>Vi kom ikke i går.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">että</l>
+      <lemma_ref lemmaID="ei_v">ei</lemma_ref>
+      <analysis>IV_Neg_Act_Pl2</analysis>
+      <algu lekseemi_id="22796" sanue_id="45722"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om dere</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Ettäkö tet tule kaupunkhiin tääpänä?</x>
+          <xt>Kommer dere ikke til byen i dag?</xt>
+        </xg>
+        <xg>
+          <x>Ettäkö tulheet eilen?</x>
+          <xt>Kom dere ikke i går?</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">ei</l>
+      <lemma_ref lemmaID="ei_v">ei</lemma_ref>
+      <analysis>IV_Neg_Act_Pl3</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om dem</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Tyttäret ei tulheet kaupunkhiin tääpänä.</x>
+          <xt>Jentene kommer ikke til byen i dag.</xt>
+        </xg>
+        <xg>
+          <x>Tyttäret ei tulheet eilenkhään.</x>
+          <xt>Jentene kom ikke i går heller.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">eikä</l>
+      <analysis>IV_Neg_Act_Sg3_Clt_Qst</analysis>
+      <mini_paradigm>
+        <analysis ms="IV_Neg_Act_Sg1_Foc/ge">
+          <wordform>enkä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Sg2_Foc/ge">
+          <wordform>etkä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Sg3_Foc/ge">
+          <wordform>eikä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl1_Foc/ge">
+          <wordform>emmäkä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl2_Foc/ge">
+          <wordform>ettäkä</wordform>
+        </analysis>
+        <analysis ms="IV_Neg_Act_Pl3_Foc/ge">
+          <wordform>eikä</wordform>
+        </analysis>
+      </mini_paradigm>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>3. person entall</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Eesvastausta ei anneta firmoile eikä tavalisille ihmisille.</x>
+          <xt>Ansvaret gis til bedrifter og ikke til personer.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">enkä</l>
+      <lemma_ref lemmaID="eikä_v">eikä</lemma_ref>
+      <analysis>IV_Neg_Act_Sg1_Clt_Qst</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om meg selv</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Mie en saata hyppiit enkä laukkoot kilppaa.</x>
+          <xt>Jeg kan verken hoppe eller løpe om kapp.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">etkä</l>
+      <lemma_ref lemmaID="eikä_v">eikä</lemma_ref>
+      <analysis>IV_Neg_Act_Sg2_Clt_Qst</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om deg</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Sie olet joukon ittepäinen etkä anna alle niin helposti.</x>
+          <xt>Du er veldig sta og gir ikke opp så lett.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">emmäkä</l>
+      <lemma_ref lemmaID="eikä_v">eikä</lemma_ref>
+      <analysis>IV_Neg_Act_Pl1_Clt_Qst</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om oss</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Met emmä saata lukkeet emmäkä kirjoittaat.</x>
+          <xt>Vi kan verken lese eller skrive.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">ettäkä</l>
+      <lemma_ref lemmaID="eikä_v">eikä</lemma_ref>
+      <analysis>IV_Neg_Act_Pl2_Clt_Qst</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om dere</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Mie huuan teän pörhään ettäkä vastaa.</x>
+          <xt>Jeg roper på dere og dere svarer ikke.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">eikä</l>
+      <lemma_ref lemmaID="eikä_v">eikä</lemma_ref>
+      <analysis>IV_Neg_Act_Pl3_Clt_Qst</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om dem</re>
+        <t pos="Adv">og (heller) ikke</t>
+        <xg>
+          <x>Het ei saata suomee eikä engelskaa.</x>
+          <xt>De kan verken finsk eller engelsk.</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">älkhöön</l>
+      <analysis>Neg_Act_Imprt_Sg3</analysis>
+      <mini_paradigm>
+        </analysis>
+        <analysis ms="Neg_Act_Imprt_Sg2">
+          <wordform>älä</wordform>
+        </analysis>
+        <analysis ms="Neg_Act_Imprt_Sg3">
+          <wordform>älkhöön</wordform>
+        </analysis>
+        </analysis>
+        <analysis ms="Neg_Act_Imprt_Pl2">
+          <wordform>älkää</wordform>
+        </analysis>
+        <analysis ms="Neg_Act_Imprt_Pl3">
+          <wordform>älkhöön</wordform>
+        </analysis>
+      </mini_paradigm>
+      <algu lekseemi_id="61743" sanue_id="114704"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>3. person entall</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Jos kukhaan ei tunne sitä, niin se saata olla sammaa</x>
+          <xt>Hvis noen ikke kjenner det, så får det være det samme!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">älä</l>
+      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
+      <analysis>Neg_Act_Imprt_Sg2</analysis>
+      <algu lekseemi_id="61743" sanue_id="114704"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>til deg</re>
+        <t pos="Adv">ikke</t>
+        <xg re="til en person">
+          <x>Älä tule tänne!</x>
+          <xt>Ikke kom hit!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">älkää</l>
+      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
+      <analysis>Neg_Act_Imprt_Pl2</analysis>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>til dere</re>
+        <t pos="Adv">ikke</t>
+        <xg re="til flere enn to personer">
+          <x>Älkkää tulkkaa tänne!</x>
+          <xt>Ikke kom hit!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg freq="0">
+      <l pos="V">älkhöön</l>
+      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
+      <analysis>Neg_Act_Imprt_Pl3</analysis>
+      <algu lekseemi_id="61743" sanue_id="114704"/>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om flere</re>
+        <t pos="Adv">ikke</t>
+        <xg>
+          <x>Älkhöön tulkkaa!</x>
+          <xt>La dem ikke komme!</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+</r>
