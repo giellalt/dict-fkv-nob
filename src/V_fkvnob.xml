@@ -1817,32 +1817,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="V">ei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">ikke</t>
-            <xg>
-               <x>Hän ei ole kotona.</x>
-               <xt>Han er ikke hjemme.</xt>
-            </xg>
-            <xg>
-               <x>En ole ostanu leippää.</x>
-               <xt>Jeg har ikke kjøpt brød.</xt>
-            </xg>
-            <xg>
-               <x>Het eivät ole täälä.</x>
-               <xt>De er ikke her.</xt>
-            </xg>
-            <xg>
-               <x>Emmä ole käynheet sielä.</x>
-               <xt>Vi har ikke vært der.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l pos="V">elläät</l>
          <stem>elä</stem>
       </lg>
@@ -2054,34 +2028,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hindre</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">et</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">ikke</t>
-            <xg>
-               <x>Et saa mennä ulos.</x>
-               <xt>Du får ikke gå ut.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="V">että</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">ikke</t>
-            <xg>
-               <x>Että ole saanheet luppaa.</x>
-               <xt>Dere har ikke fått lov.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
