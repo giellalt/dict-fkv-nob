@@ -163,7 +163,7 @@ For the full license text, see the link above.</lic>
         <re>om dem</re>
         <t pos="Adv">ikke</t>
         <xg>
-          <x>Tyttäret ei tulheet kaupunkhiin tääpänä.</x>
+          <x>Tyttäret ei tule kaupunkhiin tääpänä.</x>
           <xt>Jentene kommer ikke til byen i dag.</xt>
         </xg>
         <xg>
@@ -257,6 +257,10 @@ For the full license text, see the link above.</lic>
           <x>Met emmä saata lukkeet emmäkä kirjoittaat.</x>
           <xt>Vi kan verken lese eller skrive.</xt>
         </xg>
+        <xg>
+          <x>Met emmä saattanheet lukkeet emmäkä kirjoittaat.</x>
+          <xt>Vi kunne verken lese eller skrive.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -273,6 +277,10 @@ For the full license text, see the link above.</lic>
         <xg>
           <x>Mie huuan teän pörhään ettäkä vastaa.</x>
           <xt>Jeg roper på dere og dere svarer ikke.</xt>
+        </xg>
+        <xg>
+          <x>Mie huuan teän pörhään ettäkä vastanheet.</x>
+          <xt>Jeg roper på dere og dere svarte ikke.</xt>
         </xg>
       </tg>
     </mg>
@@ -291,38 +299,9 @@ For the full license text, see the link above.</lic>
           <x>Het ei saata suomee eikä engelskaa.</x>
           <xt>De kan verken finsk eller engelsk.</xt>
         </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg freq="0">
-      <l pos="V">älkhöön</l>
-      <analysis>Neg_Act_Imprt_Sg3</analysis>
-      <mini_paradigm>
-        </analysis>
-        <analysis ms="Neg_Act_Imprt_Sg2">
-          <wordform>älä</wordform>
-        </analysis>
-        <analysis ms="Neg_Act_Imprt_Sg3">
-          <wordform>älkhöön</wordform>
-        </analysis>
-        </analysis>
-        <analysis ms="Neg_Act_Imprt_Pl2">
-          <wordform>älkää</wordform>
-        </analysis>
-        <analysis ms="Neg_Act_Imprt_Pl3">
-          <wordform>älkhöön</wordform>
-        </analysis>
-      </mini_paradigm>
-      <algu lekseemi_id="61743" sanue_id="114704"/>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <re>3. person entall</re>
-        <t pos="Adv">ikke</t>
         <xg>
-          <x>Jos kukhaan ei tunne sitä, niin se saata olla sammaa</x>
-          <xt>Hvis noen ikke kjenner det, så får det være det samme!</xt>
+          <x>Het ei saattanheet suomee eikä engelskaa.</x>
+          <xt>De kunne verken finsk eller engelsk.</xt>
         </xg>
       </tg>
     </mg>
@@ -330,8 +309,13 @@ For the full license text, see the link above.</lic>
   <e>
     <lg freq="0">
       <l pos="V">älä</l>
-      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
       <analysis>Neg_Act_Imprt_Sg2</analysis>
+      <mini_paradigm>
+        </analysis>
+        <analysis ms="Neg_Act_Imprt_Pl2">
+          <wordform>älkkää</wordform>
+        </analysis>
+      </mini_paradigm>
       <algu lekseemi_id="61743" sanue_id="114704"/>
     </lg>
     <mg>
@@ -347,8 +331,8 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg freq="0">
-      <l pos="V">älkää</l>
-      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
+      <l pos="V">älkkää</l>
+      <lemma_ref lemmaID="älä_v">älä</lemma_ref>
       <analysis>Neg_Act_Imprt_Pl2</analysis>
     </lg>
     <mg>
@@ -358,24 +342,6 @@ For the full license text, see the link above.</lic>
         <xg re="til flere enn to personer">
           <x>Älkkää tulkkaa tänne!</x>
           <xt>Ikke kom hit!</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg freq="0">
-      <l pos="V">älkhöön</l>
-      <lemma_ref lemmaID="älkhöön_v">älkhöön</lemma_ref>
-      <analysis>Neg_Act_Imprt_Pl3</analysis>
-      <algu lekseemi_id="61743" sanue_id="114704"/>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <re>om flere</re>
-        <t pos="Adv">ikke</t>
-        <xg>
-          <x>Älkhöön tulkkaa!</x>
-          <xt>La dem ikke komme!</xt>
         </xg>
       </tg>
     </mg>
