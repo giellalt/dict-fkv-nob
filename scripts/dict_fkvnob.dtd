@@ -12,6 +12,7 @@
 <!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
+<!ATTLIST l dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>
@@ -49,7 +50,7 @@
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
-<!ATTLIST tg dial (p|r|v|pv|rv|pr|prv) #IMPLIED >
+<!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
 <!ELEMENT x ( #PCDATA ) >
