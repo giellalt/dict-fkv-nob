@@ -6409,7 +6409,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">ambulanssi</l>
+         <l pos="N">ambulansi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -75459,6 +75459,519 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">plan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aaltopriimu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>diakritisk tegn</re>
+            <t pos="N">tilde</t>
+            <t pos="N">krøllstrek</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aamuhämy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morgenskumring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aarasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Aaroninsauva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Orions belte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adrenaliini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adrenalin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ahteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>akterste del av et fartøy</re>
+            <t pos="N">hekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aijanhaaskaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidssløseri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aijankäyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aijanräkninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsregning</t>
+            <x>Ennen aijanräkningin alun.</x>
+            <xt>Før vår tidsregning.</xt>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aikaymmärys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsforståelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ainethäfti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">emnehefte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aitaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innhegning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ajoneuvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjøretøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">akseselskaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aksjeselskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alakasvit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">undervegetasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alakulo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">depresjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alapää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedre ende</t>
+            <t pos="N">nedre del</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alaspainaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">undertrykkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alasyrjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedre kant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alaymmärys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">underbevissthet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alkuasukas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innfødt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alkukansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">urfolk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alkulämmitys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>forberedelse</re>
+            <t pos="N">oppvarming</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alkusanat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">underlag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ammatillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">profesjonell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ampumahauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skyttergrav</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">analyysi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">analyse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ankka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>en liten tønne på 36 liter</re>
+            <t pos="N">anker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ansakuoppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fallgruve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ansio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inntekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">apina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">apekatt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arpanapula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">terning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arpatavara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arvegods</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arransementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arrangement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arranssööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arrangør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">arvovalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">auktoritet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stilling</t>
+            <t pos="N">holdning</t>
+            <x>Mie istuin niin huonossa asemassa, ette sølkä tuli kippeeksi.</x>
+            <xt>Jeg satt i en så dårlig stilling, at jeg fikk vondt i ryggen.</xt>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asento</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beliggenhet</t>
+            <t pos="N">leirplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asetlepo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">våpenhvile</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskrift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">assiintila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilstand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">assiittenhoito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saksbehandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">astrofysikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">astrofysikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asunto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leilighet</t>
+            <t pos="N">bosted</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">asuttaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bosetter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">atraktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">attraktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aura</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">plog</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">auringonpaistet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solskinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aurinkosellipaneeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solcellepanel</t>
          </tg>
       </mg>
    </e>
