@@ -76167,7 +76167,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">ensimäinen</l>
+         <l pos="N">ensimäinen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -76397,6 +76397,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">kielenpittääjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkbruker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">plaanaperioodi</l>
       </lg>
       <mg>
@@ -76527,6 +76537,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">perusopetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunnopplæring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">läpittevieminen</l>
       </lg>
       <mg>
@@ -76537,7 +76557,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">toinen</l>
+         <l pos="N">toinen kieli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -76997,7 +77017,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">rahoittaminen,</l>
+         <l pos="N">rahoittaminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -77007,7 +77027,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">osanottaaminen,</l>
+         <l pos="N">finansieerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finansiering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">osanottaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">deltakelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">osalistuminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -77027,7 +77067,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">työjoukko,</l>
+         <l pos="N">työjoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">työroikka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -77077,7 +77127,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">näkkyyväksi</l>
+         <l pos="N">näkkyyväksi tekeminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
