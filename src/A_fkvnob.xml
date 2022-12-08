@@ -8298,6 +8298,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pohjaisnorjalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nordnorsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etelänorjalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sørnorsk</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="A">ruijalainen</l>
@@ -10347,6 +10367,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hvit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mielyttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">behagelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">epämielyttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ubehagelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">epäoikheuđenmukainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">urettferdig</t>
          </tg>
       </mg>
    </e>
