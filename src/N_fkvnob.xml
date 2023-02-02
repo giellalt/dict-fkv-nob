@@ -45637,7 +45637,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">kjeft</t>
          </tg>
       </mg>
-   </e>
+   </e>   
    <e src="ta;ai">
       <lg>
          <l pos="N">naapuri</l>
@@ -77314,6 +77314,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dokumentarisk</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="es">
+      <lg>
+         <l pos="N">draama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drama</t>
          </tg>
       </mg>
    </e>
