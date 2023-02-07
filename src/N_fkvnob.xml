@@ -10122,6 +10122,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kovvuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hardhet</t>
+         </tg>
+      </mg>
+   </e>
    <e src="aili">
       <lg>
          <l pos="N">avuttomuus</l>
@@ -10584,6 +10594,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">seihval</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kraakkuvalas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">knølhval</t>
          </tg>
       </mg>
    </e>
@@ -12841,14 +12861,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ia">
       <lg>
-         <l pos="N">huippu</l>
+         <l pos="N">humppi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">topp</t>
-            <syng>
-               <syn>lajet</syn>             
-            </syng>
+            <t pos="N">hump</t>
+            <t pos="N">forhøyning</t>
+            <t pos="N">ås</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kramppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krampe</t>
          </tg>
       </mg>
    </e>
@@ -14535,6 +14564,16 @@ For the full license text, see the link above.</lic>
                <syn>assuuja</syn>
                <syn>asukas</syn>
             </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaikkuuja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høyttaler</t>
          </tg>
       </mg>
    </e>
@@ -28720,6 +28759,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kothiinkaippaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemlengsel</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">kairo</l>
@@ -28885,6 +28934,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fiskekokning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kotikeitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemmebrent</t>
          </tg>
       </mg>
    </e>
@@ -31008,6 +31067,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kjeks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">krenksu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hempe</t>
          </tg>
       </mg>
    </e>
@@ -36749,6 +36818,16 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>kustannus</syn>
             </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kostanus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kostnad</t>
          </tg>
       </mg>
    </e>
@@ -53311,6 +53390,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kreevi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">greve</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">preivi</l>
@@ -57760,6 +57849,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">brusk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">korvarousku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ørebrusk</t>
          </tg>
       </mg>
    </e>
@@ -76055,6 +76154,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sivilbefolkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kotiväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">folket hjemme</t>
          </tg>
       </mg>
    </e>
