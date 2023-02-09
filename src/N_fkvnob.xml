@@ -16579,6 +16579,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bruker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kuluttaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">forbruker</t>
          </tg>
       </mg>
@@ -51754,6 +51763,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kuona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fitte</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">pilvi</l>
@@ -78654,7 +78673,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">klype (målenhet)</t>
+         <re>målenhet</re>
+            <t pos="N">klype</t>
          </tg>
       </mg>
    </e>
