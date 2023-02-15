@@ -79111,7 +79111,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">melding, kunngjøring, opplysning</t>
+            <t pos="N">melding</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunngjøring</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opplysning</t>
          </tg>
       </mg>
    </e>
@@ -79211,7 +79221,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">grine, gjøre grimaser, skjære ansikt</t>
+            <t pos="N">grine</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjøre grimaser</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjære ansikt</t>
          </tg>
       </mg>
    </e>
@@ -79281,7 +79301,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">jager, trekantet stadseil foran klyverten</t>
+         <re>trekantet stadseil foran klyverten</re>
+            <t pos="N">jager</t>
          </tg>
       </mg>
    </e>
