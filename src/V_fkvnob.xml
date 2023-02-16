@@ -19341,7 +19341,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>   
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">irvistäät</l>
       </lg>
@@ -19357,13 +19357,33 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">gjøre en grimase</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lage en grimase</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="es">
+      <lg>
+         <l pos="V">irvistellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">grine</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">gjøre grimaser</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">lage grimaser</t>
+            <t pos="V">skjære ansikt</t>
          </tg>
       </mg>
-   </e>   
+   </e>
 </r>
