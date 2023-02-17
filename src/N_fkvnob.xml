@@ -28298,6 +28298,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääkarhu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">isbjørn</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">jääkäri</l>
@@ -79511,6 +79521,211 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>ikke så godmodig</re>
             <t pos="N">julenisse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jousi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bue</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jousipyssy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pil og bue</t>
+            <xg>
+            <x>Amppuut jousipyssylä.</x>
+            <xt>Å skyte med pil og bue.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juhlapäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helligdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">julistus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">erklæring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">julkipaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">offentlig rom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juokseminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">løping</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blødning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juovikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">steinur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juridikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">juridikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etterspørsel</t>
+            <xg>
+            <x>Kuivakalala oli iso juto</x>
+            <xt>Det var stor etterspørsel av tørrfisk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juttu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sak</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fortelling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N ">juurivesa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N ">rotskudd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juustolokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>der ostemassen får renne ferdig</re>
+            <t pos="N">osteform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jänes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jätös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>f.eks matrest</re>
+            <t pos="N">rest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääfluuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">isflak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääkarhu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">isbjørn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääkausi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">istid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääkräämi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">iskrem</t>
          </tg>
       </mg>
    </e>
