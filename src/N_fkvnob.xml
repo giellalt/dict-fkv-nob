@@ -29563,7 +29563,19 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="N">kampet</l>
-         <stem>kampphee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">redskap</t>
+            <t pos="N">verktøy</t>
+            <t pos="N">utstyr</t>
+            <t pos="N">klær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kamppheet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -29923,7 +29935,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kappalet</l>
          <stem>kappalhee</stem>
@@ -29931,7 +29943,33 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lekse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bit</t>
             <t pos="N">stykke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avsnitt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kapal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bit</t>
+            <t pos="N">stykke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avsnitt</t>
          </tg>
       </mg>
    </e>
@@ -79726,6 +79764,301 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">iskrem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">to</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="es">
+      <lg>
+         <l pos="N">jääpuras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">istappe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaajatolppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaistolpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaalamasaapas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vadestøvel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kappe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">reingjerde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaarni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krøkebær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaarnikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krøkebær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaarto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tørrere sted på myren</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaffifiltteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffefilter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaffinsumppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffegrut</t>
+            <t pos="N">kaffegrugg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaikenkansanoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">allemannsrett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaipu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lengsel</t>
+            <xg>
+            <x>kaipu kotia</x>
+            <xt>hjemlengsel</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaivaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgraving</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kajutta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kahytt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kakaao</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kakao</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kakkorästit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kakerester</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalajälli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskehjell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalamatala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskegrunne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalanmolot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskeslo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalanvasthaanotto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskemottak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalapolli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskebolle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaleesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kalesje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalliopiirustus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helleristning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kalvoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndledd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kammo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">redsel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kampanji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kampanje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kansakunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kantamakyky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bærekraft</t>
          </tg>
       </mg>
    </e>
