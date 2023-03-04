@@ -63996,16 +63996,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">sääntieto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">værmelding</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">sääri</l>
@@ -85141,7 +85131,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">et sted med mye trer</t>
+            <t pos="N">et sted med mye trær</t>
             <t pos="N">tett skog</t>
          </tg>
       </mg>
@@ -85650,7 +85640,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">reklam</t>
+            <t pos="N">reklame</t>
          </tg>
       </mg>
    </e>
@@ -85670,17 +85660,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">se rässi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">resursi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">resurs</t>
+            <t pos="N">utleire</t>
+            <t pos="N">lav sjøstrand</t>
          </tg>
       </mg>
    </e>
@@ -85711,16 +85692,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vilt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">riki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">riki</t>
          </tg>
       </mg>
    </e>
@@ -85864,6 +85835,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>når det er mye av noe</re>
             <t pos="N">rikdom</t>
+            <t pos="N">overflod</t>
             <xg>
             <x>ruvanrunshaus</x>
             <xt>overflod av mat</xt>
@@ -85878,7 +85850,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>maten som ikke blir brukt og kastes</re>
-            <t pos="N">matsløs</t>
+            <t pos="N">matsvinn</t>
          </tg>
       </mg>
    </e>
@@ -85888,7 +85860,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">spiskammers</t>
+            <t pos="N">spiskammer</t>
          </tg>
       </mg>
    </e>
