@@ -70038,16 +70038,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">vares</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kråke</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">variantti</l>
@@ -70090,17 +70080,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kråkereir</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="N">varis</l>
-         <stem>varikse</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kråke</t>
          </tg>
       </mg>
    </e>
@@ -87244,7 +87223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">opphavrett</t>
+            <t pos="N">opphavsrett</t>
          </tg>
       </mg>
    </e>
@@ -87522,7 +87501,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">en liten bygning</t>
+         <re>bygning</re>
+            <t pos="N">et lite hus</t>
          </tg>
       </mg>
    </e>
@@ -88025,7 +88005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">blåknyte</t>
+            <t pos="N">blåknute</t>
          </tg>
       </mg>
    </e>
@@ -88518,16 +88498,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">varis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kråke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">vares</l>
       </lg>
       <mg>
@@ -88775,7 +88745,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">melkering</t>
+            <t pos="N">melkeringe</t>
          </tg>
       </mg>
    </e>
@@ -88958,7 +88928,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">enignet</t>
+            <t pos="N">enighet</t>
          </tg>
       </mg>
    </e>
