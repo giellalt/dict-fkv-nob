@@ -3701,7 +3701,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">måtte</t>
-            <t pos="Phrase">være nødt til</t>
+            <t pos="Phrase">bli tvunget til</t>
             <syng>
                <syn>häättyyt</syn>
             </syng>
@@ -4153,13 +4153,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">måtte</t>
-            <t pos="Phrase">bli tvunget til</t>
             <t pos="Phrase">være nødt til</t>
+	  <xg>
+	    <x>Kaikki jouđuthiin lähteet etelhään.</x>
+	    <xt>Alle måtte dra sørover.</xt>
+	  </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">havne</t>
+           <t pos="V">havne</t>
+	  <xg>
+	    <x>Kaikki jouđuthiin punasele listale.</x>
+	    <xt>Alle havnet på den røde lista.</xt>
+	  </xg>
+	   
          </tg>
       </mg>
    </e>
