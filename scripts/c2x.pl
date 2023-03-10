@@ -12,7 +12,7 @@ while (<>)
 	chomp ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
 	my ($lemma, $POS, $trans) = split /\t/ ;
-	print STDOUT "   <e src=\"ki\">\n";
+	print STDOUT "   <e src=\"es\">\n";
 	print STDOUT "      <lg>\n";
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
