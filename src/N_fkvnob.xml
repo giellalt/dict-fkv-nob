@@ -726,6 +726,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">pääorganisasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedorganisasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="Phrase">reekelit ja päätökset</l>
       </lg>
       <mg>
@@ -2475,6 +2485,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
+         <l pos="N">progresuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">progresjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
          <l pos="N">inspirasjuuni</l>
       </lg>
       <mg>
@@ -2485,7 +2505,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
+         <l pos="N">inspirasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inspirasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
          <l pos="N">dokumentasjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dokumentasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
+         <l pos="N">dokumentasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2605,7 +2645,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
+         <l pos="N">animasuunifilmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">animasjonsfilm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
          <l pos="N">animasjuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">animasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
+         <l pos="N">animasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -6884,6 +6944,16 @@ For the full license text, see the link above.</lic>
    <e src="bildetema">
       <lg>
          <l pos="N">injekšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">injeksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">injeksuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -15020,6 +15090,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
+         <l pos="N">ammunisuunilaakeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ammunisjonslager</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">fotograaffi</l>
       </lg>
       <mg>
@@ -15075,6 +15155,26 @@ For the full license text, see the link above.</lic>
    <e src="mk">
       <lg>
          <l pos="N">TV-akšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">TV-aksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">aksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">TV-aksuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -16817,6 +16917,16 @@ For the full license text, see the link above.</lic>
    <e src="mk">
       <lg>
          <l pos="N">kommunikašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunikasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
+         <l pos="N">kommunikasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -20424,6 +20534,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
+         <l pos="N">bussistasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">busstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
          <l pos="N">byssistoppi</l>
       </lg>
       <mg>
@@ -20795,6 +20915,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">eksperimenttistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eksperimentstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">eksperimenttistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -26408,6 +26538,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">inspekšuunistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inspeksjonsstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">inspeksuunistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -33968,6 +34108,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">kommunikasuunisentteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunikasjonssenter</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">kommunisti</l>
@@ -34157,6 +34307,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">konsešuuniala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konsesjonsområde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">konsesuuniala</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -35076,6 +35236,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">koulutusinstitušuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utdanningsinstitusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">koulutusinstitusuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -44301,6 +44471,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">metrostasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">metrostasjon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">mettiinen</l>
@@ -44391,6 +44571,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">mettästašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skogstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">mettästasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -44753,6 +44943,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">mišuunistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">misjonsstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">misuunistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -47635,6 +47835,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">observasuunipaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">observasjonssted</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">ohimo</l>
@@ -48871,6 +49081,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">paalistasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>anlegg for pressing og pakking (av høy el. likn.) til baller</re>
+            <t pos="N">ballestasjon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">paana</l>
@@ -49800,6 +50021,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">paloinspekšuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">branninspeksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">paloinspeksuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -52747,6 +52978,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">poliisistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">politiforlegning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">poliisistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -56096,6 +56337,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
+         <l pos="N">raatiostasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">radiostasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
          <l pos="N">raatiotorni</l>
       </lg>
       <mg>
@@ -56278,6 +56529,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">rajastašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grensestasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">rajastasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -56506,6 +56767,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">rannikkovahtistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kystvaktstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">rannikkovahtistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -57004,6 +57275,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">rautatiestašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jernbanestasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">rautatiestasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -58474,6 +58755,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">ruokatradišuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mattradisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">ruokatradisuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -60003,6 +60294,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">satellittistasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">satellittstasjon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">satheenkaari</l>
@@ -60869,6 +61170,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">signaalistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">signalstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">signaalistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -65496,6 +65807,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">tervheysinstitusuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseinstitusjon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">tervheysleipä</l>
@@ -66547,7 +66868,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
+         <l pos="N">tradisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tradisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="N">tradišuuniruoka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tradisjonsmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">tradisuuniruoka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -66663,6 +67004,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">trianguleerinkistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trianguleringsstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">trianguleerinkistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -67032,6 +67383,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">tullistašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tollstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">tullistasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -69309,6 +69670,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">vahtistasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaktstasjon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">vahto</l>
@@ -69583,6 +69954,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">valhaanpyytöstašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvalfangststasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">valhaanpyytöstasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -71057,6 +71438,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
+         <l pos="N">vesipumppustasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannpumpestasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
          <l pos="N">vesiraja</l>
       </lg>
       <mg>
@@ -72011,6 +72402,16 @@ For the full license text, see the link above.</lic>
    <e src="yr">
       <lg>
          <l pos="N">voimastašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kraftstasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">voimastasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -73508,6 +73909,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
+         <l pos="N">öljypumppustasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oljepumpestasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
          <l pos="N">öljyputki</l>
       </lg>
       <mg>
@@ -74360,6 +74771,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">presentasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presentasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">elästyttäminen</l>
       </lg>
       <mg>
@@ -74716,6 +75137,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">dokumentašuuniprošekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dokumentasjonsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dokumentasuuniprošekti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -75160,6 +75591,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">kuvadokumentašuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bildedokumentasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuvadokumentasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -80393,6 +80834,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">kesy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tam</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kesu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
