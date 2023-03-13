@@ -6601,7 +6601,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">brošyyri</l>
+         <l pos="N">bindersi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">binders</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">brosyyri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7808,6 +7818,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
+         <l pos="N">neulomamasiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">symaskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
          <l pos="N">nivel</l>
       </lg>
       <mg>
@@ -7979,6 +7999,16 @@ For the full license text, see the link above.</lic>
    <e src="bildetema">
       <lg>
          <l pos="N">pantaaši</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bandasje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">pantaasi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -8219,6 +8249,16 @@ For the full license text, see the link above.</lic>
    <e src="bildetema">
       <lg>
          <l pos="N">poramašiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">boremaskin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">poramasiini</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -74931,6 +74971,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">kulttuuriprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">trauma</l>
       </lg>
       <mg>
@@ -75136,7 +75186,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">näyttelyprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utstillingsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">dokumentašuuniprošekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dokumentasjonsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dokumentasuuniprosekti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -75211,6 +75281,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">faakiprošekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">faglig prosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faakiprosekti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -75630,6 +75710,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">teatteriprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">teaterprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">nuorisoklubi</l>
       </lg>
       <mg>
@@ -75830,6 +75920,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">musikkiprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">musikkprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">kulttuuriesitys</l>
       </lg>
       <mg>
@@ -76010,7 +76110,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">kieliprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">kieliteknologiaprošekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkteknologiprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kieliteknologiiprosekti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -76031,6 +76151,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">prošektiraha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektmidler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosektiraha</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
