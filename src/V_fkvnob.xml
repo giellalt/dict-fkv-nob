@@ -19629,6 +19629,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli grå</t>
+            <xg>
+            <x>Hykset harmistuthaan vuossiin varrela.</x>
+            <xt>Hårene blir gråere med årene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19852,8 +19856,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">uttrykke</t>
             <t pos="Phrase">gi uttrykk for</t>
             <xg>
-            <x>Anni sen sijhaan ilmaisi kaikile ajatukset näistä assiista.</x>
-            <xt>Anni på sin side ga uttrykk for tankene sine rundt disse sakene.</xt>
+            <x>Anni ilmaisi kaikile ittensä ajatukset näistä assiista.</x>
+            <xt>Anni ga uttrykk for tankene sine rundt disse sakene.</xt>
             </xg>
          </tg>
       </mg>
@@ -20087,11 +20091,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">karittoita</l>
+         <l pos="V">karitoita</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lamme</t>
+            <xg>
+            <x>Lamphaat karitoitteeva.</x>
+            <xt>Sauene får lam.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20180,7 +20188,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">bli forferdet over</t>
+            <t pos="Phrase">bli forferdet</t>
          </tg>
       </mg>
    </e>
@@ -20786,7 +20794,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">utvide</t>
+            <t pos="Phrase">bli større</t>
          </tg>
       </mg>
    </e>
@@ -21570,6 +21578,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli plaget</t>
+            <xg>
+            <x>Met piinaanuima koulussa.</x>
+            <xt>Vi ble plaget på skolen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21672,6 +21684,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ta en lur</t>
+            <xg>
+            <x>Taisin pohahtaat vähäsen.</x>
+            <xt>Jeg sovnet visst av litegrann.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
