@@ -19913,7 +19913,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">jarruttaa</l>
+         <l pos="V">jarruttaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -21797,6 +21797,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">feste</t>
             <t pos="Phrase">sette fast</t>
+            <xg>
+            <x>Matti puutteli knapin houshuin.</x>
+            <xt>Matti festet knappen i buksene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21968,7 +21972,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">rekrytere</t>
+            <t pos="V">rekruttere</t>
          </tg>
       </mg>
    </e>
@@ -22103,6 +22107,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">innstille</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">justere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bestemme</t>
             <t pos="V">fastsette</t>
             <xg>
@@ -22226,7 +22240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">skrue</t>
+            <t pos="V">skru</t>
          </tg>
       </mg>
    </e>
@@ -22236,7 +22250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">knute</t>
+            <t pos="V">knyte</t>
          </tg>
       </mg>
    </e>
@@ -23111,7 +23125,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">oppdatera</t>
+            <t pos="V">oppdatere</t>
          </tg>
       </mg>
    </e>
@@ -23121,7 +23135,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">omkringe</t>
+            <t pos="V">omringe</t>
          </tg>
       </mg>
    </e>
