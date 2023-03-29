@@ -2792,6 +2792,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">streng</t>
+             <xg>
+               <x>Koulun reekelit olthiin ankarat</x>
+               <xt>På skolen var reglene strenge.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	        <re>særlig i Porsanger</re>
+            <t pos="A">ivrig</t>
+              <xg>
+               <x>Pikkupoika oon ankara kokkoomhaan puoloi.</x>
+               <xt>Den lille gutten er ivrig å plukke tyttebær.</xt>
+            </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="nob">
+	        <re>særlig i Porsanger</re>
+            <t pos="A">flittig</t>
+              <xg>
+               <x>Ämmä oli ankara tekemhään työtä.</x>
+               <xt>Kona var ivrig å jobbe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11027,6 +11051,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">pigg</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ivrig</t>
+              <xg>
+               <x>Het kaikki olthiin niin virkut työtelemhään.</x>
+               <xt>Alle var så ivrige å jobbe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
