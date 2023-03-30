@@ -6491,6 +6491,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
+         <l pos="Phrase">kovota korjhuun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">samle inn</t>
+            <t pos="Phrase">ta i bevaring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
          <l pos="V">kraakkuut</l>
          <stem>kraaku</stem>
       </lg>
@@ -7730,6 +7741,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">leie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">ottaat kontolens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta på seg ansvar</t>
          </tg>
       </mg>
    </e>
@@ -9598,6 +9619,28 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">gå av</t>
             <t pos="Phrase">gå i stykker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Phrase">mennä pilhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli ødelagt</t>
+            <t pos="Phrase">bli dårlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="Phrase">mennä pilale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli ødelagt</t>
+            <t pos="Phrase">bli dårlig</t>
          </tg>
       </mg>
    </e>
@@ -11706,6 +11749,10 @@ For the full license text, see the link above.</lic>
                <x>panna likhoon</x>
                <xt>legge i bløt</xt>
             </xg>
+            <xg>
+               <x>panna pleekhiin</x>
+               <xt>legge til bleking</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13642,6 +13689,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="Phrase">tulla päihin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli full</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="V">pärjätä</l>
@@ -13718,6 +13775,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">beslutte</t>
             <t pos="V">bestemme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">päästä tyrmästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">våkne til bevissthet</t>
          </tg>
       </mg>
    </e>
