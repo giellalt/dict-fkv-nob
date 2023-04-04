@@ -1244,6 +1244,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kiimhainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kåt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">halukas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kåt</t>
+            <t pos="N">villig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="kl">
       <lg>
          <l pos="N">kiimakoira</l>
@@ -21165,16 +21186,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">næring</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">elekriski</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">elektrisitet</t>
          </tg>
       </mg>
    </e>
@@ -72666,6 +72677,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vittu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vulva</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">voi</l>
@@ -78719,6 +78740,34 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">elektrisitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuukautiset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mensen</t>
+            <xg>
+            <x>Minula oon kuukautiset.</x>
+            <xt>Jeg har mensen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuuntauđit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mensen</t>
+            <xg>
+            <x>Minula oon kuuntauđit.</x>
+            <xt>Jeg har mensen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

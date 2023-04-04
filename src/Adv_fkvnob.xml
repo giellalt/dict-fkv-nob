@@ -7803,6 +7803,40 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">ei yksikhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ingen av delene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">ei yhthään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ingen av delene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">kiimassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kåt</t>
+            <xg>
+               <x>Olla kiimassa</x>
+               <xt>Å være kåt</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Adv">yhtä</l>

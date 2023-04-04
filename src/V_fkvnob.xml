@@ -5953,6 +5953,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">klappe</t>
+            <xg>
+            <x>Saatanko klapata sinun kissaa?</x>
+            <xt>Kan jeg klappe katten din?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13474,7 +13478,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">pyhkiit</l>
          <stem>pyhi</stem>
@@ -13487,6 +13491,10 @@ For the full license text, see the link above.</lic>
        <mg>
          <tg xml:lang="nob">
             <t pos="V">stryke</t>
+            <xg>
+            <x>Saatanko pyhkiit sinun kissaa?</x>
+            <xt>Kan jeg stryke katten din?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>

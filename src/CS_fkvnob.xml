@@ -109,6 +109,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="CS">enn</t>
+            <xg>
+            <x>Entä sie?</x>
+            <xt>Enn du?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="CS">napa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CS">enn</t>
+            <xg>
+            <x>Napa sie?</x>
+            <xt>Enn du?</xt>
+            </xg>
          </tg>
       </mg>
    </e>

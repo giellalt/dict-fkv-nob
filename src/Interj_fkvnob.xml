@@ -32,6 +32,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Interj">gratulerer med dagen</t>
+            <xg>
+            <x>Paljon onnee sinuleki!</x>
+            <xt>Gratulerer til deg også!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -42,6 +46,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Interj">gratulerer</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="Interj">hyvvää mukkaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">god tur</t>
          </tg>
       </mg>
    </e>
