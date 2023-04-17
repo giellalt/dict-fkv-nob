@@ -48264,7 +48264,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">domstol</t>
             <t pos="N">rett</t>
             <t pos="N">rettighet</t>
          </tg>
@@ -90212,6 +90211,330 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>om ikke-kvener,ikke-samer</re>
             <t pos="N">skjellsnavn for nordmenn fra Nord-Norge</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="akr">
+      <lg>
+         <l pos="N">samfynni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samfunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">deklarasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">erklæring</t>
+            <t pos="N">deklarasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="">ylöskassuuttaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="">oppdragelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tyranni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tyranni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">työsuhđet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsforhold</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">työkyky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsevne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tuomiotooli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">domstol</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tuomioistuin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">domstol</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">toleransi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">toleranse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tietokanaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">meddelelsesmiddel</t>
+            <t pos="N">informasjonskanal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">tervheyđenhoito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseomsorg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">suvereniteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">suverenitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">raasa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">puhheenvaphaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">talefrihet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">preivinvaihettaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">korrespondanse</t>
+            <t pos="N">brevveksling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">perusvaphaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">grunnleggende frihet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">perusoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">grunnleggende rettighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">persoonallisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personlighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">orjuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">slaveri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">oikkeuđenmyötäisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettferdighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">oikkeuđenmukaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettferdighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">moraali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">moral</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">kansalaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">statsborgerskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">indiviidi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">individ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">hyvinvointi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">velvære</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">hyvinvoiminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">velferd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">faakiforeeninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagforening</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">ensioikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fortrinnsrett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">elämänstandardi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">levestandard</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">arresti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arrest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">johatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="N">ihmisoikkeusdeklarasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">erklæring om menneskerettigheter</t>
+            <t pos="N">deklarasjon om menneskerettigheter</t>
          </tg>
       </mg>
    </e>

@@ -6909,9 +6909,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="akr">
       <lg>
          <l pos="A">oikkeuđenmukainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rettferdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="A">oikkeuenmukainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -7167,7 +7177,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="A">painava</l>
+         <l pos="A">painaava</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -14839,6 +14849,248 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">dokumentarisk</t>
+         </tg>
+      </mg>
+   </e>   
+   <e src="akr">
+      <lg>
+         <l pos="A">tekkeevä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">noen/noe som gjør noe</t>
+            <xg>
+            <x>Jokhaisella työtä tekkeevällä oon oikkeus feerihään.</x>
+            <xt>Enhver som arbeider har rett på ferie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">syytön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uskyldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">syylinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skyldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">sellainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">en slik</t>
+            <t pos="A">sånn</t>
+            <t pos="A">sådan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">rajattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">begrenset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ökonoominen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">økonomisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">muunlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">annen</t>
+            <t pos="A">ulik</t>
+            <xg>
+            <x>Jos oon tarvet niin saat muunlaisen suojan.</x>
+            <xt>Hvis det er nødvendig får du en annen form for beskyttelse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">moraalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">moralsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">materiaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">materiell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">laiton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ulovlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">kelpoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">akseptabel</t>
+            <t pos="A">god nok</t>
+            <t pos="A">dugelig</t>
+            <xg>
+            <x>Kaikila oon oikkeus kelpoisheen ja effektiivisheen aphuun tuomiotooliilta.</x>
+            <xt>Alle har rett til dugelig og effektiv hjelp fra domstolene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">kelppaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">akseptabel</t>
+            <t pos="A">god nok</t>
+            <t pos="A">dugende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ihmisarvoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">menneskeverdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">persoonallinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">personlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">hallinollinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">administrativ</t>
+            <t pos="A">rettslig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ei-poliittinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ikke-politisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ei-partinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">upartisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">ei-humaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">umenneskelig</t>
+            <t pos="A">inhuman</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">demokraattinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">demokratisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">barbaarinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">barbarisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">alaspainaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nedverdigende</t>
+            <t pos="A">nedtrykkende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="akr">
+      <lg>
+         <l pos="A">kaikensorttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">allslags</t>
          </tg>
       </mg>
    </e>
