@@ -2868,7 +2868,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">nådeløs</t>
             <xg>
-               <x>Hän oon armoton kaunis.</x>
+               <x>Hän oon armottoman kaunis.</x>
                <xt>Hun er nådeløst vakker.</xt>
             </xg>
          </tg>
@@ -13300,8 +13300,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">spesifikk</t>
             <t pos="A">aktuell</t>
-            <t pos="A">eksplisitt</t>
             <t pos="Phrase">den/det det er snakk/spørsmål</t>
             <xg>
             <x>Tässä nimenomhaisessa kysymyksessä mie en ole seppäihminen.</x>
