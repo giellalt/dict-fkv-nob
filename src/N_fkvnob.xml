@@ -29332,6 +29332,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaira</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stormåse</t>
+            <t pos="N">svartbak</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">kairomuna</l>
@@ -29383,13 +29394,91 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ki">
+      <lg>
+         <l pos="N">mustasiipinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svartbak</t>
+            <t pos="N">stormåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mustapääkajava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hettemåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">krykja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krykkje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">krykki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krykkje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">kajava</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">måse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskemåse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krykkje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråmåse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småmåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ki">
+      <lg>
+         <l pos="N">skuorikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>årsgammel</re>
+            <t pos="N">måke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">måsefugler</t>
+            <t pos="N">måser</t>
          </tg>
       </mg>
    </e>
@@ -29450,6 +29539,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kesälokki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskemåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pikkulokki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskemåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kalakajava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskemåse</t>
          </tg>
       </mg>
    </e>
@@ -45342,13 +45461,71 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">moosa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stormåse</t>
+            <t pos="N">svartbak</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">måsefugler</t>
+            <t pos="N">måser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">isomoosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svartbak</t>
+            <t pos="N">stormåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">harmaajakajava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråmåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">harmajakajava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråmåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">harmaamoosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gråmåse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sillikajava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sildemåse</t>
          </tg>
       </mg>
    </e>
@@ -62336,17 +62513,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skrue</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">skuorikka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-         <re>årsgammel</re>
-            <t pos="N">måke</t>
          </tg>
       </mg>
    </e>
@@ -89513,6 +89679,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">produksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valmhius</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beredskap</t>
          </tg>
       </mg>
    </e>
