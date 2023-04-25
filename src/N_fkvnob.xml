@@ -6397,11 +6397,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kt">
       <lg>
-         <l pos="N">trans</l>
+         <l pos="N">transi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">transi</t>
+            <t pos="N">trans</t>
          </tg>
       </mg>
    </e>
@@ -30116,11 +30116,11 @@ For the full license text, see the link above.</lic>
    </e>   
    <e src="es">
       <lg>
-         <l pos="N">brøytestikk</l>
+         <l pos="N">pluukatikka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">pluukatikka</t>
+            <t pos="N">brøytestikk</t>
          </tg>
       </mg>
    </e>
@@ -67764,16 +67764,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">tukkeet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">støtte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">tukki</l>
          <stem>tuki</stem>
       </lg>
@@ -86474,6 +86464,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">puulvantus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">polvott</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">puulvantut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
