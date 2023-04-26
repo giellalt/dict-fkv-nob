@@ -419,16 +419,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">kahđekses</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">sjuende</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="A">seittemes</l>
       </lg>
       <mg>
@@ -1754,16 +1744,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
-         <l pos="A">aktiivinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">aktiv</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ks">
-      <lg>
          <l pos="A">alakuloinen</l>
       </lg>
       <mg>
@@ -1962,17 +1942,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">gyllen</t>
-         </tg>
-      </mg>
-   </e>
-      <e src="ks">
-      <lg>
-         <l pos="A">kuohee</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">luftig</t>
-            <t pos="A">porøs</t>
          </tg>
       </mg>
    </e>
@@ -2440,16 +2409,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">ylimäinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">overst</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="A">epäreekelinmukainen</l>
       </lg>
       <mg>
@@ -2650,16 +2609,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">anselig</t>
             <t pos="A">staselig</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="A">aktiivinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">aktiv</t>
          </tg>
       </mg>
    </e>
@@ -4293,17 +4242,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">åttekantet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">kahđekses</l>
-         <stem>kahđeksene</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">åttende</t>
          </tg>
       </mg>
    </e>
@@ -10250,21 +10188,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">blond</t>
             <t pos="A">lys</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">vaaleepunainen</l>
-         <stem>vaaleepunaise</stem>
-         <stem>vaaleepunais</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">lyserød</t>
-            <syng>
-               <syn>vaaleepunanen</syn>
-            </syng>
          </tg>
       </mg>
    </e>

@@ -47,13 +47,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ai">
       <lg>
          <l pos="Po">takkaa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">bak</t>
+            <t pos="Pr">bakfra</t>
             <xg>
                <x>Kissa tuli huonheen takkaa.</x>
                <xt>Katten kom bak huset.</xt>
@@ -75,28 +76,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
-      <lg>
-         <l pos="Po">seassa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">blant</t>
-            <xg>
-               <x>Elka laukkoo trafikin seassa.</x>
-               <xt>Elg løper blant trafikken.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk;mj">
+   <e src="mk;mj;ai;ta">
       <lg>
          <l pos="Po">ympäri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">om</t>
-            <t pos="Pr">omkring</t>
             <t pos="Pr">rundt omkring</t>
             <xg>
                <x>Met puhuma assiin ympäri.</x>
@@ -104,17 +90,21 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Po">ympäri</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">omkring</t>
             <xg>
                <x>puhhuut probleemin ympäri</x>
                <xt>snakke omkring problemet</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">rundt</t>
+            <xg>
+               <x>Niilä oon aita talon ympäri.</x>
+               <xt>De har gjerde rundt huset.</xt>
             </xg>
          </tg>
       </mg>
@@ -189,7 +179,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ai">
       <lg>
          <l pos="Po">etheen</l>
       </lg>
@@ -200,6 +190,11 @@ For the full license text, see the link above.</lic>
                <x>Mie annoin tyttären mennä etheen.</x>
                <xt>Jeg lot jenta slippe forbi.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">foran</t>
          </tg>
       </mg>
    </e>
@@ -227,20 +222,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Ko sie kävelet kattuu ylöspäin löyđät lensmanin talon.</x>
                <xt>Når du går oppover gata finner du huset til lensmannen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Po">sisälä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">inni</t>
-            <xg>
-               <x>Aarret oon arkun sisälä.</x>
-               <xt>Skatten er inni kista.</xt>
             </xg>
          </tg>
       </mg>
@@ -287,7 +268,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;ai">
       <lg>
          <l pos="Po">eđessä</l>
       </lg>
@@ -297,6 +278,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hän seissoo vaikkeuđen eđessä.</x>
                <xt>Han står overfor et problem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">foran</t>
+            <xg>
+               <x>Se oon juuri sinun silmiin eđessä.</x>
+               <xt>Den er akkurat foran øyene dine.</xt>
             </xg>
          </tg>
       </mg>
@@ -371,10 +361,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ai;ta;mk">
       <lg>
          <l pos="Po">takana</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">bakenfor</t>
+            <t pos="Pr">bakom</t>
+            <t pos="Pr">bak</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">bortom</t>
@@ -396,16 +393,6 @@ For the full license text, see the link above.</lic>
                <x>Huonet toisela puolela mukkaa.</x>
                <xt>Huset bortom svingen.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="Po">tykö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">innom</t>
          </tg>
       </mg>
    </e>
@@ -497,30 +484,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Mie olen ollu kristilinen lapsuuđesta asti.</x>
                <xt>Jeg har vært kristen siden barndommen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">etheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">foran</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">eđessä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">foran</t>
-            <xg>
-               <x>Se oon juuri sinun silmiin eđessä.</x>
-               <xt>Den er akkurat foran øyene dine.</xt>
             </xg>
          </tg>
       </mg>
@@ -765,15 +728,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mk">
       <lg>
          <l pos="Po">seassa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">i</t>
-            <t pos="Pr">blant</t>
             <t pos="Pr">mellom</t>
+            <t pos="Pr">blant</t>
+            <xg>
+               <x>Elka laukkoo trafikin seassa.</x>
+               <xt>Elg løper blant trafikken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -874,7 +841,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;mk">
       <lg>
          <l pos="Po">sisälä</l>
       </lg>
@@ -884,6 +851,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Istuut piilin sisälä.</x>
                <xt>Sitte inne i bilen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">inni</t>
+            <xg>
+               <x>Aarret oon arkun sisälä.</x>
+               <xt>Skatten er inni kista.</xt>
             </xg>
          </tg>
       </mg>
@@ -933,18 +909,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">takana</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">bakenfor</t>
-            <t pos="Pr">bakom</t>
-            <t pos="Pr">bak</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ai">
       <lg>
          <l pos="Po">takaperin</l>
@@ -980,22 +944,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="Po">takkaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">bakfra</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="Po">tykköö</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>fra</re>
             <t pos="Pr">hos</t>
             <xg>
                <x>Hän lähti minun tykköö.</x>
@@ -1004,7 +959,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;mk">
       <lg>
          <l pos="Po">tykö</l>
       </lg>
@@ -1015,6 +970,11 @@ For the full license text, see the link above.</lic>
                <x>Hän tuli minun tykö.</x>
                <xt>Hun kom til meg.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">innom</t>
          </tg>
       </mg>
    </e>
@@ -1226,25 +1186,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
             <t pos="Pr">imellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="Po">ympäri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">omkring</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">rundt</t>
-            <xg>
-               <x>Niilä oon aita talon ympäri.</x>
-               <xt>De har gjerde rundt huset.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
