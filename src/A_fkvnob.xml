@@ -4202,6 +4202,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="A">moleminpuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tosidig</t>
+            <t pos="A">beggesidig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="A">järkkeevä</l>
@@ -6495,6 +6506,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="A">negatiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">negativ</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="A">nekatiivinen</l>
@@ -6762,6 +6783,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">hendig</t>
             <t pos="A">praktisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vaalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lys</t>
          </tg>
       </mg>
    </e>
@@ -13859,6 +13890,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="A">kaunhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vakrest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="A">soppeeva</l>
       </lg>
       <mg>
@@ -14399,7 +14440,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">vakaa</l>
+         <l pos="A">vaka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
