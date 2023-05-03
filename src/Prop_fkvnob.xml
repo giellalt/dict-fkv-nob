@@ -605,6 +605,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Raisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nordreisa</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Ruiđa</l>
@@ -815,7 +825,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Taana</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tenu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1995,6 +2005,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Paatsivuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Balsfjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Yykeänperä</l>
       </lg>
       <mg>
@@ -2025,11 +2045,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kierua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Skjervøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Tuomaisentalo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Tuomainengården</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Uuniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nesseby</t>
          </tg>
       </mg>
    </e>
