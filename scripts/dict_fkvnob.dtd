@@ -13,6 +13,7 @@
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 <!ATTLIST l dial (p|j|v|pv|jv|pj) #IMPLIED >
+<!ATTLIST l sem_type ( Obj | Org | Plc ) #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>
