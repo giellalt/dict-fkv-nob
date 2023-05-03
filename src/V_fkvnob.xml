@@ -794,13 +794,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
          <l pos="V">vallata</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">erobre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overta</t>
          </tg>
       </mg>
    </e>
@@ -9012,7 +9017,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">nærne seg</t>
+            <t pos="Phrase">nærme seg</t>
          </tg>
       </mg>
    </e>
@@ -9530,6 +9535,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">mennä tyrmhiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">miste bevisstheten</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Phrase">mennä kokhoon</l>
@@ -9560,7 +9575,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Phrase">mennä poikki</l>
       </lg>
@@ -9568,6 +9583,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">gå av</t>
             <t pos="Phrase">gå i stykker</t>
+            <xg>
+            <x>Minulta meni jalka poikki.</x>
+            <xt>Jeg brakk benet.</xt>
+            </xg>
+            <xg>
+            <x>Se voi mennä poikki.</x>
+            <xt>Den kan gå i stykker, brekke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14543,6 +14566,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">blinke</t>
+            <t pos="V">blunke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">flakse</t>
          </tg>
       </mg>
    </e>
@@ -16015,6 +16044,28 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">lede</t>
             <t pos="V">leie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="V">johđattaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">jyristä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fkv">
+            <t pos="V">tordne</t>
+            <t pos="V">brake</t>
+            <t pos="V">dundre</t>
          </tg>
       </mg>
    </e>
@@ -23186,6 +23237,175 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">ryste</t>
             <t pos="V">sjokkere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kuhista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kry</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">nuoreta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli yngre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">olla jonkun näköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ligne noen</t>
+            <t pos="Phrase">se ut som noen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">sorttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">undertrykke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">ylittäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gå over</t>
+            <xg>
+            <x>Pekka ylitti rajan Kaaresuanon kohđala.</x>
+            <xt>Pekka krysset grensa ved Karesuando.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">vittuila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">snakke ondskapsfullt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">haaristella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gå rundt med vingene, armene utslått</t>
+            <xg>
+            <x>Harakka se haaristellee, pitkälä pyrstölä pyllystellee.</x>
+            <xt>Sjura den går rundt med vingene utslått, med sin lange stjert den viser sin bak.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">haavoitella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli såret</t>
+            <t pos="Phrase">såre seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">längittäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>to ovale trestykker som festes sammen med nakkereim og brystreim om hestens hals</re>
+            <t pos="Phrase">ta på bogtre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">vieroittuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">venne seg av</t>
+            <t pos="Phrase">avvenne seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">jättäät kylmile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">forlate øde, uten beboere</t>
+            <xg>
+            <x>Perheet lähđethiin kylästä ja huonheet jätethiin kylmile.</x>
+            <xt>Familiene dro fra bygda og husene ble forlatt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">olla kylmilä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være forlatt, uten beboere</t>
+            <xg>
+            <x>Huonheet oon olheet kylmilä toisen mailmansođasta asti.</x>
+            <xt>Husene har vært forlatt helt siden andre verdenskrig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">saađa aikhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få gjort</t>
+            <t pos="Phrase">få til</t>
+            <xg>
+            <x>Ei sitä arvaa mitä puhuminen saapi aikhaan.</x>
+            <xt>En kan ikke ane hva en kan få til ved å snakke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat pörhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gi etter</t>
+            <xg>
+            <x>Mie en anna pörhään.</x>
+            <xt>Jeg gir ikke etter.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
