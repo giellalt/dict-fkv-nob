@@ -48,7 +48,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Tukholma</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tukholma</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -58,7 +58,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Tromssa</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tromssa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Pyssyjoki</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pyssyjoki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Pykejä</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pykejä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -138,7 +138,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Koutokeino</l>
+         <l pos="N" type="Prop" sem_type="Plc">Koutokeino</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -148,7 +148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Kirkkoniemi</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kirkkoniemi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -158,7 +158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Kaaresuanto</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kaaresuanto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -178,7 +178,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Alattio</l>
+         <l pos="N" type="Prop" sem_type="Plc">Alattio</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -314,7 +314,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Harmi</l>
+         <l pos="N" type="Prop" sem_type="Plc">Harmi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -384,7 +384,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Jäämeri</l>
+         <l pos="N" type="Prop" sem_type="Plc">Jäämeri</l>
          <stem>Jäämere</stem>
       </lg>
       <mg>
@@ -406,7 +406,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Kainhuunmeri</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kainhuunmeri</l>
          <stem>Kainhuunmere</stem>
          <stem>Kainhuunmer</stem>
       </lg>
@@ -515,7 +515,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Mikkelinpäivä</l>
+         <l pos="N" type="Prop" sem_type="Plc">Mikkelinpäivä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -525,7 +525,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Norja</l>
+         <l pos="N" type="Prop" sem_type="Plc">Norja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -548,7 +548,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Peruna</l>
+         <l pos="N" type="Prop" sem_type="Plc">Peruna</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -558,7 +558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" type="Prop">Piplia</l>
+         <l pos="N" type="Prop" sem_type="Plc">Piplia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -568,7 +568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Pohjanmeri</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjanmeri</l>
          <stem>Pohjanmere</stem>
          <stem>Pohjanmer</stem>
       </lg>
@@ -580,7 +580,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N" type="Prop">Pohjantähti</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjantähti</l>
          <stem>Pohjantähđe</stem>
          <stem>Pohjantähte</stem>
       </lg>
@@ -664,7 +664,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Ruotti</l>
+         <l pos="N" type="Prop" sem_type="Plc">Ruotti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -694,7 +694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Suomi</l>
+         <l pos="N" type="Prop" sem_type="Plc">Suomi</l>
          <stem>Suome</stem>
          <stem>Suome</stem>
       </lg>
@@ -706,7 +706,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" type="Prop">Suomi-seura</l>
+         <l pos="N" type="Prop" sem_type="Plc">Suomi-seura</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -742,7 +742,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Tanska</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tanska</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -755,7 +755,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Turja</l>
+         <l pos="N" type="Prop" sem_type="Plc">Turja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
