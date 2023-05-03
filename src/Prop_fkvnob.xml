@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Yykeä</l>
+         <l pos="N" type="Prop" sem_type="Plc">Yykeä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -68,7 +68,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Tornio</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tornio</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -88,17 +88,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Pykejä</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pykeijä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">Bygøynes</t>
+            <t pos="N">Bugøynes</t>
          </tg>
       </mg>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Pohjaismaat</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjaismaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -108,7 +108,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Naavuono</l>
+         <l pos="N" type="Prop" sem_type="Plc">Naavuono</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -128,7 +128,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop">Kööpenhamina</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kööpenhamina</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -188,7 +188,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Aafrikka</l>
+         <l pos="N" type="Prop" sem_type="Plc">Aafrikka</l>
          <stem>Aafrika</stem>
       </lg>
       <mg>
@@ -209,32 +209,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Aasia</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Asia</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N" type="Prop">Aatami</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Adam</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N" type="Prop">Amerikka</l>
-         <stem>Amerika</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Amerika</t>
          </tg>
       </mg>
    </e>
@@ -270,18 +249,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Englanti</l>
-         <stem>Englanni</stem>
-         <stem>Englantti</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">England</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N" type="Prop">Erkinpäivä</l>
       </lg>
       <mg>
@@ -292,18 +259,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Eurooppa</l>
-         <stem>Euroopa</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Europa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N" type="Prop">Finmarkku</l>
+         <l pos="N" type="Prop" sem_type="Plc">Finmarkku</l>
          <stem>Finmarku</stem>
       </lg>
       <mg>
@@ -396,7 +352,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Kainhuunmaa</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kainhuunmaa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -461,7 +417,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Kvääninmaa</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kvääninmaa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -471,7 +427,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Kvääninmeri</l>
+         <l pos="N" type="Prop" sem_type="Plc">Kvääninmeri</l>
          <stem>Kvääninmere</stem>
          <stem>Kvääninmer</stem>
       </lg>
@@ -515,7 +471,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Mikkelinpäivä</l>
+         <l pos="N" type="Prop">Mikkelinpäivä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -558,7 +514,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Piplia</l>
+         <l pos="N" type="Prop">Piplia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -597,7 +553,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Pohjola</l>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjola</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -629,7 +585,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Rairo</l>
+         <l pos="N" type="Prop" sem_type="Plc">Rairo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -639,7 +595,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Raironjärvi</l>
+         <l pos="N" type="Prop" sem_type="Plc">Raironjärvi</l>
          <stem>Raironjärve</stem>
          <stem>Raironjärve</stem>
       </lg>
@@ -651,7 +607,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Ruiđa</l>
+         <l pos="N" type="Prop" sem_type="Plc">Ruiđa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -695,8 +651,6 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Suomi</l>
-         <stem>Suome</stem>
-         <stem>Suome</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -706,7 +660,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Suomi-seura</l>
+         <l pos="N" type="Prop">Suomi-seura</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -728,7 +682,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Tanmarkku</l>
+         <l pos="N" type="Prop" sem_type="Plc">Tanmarkku</l>
          <stem>Tanmarku</stem>
       </lg>
       <mg>
@@ -765,7 +719,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Unkaarni</l>
+         <l pos="N" type="Prop" sem_type="Plc">Unkaarni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -778,7 +732,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N" type="Prop">Unkari</l>
+         <l pos="N" type="Prop" sem_type="Plc">Unkari</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -786,6 +740,1306 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>Unkaarni</syn>
             </syng>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Kilpisjärvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kilpisjärvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Rovaniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Rovaniemi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Belgia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Belgia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Grönlanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Grønland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Albania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Albania</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sodankylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sodankylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Inari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Enare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Taana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Armenia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Armenia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bulgaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Bulgaria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Englanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">England</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Indonesia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Indonesia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Islanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Island</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kongo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kongo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kroatia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kroatia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Latvia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Latvia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Liettuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Litauen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Mali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Mali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Malta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Malta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Moldova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Moldova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Nauru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nauru</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Nepal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nepal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tyskä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tyskland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ryssä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Russland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tonga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tonga</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tuvalu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tuvalu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ukraina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ukraina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vietnam</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vietnam</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Neuvostoliitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sovjetunionen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Franska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Frankrike</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Turku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Åbo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Japani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Japan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Italia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Italia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Espanja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Spania</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Puola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Polen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Afrikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Afrika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pariisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Paris</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lappland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Karjala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Karelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kreikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Hellas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Viro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Estland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lahtis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Turkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tyrkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Iso-Britannia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Storbritannia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Portugali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Portugal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Uusimaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nyland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ahvenanmaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Åland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjanmaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Österbotten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Alankomaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nederland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Hämeenlinna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tavastehus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lähi-öystä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Midtøsten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Preussi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Preussen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lappeenranta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Villmannstrand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Mikkeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">St. Michel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Korea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Korea</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Serbia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Serbia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Syyria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Syria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Thaimaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Thailand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Norden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rauma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Raumo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kotka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kotka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Satakunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Satakunda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Savo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Savolax</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Marokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Marokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sahara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sahara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Hollanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Holland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Järvenpää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Träskenda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Naantali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nådendal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tiibet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tibet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kirkkonummi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kyrkslätt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Eurooppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Europa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Helsinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Helsingfors</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Maa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Jorda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rooma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Roma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Tampere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tammerfors</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Intia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">India</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Oulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Uleåborg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pietari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">St. Petersburg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Egypti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Egypt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Moskova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Moskva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lontoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">London</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kanada</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Canada</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Berliini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Berlin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vaasa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vasa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Aasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Asia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Amerikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Amerika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Bjørneborg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Amerikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Amerika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sveitsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sveits</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Viipuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Viborg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Espoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Esbo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Etelä-Amerikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sør-Amerika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Konstantinopoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Konstantinopel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vantaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vanda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Argentiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Argentina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ateena</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Aten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Irlanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Irland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kuuba</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Cuba</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kalifornia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">California</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Skotlanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Skottland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Porvoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Borgå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Baltia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Baltikum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tornio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Torneå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Siperia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sibir</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Varsova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Warsava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Öystä-Eurooppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Øst-Europa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Palestiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Palestina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Riika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Riga</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Laatokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ladoga</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tikkurila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Dickursby</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kenia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kenya</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kööpenhamina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">København</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Euraasia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Eurasia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tallinna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tallinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Loviisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lovisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Eurooppa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Europa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vesisaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vadsø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Annijoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vestre Jakobselv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lemmijoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lakselv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kaarasjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Karasjok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Utsjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Utsjok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Hansinkenttä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Storslett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Olmavankka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Manndalen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Omasvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Storfjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Yykeänperä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Skibotn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Saukkonen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Oteren</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kaivuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kåfjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tuomaisentalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tuomainengården</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vuorea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vardø</t>
          </tg>
       </mg>
    </e>
