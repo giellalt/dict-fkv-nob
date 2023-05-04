@@ -552,13 +552,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">kohđalta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">hos</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">fra</t>
          </tg>
       </mg>
    </e>
@@ -582,7 +587,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">igjennom</t>
             <t pos="Pr">via</t>
             <xg>
-            	<x>Het kävelthiin tunneliita läpi.</x> 
+            	<x>Het kävelthiin tunnelii läpi.</x> 
 	            <xt>De gikk gjennom tunnelen.</xt>  
 	        </xg>          
          </tg>
@@ -649,9 +654,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">på vegne av</t>
+            <t pos="Pr">for noens del</t>
             <xg>
                <x>Hän teki sen minun puolesta.</x>
                <xt>Han gjorde det for min del.</xt>
+            </xg>
+            <xg>
+               <x>Se ei ollu mahđolinenkhaan niin ko ruvan puolesta sinne jääđä.</x>
+               <xt>Det var heller ikke mulig å bli igjen der hva angår måt.</xt>
             </xg>
          </tg>
       </mg>
@@ -688,43 +698,125 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">pörhään</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
+            <xg>
+            <x>Se pani sanan niitten pörhään.</x>
+            <xt>Han/hun sendte bud etter dem.</xt>
+            </xg>
+            <xg>
+            <x>Poika lähti miehen pörhään.</x>
+            <xt>Gutten for etter mannen.</xt>
+            </xg>
+            <xg>
+            <x>Katto vauvan pörhään ko mie olen kaupassa.</x>
+            <xt>Se etter(pass på) babyen mens jeg er på butikken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">pörässä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
+            <xg>
+            <x>Maija kulki minun pörässä.</x>
+            <xt>Maija gikk etter meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">pörästä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
+            <xg>
+            <x>Vähän aijan pörästä.</x>
+            <xt>Etter en stund.</xt>
+            </xg>
+            <xg>
+            <x>Yksi toisensa pörästä.</x>
+            <xt>Den ene etter den andre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es">
+      <lg>
+         <l pos="Po">perhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">etter</t>
+            <xg>
+            <x>Se pani sanan niitten perhään.</x>
+            <xt>Han/hun sendte bud etter dem.</xt>
+            </xg>
+            <xg>
+            <x>Poika lähti miehen perhään.</x>
+            <xt>Gutten for etter mannen.</xt>
+            </xg>
+            <xg>
+            <x>Katto vauvan perhään ko mie olen kaupassa.</x>
+            <xt>Se etter(pass på) babyen mens jeg er på butikken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Po">perässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">etter</t>
+            <xg>
+            <x>Maija kulki minun perässä.</x>
+            <xt>Maija gikk etter meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Po">perästä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">etter</t>
+            <xg>
+            <x>Vähän aijan perästä.</x>
+            <xt>Etter en stund.</xt>
+            </xg>
+            <xg>
+            <x>Yksi toisensa perästä.</x>
+            <xt>Den ene etter den andre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;es">
       <lg>
          <l pos="Po">rinnala</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">ved siden av</t>
+            <xg>
+            <x>Maija käveli Matin rinnala.</x>
+            <xt>Maija gikk ved siden av Matti.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -754,13 +846,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">sejasta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">blant</t>
+            <xg>
+            <x>Nouki toukat pois jauhoin sejasta.</x>
+            <xt>Plukk ut larvene fra melet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
