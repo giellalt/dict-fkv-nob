@@ -173,13 +173,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Pr">pitkin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs</t>
+            <xg>
+            <x>Siinä mennee tie pitkin Tenojokivartta.</x>
+            <xt>Det går en vei der langs Tanaelvstranden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -201,8 +205,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">tvers over</t>
             <t pos="Pr">gjennom</t>
             <xg>
-               <x>Se voi mennä poikki.</x>
-               <xt>Den kan brekke.</xt>
+               <x>Souđin poikki vuonon ämmin tykö.</x>
+               <xt>Jeg rodde over fjorden til bestemor.</xt>
             </xg>
          </tg>
       </mg>
