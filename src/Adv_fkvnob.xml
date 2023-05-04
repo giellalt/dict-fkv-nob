@@ -694,20 +694,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">mennä tyrmhiin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="">miste bevisstheten</t>
-            <xg>
-               <x>Mennä tyrmhiin.</x>
-               <xt>Miste bevisstheten.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="Adv">täkempännä</l>
       </lg>
       <mg>
@@ -942,7 +928,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">puolivälissä</l>
       </lg>
@@ -950,6 +936,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">midtveis</t>
             <t pos="Adv">halvveis</t>
+            <xg>
+            <x>puolivälissä maikuuta.</x>
+            <xt>i midten av mai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2523,6 +2513,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">jälkheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">etterpå</t>
+            <t pos="Adv">seinere</t>
+            <t pos="Adv">etter</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Adv">jälkhiinmurkinan</l>
@@ -2840,11 +2842,19 @@ For the full license text, see the link above.</lic>
                <x>kahđen kesken</x>
                <xt>på tomannshånd</xt>
             </xg>
+            <xg>
+               <x>perheen kesken</x>
+               <xt>i familien</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">uferdig</t>
+            <xg>
+               <x>Hän jätti opin kesken.</x>
+               <xt>Han/hun avbrøt studiene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7138,13 +7148,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">varoiksi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">for sikkerhets skuld</t>
+            <t pos="Adv">for sikkerhets skyld</t>
+            <xg>
+            <x>Saama varoiksi jo panna pääle raation vähän ennen.</x>
+            <xt>Vi får skru på radioen litt før for å väre på den sikre siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8611,6 +8625,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">slutt</t>
+            <xg>
+            <x>Raha oli lopussa.</x>
+            <xt>Det var slutt på pengene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9866,6 +9884,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="Adv">mullin mällin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hulter til bulter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sikin sokin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
