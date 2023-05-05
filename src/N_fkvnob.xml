@@ -25259,6 +25259,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">humør</t>
+             <xg>
+               <x>Se oli niin hyvälä hymöörillä.</x>
+               <xt>Han/hun var i så godt humør.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -27335,13 +27339,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l pos="N">juhanes</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sankthans</t>
+            <xg>
+            <x>Jos Erkki tullee turkki päällä, silloin tullee Juhanes paita päällä.</x>
+            <xt>Hvis det er pelsvær på Eriksmesse (18.5) så blir det skjortevær på santkhans. (gammelt ordtak)</xt>
+            </xg> 
          </tg>
       </mg>
    </e>
@@ -27352,6 +27360,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">jumalan sölän takana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gokk</t>
+            <xg>
+            <x>Se assuu sielä Jumalan sölän takana.</x>
+            <xt>Han/hun bor der borti i gokk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30859,7 +30881,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kauppa</l>
          <stem>kaupa</stem>
@@ -30868,6 +30890,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">forretning</t>
             <t pos="N">butikk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">handel</t>
+            <xg>
+            <x>käyđä kaupala</x>
+            <xt>ta en handletur</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -31289,7 +31320,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kello</l>
       </lg>
@@ -31297,6 +31328,19 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">ur</t>
             <t pos="N">klokke</t>
+            <xg>
+            <x>Kello oon kahđeksen.</x>
+            <xt>Klokka er åtte.</xt>
+            </xg>
+            <xg>
+            <x>Sielä häyttyy elläät kellon pääle.</x>
+            <xt>Der må en leve etter klokken.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blemme</t>
          </tg>
       </mg>
    </e>
@@ -31310,7 +31354,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">keltakukka</l>
          <stem>keltakuka</stem>
@@ -31328,6 +31372,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ballblom</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">fellesnavn på alle gule blomster</t>
          </tg>
       </mg>
    </e>
@@ -31621,7 +31670,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kerta</l>
          <stem>kerra</stem>
@@ -31630,6 +31679,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gang</t>
+            <xg>
+            <x>Mie olen käyny Suomessa monta kerttaa.</x>
+            <xt>Jeg har vært i Finland mange ganger.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">etasje</t>
          </tg>
       </mg>
@@ -55701,13 +55758,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">päänkipu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hodepine</t>
+            <xg>
+               <x>Minula oon päänkipu.</x>
+               <xt>Jeg har hodepine.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -66097,7 +66158,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">tila</l>
          <stem>tilla</stem>
@@ -66105,6 +66166,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">anledning</t>
+            <xg>
+            <x>Kyllä, minula oon tillaa siihen.</x>
+            <xt>Ja, jeg har tid til det.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -82652,13 +82717,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es">
       <lg>
          <l pos="Phrase">mene helsinkhiin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>uttrykk</re>
             <t pos="Phrase">dra til helvete</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">mene keinhoosti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>uttrykk</re>
+            <t pos="Phrase">dra til helsike</t>
          </tg>
       </mg>
    </e>
@@ -89596,11 +89673,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">ympärinspeso</l>
+         <l pos="N">peräjalka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">rundvask</t>
+            <t pos="N">bakfot</t>
          </tg>
       </mg>
    </e>

@@ -2378,6 +2378,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">pittäät kaulasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">klemme</t>
+            <t pos="V">omfavne</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="V">haljeta</l>
@@ -5056,6 +5067,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">käyđä kaupala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta en handletur</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="V">kađehtiit</l>
@@ -5140,7 +5161,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">kehätä</l>
       </lg>
@@ -5148,6 +5169,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bygge</t>
             <t pos="V">tømre</t>
+            <xg>
+            <x>Met kehäsimmä ylös hirsihuonheita.</x>
+            <xt>Vi bygde tømmerhus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5325,19 +5350,19 @@ For the full license text, see the link above.</lic>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
             <t pos="Phrase">ha tid til</t>
-            <xg>  
-	            <x>Erkki kerkis leipomhaan jo ennen murkinaa.</x>
-		      <xt>Erik rakk å bake alt før frokost.</xt>
-		      </xg>
+            <xg>
+            <x>Erkki kerkis leipomhaan jo ennen murkinaa.</x>
+            <xt>Erik rakk å bake alt før frokost.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli ferdig</t>
-            		          <xg>  
-	            <x>Ko hän kerkis syömästä ja juomasta, hän kattoi vähäsen TV:tä ja luki aviisin.</x>
-		      <xt>Da hun ble ferdig med å spise og drikke så hun på TV og leste avisa.</xt>
-		      </xg>
+            <xg>
+            <x>Ko hän kerkis syömästä ja juomasta, hän kattoi vähäsen TV:tä ja luki aviisin.</x>
+            <xt>Da hun ble ferdig med å spise og drikke så hun på TV og leste avisa.</xt>
+	      </xg>
          </tg>
       </mg>
    </e>
@@ -5773,6 +5798,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ta;ai;es">
+      <lg>
+         <l pos="Phrase">kirjoittaat ylös</l>
+         <stem>kirjoita</stem>
+         <stem>kirjoita</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">opptegne</t>
+            <t pos="Phrase">skrive ned</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="V">kirkastuut</l>
@@ -5981,13 +6019,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">kohđela</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">behandle</t>
+            <xg>
+            <x>Muori kohteli faarii hyvin.</x>
+            <xt>Mor var snill mot far.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13787,6 +13829,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skremme</t>
+            <xg>
+               <x>Älä pölätä minnuu!</x>
+               <xt>Ikke skrem meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15838,7 +15884,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">säikättäät</l>
       </lg>
@@ -21612,6 +21658,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skremme</t>
+            <xg>
+               <x>Älä pelätä minnuu!</x>
+               <xt>Ikke skrem meg!</xt>
+            </xg>
          </tg>
       </mg>
    </e>

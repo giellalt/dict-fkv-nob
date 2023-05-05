@@ -84,31 +84,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">til midt i</t>
             <t pos="Pr">til midt på</t>
+            <xg>
+               <x>Kirkon rakenethiin keskele kyllää.</x>
+               <xt>Kirken ble bygd midt i bygda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Pr">keskelä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">midt i/på</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pr">kiini</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">inntil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">fast</t>
+            <xg>
+               <x>Mie heräsin keskelä yötä.</x>
+               <xt>Jeg våknet midt på natta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

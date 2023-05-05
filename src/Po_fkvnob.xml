@@ -687,7 +687,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Po">päälä</l>
       </lg>
@@ -695,6 +695,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">på</t>
             <t pos="Pr">oppe på</t>
+            <xg>
+               <x>Hannu oon vaaran päälä.</x>
+               <xt>Hannu er oppe på fjellet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -769,7 +773,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
             <x>Katto vauvan perhään ko mie olen kaupassa.</x>
-            <xt>Se etter(pass på) babyen mens jeg er på butikken.</xt>
+            <xt>Se etter (pass på) babyen mens jeg er på butikken.</xt>
             </xg>
          </tg>
       </mg>

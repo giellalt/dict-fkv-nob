@@ -2810,13 +2810,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">kerran</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">engang</t>
+            <t pos="Adv">en gang</t>
+            <xg>
+               <x>Kerran ko mie olin mettässä, se mie näjin karhuun.</x>
+               <xt>En gang da jeg var i skogen, så jeg en bjørn der.</xt>
+            </xg>
+            <xg>
+               <x>Ko sie nyt kerran olet täälä, se sie häyđyt pestä laattiit.</x>
+               <xt>Siden du nå er her nå, så må du vaske gulvene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2928,14 +2936,41 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">kiini</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fast</t>
-            <t pos="Adv">helt</t>
+            <xg>
+            <x>Kala jäi kiini koukkhuun.</x>
+            <xt>Fisken satt seg fast på kroken.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>lukket</re>
+            <t pos="Adv">igjen</t>
+            <xg>
+            <x>Pane klasin kiini!</x>
+            <xt>Lukk igjen vinduet!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">inntil</t>
+            <t pos="Adv">helt til</t>
+            <xg>
+            <x>Mie asuin sielä viimi vuotheen kiini.</x>
+            <xt>Jeg bodde der helt til i fjor.</xt>
+            </xg>
+            <xg>
+            <x>Liisa syklas kiini vuonon ranthaan asti.</x>
+            <xt>Lisa syklet helt til fjordstranden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2990,6 +3025,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">i hop</t>
             <t pos="Adv">sammen</t>
+            <xg>
+            <x>Vaatet meni kokhoon.</x>
+            <xt>Klesplagget krympet sammen.</xt>
+            </xg>
+            <xg>
+            <x>Pekka sai paljon rahhaa kokhoon.</x>
+            <xt>Pekka fikk samlet inn mye penger.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -4618,7 +4618,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">kevvee</l>
       </lg>
@@ -4626,6 +4626,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	         <re>ikke tung</re>
             <t pos="A">lett</t>
+            <xg>
+            <x>Kuiva puu oon kevvee.</x>
+            <xt>Et tørt tre er lett.</xt>
+            </xg>
+            <xg>
+            <x>Ruijan kieli ei ole kevvee oppiit.</x>
+            <xt>Det er ikke lett å lære seg norsk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4699,13 +4707,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">kippee</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">syk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vond</t>
+            <xg>
+            <x>Se tekkee kippeetä.</x>
+            <xt>Det gjør vondt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
