@@ -433,6 +433,48 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e src="es">
+      <lg>
+         <l pos="Phrase">johtuut mielheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">komme på</t>
+            <xg>
+               <x>Minule johtui mielheen ette lähteet Alattihoon.</x>
+               <xt>Jeg kom på at jeg ville dra til Alta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="es">
+      <lg>
+         <l pos="Phrase">tulla mielheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">komme på</t>
+            <xg>
+               <x>Minule tuli mielheen ette nyt mie alan oppimhaan kainun kieltä.</x>
+               <xt>Jeg kom på at jeg nå vil begynne å lære kvensk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e src="es">
+      <lg>
+         <l pos="Phrase">jääđä mielheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">huske</t>
+            <xg>
+               <x>Mie halluun tyhä jääđä muitten mielheen.</x>
+               <xt>Jeg vil bare bli husket.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
   <e src="ks">
       <lg>
          <l pos="V">kastuut</l>
@@ -3075,7 +3117,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">komme på</t>
+            <xg>
+               <x>Mitä hän piti tehđä? Sitte hän hoksas.</x>
+               <xt>Hva skulle hun gjøre? Så kom hun på noe.</xt>
+            </xg>
+            <xg>
+               <x>Voi pahus, meilä ei ole pilettii! hoksaa Matti.</x>
+               <xt>Å søren, vi har vi ikke biletter! kommer Matti på.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">finne</t>
+            <xg>
+               <x>Kyllä met hoksaama vielä ratkaisun meiđän probleemhiin.</x>
+               <xt>Vi kommer nok til å finne en løsning på problemet vårt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13714,6 +13772,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli full</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">tulla totheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli realisert</t>
+            <t pos="Phrase">bli virkelig</t>
+            <xg>
+               <x>Ei ole hyvä tiettäät kunka hyvin net vaaliluppaukset tulhaan totheen.</x>
+               <xt>Det er ikke godt å vite hvor bra de valgløftene kommer til å bli realisert.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

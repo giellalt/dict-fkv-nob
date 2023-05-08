@@ -6413,13 +6413,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">totta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">vel</t>
+            <xg>
+               <x>Totta sie tulet huomena kothiin?</x>
+               <xt>Du kommer vel hjem i morgen?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8730,6 +8734,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="Adv">monheenlaihiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på mange måter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">monessa mielessä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
