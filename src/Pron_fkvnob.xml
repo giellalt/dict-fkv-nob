@@ -185,12 +185,28 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="CS">som</t>
+            <t pos="Pron">hver og en</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">hver og en</t>
+            <t pos="CS">som</t>
+            <xg>
+               <x>Muistattako sitä naista josta puhuin?</x>
+               <xt>Husker dere den jenta jeg snakket om?</xt>
+            </xg>
+            <xg>
+               <x>Tämä oon se mies jota rakastan.</x>
+               <xt>Dette er mannen jeg elsker.</xt>
+            </xg>
+            <xg>
+               <x>Tässä sulla oon poika joka tiettää kaiken.</x>
+               <xt>Her har du en gutt som kan alt.</xt>
+            </xg>
+            <xg>
+               <x>Tähän työtehtävhään tarvittemma ihmissii joila oon hyvät kielitaiđot.</x>
+               <xt>Vi trenger folk som har gode språkkunnskaper til denne arbeidsoppgaven.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -373,11 +389,39 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">hva</t>
+            <xg>
+               <x>Mikä oon sinun favorittifäri?</x>
+               <xt>Hva er favorittfargen din?</xt>
+            </xg>
+            <xg>
+               <x>Mitä sanoit? - En mithään.</x>
+               <xt>Hva sa du? - Ingenting.</xt>
+            </xg>
+            <xg>
+               <x>Mitä sinula oon mieli syöđä tääpänä? - No, vaikka mitäki.</x>
+               <xt>Hva har du lyst til å spise idag? - Det er det samme for meg.</xt>
+            </xg>
+            <xg>
+               <x>ei milhään tavala ~ laila</x>
+               <xt>på ingen som helst måte</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="CS">som</t>
+            <xg>
+               <x>Sano assiin missä olet hyvä.</x>
+               <xt>Si en ting som du er god på.</xt>
+            </xg>
+            <xg>
+               <x>Sen minkä ymmärämmä, sen met muistama.</x>
+               <xt>Det som vi forstår, det husker vi.</xt>
+            </xg>
+            <xg>
+               <x>Sivva oli lujjiin mies, mikä koskhaan oon eläny Raisissa.</x>
+               <xt>Sivva var den sterkeste mannen som noen gang har levd i Nordreisa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -25516,13 +25516,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">häpy</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skamfølelse</t>
+            <xg>
+               <x>Sillä ei ole häppyy.</x>
+               <xt>Han/hun eier ikke skam.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -44472,16 +44476,35 @@ For the full license text, see the link above.</lic>
             <t pos="N">tanke</t>
             <t pos="N">mening</t>
             <t pos="N">humør</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">humør</t>
+            <xg>
+               <x>Minula oon huono mieli.</x>
+               <xt>Jeg er i dårlig humør.</xt>
+            </xg>
+            <xg>
+               <x>Mie olen huonossa mielessä.</x>
+               <xt>Jeg er i dårlig humør.</xt>
+            </xg>
+            <xg>
+               <x>Hänelä oon aina sota mielessä.</x>
+               <xt>Han/hun har alltid krigen i minnet.</xt>
+            </xg>
+            <xg>
+               <x>Olemako yhtä mieltä siitä?</x>
+               <xt>Er vi enige om det?</xt>
+            </xg>
+            <xg>
+               <x>Oonko sinula mieli kaffistella minun kans?</x>
+               <xt>Har du lyst til å drikke kaffe med meg?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mening</t>
+            <xg>
+               <x>Siitä oon monta mieltä.</x>
+               <xt>Det er mange meninger om det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -44495,6 +44518,10 @@ For the full license text, see the link above.</lic>
             <t pos="N">syn</t>
             <t pos="N">oppfatning</t>
             <t pos="N">overbevisning</t>
+            <xg>
+               <x>Kaikila oon oikkeus omhaan mielipitheesseen.</x>
+               <xt>Alle har rett til å ha sin egen mening.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -56913,13 +56940,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">rapukka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bakrus</t>
+            <xg>
+               <x>Se oon harva joka rapukassa rallattaa.</x>
+               <xt>Det er få som tar seg en trall i bakrus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -65225,6 +65256,10 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>tarkotus</syn>
             </syng>
+            <xg>
+               <x>Mikä oon elämän tarkoitus?</x>
+               <xt>Hva er meningen med livet?</xt>
+            </xg>
          </tg>
       </mg>
    </e>

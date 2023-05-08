@@ -17907,7 +17907,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">valetella</l>
          <stem>valettele</stem>
@@ -17916,6 +17916,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lyge</t>
+            <xg>
+               <x>Mie en milhään halunu valetella sinule.</x>
+               <xt>Jeg ville på ingen måte lyve for deg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

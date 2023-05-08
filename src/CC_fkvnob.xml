@@ -102,6 +102,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="CC">enten ... eller</t>
+            <xg>
+               <x>Met ostama joko kissan tahi koiran.</x>
+               <xt>Vi kjøper enten katt eller hund.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="CC">sekä - ette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="CC">både - og</t>
+            <xg>
+               <x>Mie puhun sekä norjaa ette kväänii.</x>
+               <xt>Jeg snakker både norsk og kvensk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

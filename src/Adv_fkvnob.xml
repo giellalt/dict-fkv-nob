@@ -204,7 +204,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;es">
       <lg>
          <l pos="Adv">ennen</l>
       </lg>
@@ -212,6 +212,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">før</t>
             <t pos="Adv">tidligere</t>
+            <xg>
+            <x>Hän oli lähteny monta päivää ennen.</x>
+            <xt>Han/hun hadde dratt for noen dager siden.</xt>
+            </xg>
+            <xg>
+            <x>ennen mailmassa</x>
+            <xt>før i verden, tidligere</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2029,13 +2037,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="es">
       <lg>
-         <l pos="Adv">sekä - että</l>
+         <l pos="Adv">mitä - sitä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">både - og</t>
+            <t pos="Adv">jo - dess</t>
+            <xg>
+               <x>Mitä enämen mie sitä ajattelen, sitä enämen mie sitä halluun.</x>
+               <xt>Jo mer jeg tenker på det, dess mer vil jeg ha det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9117,6 +9129,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på ingen måte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ei milhään tavala ~ laila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på ingen som helst måte</t>
          </tg>
       </mg>
    </e>
