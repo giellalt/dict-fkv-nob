@@ -19502,13 +19502,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">arvo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">verdi</t>
+            <xg>
+            <x>Huonheen tođelinen arvo oli matalampi ko mie luulin.</x>
+            <xt>Husets faktiske verdi var lavere enn det jeg trodde.</xt>
+            </xg>
+            <xg>
+            <x>Mikkä arvot oon sinule tärkkeet?</x>
+            <xt>Hvilke verdier er viktige for deg?</xt>
+            </xg>
+            <xg>
+            <x>Norjan raha oon nykysin huonossa arvossa.</x>
+            <xt>Norske penger har dårlig verdig for tida.</xt>
+            </xg>
+            <xg>
+            <x>Pekka pittää sinnuu arvossa.</x>
+            <xt>Pekka verdsetter deg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57922,7 +57938,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">riita</l>
          <stem>riiđa</stem>
@@ -57936,6 +57952,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">krangel</t>
+            <xg>
+               <x>Alattiossa oli riita sen pađon päältä.</x>
+               <xt>Det var krangel i Alta om den demninga.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -66532,6 +66552,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">håp</t>
+            <xg>
+               <x>Pekka ellää siinä toivossa, ette kerran saapi oikhein ison kalan.</x>
+               <xt>Pekka håper at han en gang skal få en skikkelig stor fisk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -81921,8 +81945,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">oppføre seg</t>
             <xg>
-            <x>se niin eriskumhaisesti käytti ittensä.</x>
-            <xt>hun/han oppførte seg så rart.</xt>
+            <x>Se niin eriskumhaisesti käytti ittensä.</x>
+            <xt>Hun/han oppførte seg så rart.</xt>
             </xg>
          </tg>
       </mg>

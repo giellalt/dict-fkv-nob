@@ -1560,6 +1560,71 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat olla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">la være</t>
+            <xg>
+               <x>Annan minun olla rauhassa.</x>
+               <xt>La meg være i fred.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat ylös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gi opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gi opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat halun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppmuntre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">anttaat ilmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">anmelde</t>
+            <t pos="V">angi</t>
+            <t pos="V">avsløre</t>
+            <t pos="V">avdekke</t>
+            <xg>
+               <x>Hän antoi minun ilmi poliisille.</x>
+               <xt>Han/hun anmeldte meg til politiet.</xt>
+            </xg>
+            <xg>
+               <x>Hän antoi minun piilopaikan ilmi.</x>
+               <xt>Han/hun avslørte gjemmestedet mitt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="V">aplodeerata</l>
@@ -1901,7 +1966,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">skille</t>
             <t pos="Phrase">holde fra hverandre</t>
             <xg>
-               <x>Rajat eristethään kansat toinen toisisthaan.</x>
+               <x>Rajat eristethään kansat toinen toisesta.</x>
                <xt>Grensene skiller folk fra hverandre.</xt>
             </xg>
          </tg>
@@ -3665,6 +3730,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skjemmes</t>
+            <xg>
+               <x>Ei ihminen tarvitte hävetä hänen omasta kielestä/ommaa kieltä.</x>
+               <xt>Folk behøver ikke å skjemmes over sitt eget språk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4153,7 +4222,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">jouttuut</l>
          <stem>jouđu</stem>
@@ -4188,6 +4257,34 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">feste</t>
             <t pos="Phrase">ha fest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">jouttuut jonku pääle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få ansvar for</t>
+            <xg>
+            <x>Se joutui palveliijan pääle kaikki se ruokahoito.</x>
+            <xt>Tjeneren fikk ansvar for alt matstellet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">tulla jonku pääle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få ansvar for</t>
+            <xg>
+            <x>Se tuli mamman pääle ette passata meiđän lapsii.</x>
+            <xt>Mamma fikk ansvaret for å passe barna våre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7470,7 +7567,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">käskeet</l>
       </lg>
@@ -7479,12 +7576,24 @@ For the full license text, see the link above.</lic>
             <t pos="V">be</t>
             <t pos="V">befale</t>
             <t pos="V">benevne</t>
-            <t pos="Phrase">kalle for</t>
+            <t pos="Phrase">gi ordre</t>
+            <xg>
+               <x>Mie käskin Liisan lukkeet läksyt.</x>
+               <xt>Jeg ba Lisa om å gjøre leksene.</xt>
+            </xg>
+            <xg>
+               <x>Perunka käski meiđät tulla sisäle.</x>
+               <xt>Beronka ba oss om å komme inn.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">gi ordre</t>
+            <t pos="Phrase">kalle for</t>
+            <xg>
+               <x>Stiina käskee kväänin kieltä syđämen kieleksi.</x>
+               <xt>Stiina kaller kvensk for hjertespråket.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10271,19 +10380,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">neuvoot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">råde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Phrase">gi råd</t>
+            <t pos="V">råde</t>
             <t pos="V">veilede</t>
+            <xg>
+            <x>Pappi neuvoi Nillan lähteet reishuun.</x>
+            <xt>Presten rådet Nils til å dra på ei reise.</xt>
+            </xg>
+            <xg>
+            <x>Opettaaja neuvoi koululapset lukkeet läksyt.</x>
+            <xt>Læreren anbefalte/rådet elevene til å gjøre leksene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11824,6 +11937,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>panna pleekhiin</x>
                <xt>legge til bleking</xt>
+            </xg>
+            <xg>
+               <x>panna toimheen</x>
+               <xt>iversette</xt>
             </xg>
          </tg>
       </mg>
@@ -13790,7 +13907,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">pärjätä</l>
          <stem>pärjää</stem>
@@ -13802,6 +13919,26 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">klare seg</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">berge livet</t>
+            <t pos="V">overleve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">berge</t>
+            <xg>
+               <x>Poikasen saathiin pärjätyksi.</x>
+               <xt>Guttungen ble berget.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">pärjätä hengen</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">berge livet</t>
@@ -13842,6 +13979,36 @@ For the full license text, see the link above.</lic>
             <t pos="V">befri</t>
             <t pos="Phrase">la gå</t>
             <t pos="V">slippe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">päästä toimheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">komme i gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">tulla toimheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">klare seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">panna toimheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">iverksette</t>
          </tg>
       </mg>
    </e>
@@ -16612,7 +16779,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">tingata</l>
          <stem>tinkkaa</stem>
@@ -16622,6 +16789,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tinge</t>
             <t pos="V">krangle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forhandle</t>
+            <xg>
+               <x>Mie freistasin tingata palkan päältä ette saisin sen ylös.</x>
+               <xt>Jeg forsøkte å forhandle om lønna, slik at jeg skulle få mer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16933,7 +17109,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">triivata</l>
       </lg>
@@ -16941,6 +17117,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	         <re>f.eks. foretak</re>
             <t pos="V">drive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tette</t>
+            <t pos="Phrase">gjøre tett</t>
          </tg>
       </mg>
    </e>
@@ -16964,7 +17146,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">sprute</t>
             <xg>
-               <x>Veri truiskkuu ulvos suonista.</x>
+               <x>Veri truiskuu ulvos suonista.</x>
                <xt>Blodet spruter ut av årene.</xt>
             </xg>
          </tg>
@@ -23522,6 +23704,20 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Mie en anna pörhään.</x>
             <xt>Jeg gir ikke etter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">pittäät arvossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">verdsette</t>
+            <xg>
+            <x>Pekka pittää sinnuu arvossa.</x>
+            <xt>Pekka verdsetter deg.</xt>
             </xg>
          </tg>
       </mg>

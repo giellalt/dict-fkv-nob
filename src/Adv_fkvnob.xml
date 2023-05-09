@@ -1575,7 +1575,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">erittäin</l>
       </lg>
@@ -1583,6 +1583,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">for seg</t>
             <t pos="Adv">adskilt</t>
+            <xg>
+               <x>Pykejä oon ollu erittäin näistä muista kylistä.</x>
+               <xt>Bygøynes har vært adskilt fra disse andre bygdene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

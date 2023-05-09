@@ -97,13 +97,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Qu">tuhansittain</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">tusenvis</t>
+            <xg>
+               <x>tuhansittain ihmissii</x>
+               <xt>tusenvis av mennesker</xt>
+            </xg>
          </tg>
       </mg>
    </e>
