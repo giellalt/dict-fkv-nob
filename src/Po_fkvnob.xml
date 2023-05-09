@@ -1275,6 +1275,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
             <t pos="Pr">imellom</t>
+               <xg>
+               <x>Pekan ja Liisan välilä oon suuri rakkhaus.</x>
+               <xt>Kjærligheten mellom Pekka og Lisa er stor.</xt>
+            </xg>
+            <xg>
+               <x>Äiji oli tietyössä Pyssyjoven ja Lemmijoven välilä.</x>
+               <xt>Bestefar jobbet i veiarbeid mellom Børselv og Lakselv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1286,6 +1294,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
             <t pos="Pr">imellom</t>
+            <xg>
+               <x>Hyljet uipi jäitten välissä.</x>
+               <xt>Selen svømmer mellom isen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

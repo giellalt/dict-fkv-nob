@@ -8910,12 +8910,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">regne opp</t>
             <t pos="V">lese</t>
+            <xg>
+               <x>lukkeet äänheen</x>
+               <xt>å lese høyt</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Phrase">regne opp</t>
             <t pos="V">telle</t>
          </tg>
       </mg>
@@ -19277,6 +19281,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">formidle</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -19285,7 +19294,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">være nok</t>
+            <t pos="Phrase">være bra nok</t>
+            <xg>
+               <x>Kyllä se minule välttää.</x>
+               <xt>Den er nok bra nok for meg.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>

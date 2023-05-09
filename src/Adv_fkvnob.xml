@@ -7739,13 +7739,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">välimatkala</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">underveis</t>
+            <xg>
+               <x>Met saima myötätuulen sielä välimatkala.</x>
+               <xt>Vi fikk medvind underveis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7756,6 +7760,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">imellom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sillä vällii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">imens</t>
+            <t pos="Adv">mens</t>
+            <xg>
+               <x>Sillä vällii ko toiset syöthiin, sillä vällii met olima saunassa</x>
+               <xt>Mens de andre spiste, var vi i badstuen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8029,13 +8048,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Adv">ylhäälä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">oppe</t>
+            <xg>
+               <x>Porot oon ylhäälä tunturissa.</x>
+               <xt>Reinsdyrene er oppe på fjellet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8049,13 +8072,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">yliniskoin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">over ende</t>
             <t pos="Adv">over nakken</t>
+            <xg>
+               <x>Se meni yliniskoin.</x>
+               <xt>Han/hun datt over enda/falt på rygg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8108,6 +8136,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">rundt</t>
             <t pos="Adv">omkring</t>
+            <xg>
+               <x>Siinä kasus paljon koijui siinä ympärillä.</x>
+               <xt>Det vokste mye bjørker der omkring.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -11295,13 +11295,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;ia">
+   <e src="ta;ai;ia;es">
       <lg>
          <l pos="A">väärä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">feil</t>
+            <t pos="A">uriktig</t>
             <t pos="A">gal</t>
+            <xg>
+            <x>olla väärässä</x>
+            <xt>ta feil</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -11366,13 +11372,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">yhđentekkeevä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">likegyldig</t>
+            <xg>
+               <x>Se oon yhđentekkeevä mitä hän ajattellee.</x>
+               <xt>Det er likegyldig hva han/hun tenker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11424,6 +11434,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ensom</t>
+            <t pos="A">enkeltstående</t>
          </tg>
       </mg>
    </e>
@@ -11435,6 +11446,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	         <re>brukes vanligvis i flertall om gjensidige forhold</re>
             <t pos="A">enig</t>
+            <xg>
+               <x>Het ei ole yksituumaiset.</x>
+               <xt>De er ikke enige.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11496,18 +11511,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">ymmyrkäinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">rund</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">enspråklig norsk</t>
+            <xg>
+               <x>ymmyrkäinen ruijalainen</x>
+               <xt>enspråklig norsk</xt>
+            </xg>
          </tg>
       </mg>
    </e>

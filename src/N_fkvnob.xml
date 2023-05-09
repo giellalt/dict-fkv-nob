@@ -38764,7 +38764,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;yr">
+   <e src="ta;ai;yr;es">
       <lg>
          <l pos="N" hid="Hom1">laki</l>
          <stem>laji</stem>
@@ -38773,6 +38773,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lov</t>
+            <xg>
+               <x>Laki oon vielä voimassa.</x>
+               <xt>Loven er fremdeles i kraft.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -72411,7 +72415,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">voima</l>
       </lg>
@@ -72419,6 +72423,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">kraft</t>
             <t pos="N">styrke</t>
+            <xg>
+               <x>Laki oon vielä voimassa.</x>
+               <xt>Loven er fremdeles i kraft.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -72904,16 +72912,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forhold</t>
+            <xg>
+               <x>ihmisten välit</x>
+               <xt>medmenneskelige forhold</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forskjell</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">medmenneskelige forhold</t>
+            <xg>
+               <x>Se on niin iso väli ko sitä ajattellee kunka oli ennen ja kunka oon nyt</x>
+               <xt>Det er stor forskjell når man tenker på hvordan det var før og hvordan det er nå</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -73889,6 +73900,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">stemme</t>
             <t pos="N">lyd</t>
+            <xg>
+               <x>karhee ääni</x>
+               <xt>ru stemme</xt>
+            </xg>
+            <xg>
+               <x>lukkeet äänheen</x>
+               <xt>å lese høyt</xt>
+            </xg>
          </tg>
       </mg>
    </e>
