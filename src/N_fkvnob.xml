@@ -22740,6 +22740,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lyst</t>
+            <xg>
+               <x>Pojala oli halu nähđä mailmaa.</x>
+               <xt>Gutten hadde lyst å se verden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23649,11 +23653,29 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ånd</t>
-            <t pos="N">liv</t>
             <t pos="N">person</t>
-            <syng>
-               <syn>persoona</syn>
-            </syng>
+            <t pos="N">liv</t>
+            <xg>
+               <x>vähissä henging</x>
+               <xt>(nesten) halvdød</xt>
+            </xg>
+            <xg>
+               <x>ottaat hengiltä</x>
+               <xt>å drepe</xt>
+            </xg>
+            <xg>
+               <x>pajeta hengen eđestä</x>
+               <xt>å flykte for livet</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ånde</t>
+            <xg>
+               <x>Iiskola haissee henki.</x>
+               <xt>Isak har dårlig ånde.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24769,6 +24791,10 @@ For the full license text, see the link above.</lic>
                <x>Minula oon hoppu.</x>
                <xt>Jeg har det travelt.</xt>
             </xg>
+            <xg>
+               <x>Nyt minule tullee hoppu.</x>
+               <xt>Nå får jeg det travelt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25004,6 +25030,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">merknad</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påpekning</t>
          </tg>
       </mg>
    </e>
@@ -74240,13 +74271,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="oa;ki">
+   <e src="oa;ki;es">
       <lg>
          <l pos="N">huoli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bekymring</t>
+            <xg>
+            <x>olla huolissa</x>
+            <xt>å være bekymret, bekymre seg</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -77124,13 +77159,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">välittäminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">omsorg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">formidling</t>
          </tg>
       </mg>
    </e>
@@ -79014,6 +79054,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vrangforestilling</t>
+            <xg>
+               <x>Mie näjen harhoi.</x>
+               <xt>Jeg ser syner.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -79024,6 +79068,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">villspor</t>
+            <xg>
+               <x>Se tuli harhatiele.</x>
+               <xt>Han/hun gikk seg vill.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -79249,6 +79297,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beruselse</t>
+            <xg>
+            <x>olla humalassa</x>
+            <xt>være full</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -90535,6 +90587,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">opptak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kytömävalkkee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>et bål som brenner uten flammer, kun glør</re>
+            <t pos="N">glødebrann</t>
+            <t pos="N">glødebål</t>
          </tg>
       </mg>
    </e>

@@ -3504,7 +3504,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">ha lyst til</t>
             <xg>
-               <x>Se ei huvita.</x>
+               <x>Se ei huvittannu.</x>
                <xt>Det hadde man ikke lyst til.</xt>
             </xg>
          </tg>
@@ -3711,17 +3711,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">hävettäät</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skjemmes</t>
+            <xg>
+               <x>Minnuu hävettää ajatella sitä.</x>
+               <xt>Jeg skjemmes av å tenke på det.</xt>
+            </xg>
+            <xg>
+               <x>Minnuu hävettää kuorsata.</x>
+               <xt>Jeg skjemmes av å snorke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">hävetä</l>
          <stem>häppee</stem>
@@ -3733,6 +3741,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Ei ihminen tarvitte hävetä hänen omasta kielestä/ommaa kieltä.</x>
                <xt>Folk behøver ikke å skjemmes over sitt eget språk.</xt>
+            </xg>
+            <xg>
+               <x>Pekka häppee ittensä puhheitä.</x>
+               <xt>Pekka skjemmes over det han har sagt.</xt>
             </xg>
          </tg>
       </mg>
@@ -11307,8 +11319,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
 	         <re>når man sikter</re>
-            <t pos="V">kunne</t>
             <t pos="V">treffe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kunne</t>
          </tg>
       </mg>
    </e>
@@ -11405,6 +11421,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">olla huolissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bekymre seg</t>
+            <t pos="Phrase">være bekymret</t>
+         </tg>
+      </mg>
+   </e>
    <e src="pp">
       <lg>
          <l pos="Phrase">pittäät huolen</l>
@@ -11413,13 +11440,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">ta vare på</t>
             <xg>
-               <x>piä huolen ittestä</x>
-               <xt>ta vare på deg selv</xt>
+               <x>Piđä huolen ittestä</x>
+               <xt>Ta vare på deg selv</xt>
             </xg>
             <t pos="Phrase">passe på</t>
             <xg>
-               <x>Piä huolen siitä, ette paikka jää hyvhään kunthoon ko lähet</x>
-               <xt>pass på at stedet er i god stand når du drar</xt>
+               <x>Piđä huolen siitä, ette paikka jääpi hyvhään kunthoon ko lähđet</x>
+               <xt>Pass på at stedet er i god stand når du drar</xt>
             </xg>
          </tg>
       </mg>
@@ -11683,6 +11710,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">rømme</t>
             <t pos="V">flykte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">pajeta hengen eđestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">flykte for livet</t>
          </tg>
       </mg>
    </e>
@@ -13883,6 +13920,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli full</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">olla humalassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være full</t>
          </tg>
       </mg>
    </e>
@@ -17899,6 +17946,10 @@ For the full license text, see the link above.</lic>
                <x>Pekka uskoo Jumalhaan.</x>
                <xt>Pekka tror på Gud.</xt>
             </xg>
+            <xg>
+               <x>Etkö usko minnuu?</x>
+               <xt>Tror du meg ikke?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19112,7 +19163,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">vistottaat</l>
       </lg>
@@ -19120,6 +19171,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">vekke avsky</t>
             <t pos="Phrase">bli kvalm</t>
+            <xg>
+               <x>Minnuu vistotti nähđä sen äijän.</x>
+               <xt>Jeg ble kvalm av å se den gubben.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19216,7 +19271,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">vähetä</l>
          <stem>vähene</stem>
@@ -19232,6 +19287,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">minke</t>
             <t pos="V">avta</t>
+            <xg>
+            <x>Se vähenee ette vähenee.</x>
+            <xt>Det blir mindre og mindre av det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22671,6 +22730,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="V">surmata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drepe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">ottaat hengiltä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">

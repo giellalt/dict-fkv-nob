@@ -1793,13 +1793,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">harvassa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">spredt</t>
+            <xg>
+               <x>Sielä oli huonheita harvassa.</x>
+               <xt>Det var få hus der.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1824,13 +1828,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">hengissä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">med i livet i behold</t>
+            <xg>
+               <x>Hän oon hengissä.</x>
+               <xt>Han/hun har overlevd, er i livet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1860,13 +1868,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">hiljattain</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nylig</t>
+            <t pos="Adv">for litt siden</t>
+            <xg>
+               <x>Mie kävin hiljattain Uslussa.</x>
+               <xt>Jeg tok meg en tur til Oslo for en stund siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7378,6 +7391,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">ved siden av hverandre</t>
+            <xg>
+            <x>Het istuthaan vieritysten.</x>
+            <xt>De sitter side om side.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7397,7 +7414,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">til bryllup</t>
+            <t pos="Phrase">å bli viet</t>
             <xg>
                <x>Het menthiin vihile.</x>
                <xt>De ble viet.</xt>
@@ -7411,7 +7428,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">til vielse</t>
+            <t pos="Adv">å bli viet</t>
             <xg>
                <x>Het käythiin vihilä.</x>
                <xt>De ble viet.</xt>
@@ -7436,18 +7453,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">til sist</t>
-            <t pos="Adv">endelig</t>
             <t pos="Adv">til slutt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">til slutt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Adv">sist</t>
+            <xg>
+               <x>viimen viimeksi</x>
+               <xt>til sjuende og sist</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">endelig</t>
          </tg>
       </mg>
    </e>
@@ -8356,6 +8372,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">lydløst</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">sakte</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -8364,11 +8385,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">nylig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Adv">for litt siden</t>
+            <xg>
+               <x>Mie kävin hiljan Uslussa.</x>
+               <xt>Jeg tok meg en tur til Oslo for en stund siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8379,11 +8400,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">langsomt</t>
+            <xg>
+               <x>Äijä kulkkee tietä hiljolensa.</x>
+               <xt>Bestefaren går langsomt langs veien.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i ro og fred</t>
+            <t pos="Phrase">i ro og fred</t>
+            <xg>
+               <x>Sielä Hilda ja Pekka hiljolensa elethiin.</x>
+               <xt>Der levde Hilda og Pekka i ro og fred.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8414,6 +8443,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">forsvunnet</t>
+            <xg>
+            <x>Mulla oon avvaimet hukassa.</x>
+            <xt>Jeg har mistet nøklene mine.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8424,6 +8457,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på tross av</t>
+            <t pos="Adv">til tross for</t>
+            <xg>
+            <x>Mie olen oppinu elämhään onnelista elämää tauđista huolimatta.</x>
+            <xt>Jeg har lært meg å leve et lykkelig liv til tross for sykdommen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9523,6 +9561,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">til slutt</t>
+            <xg>
+               <x>Viimeksi se ajatteli ette tämä mies puhhuu liijan paljon, ja lähti kothiin.</x>
+               <xt>Til slutt tenkte hun at denne mannen snakker alt for mye, og hun dro hjem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

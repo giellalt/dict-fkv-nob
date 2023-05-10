@@ -3524,13 +3524,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">herraton</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">herreløs</t>
+            <xg>
+               <x>Voi herraton aika!</x>
+               <xt>Du store min tid!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
