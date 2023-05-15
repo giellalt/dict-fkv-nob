@@ -2218,7 +2218,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">freistata</l>
       </lg>
@@ -23800,6 +23800,69 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>Pekka pittää sinnuu arvossa.</x>
             <xt>Pekka verdsetter deg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">painoittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">legge vekt på</t>
+            <t pos="Phrase">vektlegge</t>
+            <xg>
+            <x>Dokumentissa oon pantu ylös paljon tärkkeitä punktii siitä mitä met häyđymä painoittaat.</x>
+            <xt>Det er satt opp mange viktige punkter i dokumentet om hva vi må legge vekt på.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">marginaliseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">marginalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">erkkainuttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skille</t>
+            <xg>
+            <x>Ei mikhään saata erkkainuttaat meitä toisistamma.</x>
+            <xt>Ingenting kan skille oss fra hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">avata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">åpne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">tulla kunthoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ordne seg</t>
+            <xg>
+            <x>Se ei ollu onnen sanoma siitä ette kaikki tultais kunthoon, mutta se oli kuitenki sanoma joka antoi toivon.</x>
+            <xt>Det var ikke et lykkebudskap om at alt skulle ordne seg, men det var likevel et budskap som ga håp.</xt>
             </xg>
          </tg>
       </mg>
