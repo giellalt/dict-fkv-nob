@@ -13059,7 +13059,7 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">dårlig terreng</t>
             <xg>
             <x>Yöpimmeessä oli huono kävelä maisematonta maata.</x>
-            <xt>Å ferdes i dårlig terreng var vanskelig i nattmørket.</xt>
+            <xt>Det var vanskelig å gå i det dårlige terrenget i nattmørket.</xt>
             </xg>
          </tg>
       </mg>
@@ -14861,6 +14861,112 @@ For the full license text, see the link above.</lic>
             <x>Jokhaisella työtä tekkeevällä oon oikkeus feerihään.</x>
             <xt>Enhver som arbeider har rett på ferie.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ylimäärätön pito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">overforbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kärsiivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lidende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">epätoivoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fortvilt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">öinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>natt-</re>
+            <t pos="A">nattlig</t>
+            <xg>
+            <x>öinen taivas</x>
+            <xt>natthimmel</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">valittu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utvalgt</t>
+            <t pos="A">valgt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">menestynny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vellykket</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">siunattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">velsignet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ukrainalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ukrainsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ijänkaikkinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">evig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">babylonilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">babylonsk</t>
          </tg>
       </mg>
    </e>
