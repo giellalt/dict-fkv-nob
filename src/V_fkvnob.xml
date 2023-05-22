@@ -8904,6 +8904,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">lujittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">styrke</t>
+            <xg>
+            <x>Lujita heitä sinun Hengelä, niin ette het hyvinä ja pahoina päivinä luottaava sinhuun, pysyyvä uskolisesti yhđessä ja auttaava toinen toista matkala kohđi ikuista elämää.</x>
+            <xt>Styrk dem med din Ånd, så de i gode og onde dager setter sin lit til deg, holder trofast sammen og hjelper hverandre fram mot det evige liv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="V">lujetella</l>
@@ -22512,6 +22526,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">likenttyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">komme nærmere</t>
+            <xg>
+            <x>Likenytkhöön sinun valtakunta.</x>
+            <xt>La ditt rike komme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="V">säättäät</l>
@@ -23850,6 +23878,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">åpne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">riemuita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">juble</t>
          </tg>
       </mg>
    </e>
