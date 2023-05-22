@@ -1870,7 +1870,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">elläät</l>
          <stem>elä</stem>
@@ -1879,6 +1879,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bo</t>
             <t pos="V">leve</t>
+            <xg>
+            <x>elläät herroiksi</x>
+            <xt>å leve som en konge, å leve godt</xt>
+            </xg>
          </tg>
       </mg>
    </e>

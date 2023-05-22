@@ -19224,7 +19224,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">apu</l>
          <stem>avu</stem>
@@ -19233,6 +19233,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hjelp</t>
+            <xg>
+            <x>Tule aphuun!</x>
+            <xt>Kom og hjelp!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20818,13 +20822,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">elämä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">liv</t>
+            <xg>
+               <x>Oonko net elämässä?</x>
+               <xt>Lever de?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21346,13 +21354,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">eđesvastaus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ansvar</t>
+            <xg>
+            <x>Heilä oli eđesvastaus lapsista.</x>
+            <xt>De hadde ansvar for barna.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

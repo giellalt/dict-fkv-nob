@@ -1508,13 +1508,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">entiseltä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fra før</t>
+            <xg>
+            <x>Se oon minule entiseltä opas mies.</x>
+            <xt>Han kjenner jeg fra før.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1862,6 +1866,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hän oon hengissä.</x>
                <xt>Han/hun har overlevd, er i livet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">elämässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i livet</t>
+            <xg>
+               <x>Oonko net elämässä?</x>
+               <xt>Lever de?</xt>
             </xg>
          </tg>
       </mg>
