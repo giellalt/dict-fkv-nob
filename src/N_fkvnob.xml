@@ -36884,9 +36884,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>sted der det er</re>
-            <t pos="N">brus</t>
-            <t pos="N">skum</t>
+            <t pos="Phrase">sted der det er brusende vann, skum</t>
+            <xg>
+               <x>Veri virtas kuohukkonna heiđän suonissa.</x>
+               <xt>Blodet bruset som en foss i årene deres.</xt>
+            </xg>
+            <xg>
+               <x>Liukas, märkä kala puikatti käđen läpi takaisin kurkkiin
+kuohukkoon.</x>
+               <xt>Den glatte og våte fisken glapp ut av hånda tilbake ned i den brusende fossen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
