@@ -9685,27 +9685,111 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;mj">
+   <e src="es;ta;ai;mj">
       <lg>
          <l pos="V">meinata</l>
-         <stem>meinaa</stem>
-         <stem>meinan</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mene</t>
+            <xg>
+            <x>Vain mitä tet pojat meinaatta?</x>
+            <xt>Eller hva mener dere gutter?</xt>
+            </xg>
+            <xg>
+            <x>Et sie vain luule, ette met meinasimma totta?</x>
+            <xt>Du tror vel ikke at vi mente alvor?</xt>
+            </xg>
+            <xg>
+            <x>Mie en vain ymmärä, mitä sie sillä meinasit.</x>
+            <xt>Jeg forstår bare ikke hva du mente med det.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bety</t>
+            <xg>
+            <x>Mitä tämä sana meinaa?</x>
+            <xt>Hva betyr dette ordet?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ha som mening</t>
-            <t pos="Phrase">tenke seg</t>
             <t pos="V">synes</t>
+            <t pos="Phrase">ha som mening</t>
+            <xg>
+               <x>Mie meinaan ette sie olet oikkeessa.</x>
+               <xt>Jeg syns du har rett.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tenke seg</t>
+            <xg>
+               <x>Het meinathaan taas lähteet matkale.</x>
+               <xt>De tenker seg ut på reise igjen.</xt>
+            </xg>
+            <xg>
+               <x>Mie meinasin jo tiistaina, ette nyt en kyllä jaksa enämppää.</x>
+               <xt>Jeg tenkte allerede på tirsdag at nå klarer jeg ikke mer.</xt>
+            </xg>
+            <xg>
+               <x>Minun poika assuu Uslussa, mutta nyt se meinaa siirttyyt tähän likele.</x>
+               <xt>Sønnen min bor i Oslo, men nå tenker han å flytte i nærheten av meg/oss.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ha planer om</t>
+            <xg>
+               <x>Met meinaama pykätä likele Kirkkoniemee.</x>
+               <xt>Vi har planer om å bygge nær Kirkenes.</xt>
+            </xg>
+            <xg>
+               <x>Priitala oon nyt rahhaa, ja se meinaa ostaat talon.</x>
+               <xt>Brita har penger nå, og har planer om å kjøpe et hus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ville</t>
+            <t pos="Phrase">ha tenkt til</t>
+            <xg>
+               <x>Stiinan Leena meinaa olla rohkee.</x>
+               <xt>Stina sin Leena har tenkt til å være dristig.</xt>
+            </xg>
+            <xg>
+               <x>Meinaatko sieki tulla, vaikka pojatki tulhaan?</x>
+               <xt>Vil du også bli med, selv om guttene også kommer?</xt>
+            </xg>
+            <xg>
+               <x>Sie piđät mennä poikki meren, jos sinne meinaat päästä.</x>
+               <xt>Du må dra på tvers av havet om du vil komme deg dit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">akte seg</t>
+            <xg>
+               <x>Jos mie olen assiin oikhein ymmärtänny, tet meinaatta siirttyyt Alattihoon.</x>
+               <xt>Hvis jeg har forstått saken rett, så akter dere å flytte til Alta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>være i ferd med, være like ved</re>
+            <t pos="Phrase">holde på</t>
+            <xg>
+               <x>Menheenä talvena meinasimma kuola kylmhään, justhiin pärjäsimmä hengen.</x>
+               <xt>Forrige vinter holdt vi på å dø av kulde, bare så vidt at vi berget livet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
