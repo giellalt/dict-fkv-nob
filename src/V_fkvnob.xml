@@ -11751,8 +11751,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">pakke</t>
             <xg>
+               <x>Mie pakkaan minun tavarat ja lähđen ulkomaile.</x>
+               <xt>Jeg pakker tingene mine og drar til utlandet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli</t>
+            <t pos="Phrase">skje lett, ofte</t>
+            <xg>
                <x>Mie pakkaan unheettamhaan kaikki.</x>
                <xt>Det blir lett så at jeg glemmer alt.</xt>
+            </xg>
+            <xg>
+               <x>Maito pakkaa happanemhaan lämpimässä.</x>
+               <xt>Melk blir lett sur i varmen.</xt>
             </xg>
          </tg>
       </mg>
