@@ -45204,7 +45204,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">mitta</l>
          <stem>mita</stem>
@@ -45213,6 +45213,11 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
          <re>for måling</re>
             <t pos="N">mål</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målestokk</t>
          </tg>
       </mg>
    </e>
@@ -83950,16 +83955,6 @@ kuohukkoon.</x>
                <x>pienimittapuinen kartta</x>
                <xt>kart i liten målestokk</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">mitta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">målestokk</t>
          </tg>
       </mg>
    </e>
