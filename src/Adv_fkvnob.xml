@@ -6112,7 +6112,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">fra-sted</t>
+	         <re>fortvilet, rasende</re>
+            <t pos="Phrase">være fra seg</t>
             <xg>
                <x>Mikko oli suunnilta.</x>
                <xt>Mikko var fra seg.</xt>
@@ -9330,6 +9331,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">roende</t>
+            <xg>
+            <x>Met lähđimä soutoisin saarheen.</x>
+            <xt>Vi dro til øya med båt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9360,6 +9365,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">tilfeldig</t>
+            <t pos="Phrase">uten å planlegge</t>
          </tg>
       </mg>
    </e>
