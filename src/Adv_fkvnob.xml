@@ -118,6 +118,36 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="Adv">isossa määrässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i stor grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">isomassa määrässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i større grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">muun myötä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">blant annet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Adv">myötäsukhaan</l>
       </lg>
       <mg>
@@ -9747,6 +9777,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">med tiden</t>
             <t pos="Adv">i det lange løp</t>
+            <t pos="Adv">etter hvert</t>
          </tg>
       </mg>
    </e>
