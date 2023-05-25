@@ -15514,12 +15514,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">seurata</l>
          <stem>seuraa</stem>
          <stem>seuran</stem>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">følge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ha følge</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">følge etter</t>
