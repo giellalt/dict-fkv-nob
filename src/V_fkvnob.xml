@@ -16489,6 +16489,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">sannsynligvis</t>
+            <t pos="Phrase">vel</t>
             <t pos="Phrase">visst</t>
             <xg>
                <x>Se taittaa olla kevät.</x>
@@ -16838,6 +16839,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">la gjøre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få laget</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få til å gjøre</t>
          </tg>
       </mg>
    </e>

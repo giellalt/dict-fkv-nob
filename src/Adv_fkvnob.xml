@@ -3171,6 +3171,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ei koko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ikke engang</t>
+            <xg>
+            <x>Ei se koko tothiskhaan tulla.</x>
+            <xt>Han ville ikke turt å komme en gang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Adv">kolmen</l>
@@ -6279,6 +6293,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ta i bevaring</t>
+            <xg>
+               <x>ottaat taltheen</x>
+               <xt>ta vare på</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -6332,13 +6355,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">tasan</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">alltid</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">likegyldig</t>
+            <xg>
+            <x>Se tekkee mulle tasan mitä ihmiset ajatelhaan minusta.</x>
+            <xt>Det er meg likegyldig hva folk tenker om meg.</xt> 
+            </xg>
          </tg>
       </mg>
    </e>

@@ -44304,6 +44304,11 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oppstyr</t>
+            <t pos="N">leven</t>
+            <xg>
+               <x>Kova meininki sielä oli.</x>
+               <xt>Det var et voldsomt leven der.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -65023,7 +65028,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">taika</l>
          <stem>taija</stem>
@@ -65035,6 +65040,10 @@ kuohukkoon.</x>
             <xg>
                <x>Ei siinä ole taikkaa.</x>
                <xt>Det er ikke noe trolldom i det.</xt>
+            </xg>
+            <xg>
+               <x>Ei niistä ole taikkaa.</x>
+               <xt>De er ikke til noen hjelp.</xt>
             </xg>
          </tg>
       </mg>
@@ -65768,7 +65777,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">tarvet</l>
          <stem>tarpee</stem>
@@ -65777,6 +65786,10 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">trang</t>
             <t pos="N">behov</t>
+            <xg>
+               <x>tarpheen jälkhiin</x>
+               <xt>etter behov</xt>
+            </xg>
          </tg>
       </mg>
    </e>
