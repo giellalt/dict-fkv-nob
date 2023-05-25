@@ -5987,16 +5987,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">inne i</t>
+            <xg>
+               <x>Kreeta assuu mettän sisälä.</x>
+               <xt>Kreeta bor inne i skogen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">sisäpuolela</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på innsiden</t>
+            <xg>
+               <x>huonheen sisäpuolela</x>
+               <xt>på innsiden av huset, inne i huset</xt>
+            </xg>
          </tg>
       </mg>
    </e>
