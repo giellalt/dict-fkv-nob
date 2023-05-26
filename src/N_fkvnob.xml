@@ -77353,10 +77353,18 @@ kuohukkoon.</x>
       </lg>
       <mg>
          <tg xml:lang="nob">
+         <re>plass, posisjon</re>
             <t pos="N">stilling</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>måte som en holder kroppen på</re>
             <t pos="N">holdning</t>
+            <xg>
             <x>Mie istuin niin huonossa asemassa, ette sölkä tuli kippeeksi.</x>
             <xt>Jeg satt i en så dårlig stilling, at jeg fikk vondt i ryggen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -77367,6 +77375,12 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beliggenhet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>i marka</re>
+            <t pos="N">overnattingssted</t>
             <t pos="N">leirplass</t>
          </tg>
       </mg>
@@ -78766,6 +78780,16 @@ kuohukkoon.</x>
       <lg>
          <l pos="N">eđeläkulkkkiija</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pådriver</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">den som går foran</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forgjenger</t>
