@@ -21404,13 +21404,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">faarti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fart</t>
+            <xg>
+            <x>Hän ajoi täyttä faarttii lentohaminhaan.</x>
+            <xt>Han kjørte i full fart til flyplassen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21695,8 +21699,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>f.eks. datafil</re>
-            <t pos="N">melkeringe</t>
             <t pos="N">fil</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">melkeringe</t>
+            <t pos="N">rømmekolle</t>
          </tg>
       </mg>
    </e>
@@ -79013,6 +79022,11 @@ kuohukkoon.</x>
             <t pos="N">forvarsel</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omen</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -90986,7 +91000,7 @@ kuohukkoon.</x>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>brukes når man lager viili/filbunke, et jogurtlignende produkt</re>
+         <re>brukes når man lager fiili/filbunke, et jogurtlignende produkt</re>
             <t pos="N">starter for å lage ny filbunke</t>
          </tg>
       </mg>
