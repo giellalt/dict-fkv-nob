@@ -4123,7 +4123,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">millä laila</l>
       </lg>
@@ -4131,6 +4131,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">hvordan</t>
             <t pos="Adv">på hvilken måte</t>
+            <xg>
+            <x>Millä laila sie aijot matkustaat Alattihoon?</x>
+            <xt>Hvordan tenkter du å reise til Alta?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5240,6 +5244,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">mot</t>
+            <xg>
+               <x>pohjaisheen päin</x>
+               <xt>nordover</xt>
+            </xg>
+            <xg>
+               <x>vaarhaan päin</x>
+               <xt>i retning mot fjellet</xt>
+            </xg>
+            <xg>
+               <x>Se ei käy päin.</x>
+               <xt>Det går ikke an.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5477,7 +5493,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Adv">rikki</l>
       </lg>
@@ -5485,6 +5501,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">itu</t>
             <t pos="Adv">i stykker</t>
+            <t pos="Adv">i ustand</t>
+            <t pos="Adv">sønder</t>
+            <xg>
+            <x>Klasi oon rikki.</x>
+            <xt>Glasset er i stykker.</xt>
+            </xg>
+            <xg>
+            <x>Klasi meni rikki.</x>
+            <xt>Glasset gikk i stykker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7964,6 +7990,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pohjalta saakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">grundig</t>
+            <t pos="Adv">fullt ut</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Adv">välistä</l>
@@ -8972,6 +9009,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hvordan</t>
+            <t pos="Adv">på hvilken måte</t>
+            <xg>
+            <x>Millälaila sie aijot matkustaat Alattihoon?</x>
+            <xt>Hvordan tenkter du å reise til Alta?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10210,21 +10252,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">når</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Adv">millälailla</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">hvordan</t>
-            <t pos="Adv">på hvilken måte</t>
-            <xg>
-            <x>Millälaila sie aiot matkustaat Alattihoon?</x>
-            <xt>Hvordan tenkter du å reise til Alta?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
