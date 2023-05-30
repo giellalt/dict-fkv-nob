@@ -1799,7 +1799,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">og så videre</t>
+            <t pos="Adv">fremover</t>
+            <xg>
+            <x>ja niin eespäin</x>
+            <xt>og så videre</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9263,6 +9267,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">halvt</t>
+            <xg>
+               <x>Puoleksi ođotimma ette kuolisimma.</x>
+               <xt>Vi nesten ventet på at vi skulle dø.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
