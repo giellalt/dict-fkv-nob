@@ -55077,11 +55077,19 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">på formiddagen</t>
+            <xg>
+            <x>ennen puoltapäivää</x>
+            <xt>på formiddagen</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">på ettermiddagen</t>
+            <xg>
+            <x>jälkhiin puolenpäivän</x>
+            <xt>på ettermiddagen</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58622,7 +58630,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">ristiriita</l>
       </lg>
@@ -58630,6 +58638,10 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">konflikt</t>
             <t pos="N">uoverensstemmelse</t>
+              <xg>
+               <x>Isotingan osapuolten välille syntyi ristiriittaa.</x>
+               <xt>Det oppsto konflikt mellom partene på Stortinget.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71569,7 +71581,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">velka</l>
          <stem>vela</stem>
@@ -71578,6 +71590,12 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gjeld</t>
+            <t pos="N">lån</t>
+            <t pos="N">skyld</t>
+            <xg>
+            <x>Pekka osti piilin velaksi.</x>
+            <xt>Pekka kjøpte seg bil på kreditt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71695,12 +71713,12 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="Phrase">russisk språk</t>
              <xg>
-               <x>De snakker russisk.</x>
-               <xt>Het puhuthaan ryssää.</xt>
+               <x>Het puhuthaan ryssää.</x>
+               <xt>De snakker russisk.</xt>
             </xg>
               <xg>
-               <x>Han studerer russisk.</x>
-               <xt>Hän studeeraa ryssää.</xt>
+               <x>Hän studeeraa ryssää.</x>
+               <xt>Han studerer russisk.</xt>
             </xg>
          </tg>
       </mg>
@@ -71732,13 +71750,17 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">verenpaino</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">blodtrykk</t>
+            <xg>
+            <x>korkkee verenpaino</x>
+            <xt>høyt blodtrykk</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71910,7 +71932,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">vesa</l>
       </lg>
@@ -71918,6 +71940,11 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">ungbjørk</t>
             <t pos="N">ungskudd</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">planteskudd</t>
          </tg>
       </mg>
    </e>
