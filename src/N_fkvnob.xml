@@ -55339,13 +55339,17 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">pusero</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bluse</t>
+            <xg>
+            <x>Oonko se pyhä tääpänä ko sinula oon pusero päälä?</x>
+            <xt>Er det helg idag siden du har skjorte på deg?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -55506,7 +55510,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">puukko</l>
       </lg>
@@ -55514,6 +55518,11 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">kniv</t>
             <t pos="N">kvenkniv</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tillekniv</t>
          </tg>
       </mg>
    </e>
@@ -56056,6 +56065,10 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">hode</t>
             <t pos="N">ende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">fjell</t>
             <t pos="N">høgde</t>
          </tg>
@@ -57083,7 +57096,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">rakenus</l>
          <stem>rakenukse</stem>
@@ -57091,9 +57104,10 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bygning</t>
-            <syng>
-               <syn>rakennus</syn>
-            </syng>
+              <xg>
+               <x>työtelä rakenuksila</x>
+               <xt>jobbe som bygningsarbeider</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -57553,7 +57567,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">rauha</l>
       </lg>
@@ -57561,6 +57575,14 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">fred</t>
             <t pos="N">ro</t>
+              <xg>
+               <x>olla rauhassa</x>
+               <xt>være i fred og ro</xt>
+            </xg>
+              <xg>
+               <x>Jätä minun rauhaan!</x>
+               <xt>La meg være i fred!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58537,6 +58559,10 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nattverd</t>
+              <xg>
+               <x>Pappi antoi ripit.</x>
+               <xt>Presten delte ut nattverden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -58567,7 +58593,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">risti</l>
       </lg>
@@ -58575,6 +58601,23 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">kors</t>
             <t pos="N">kryss</t>
+              <xg>
+               <x>Paljot rukkoilhaan käđet ristissä.</x>
+               <xt>Mange ber med hendene i kors.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dåp</t>
+              <xg>
+               <x>Mie olin ristilä.</x>
+               <xt>Jeg ble døpt.</xt>
+            </xg>
+              <xg>
+               <x>Lapsen viethiin ristile.</x>
+               <xt>Barnet ble døpt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
