@@ -40114,13 +40114,14 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">lehmäkoskelo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stokkand</t>
+            <t pos="N">laksand</t>
          </tg>
       </mg>
    </e>
@@ -91265,7 +91266,7 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">funn</t>
             <xg>
-            <x>Rautusvuomassa oon viljasti kulttuurimuistoi, ja löyöt oon kiini 10 000-vuotiset.</x>
+            <x>Rautusvuomassa oon viljasti kulttuurimuistoi, ja löyđöt oon kiini 10 000-vuotiset.</x>
             <xt>Stabbursdalen er rik på kulturminner og funnene strekker seg over en tidsperiode på nesten 10 000 år.</xt>
             </xg>
          </tg>
@@ -91309,6 +91310,10 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">spasertur</t>
             <t pos="N">gangavstand</t>
+            <xg>
+            <x>Tromssan keskuksesta kiini Jäämerenkatedraalhiin saakka oon nuoin 3 kilomeetterin kävelymatka.</x>
+            <xt>Det er omtrent en 3 kilometers spasertur fra Tromsø sentrum til Ishavskatedralen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -91751,16 +91756,6 @@ kuohukkoon.</x>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">populääri</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">populær</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">pohjaisvesta</l>
       </lg>
       <mg>
@@ -91807,26 +91802,6 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="Phrase">en dag med dårlig vær</t>
             <t pos="N">gråværsdag</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">lehmäkoskelo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">laksand</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">hallinta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forvaltning</t>
          </tg>
       </mg>
    </e>
