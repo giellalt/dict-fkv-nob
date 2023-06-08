@@ -59166,7 +59166,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ai;yr">
+   <e src="ai;yr;ki">
       <lg>
          <l pos="N">runka</l>
       </lg>
@@ -59176,6 +59176,7 @@ kuohukkoon.</x>
             <t pos="N">bekkedal</t>
             <t pos="N">skar</t>
             <t pos="N">kløft</t>
+            <t pos="N">elvedal</t>
          </tg>
       </mg>
    </e>
@@ -91641,16 +91642,6 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">innvandrer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">runkko</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">elvedal</t>
          </tg>
       </mg>
    </e>
