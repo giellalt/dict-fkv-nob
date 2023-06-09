@@ -20177,7 +20177,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">bensiinipuođi</l>
+         <l pos="N">bensiinipuoti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -35691,18 +35691,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">grammofon</t>
             <t pos="N">platespiller</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="N">krampuođi</l>
-         <stem>krampuotti</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">butikk</t>
-            <t pos="N">krambod</t>
          </tg>
       </mg>
    </e>
@@ -55186,7 +55174,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">puoti</l>
          <stem>puođi</stem>
@@ -55196,42 +55184,17 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">bod</t>
             <t pos="N">bu</t>
-            <t pos="N">magasin</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">butikk</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">puoji</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bod</t>
-            <t pos="N">bu</t>
             <t pos="N">magasin</t>
-            <t pos="N">butikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">puođi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">lager</t>
-            <t pos="N">magasin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">butikk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">bod</t>
          </tg>
       </mg>
    </e>
@@ -75759,6 +75722,7 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">krambod</t>
+            <t pos="N">butikk</t>
          </tg>
       </mg>
    </e>
@@ -86456,7 +86420,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ta">
       <lg>
          <l pos="N">puohi</l>
       </lg>
@@ -86474,6 +86438,7 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bu</t>
+            <t pos="N">bod</t>
          </tg>
       </mg>
    </e>
