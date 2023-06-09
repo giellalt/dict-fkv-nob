@@ -71677,7 +71677,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">velvolisuus</l>
          <stem>velvolisuuđe</stem>
@@ -71691,6 +71691,11 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">plikt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forpliktelse</t>
          </tg>
       </mg>
    </e>
