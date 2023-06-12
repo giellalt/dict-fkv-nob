@@ -8067,6 +8067,131 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">keskimääräisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">gjennomsnittlig</t>
+            <t pos="Adv">i snitt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">vähhiinthään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">minst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">usheemin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">oftere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">verrattunna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">sammenlignet med</t>
+            <xg>
+            <x>Kväänin kielelä oon paljon kaasuksii verrattuna indoeurooppalishiin kielhiin.</x>
+            <xt>Kvensk har mange kasuser sammenlignet med indoeuropeiske språk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="">joksiki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="">forholdsvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">pohjaisvesthaan käsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nordvestover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">huonomin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">verre</t>
+            <t pos="Adv">dårligere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">botaanisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">botanisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">alkuperäisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">opprinnelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">alemalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lenger ned</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">mahđolissiiman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>brukes i setninger som ~så _noe_ som mulig~</re>
+            <t pos="Adv">som mulig</t>
+            <xg>
+            <x>Lukekkaa kväänii mahđolissiiman ushein niin ette tet opitta noppeemin!</x>
+            <xt>Les kvensk så ofte som mulig sånn at dere lærer fortere!</x>
+            </xg>
+            <xg>
+            <x>mahđolissiiman paljon</x>
+            <xt>så mye som mulig</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">yhtheen laihiin</l>
