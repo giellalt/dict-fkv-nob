@@ -12131,7 +12131,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;ki">
+   <e src="ta;ai;ki;es">
       <lg>
          <l pos="V">panna</l>
          <stem>pane</stem>
@@ -12142,29 +12142,36 @@ For the full license text, see the link above.</lic>
             <t pos="V">sette</t>
             <xg>
                <x>panna kokhoon</x>
-               <xt>sette sammen</xt>
+               <xt>å sette sammen</xt>
             </xg>
             <xg>
                <x>panna likhoon</x>
-               <xt>legge i bløt</xt>
+               <xt>å legge i bløt</xt>
             </xg>
             <xg>
                <x>panna pleekhiin</x>
-               <xt>legge til bleking</xt>
+               <xt>å legge til bleking</xt>
             </xg>
             <xg>
                <x>panna toimheen</x>
-               <xt>iversette</xt>
+               <xt>å iversette</xt>
             </xg>
             <xg>
                <x>panna ylös</x>
-               <xt>sette opp</xt>
+               <xt>å sette opp</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">det snør</t>
+            <xg>
+               <x>Ulkona pannee lunta.</x>
+               <xt>Det snør ute.</xt>
+            </xg>
+            <xg>
+               <x>panna pääle (esim. valot)</x>
+               <xt>å slå på (f.eks. lysene)</xt>
+            </xg>
+            <xg>
+               <x>panna kiini</x>
+               <xt>å lukke</xt>
+            </xg>
          </tg>
       </mg>
    </e>
