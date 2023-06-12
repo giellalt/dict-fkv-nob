@@ -1755,14 +1755,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">asettuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">stille seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">bosette seg</t>
+            <t pos="Phrase">slå seg ned</t>
          </tg>
       </mg>
    </e>
@@ -2755,7 +2760,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki">
       <lg>
          <l pos="V">hauttoot</l>
          <stem>hauđo</stem>
@@ -2763,8 +2768,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bade</t>
             <t pos="V">ruge</t>
+            <t pos="V">hekke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bade</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">varme</t>
          </tg>
       </mg>
@@ -12117,7 +12131,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">panna</l>
          <stem>pane</stem>
@@ -12141,6 +12155,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>panna toimheen</x>
                <xt>iversette</xt>
+            </xg>
+            <xg>
+               <x>panna ylös</x>
+               <xt>sette opp</xt>
             </xg>
          </tg>
       </mg>
@@ -14893,7 +14911,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">rustata</l>
       </lg>
@@ -15275,7 +15293,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">sannoot</l>
          <stem>sano</stem>
@@ -15285,6 +15303,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">si</t>
             <t pos="V">ytre</t>
+            <xg>
+            <x>Kevveesti sanottunna.</x>
+            <xt>For å si det mildt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17286,7 +17308,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">tođeta</l>
          <stem>tottee</stem>
@@ -17296,6 +17318,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">fastslå</t>
             <t pos="V">konstatere</t>
+            <t pos="V">påvise</t>
          </tg>
       </mg>
    </e>
@@ -21425,13 +21448,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">laajeta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli større</t>
+            <t pos="V">utvide</t>
          </tg>
       </mg>
    </e>
@@ -24095,6 +24119,98 @@ For the full license text, see the link above.</lic>
             <x>Se ei ollu onnen sanoma siitä ette kaikki tultais kunthoon, mutta se oli kuitenki sanoma joka antoi toivon.</x>
             <xt>Det var ikke et lykkebudskap om at alt skulle ordne seg, men det var likevel et budskap som ga håp.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">uhriit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ofre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">sekhaanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli blandet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">rahoittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">finansiere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">orgaaniseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">organisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">määnttyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">råtne</t>
+            <t pos="Phrase">bli bedervet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kuivuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tørke ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kesyttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">temme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">vaihetella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">veksle</t>
+            <t pos="V">variere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kartoittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kartlegge</t>
          </tg>
       </mg>
    </e>
