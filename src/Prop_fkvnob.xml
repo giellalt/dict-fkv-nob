@@ -875,6 +875,186 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Okselv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Okselv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Valasnuora</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kvalsund</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Skuanvaara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Skoganvarre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rørkulpen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Rørkulpen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Rautusvuomanjärvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nordre Stabbursdalsvann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ivar-stua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ivar-stua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Iivarin tupa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ivar-stua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Etelä-Porsanki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sør-Porsanger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sisä-Porsanki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Indre Porsanger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sisä-Finmarkku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Indre Finnmark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rautusjärvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Stabbursdalsvannet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rautusjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Stabburselva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rautusniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Stabbursnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rautusvuoma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Stabbursdalen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Porsanginvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Porsangerfjorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Norja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Norge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Peukaniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Bevkopneset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lemmijokilakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lakselvdalen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Englanti</l>
       </lg>
       <mg>
