@@ -11060,7 +11060,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">vise seg</t>
             <xg>
-               <x>Kuu näyttäyttyi taivhaala.</x>
+               <x>Kuu se näyttäytyi taivhaala.</x>
                <xt>Månen viste seg på himmelen.</xt>
             </xg>
          </tg>
@@ -24232,6 +24232,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kartlegge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">työstäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bearbeide</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">lymmyttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjemme</t>
          </tg>
       </mg>
    </e>
