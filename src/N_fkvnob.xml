@@ -76483,6 +76483,786 @@ kuohukkoon.</x>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">sovittaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilpasning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">evalueeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">evaluering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">attityydi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">holdning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kieliväkevyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkstyrke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheenveto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammendrag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jälkivaikutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ettervirkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">privaatti-ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">privatperson</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">referaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">referat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jury</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jury</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kynstnäri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunstner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kilpailu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konkurranse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">taiđettyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunstverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">taiđetnäyttely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunstutstilling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">assiiala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saksområde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vaikutelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inntrykk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konsekvensi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konsekvens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vastoinkäyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motgang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">julkisuusarvelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">offentlighetsvurdering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">työmetoodi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsmetode</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rommi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>folkeslag</re>
+            <t pos="N">rom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suojelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beskyttelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">saaga-aika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sagatiden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nasunaalistaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nasjonalstat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">uskonollisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">religiøsitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hengelisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">åndelighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulttuuri-ilmaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturuttrykk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikkeuđeneđistyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettsutvikling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paikalaoleminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilstedeværelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kokhoonpaneminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>det å sette sammen</re>
+            <t pos="N">samling</t>
+            <t pos="N">sammensetning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">staatilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">statlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">skikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yksimielisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">enighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheisdistrikti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fellesdistrikt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maanlaikottamissysteemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bygselsystem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eteläsaamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sørsame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tsaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tsar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">asuttamislaajeneminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bosettingsekspansjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vuonoinala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjordområde</t>
+            <t pos="N">fjordstrøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rannikkonala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kystområde</t>
+            <t pos="N">kyststrøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pretensuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pretensjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">regaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">veromantaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skattemanntall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sotilas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">soldat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lojaliteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lojalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">traktaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">traktat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">täystuki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">full støtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lojaliteettiluppaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lojalitetsed</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ei kenenkhään maa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ingenmannsland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puunakylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bondebygd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puunaväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bondebefolkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">petisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">petisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ittesthäänselvä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">selvfølge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ambisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ambisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">misuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">misjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pietismi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pietisme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">misuunikieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">misjonspråk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">misuunidistrikti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">misjondistrikt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dimensuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dimensjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ulottuvaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dimensjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rajatraktaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grensetraktat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lissäys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tillegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">territooriumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">territorium</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheislappalaislaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">felleslappeloven</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puristus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">press</t>
+            <t pos="N">trykk</t>
+            <xg>
+            <x>Mutta eteläsaamelainen poronhoito joutui jo paljon aijemin puristukshiin, ennen kaikkee ko väki lissääntyi kovasti puunakylissä.</x>
+            <xt>Menden sørsamiske reindriften kom langt tidligere under press, først og fremst som resultat av en sterk befolkningsøkning i bondebygdene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">postinkäyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">postgang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pohjaisnorjalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nordlending</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">misuunityö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">misjonsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vastustaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motstander</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sivistys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dannelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fondi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fond</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ohjet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">instruks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ruokkovanhiimet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fosterforeldre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">köyhyyslaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fattigloven</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">lajilinen lupa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lovhjemmel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">erityiskuurto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">særbevilgning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">norjalaistamisohjet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fornorskingsinstruks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">siirtymisdistrikti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overgangsdistrikt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">privaattiarkiivi</l>
       </lg>
       <mg>
