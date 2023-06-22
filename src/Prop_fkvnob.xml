@@ -1205,6 +1205,86 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Taanavesikkö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tanavassdraget</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Näätämö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Neiden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lufuutti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lofoten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Näätämönjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Neidenelva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Tromssa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Troms</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Etelä-Suomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sør-Finland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Nordlanti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nordre Nordland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Etelä-Afrikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sør-Afrika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Tonga</l>
       </lg>
       <mg>
