@@ -14326,8 +14326,33 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">komme fram til</t>
-         </tg>
+	         <re>Ha mulighet til eller få gjøre noe</re>
+            <t pos="V">kunne</t>
+            <xg>
+            <x>Aurinko päässee paistamhaan sisäle.</x>
+            <xt>Sola kan skinne inn.</xt>
+            </xg>  
+              <xg>
+            <x>Kangista sie pääset suorhaan köökhiin.</x>
+            <xt>Fra gangen kommer du rett til kjøkkenet.</xt>
+            </xg>
+              <xg>
+            <x>Nyt assii oon näin. Eikä pääse sen ylitte eikä ympäri.</x>
+            <xt>Nå er saken slik. Og man kommer ikke over eller rundt.</xt>
+            </xg> 
+              <xg>
+            <x>Ei yksikhään ole vielä päässy tekemhään läksyi.</x>
+            <xt>Ikke en eneste fikk gjort leksene.</xt>
+            </xg>
+             <xg>
+            <x>Heittäkkää jos pois, niin met pääsemä syömhään!</x>
+            <xt>Slutt nå, slik at vi får spise middag!</xt>
+            </xg> 
+             <xg>
+            <x>Pääsemäkö sivvu?</x>
+            <xt>Kommer vi forbi?</xt>
+            </xg>
+            </tg>
       </mg>
    </e>
    <e src="ta;ai">
