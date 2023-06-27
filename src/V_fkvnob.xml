@@ -14201,10 +14201,72 @@ For the full license text, see the link above.</lic>
          <stem>pääse</stem>
          <stem>pääs</stem>
       </lg>
-      <mg>
+           <mg>
          <tg xml:lang="nob">
+	         <re>om positive og ønskede forandringer</re>	
             <t pos="V">slippe</t>
             <t pos="Phrase">bli fri fra noe</t>
+          <xg>
+            <x>Koululaiset päästhiin varhemin koulusta.</x>
+            <xt>Røveren slapp akkurat ut av fengselet.</xt>
+            </xg>
+          <xg>
+            <x>Hyvin tehty, sie pääsit myyjäästä pois.</x>
+            <xt>Godt gjort, du kom deg vekk fra selgeren.</xt>
+            </xg>
+           <xg>
+            <x>Kattokkaa, fangit päästhään pakhoon.</x>
+            <xt>Se, fangene kommer seg unna.</xt>
+            </xg>
+            <xg>
+            <x>Hieno homma, tet pääsittä universiteetthiin!</x>
+            <xt>Flott, dere kom inn på universitetet!</xt>
+            </xg>
+             <xg>
+            <x>Kyllä testi oli vaikkee, mutta met pääsimä helpola.</x>
+            <xt>Visst var testen vanskelig, men vi slapp lett fra det.</xt>
+            </xg>
+              <xg>
+            <x>Sotilas pääsi vähälä.</x>
+            <xt>Soldaten kom fra det med få skader.</xt>
+            </xg> 
+             <xg>
+            <x>Herra Jumala, autakkaa meitä päästä vaphaiksi meiđän synnistä.</x>
+            <xt>Herre Gud, hjelp oss med å komme fri fra våre synder.</xt>
+            </xg> 
+             <xg>
+            <x>Ämmi vaina pääsi taivhaasseen.</x>
+            <xt>Bestemor kom til himmelen.</xt>
+            </xg> 
+              <xg>
+            <x>Koira riepu pääsi tuskista.</x>
+            <xt>Den stakkars hunden slapp lidelsene.</xt>
+            </xg>  
+             <xg>
+            <x>Hän pääsi erhoon kuvasta josta ei tykäny.</x>
+            <xt>Hun ble kvitt bildet som hun ikke likte.</xt>
+            </xg> 
+             <xg>
+            <x>Delfiinit päästhiin veđen pinthaan.</x>
+            <xt>Delfinene kom seg til vannets overflate.</xt>
+            </xg> 
+             <xg>
+            <x>Pikkupoika pääsi toisten myötä tivolhiin.</x>
+            <xt>Den lille gutten fikk bli med de andre til tivoliet.</xt>
+            </xg> 
+              <xg>
+            <x>Kissa pääsi sisäle.</x>
+            <xt>Katten kom seg inn.</xt>
+            </xg>  
+              <xg>
+            <x>Huomena oon pitkä päivä, pääsenkö nyt nukkumhaan?</x>
+            <xt>Det er en lang dag i morgen, får jeg nå gå å sove?</xt>
+            </xg> 
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">slippe noe fri</t>
          </tg>
       </mg>
       <mg>
