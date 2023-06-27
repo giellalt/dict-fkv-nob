@@ -14266,13 +14266,63 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+	         <re>Gjøre noe med uhell eller mot sin vilje slippe noe løs</re>
             <t pos="Phrase">slippe noe fri</t>
-         </tg>
+           <xg>
+            <x>Nyt sivakka pääsi jalasta.</x>
+            <xt>Nå glapp skien av foten.</xt>
+            </xg>
+          <xg>
+            <x>Artikkelhiin oon päässy pränttipirrui.</x>
+            <xt>Det er trykkfeil i artikkelen.</xt>
+            </xg>
+            <xg>
+            <x>Purri pääsi irti.</x>
+            <xt>Oksen kom seg løs.</xt>
+            </xg>  
+            <xg>
+            <x>Häneltä pääsi nauru.</x>
+            <xt>Hun brøt ut i latter.</xt>
+            </xg>           
+            </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">slippe til</t>
-         </tg>
+            <t pos="Phrase">oppnå noe</t>
+             <t pos="Phrase">bli noe</t>  
+            <xg>
+            <x>Het päästhiin perile.</x>
+            <xt>De kom seg frem.</xt>
+            </xg>
+              <xg>
+            <x>Tet oletta pääsheet hyvin framile markinhaan.</x>
+            <xt>Dere har gjort det bra på markedet.</xt>
+            </xg> 
+            <xg>
+            <x>Met pääsimä viimen moolhiin!</x>
+            <xt>Vi kom oss endelig i mål!</xt>
+            </xg>
+               <xg>
+            <x>Pääministeri pääsi valthaan.</x>
+            <xt>Statsministeren kom til makten.</xt>
+            </xg> 
+             <xg>
+            <x>Tuo lapsi päässee vielä pitkäle.</x>
+            <xt>Det barnet vil komme langt.</xt>
+            </xg>  
+             <xg>
+            <x>Detektiivi pääsi selvile assiista.</x>
+            <xt>Detektiven fant ut av saken.</xt>
+            </xg>
+             <xg>
+            <x>Vigdis pääsi presidentiksi.</x>
+            <xt>Vigdis ble president.</xt>
+            </xg> 
+             <xg>
+            <x>Hän pääsi lähtemhään Intihaan.</x>
+            <xt>Han fikk dra til India.</xt>
+            </xg>
+            </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
