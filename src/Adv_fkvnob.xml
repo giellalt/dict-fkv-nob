@@ -4112,19 +4112,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
-      <lg>
-         <l pos="Adv">millainen</l>
-         <stem>millaise</stem>
-         <stem>millais</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">hvordan</t>
-            <t pos="Adv">hvorledes</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;es">
       <lg>
          <l pos="Adv">millä laila</l>
@@ -4150,18 +4137,6 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>verta</syn>
             </syng>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Adv">minkälainen</l>
-         <stem>minkälaise</stem>
-         <stem>minkälais</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">hvordan</t>
          </tg>
       </mg>
    </e>
@@ -9103,6 +9078,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på hvilken måte</t>
+            <t pos="Adv">hvordan</t>
          </tg>
       </mg>
    </e>

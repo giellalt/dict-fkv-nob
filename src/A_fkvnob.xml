@@ -196,13 +196,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj">
+   <e src="mj;ta">
       <lg>
          <l pos="A">minkälainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hvordan</t>
+            <t pos="Phrase">hva slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="A">millainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hvordan</t>
+            <t pos="A">hvorledes</t>
             <t pos="Phrase">hva slags</t>
          </tg>
       </mg>
