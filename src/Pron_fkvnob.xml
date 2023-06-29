@@ -324,13 +324,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Pron">kumpiki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Det">begge</t>
+            <xg>
+            <x>Het oon kumpiki ~ kummakki opettaajat.</x>
+            <xt>De er begge to lærere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
