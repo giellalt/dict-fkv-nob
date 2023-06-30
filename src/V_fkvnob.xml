@@ -419,6 +419,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lede</t>
+            <t pos="V">lede til</t>
          </tg>
       </mg>
    </e>
@@ -896,13 +897,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ki">
       <lg>
-         <l pos="V">ylönkattoot</l>
+         <l pos="V">työnttäät</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">overse</t>
+            <t pos="V">dytte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">värvätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">verve</t>
          </tg>
       </mg>
    </e>
@@ -11531,13 +11542,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">osoittaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">peke på</t>
+            <t pos="V">påpeke</t>
          </tg>
       </mg>
    </e>
@@ -17090,6 +17102,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tassaanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">stabilisere seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">houkuttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">friste</t>
+            <t pos="V">lokke</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="V" val="IV">tassainttuut</l>
@@ -18481,7 +18514,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">vahvistaat</l>
       </lg>
@@ -18494,6 +18527,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bekrefte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">intensivere</t>
          </tg>
       </mg>
    </e>
@@ -24629,7 +24667,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;ks">
       <lg>
          <l pos="V">ylönkattoot</l>
       </lg>
@@ -24638,6 +24676,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">nedvurdere</t>
             <t pos="V">forsømme</t>
             <t pos="Phrase">se ned på</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">overse</t>
          </tg>
       </mg>
    </e>
