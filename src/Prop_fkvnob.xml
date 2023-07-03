@@ -1205,6 +1205,106 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Suomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Finland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Minnesota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Minnesota</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Wisconsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Wisconsin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lappea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Loppa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lyngstuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Lyngstuva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pulmanki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Polmak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Muurmaninrannikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Murmankysten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Ryssä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Russland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Ruotti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Sverige</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sisä-Ryssä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">indre Russland</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Taanavesikkö</l>
       </lg>
       <mg>
