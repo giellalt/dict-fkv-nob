@@ -16826,4 +16826,88 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vaihettelleeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skiftende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">teknolooginen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">teknologisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">suurpoliittinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">storpolitisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">suomenkulttuurinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">en med finsk kulturbakgrunn</t>
+         </tg>
+         <xg>
+         <x>Kväänit ja norjansuomalaiset oon suomenkielisten ja suomenkulttuuristen jälkeläissii.</x>
+         <xt>Kvener og norskfinner er etterkommere etter folk med finsk språk og kulturbakgrunn.</xt>
+         </xg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">perintheinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tradisjonell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">norjalais-ryssäläinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">norsk-russisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">jäljelejääny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gjenværende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">islantilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">islandsk</t>
+         </tg>
+      </mg>
+   </e>
 </r>
