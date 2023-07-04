@@ -63935,13 +63935,18 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">suorsa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stokkand</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">and</t>
          </tg>
       </mg>
    </e>
@@ -70154,13 +70159,14 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;ki">
       <lg>
          <l pos="N">vaararaito</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fjellkjede</t>
+            <t pos="N">fjellrekke</t>
          </tg>
       </mg>
    </e>
@@ -73773,17 +73779,6 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">wadi</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">yhtheisala</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fellesdistrikt</t>
-            <t pos="N">fellesområde</t>
          </tg>
       </mg>
    </e>
@@ -92601,16 +92596,6 @@ kuohukkoon.</x>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">suorsa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">and</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kiviymmyräinen</l>
       </lg>
       <mg>
@@ -92676,16 +92661,6 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">slukfiske</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">höyhenonki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fluefiske</t>
          </tg>
       </mg>
    </e>
@@ -93417,16 +93392,6 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">engsyre</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">vaararaito</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fjellrekke</t>
          </tg>
       </mg>
    </e>

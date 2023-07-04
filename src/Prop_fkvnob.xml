@@ -68,16 +68,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mj">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tornio</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Torneå</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Pyssyjoki</l>
       </lg>
       <mg>
@@ -123,16 +113,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Verdensteater</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mj">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kööpenhamina</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">København</t>
          </tg>
       </mg>
    </e>
@@ -1720,16 +1700,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Thailand</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Pohjola</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Norden</t>
          </tg>
       </mg>
    </e>
