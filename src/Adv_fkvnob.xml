@@ -4151,6 +4151,103 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">vanhaasthaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fra gammelt av</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">jaksottain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i enkelte perioder</t>
+            <t pos="Adv">periodisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">faasittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i flere faser</t>
+            <t pos="Adv">trinnvis</t>
+            <xg>
+            <x>Siirto vapaakaupphaan meni faasittain.</x>
+            <xt>Overgangen til frihandel gikk i flere faser.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">enimäksheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">for det meste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">tämänpäivän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">dagens</t>
+            <xg>
+            <x>Tämänpäivän ihmiset oon osa globaalia kauppaverkkoo.</x>
+            <xt>Dagens mennesker er en del av et globalt handelsnettverk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">praksissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i praksis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">jälleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">igjen</t>
+            <t pos="Adv">på nytt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">koristeltuna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>+lla/llä</re>
+            <t pos="Adv">pyntet med</t>
+            <t pos="Adv">dekorert med</t>
+            <xg>
+            <x>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</x>
+            <xt>Pyntet med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">minun takkaa</l>
