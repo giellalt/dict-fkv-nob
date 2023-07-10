@@ -148,6 +148,146 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Varenginvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Prop">Varangerfjorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ørtangen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ørtangen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Atlantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Atlanteren</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vienanmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kvitsjøen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Väkkärä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Vækker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Turvetjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tomaselva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kuolanniemimaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kolahalvøya</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Varenki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nord-Varanger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Päärlyvooki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Berlevåg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Øverbygd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Øverbygd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Makrea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Magerøya</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Keski-itä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Midtøsten</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kappa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Nordkapp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Paattivuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Båtsfjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Pillavuono</l>
       </lg>
       <mg>
