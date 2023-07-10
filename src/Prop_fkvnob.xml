@@ -168,7 +168,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Pohjais-Atlantti</l>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Pohjais-Atlantti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -178,7 +178,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vienanmeri</l>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Vienanmeri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -208,7 +208,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kuolanniemimaa</l>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Kuolanniemimaa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
