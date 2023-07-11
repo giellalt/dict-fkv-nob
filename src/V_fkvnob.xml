@@ -7797,7 +7797,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">käyttäät</l>
          <stem>käytä</stem>
@@ -7811,6 +7811,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bruke</t>
+            <xg>
+            <x>käyttäät ittensä</x>
+            <xt>oppføre seg</xt>
+            </xg>
+            <xg>
+            <x>käyttäät hyväksi</x>
+            <xt>benytte seg av</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24818,6 +24826,76 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hjelpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">uuđestipittäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjenbruke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">testamentata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">testamentere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">rypyttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">lage rysjer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">perustuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være basert på</t>
+            <xg>
+            <x>Kväänipuku ei perustu entisaijan pukutradisuunhiin, mutta se oon rekonstruksuuni.</x>
+            <xt>Kvendrakten er ikke basert på eldre tiders drakttradisjoner, men er en nykonstruksjon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">päätelä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tyde</t>
+            <t pos="V">anta</t>
+            <t pos="Phrase">trekke slutninger</t>
+            <xg>
+            <x>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin, ette kväänit vaatithiin ittensä niin ko muuki pohjaisen väki.</x>
+            <xt>Andre kilder tyder heller på det motsatte, at kvenene kledde seg som den øvrige befolkninga i nord.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">merkata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">merke</t>
          </tg>
       </mg>
    </e>
