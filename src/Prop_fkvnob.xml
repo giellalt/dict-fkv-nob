@@ -198,6 +198,66 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Varenginnimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Varangerhalvøya</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Varengintalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Varangerhus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ulkopää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ytrebyen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Arkangeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Arkhangelsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kiiperi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kiberg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kramppinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Krampenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Turvetjoki</l>
       </lg>
       <mg>
@@ -2500,6 +2560,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Balsfjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Paatsjoki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Pasvik</t>
          </tg>
       </mg>
    </e>
