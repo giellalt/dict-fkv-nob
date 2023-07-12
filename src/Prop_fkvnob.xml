@@ -218,6 +218,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Jällivaara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Gällivare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kemijokilakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kemielvedalen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Ulkopää</l>
       </lg>
       <mg>
