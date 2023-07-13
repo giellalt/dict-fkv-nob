@@ -24946,11 +24946,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">holde oppe</t>
-            <t pos="V">støtte opp</t>
+            <t pos="Phrase">holde oppe</t>
+            <t pos="Phrase">støtte opp</t>
             <xg>
             <x>Kaksi vinolauttaa kannattellee vanhaan saunanoven yhđessä.</x>
             <xt>Døra til den gamle badstua holdes sammen av to skrå labanker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">ponnistella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">slite</t>
+            <xg>
+            <x>Sen jälkhiin hän saattoi hihđata. Sauvoot hithaasti lumiraskhaan auttiimettän läpi, ponnistella ylös Maanselkkää.</x>
+            <xt>Siden fikk han ty til skiene. Stabbe seg frem gjennom snetung ødeskog, slite seg opp Maanselkäryggen.</xt>
             </xg>
          </tg>
       </mg>
