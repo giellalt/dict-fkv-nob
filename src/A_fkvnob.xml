@@ -8861,7 +8861,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="A">seppä</l>
          <stem>sepä</stem>
@@ -8869,6 +8869,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">flink</t>
+            <xg>
+            <x>seppä käsistä</x>
+            <xt>nevedyktig</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17506,6 +17510,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">snøtung</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kondemneerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kondemnert</t>
          </tg>
       </mg>
    </e>
