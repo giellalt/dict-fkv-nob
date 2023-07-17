@@ -98000,4 +98000,76 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">linnunfangittaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fuglefanger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nordlandilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>en fra Nordland</re>
+            <t pos="N">nordlending</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mursunhammas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvalrosstann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paastopäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fastedag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kansanjoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">folkegruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puolustuslinja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utpost</t>
+            <t pos="N">forsvarslinje</t>
+         </tg>
+      </mg>
+   </e>
 </r>

@@ -10051,7 +10051,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">viktigste</t>
+            <t pos="A">viktigst</t>
          </tg>
       </mg>
    </e>
@@ -17520,6 +17520,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">kondemnert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">resursirikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ressursrik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">katoolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">katolsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tähelissiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">viktigst</t>
          </tg>
       </mg>
    </e>
