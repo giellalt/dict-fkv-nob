@@ -64791,7 +64791,7 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">syđänvika</l>
          <stem>syđänvia</stem>
@@ -64800,6 +64800,7 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hjertefeil</t>
+            <t pos="N">hjerteplage</t>
          </tg>
       </mg>
    </e>
@@ -94584,7 +94585,7 @@ kuohukkoon.</x>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bosettingsmønster</t>
+            <t pos="N">bosetningsmønster</t>
          </tg>
       </mg>
    </e>
@@ -98069,6 +98070,187 @@ kuohukkoon.</x>
          <tg xml:lang="nob">
             <t pos="N">utpost</t>
             <t pos="N">forsvarslinje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">viirus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">virus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vakuumikuppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vakuumkopp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vakuumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vakuum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">työtitteli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">yrkestittel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">synnytys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fødsel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sykluusi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">syklus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sonsara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">loppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sitomaväävi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bindevev</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">saunomapaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>et sted en tar badstu</re>
+            <t pos="N">badstuplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">masseeraamisteknikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">massasjeteknikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lymfisirkulasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lymfesirkulasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">verisirkulasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blodsirkulasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaarasaunominen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">karbading</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">bakteeria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakterie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">synnytystupa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fødestue</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hoitotupa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stellerom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lehmänsarvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kuhorn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">asutusmönsteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bosetningsmønster</t>
          </tg>
       </mg>
    </e>
