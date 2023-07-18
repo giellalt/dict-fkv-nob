@@ -98312,11 +98312,21 @@ kuohukkoon.</x>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">luononkatastroofi</l>
+         <l pos="N">interiööri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">naturkatastrofe</t>
+            <t pos="N">interiør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lauluteksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sangtekst</t>
          </tg>
       </mg>
    </e>
