@@ -90578,13 +90578,18 @@ kuohukkoon.</x>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">vajelus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vandretur</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vandring</t>
          </tg>
       </mg>
    </e>
@@ -98251,6 +98256,67 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bosetningsmønster</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">väjenpaljous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overbefolkning</t>
+            <t pos="Phrase">stor folkemenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tamililainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tamiler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">singalilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">singaleser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ruovanvaanuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matmangel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">miljöötyöteliijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">miljøarbeider</t>
+         </tg>
+      </mg>
+   </e>
+ nobfkv/src/V_nobfkv.xml   <e src="ki">
+      <lg>
+         <l pos="N">luononkatastroofi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naturkatastrofe</t>
          </tg>
       </mg>
    </e>
