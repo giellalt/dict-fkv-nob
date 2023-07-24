@@ -19885,7 +19885,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">ateria</l>
       </lg>
@@ -19893,6 +19893,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>spesielt om råmelk</re>
             <t pos="N">melkeomgang</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matrett</t>
          </tg>
       </mg>
    </e>
@@ -21753,7 +21758,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">filtti</l>
          <stem>filti</stem>
@@ -21761,6 +21766,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">filt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pledd</t>
          </tg>
       </mg>
    </e>
@@ -96286,16 +96296,6 @@ kuohukkoon.</x>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">ateria</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">matrett</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">asumatalo</l>
       </lg>
       <mg>
@@ -96360,7 +96360,7 @@ kuohukkoon.</x>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">byggemateriale</t>
+            <t pos="N">trevirke</t>
          </tg>
       </mg>
    </e>
@@ -97021,16 +97021,6 @@ kuohukkoon.</x>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">finnmarking</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">filtti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">pledd</t>
          </tg>
       </mg>
    </e>
