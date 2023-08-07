@@ -22321,17 +22321,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
-      <lg>
-         <l pos="N">grammatiikki</l>
-         <stem>grammatiiki</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">grammatikk</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">grilli</l>
@@ -91494,11 +91483,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="akr">
       <lg>
-         <l pos="">ylöskassuuttaminen</l>
+         <l pos="N">ylöskassuuttaminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="">oppdragelse</t>
+            <t pos="N">oppdragelse</t>
          </tg>
       </mg>
    </e>
