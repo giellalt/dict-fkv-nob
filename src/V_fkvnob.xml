@@ -14444,13 +14444,70 @@ For the full license text, see the link above.</lic>
          <l pos="V" val="TV">päästäät</l>
          <stem>päästä</stem>
       </lg>
-      <mg>
+       <mg>
          <tg xml:lang="nob">
-            <t pos="V">befri</t>
-            <t pos="Phrase">la gå</t>
-            <t pos="V">slippe</t>
-         </tg>
-      </mg>
+	     <re>aktiv handling</re>
+	      <t pos="V">befri</t>
+	       <t pos="Phrase">la gå</t>
+	        <t pos="V">slippe</t>
+	       <xg>
+            <x>Henkivahti ei päästäny kethään likelä filmitähtii.</x>
+            <xt>Livvakten lot ikke noen komme nær filmstjernen.</xt>
+            </xg>
+          <xg>
+            <x>Lasta ei päästetty yksin sentrumhiin.</x>
+            <xt>Barnet fikk ikke være alene i sentrum.</xt>
+            </xg>
+         <xg>
+            <x>Eilen äijin päästethiin kothiin siukhuusista.</x>
+            <xt>I går slapp bestefar hjem fra sykehuset.</xt>
+            </xg>
+       <xg>
+            <x>Sensori päästi puolet studentiista eksaamenin läpitte.</x>
+            <xt>Sensor slapp halvparten av studentene igjennom eksamen.</xt>
+            </xg>
+         <xg>
+            <x>Minusta heiđät päästethiin liian helpola rangaistuksesta.</x>
+            <xt>Etter min mening slapp de for lett unna straff.</xt>
+            </xg>
+           <xg>
+            <x>Mie päästin linnun vaphaaksi.</x>
+            <xt>Jeg slapp fuglen fri.</xt>
+            </xg>   
+            <xg>
+            <x>Het päästhiin fangit.</x>
+            <xt>De befridde fangene.</xt>
+            </xg>
+              <xg>
+            <x>Kokki päästi höyryy pannusta.</x>
+            <xt>Kokken slapp damp fra pannen.</xt>
+            </xg>
+            <xg>
+            <x>Met päästimä heiđät menemhään.</x>
+            <xt>Vi lot dem gå.</xt>
+            </xg>
+         <xg>
+            <x>Hän piti nauruu kauvoin ennen ko päästi sen.</x>
+            <xt>Han holdt lenge på latteren før han begynte å le.</xt>
+            </xg>
+        <xg>
+            <x>Päästätkö kissan ulos?</x>
+            <xt>Slipper du ut katten?</xt>
+            </xg>
+      <xg>
+            <x>Päästä minun sisäle!</x>
+            <xt>Slipp meg inn!</xt>
+            </xg>
+       <xg>
+            <x>Met olema nyt mettässä. Päästä vain koiran irti.</x>
+            <xt>Da er vi i skogen. Bare slipp løs hunden.</xt>
+            </xg>
+         <xg>
+            <x>Tyranni päästi vihhaa ulos.</x>
+            <xt>Tyrannen slapp ut hatet.</xt>
+            </xg>
+            </tg>
+            </mg>
    </e>
    <e src="es">
       <lg>
