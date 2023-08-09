@@ -12329,7 +12329,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">engasjert</t>
             <xg>
             <x>Maija oon innokas politikkhiin.</x>
-            <x>Maija er engasjert i politikken.</x>
+            <xt>Maija er engasjert i politikken.</xt>
             </xg>
          </tg>
       </mg>
@@ -12341,6 +12341,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ivrig</t>
+              <xg>
+               <x>Studentit olthiin innokkhaat.</x>
+               <xt>Studentene var ivrige.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
