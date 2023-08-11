@@ -8024,16 +8024,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">ottaat kontolensa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">ta på seg ansvar</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="V">lainata</l>
@@ -11571,44 +11561,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki;es">
       <lg>
          <l pos="V">ottaat</l>
          <stem>ota</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">å ta</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="Phrase">ottaat taltheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">ta vare på</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="Phrase">ottaat käytthöön</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">ta i bruk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="Phrase">ottaat pithoon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">ta i bruk</t>
+            <t pos="V">ta</t>
+            <xg>
+               <x>ottaat taltheen</x>
+               <xt>ta vare på</xt>
+            </xg>
+            <xg>
+               <x>ottaat käytthöön</x>
+               <xt>ta i bruk</xt>
+            </xg>
+            <xg>
+               <x>ottaat pithoon</x>
+               <xt>ta i bruk</xt>
+            </xg>
+            <xg>
+               <x>ottaat kontolensa</x>
+               <xt>ta på seg ansvar</xt>
+            </xg>
+            <xg>
+               <x>ottaat hengiltä</x>
+               <xt>drepe</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23314,16 +23294,6 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="V">surmata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">drepe</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="Phrase">ottaat hengiltä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
