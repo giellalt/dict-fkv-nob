@@ -13052,18 +13052,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">piđätellä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">beherske seg</t>
+            <xg>
+            <x>piđätellä ittensä</x>
+            <xt>beherske seg</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23108,6 +23107,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppnå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">nå</t>
             <xg>
             <x>Ettei kukhaan minnuu saavuta.</x>
