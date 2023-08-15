@@ -5938,7 +5938,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">luvalinen</l>
          <stem>luvalise</stem>
@@ -5947,6 +5947,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lovlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gyldig</t>
          </tg>
       </mg>
    </e>
@@ -12765,13 +12770,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">kiusalinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">plagsom</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">klein</t>
          </tg>
       </mg>
    </e>
