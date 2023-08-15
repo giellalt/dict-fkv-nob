@@ -6604,13 +6604,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">koskeet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">berøre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjelde</t>
+            <xg>
+            <x>Tämä määräaika koskee sinun assiita: Kaksitoista viikkoo.</x>
+            <xt>Følgende tidsfrist gjelder for din sak: Tolv uker.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11588,6 +11597,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ottaat hengiltä</x>
                <xt>drepe</xt>
+            </xg>
+            <xg>
+               <x>ottaat huomihoon</x>
+               <xt>ta hensyn til</xt>
             </xg>
          </tg>
       </mg>
@@ -19449,7 +19462,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">viitata</l>
          <stem>viittaa</stem>
@@ -19458,6 +19471,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">peke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">vise til</t>
+            <xg>
+            <x>Viitathaan rakentamisassiimääräyksheen 2010 (ASIA10) § 7-1 ja 7-2.</x>
+            <xt>Det vises til byggesaksforskriften (ASIA10) § 7-1 ja 7-2.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25010,6 +25032,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">behandle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bearbeide</t>
          </tg>
       </mg>
@@ -25021,6 +25047,11 @@ For the full license text, see the link above.</lic>
             <x>Kalloi ei käsitellä paikalisesti, mutta net lähätethään Kiinhaan produksuunii varten.</x>
             <xt>Fisken videreforedles ikke lokalt, men sendes til Kina for produksjon.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">saksbehandle</t>
          </tg>
       </mg>
    </e>
@@ -25124,6 +25155,128 @@ For the full license text, see the link above.</lic>
             <x>Ihmiset oon vajeltanheet kaikkina aikoina ja sekoittunheet toinen toisen kans.</x>
             <xt>Folk har vandret til alle tider og blandet seg med hverandre.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">suunittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">rette mot</t>
+            <xg>
+            <x>suunittaat ittensä</x>
+            <xt>rette seg mot</xt>
+            </xg>
+            <xg>
+            <x>Vuona 1997 tuli programi Migrapolis, mikä suunitti ittensä uushiin minoriteettijoukkhoin.</x>
+            <xt>I 1997 kom programmet Migrapolis som rettet seg mot nye minoritetsgrupper.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">vieroot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">unngå</t>
+            <t pos="Phrase">styre unna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">piilottaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjemme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">irtisannoot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli sagt opp</t>
+            <t pos="Phrase">si opp</t>
+            <t pos="Phrase">gi sparken</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">hoksata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppfinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">modereerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">moderere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kupliit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">boble</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">vasthaanottaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">motta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">täyđenttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utfylle</t>
+            <t pos="V">supplere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">vastaräknätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">motregne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">dateerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">datere</t>
          </tg>
       </mg>
    </e>
