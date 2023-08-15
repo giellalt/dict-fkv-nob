@@ -6500,7 +6500,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">määrätty</l>
       </lg>
@@ -6510,6 +6510,15 @@ For the full license text, see the link above.</lic>
             <xg>
             <x>määrätyn aijan</x>
             <xt>en viss tid</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">pålagt</t>
+            <xg>
+            <x>määrätty menovähenys</x>
+            <xt>pålagt utleggstrekk</xt>
             </xg>
          </tg>
       </mg>
@@ -17574,6 +17583,97 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">autorisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sattumainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tilfeldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pykkäämäeđesvastulinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">byggansvarlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">nazistinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nazistisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">hoppeinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sølv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">engaseeraantunnu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">engasjert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">huomattava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">markant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">erilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">egen</t>
+            <t pos="A">separat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">alustava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">foreløpig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">lakihuuđettu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tinglyst</t>
          </tg>
       </mg>
    </e>
