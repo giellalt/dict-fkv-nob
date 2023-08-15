@@ -3246,7 +3246,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;mj">
+   <e src="ta;ai;mj;ki">
       <lg>
          <l pos="V">hoksata</l>
          <stem>hoksaa</stem>
@@ -3272,6 +3272,11 @@ For the full license text, see the link above.</lic>
                <x>Kyllä met hoksaama vielä ratkaisun meiđän probleemhiin.</x>
                <xt>Vi kommer nok til å finne en løsning på problemet vårt.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppfinne</t>
          </tg>
       </mg>
    </e>
@@ -19099,13 +19104,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">vasthaanottaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ta imot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">motta</t>
          </tg>
       </mg>
    </e>
@@ -25211,16 +25221,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="V">hoksata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">oppfinne</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="V">modereerata</l>
       </lg>
       <mg>
@@ -25236,16 +25236,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">boble</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="V">vasthaanottaat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">motta</t>
          </tg>
       </mg>
    </e>
