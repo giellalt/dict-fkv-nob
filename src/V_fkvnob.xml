@@ -787,13 +787,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l pos="V">tarkistaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sjekke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjennomgå</t>
+            <xg>
+            <x>Assiinkäsitteliijä tarkistaa assiin niin hopusti ko mahđolista.</x>
+            <xt>En saksbehandler vil så snart som mulig gå gjennom saken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
