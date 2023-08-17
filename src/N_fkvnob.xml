@@ -70365,13 +70365,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">vaikutus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">påvirkning</t>
+            <t pos="N">innflytelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">betydning</t>
          </tg>
       </mg>

@@ -1358,6 +1358,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">åpent</t>
+            <xg>
+            <x>Mökki oon auki septemberikuusta kiini maikuuhun saakka.</x>
+            <xt>Hytta er åpen/holdes åpen fra september til mai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8802,13 +8806,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">framile</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fram</t>
+            <xg>
+            <x>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</x>
+            <xt>Dette er en automatisk bekreftelse på at e-posten er mottatt/kommet fram.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11218,7 +11226,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">tilbake</t>
             <xg>
             <x>Kauppa Ryssän kans mennee monta sattaa vuotta aijassa takaisinkäsin.</x>
-            <xt>Handel med Russland går flere hundreår tilbake.</xt>
+            <xt>Handelen med Russland går flere hundre år tilbake i tid.</xt>
             </xg>
          </tg>
       </mg>
@@ -11241,6 +11249,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fast</t>
             <t pos="Adv">regelmessig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">järkkeevästi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fornuftig</t>
          </tg>
       </mg>
    </e>

@@ -9413,15 +9413,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">lähättäät</l>
          <stem>lähätä</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">banne</t>
             <t pos="V">sende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sende</t>
+            <xg>
+               <x>lähättäät etheenpäin</x>
+               <xt>videresende</xt>
+            </xg>
          </tg>
       </mg>
    </e>
