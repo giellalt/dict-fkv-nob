@@ -17701,4 +17701,92 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">puolikova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">halvfast</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">allerginen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">allergisk</t>
+            <xg>
+            <x>olla allerginen jotaki vasthaan</x>
+            <xt>å være allergisk mot noe</xt>
+            </xg>
+            <xg>
+            <x>Älä ota juuttatablettiita jos sie olet allerginen kaliumjodiidii tahi muita ainheita vasthaan, mikkä tässä metesiinissä oon.</x>
+            <xt>Ikke bruk jodtabletter dersom du er allergisk mot kaliumjodid eller noen av de andre innholdsstoffene i legemidlet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">imettäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ammende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">psyykkinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">psykisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">raadioaktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">radioaktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ryötytetty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forurenset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tarpheeton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">unødvendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">esihistorialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forhistorisk</t>
+         </tg>
+      </mg>
+   </e>
 </r>
