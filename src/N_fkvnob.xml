@@ -29057,7 +29057,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">kaiku</l>
          <stem>kaiu</stem>
@@ -29066,6 +29066,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ekko</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenklang</t>
          </tg>
       </mg>
    </e>
@@ -100224,6 +100229,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">camping</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valssi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vals</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">löitnäntinsyđän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">løytnantshjerte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naftaflasku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naftaflaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">juomalaulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drikkevise</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rajalaulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grensesang</t>
          </tg>
       </mg>
    </e>
