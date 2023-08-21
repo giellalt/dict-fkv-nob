@@ -1065,6 +1065,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Aapana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Apanes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Jiemulahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Hjemmeluft</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Grönlanti</l>
       </lg>
       <mg>

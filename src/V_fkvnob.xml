@@ -2500,7 +2500,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">hajota</l>
          <stem>hajjoo</stem>
@@ -2509,6 +2509,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">gå i stykker</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gå i oppløsning</t>
+            <xg>
+            <x>Liikuta nuoin 2 minuttii. Tabletti ei hajjoo kokonhansa vetheen, mutta se mennee hyvin.</x>
+            <xt>Rør rundt i ca. 2 minutter, tabletten løser seg ikke helt, men det er greit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4070,7 +4079,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">immeet</l>
          <stem>ime</stem>
@@ -4078,9 +4087,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">die</t>
-            <t pos="V">patte</t>
             <t pos="V">suge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">patte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">amme</t>
+            <t pos="V">die</t>
+            <xg>
+            <x>Lapsile annethaan saman doseerauksen, immeekö lapsi tahi ei.</x>
+            <xt>Det gis samme dose uavhengig av om barnet ammes eller ikke.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4206,7 +4228,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">jakkaat</l>
          <stem>jaa</stem>
@@ -4215,6 +4237,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dele</t>
+            <xg>
+            <x>jakkaat kahtheen</x>
+            <xt>dele i to</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6987,7 +7013,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">kulkkeet</l>
          <stem>kulje</stem>
@@ -6997,6 +7023,10 @@ For the full license text, see the link above.</lic>
             <t pos="V">vandre</t>
             <t pos="V">gå</t>
             <t pos="V">ferdes</t>
+            <xg>
+            <x>Kulje alassa varovaisesti!</x>
+            <xt>Trå varsomt i området!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10639,13 +10669,10 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">gi råd</t>
             <t pos="V">råde</t>
             <t pos="V">veilede</t>
+            <t pos="V">anbefale</t>
             <xg>
-            <x>Pappi neuvoi Nillan lähteet reishuun.</x>
-            <xt>Presten rådet Nils til å dra på ei reise.</xt>
-            </xg>
-            <xg>
-            <x>Opettaaja neuvoi koululapset lukkeet läksyt.</x>
-            <xt>Læreren anbefalte/rådet elevene til å gjøre leksene.</xt>
+            <x>Tavalisesti ei neuvota juuttatablettii lapsile, kekkä oon syntynheet liian varhain, ennen ko het oon sivvu raskhausviikon 37.</x>
+            <xt>For barn som er født prematurt, anbefales vanligvis ikke jodtablett før de passerer graviditetsuke 37.</xt>
             </xg>
          </tg>
       </mg>
