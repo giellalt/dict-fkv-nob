@@ -86113,9 +86113,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>mengeenhet innen fiske</re>
             <t pos="N">sperre</t>
-            <re>eller fugler</re>
-            <t pos="N">par av fisker som er bundet sammen etter sporden og hengt opp til tørking</t>
          </tg>
       </mg>
    </e>
@@ -100372,16 +100371,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">seema</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skjema</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">raporteeraus</l>
       </lg>
       <mg>
@@ -100492,7 +100481,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">hakemusseema</l>
+         <l pos="N">hakemusskeema</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
