@@ -18252,7 +18252,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">aikomus</l>
          <stem>aikomukse</stem>
@@ -18260,6 +18260,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hensikt</t>
+            <t pos="N">intensjon</t>
          </tg>
       </mg>
    </e>
@@ -27057,13 +27058,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">jakaminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">deling</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tildeling</t>
          </tg>
       </mg>
    </e>
@@ -100279,6 +100285,390 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">grensesang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klage</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rahoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">midler</t>
+            <t pos="N">finansiering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">omaosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">egenandel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheistyöpartneri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samarbeidspartner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">viivyttely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opphold</t>
+            <t pos="N">forsinkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">varmistuspreivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilsagnsbrev</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valituskomitea</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klagenemnd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">täysi-ihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">voksen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">seema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">raporteeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rapportering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rahoituslähđet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finansieringskilde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">promoteerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">promotering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">myötäoleminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">involvering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">moolijoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mooliroikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">loogo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">logo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kriteeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kriterie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">involveerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">involering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">investeerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">investering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hallintolaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forvaltningslov</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hakemusseema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søknadsskjema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fylkinraati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkesråd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">assiiprosessi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saksprosess</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">assiinkäsittely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saksbehandlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">voimhaanastuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ikrafttredelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lisäraha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskudd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lisärahaoorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskuddsordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opintoreisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiereise</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hakemussumma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søknadsbeløp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuvvailu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beskrivelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">aikaplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rahoitusplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finansieringsplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">aikomusilmoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">intensjonserklæring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">budsettiposti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">budsjettpost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">käsitteleminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">behandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">valittaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klaging</t>
+            <t pos="N">klageadgang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maksaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">betaling</t>
+            <t pos="N">utbetaling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kirjanpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regnskap</t>
          </tg>
       </mg>
    </e>
