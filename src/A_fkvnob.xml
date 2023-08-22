@@ -17789,4 +17789,69 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sisälelähätetty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innsendt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">plaanattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">planlagt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">geograafinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">geografisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">epätäyđelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ufullstendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">aikarajattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tidsbegrenset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">assiilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">saklig</t>
+            <t pos="A">rimelig</t>
+            <xg>
+            <x>Hakkiijat jokka saađhaan kuurttoo, lähätethään räkingin fylkinkommuunille jälkhiin ko het oon ottanheet vasthaan päätöspreivin ilman assiilista viivyttellyy, ja viimisthään päätöspreivin aikafristin sisälä.</x>
+            <xt>Søkere som blir tildelt støtte skal sende faktura til fylkeskommunen etter at vedtaksbrevet er mottat uten ugrunnet/saklig opphold, og senest innen tidsfristen som er satt i vedtaksbrevet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
