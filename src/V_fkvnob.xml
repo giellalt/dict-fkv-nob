@@ -1824,13 +1824,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">astuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">stige</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tre</t>
+            <xg>
+            <x>Suuntalinjat astuthaan voimhaan alkkain 1. fepruaarikuuta 2023.</x>
+            <xt>Retningslinjene trer i kraft fra 1. februar 2023.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9744,13 +9753,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V" val="TV">maksaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">betale</t>
+            <t pos="V">utbetale</t>
          </tg>
       </mg>
       <mg>
@@ -16484,7 +16494,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ae">
       <lg>
          <l pos="V">sulkkeet</l>
       </lg>
@@ -16492,6 +16502,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">stenge</t>
             <t pos="Phrase">lukke igjen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sperre</t>
          </tg>
       </mg>
    </e>
@@ -19146,7 +19161,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki;es">
       <lg>
          <l pos="V">vastata</l>
          <stem>vastaa</stem>
@@ -19155,6 +19170,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">svare</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tilsvare</t>
          </tg>
       </mg>
    </e>
@@ -19425,7 +19445,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;es">
+   <e src="ta;ai;es;ki">
       <lg>
          <l pos="V">vieđä</l>
          <stem>vie</stem>
@@ -19443,6 +19463,14 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>vieđä ulos</x>
                <xt>å eksportere</xt>
+            </xg>
+            <xg>
+               <x>vieđä läpi</x>
+               <xt>å gjennomføre</xt>
+            </xg>
+            <xg>
+               <x>Pääreekelinnä oon ette tyhä toimet jokka viđehään läpi Finmarkussa, saađhaan kuurttoo.</x>
+               <xt>Som hovedregel støttes kun tiltak som gjennomføres og finner sted i Finnmark.</xt>
             </xg>
          </tg>
       </mg>
