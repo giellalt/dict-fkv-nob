@@ -398,13 +398,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki;es">
       <lg>
          <l pos="Po">alkkain</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">å begynne med</t>
+            <t pos="Pr">fra</t>
+            <xg>
+               <x>Suuntalinjat astuuva voimhaan alkkain 1. fepruaarikuuta 2023.</x>
+               <xt>Retningslinjene trer i kraft fra 1. februar 2023.</xt>
+            </xg>
             <xg>
                <x>alun alkkain</x>
                <xt>til å begynne med</xt>
@@ -1339,20 +1343,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hyljet uipi jäitten välissä.</x>
                <xt>Selen svømmer mellom isen.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="Po">alkkain</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pr">fra</t>
-            <xg>
-               <x>Suuntalinjat astuuva voimhaan alkkain 1. fepruaarikuuta 2023.</x>
-               <xt>Retningslinjene trer i kraft fra 1. februar 2023.</xt>
             </xg>
          </tg>
       </mg>
