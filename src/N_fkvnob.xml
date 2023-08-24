@@ -51881,29 +51881,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">petakokikki</l>
-         <stem>petakokiki</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">pedagogikk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="N">petakooki</l>
-         <stem>petakooki</stem>
-         <stem>petakookki</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">pedagog</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
          <l pos="N">peto</l>
          <stem>peđo</stem>
          <stem>petto</stem>
@@ -88940,13 +88917,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">söyttä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skøyte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskeskøyte</t>
          </tg>
       </mg>
    </e>
@@ -92538,6 +92520,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">tilsynsmann</t>
             <t pos="N">forvalter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ombud</t>
          </tg>
       </mg>
    </e>
@@ -100663,6 +100650,702 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">regnskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vesileetninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannledning</t>
+            <t pos="N">vannrør</t>
+            <xg>
+            <x>Talossa ei ollu vesileetninkkii, ja ulkohyysikkä seisoi siljola.</x>
+            <xt>Huset hadde ikke innlagt vann, og utedoen sto på tunet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vesiklosetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannklosett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ulkopaneeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">utvendig panel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sköittä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskeskøyte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sishääntulo-ovi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inngangsdør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sishäänpääsy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inngang</t>
+            <t pos="N">inngangsparti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puukomfyyri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vedkomfyr</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kraani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kran</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hirsiosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tømmerdel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">peretloma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">familierom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">laikkotontti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">festeeiendom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nuortenkoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ungdomsskole</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">masteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">master</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vanhaaengelska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gammelengelsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">teoreetikkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">teoretiker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stempeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stempel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">situasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">situasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ristidiskursi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kryssdiskurs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">praktikkari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">praktiker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppiijaroikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elevgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opettaajastudentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lærerstudent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mentaliteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mentalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">matematikkididaktikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matematikkdidaktikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">masterityö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">masteroppgave</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lujjuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">styrke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulttuuritölmäys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturkrasj</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">diskursi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diskurs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">budsetteeraminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">budsjettering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">aspekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aspekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">etnomatematikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etnomatematikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kouluhaastet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skoleutfordring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielipäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">matematikkiopetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matematikkundervisning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kouluarkipäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skolehverdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oppiplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">læreplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">raamikonvensuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rammekonvensjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maanjakamisoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordskifterett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pasienttivalvooja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pasientombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">käyttääjävalvooja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brukerombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fylkinpääsuojeluvalvooja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkeshovedverneombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">viranjohto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">embetsledelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheiskuntaturvalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samfunnssikkerhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikkeusosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">justisavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">komunaaliosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunalavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fylkinjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkesdirektør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kansantervheys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">folkehelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">personaalin kehittäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personalutvikling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">organisasuuniitten kehittäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisasjonsutvikling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">fylkin sananjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkesordfører</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">fylkinraatin johtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkesrådleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kantiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kantine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mööttihuonet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">møterom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maankäyttöosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">landbruksavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fylkintinkasali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkestingsal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fylkinneuvos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fylkesråd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pääsishääntulo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedinngang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dokumentasuunihallinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dokumentasjonsforvaltning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">karriääriopastus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">karriereveiledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">integreeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">integrering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">präntti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trykkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sentraaliarkiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sentralarkiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kasutusosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppvekstavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lastensuojeluosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">barnevernsavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheysosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sosiaaliosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sosialavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">poronhoito-osasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">reindriftsavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kommunikasuuniosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunikasjonsenhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">organisasuuniosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisasjonsavdeling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kehitysosasto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utviklingsavdeling</t>
          </tg>
       </mg>
    </e>
