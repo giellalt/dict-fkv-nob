@@ -17916,26 +17916,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">akateeminen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fkv">
-            <t pos="A">akademisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">väärti</l>
       </lg>
       <mg>
          <tg xml:lang="fkv">
             <t pos="A">verdt</t>
-         </tg>
          <xg>
          <x>Nämät oppiijat tehđhään kovasti työtä ja het ajatelhaan kriittisesti. Se oon kullan väärti.</x>
          <xt>Disse elevane jobbar hardt og dei har ein kritisk tenking som er gull verdt.</xt>
          </xg>
+         </tg>
       </mg>
    </e>
 </r>
