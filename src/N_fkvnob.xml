@@ -86131,7 +86131,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">russisk påskedessert laget av kvart, egg, fløte og sukker</t>
+	         <re>russisk påskedessert</re>
+            <t pos="N">paskha</t>
          </tg>
       </mg>
    </e>
@@ -93520,7 +93521,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">helsejeneste</t>
+            <t pos="N">helsetjeneste</t>
          </tg>
       </mg>
    </e>
@@ -101370,6 +101371,403 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">riksrevisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sitaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sitat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ystävykset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">venner</t>
+            <xg>
+            <x>Siitä päivästä met olema olheet ystävykset.</x>
+            <xt>Fra den dagen har vi vært venner.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sunnuntai-ilta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søndagskveld</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rutiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rutine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rotu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rakastamattommuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">uelskverdighet</t>
+            <xg>
+            <x>Hänelä oon raavhaana menny iso osa elämästä siihen ette oon freistanu paranttaat rakastamattomuuđen tunnon.</x>
+            <xt>Har/hun har brukt store deler av sitt voksne liv på å bearbeide opplevelsene av å være uelsket.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oppilas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elev</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">omanarvontunto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">egenverdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">munkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">munk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">marginaliseeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">marginalisering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kylästelypaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">besøksplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">parkuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hulking</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">koijasänky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">køyeseng</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kouluinternaattivuosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skoleinternatår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">korkkeekoulaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">høyere utdanning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">internaatinjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">internatbestyrer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">histoorikkeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">historiker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">häppeeloukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skammekrok</t>
+            <xg>
+            <x>Ushein met häyđyimä istuut häppeeloukossa.</x>
+            <xt>Ofte måtte vi stå i skammekroken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">auringonpaistetmuistelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solskinnshistorie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ajattelutapa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tankesett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">väjestötutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">befolkningsundersøkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">peruskouluinternaati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunnskoleinternat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">internaattioppilas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">internatelev</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">internaattikoululainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">internatelev</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kotokaipu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemlengsel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ruijalaistamishomma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fornorskningsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">puoliraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">halvdel</t>
+            <xg>
+            <x>Jälkhiin 1800-luvun puolirajan Norja satsas isosti koulhuun ja koulaamisheen.</x>
+            <xt>I siste halvdel av 1800-tallet satset Norge storstilt på skole og utdanning.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tiimaplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">timeplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">koulaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utdanning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">elämäntaito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livsferdighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">karttakeppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pekestokk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">huolenpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omsorg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sotatila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krigssituasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kiusanhenki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pøbel</t>
+            <t pos="N">plageånd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tervheysrekisteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseregister</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tervheystutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseforskning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tutkimussentteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningssenter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">elämänolot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">levekår</t>
          </tg>
       </mg>
    </e>
