@@ -147,19 +147,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="bildetema">
-      <lg>
-         <l pos="A">ristiraitanen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">rutete</t>
-            <syng>
-               <syn>ruuđulinen</syn>
-            </syng>
-         </tg>
-      </mg>
-   </e>
    <e src="mj">
       <lg>
          <l pos="A">vappaa</l>
@@ -16036,16 +16023,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">komunaalinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">kommunal</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">eteläsaamelainen</l>
       </lg>
       <mg>
@@ -17925,6 +17902,117 @@ For the full license text, see the link above.</lic>
          <x>Nämät oppiijat tehđhään kovasti työtä ja het ajatelhaan kriittisesti. Se oon kullan väärti.</x>
          <xt>Disse elevane jobbar hardt og dei har ein kritisk tenking som er gull verdt.</xt>
          </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">yhtheiskunnalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">samfunnsmessig</t>
+            <t pos="A">samfunns-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">takimainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bakerst</t>
+            <xg>
+            <x>Met takimaiset emmä vastanheet oikhein opettaajan kysymyksheen.</x>
+            <xt>Vi i bakerste klarte ikke svare rett på det læreren spurte om.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ristiraiđalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rutete</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pienimys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">minst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">monenetnilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fleretninsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kommunaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kommunal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kođiton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hjemløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">geograafilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">geografisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">elämänikhäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">livslang</t>
+            <t pos="A">livsvarig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vaaranalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>som er i en farlig, truet stilling</re>
+            <t pos="A">utsatt</t>
+            <xg>
+            <x>Esivallat piđethiin ette kväänit olthiin maan vaaranalaisilla raja-aloila turvalisuusuhka.</x>
+            <xt>Styresmaktene så på kvenene som en sikkerhetstrussel i utsatte grensestrøk.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
