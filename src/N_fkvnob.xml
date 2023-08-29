@@ -56964,13 +56964,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="yr">
+   <e src="yr;es">
       <lg>
          <l pos="N">raja-ala</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">grenseområde</t>
+            <t pos="N">grensestrøk</t>
          </tg>
       </mg>
    </e>
@@ -100280,13 +100281,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">valitus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">klage</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jamring</t>
          </tg>
       </mg>
    </e>
@@ -101390,7 +101396,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">venner</t>
+            <t pos="Phrase">venner til hverandre</t>
             <xg>
             <x>Siitä päivästä met olema olheet ystävykset.</x>
             <xt>Fra den dagen har vi vært venner.</xt>
@@ -101598,7 +101604,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">peruskouluinternaati</l>
+         <l pos="N">peruskouluinternaatti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -101768,6 +101774,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">levekår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">valta-assii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedsak</t>
+            <xg>
+            <x>Norjassa oli 1800-luvula valta-assiina oman vasituisen kansakunnan rakentaminen.</x>
+            <xt>Sentralt i Norge på 1800-tallet stod bygginga av en egen nasjon.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

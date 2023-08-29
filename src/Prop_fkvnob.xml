@@ -2803,4 +2803,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Järvenpää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>Sør-Varanger</re>
+            <t pos="N">Strand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Maasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Masi</t>
+         </tg>
+      </mg>
+   </e>
 </r>
