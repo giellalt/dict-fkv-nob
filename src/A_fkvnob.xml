@@ -2655,7 +2655,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">alhainen</l>
          <stem>alhaise</stem>
@@ -2665,6 +2665,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">grei</t>
             <t pos="A">kjekk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">underlegen</t>
          </tg>
       </mg>
    </e>
@@ -3742,13 +3747,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">huono</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">dårlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vanskelig</t>
+            <xg>
+            <x>Ko ihminen mistanttaa oman kielen, kulttuurin, identiteetin ja omanarvontunnon, niin niitä oon huono saađa takaisin.</x>
+            <xt>Når man mister språk, kultur, identitet og egenverdi vil det være vanskelig å ta det tilbake.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

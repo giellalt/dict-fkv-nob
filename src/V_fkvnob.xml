@@ -1771,7 +1771,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">arvela</l>
          <stem>arvele</stem>
@@ -1781,6 +1781,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">gjette</t>
             <t pos="V">anta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vurdere</t>
          </tg>
       </mg>
    </e>
@@ -2535,7 +2540,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">hakata</l>
          <stem>hakkaa</stem>
@@ -2554,6 +2559,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">slå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">banke</t>
          </tg>
       </mg>
    </e>
@@ -3323,7 +3333,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">hommata</l>
          <stem>hommaa</stem>
@@ -3333,6 +3343,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">arbeide</t>
             <t pos="V">sysle</t>
+            <t pos="V">drive</t>
          </tg>
       </mg>
    </e>
@@ -12311,6 +12322,10 @@ For the full license text, see the link above.</lic>
                <x>panna vasthaan</x>
                <xt>å gjøre motstand</xt>
             </xg>
+            <xg>
+               <x>panna maata</x>
+               <xt>å legge seg</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15899,7 +15914,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">selvittäät</l>
       </lg>
@@ -15911,6 +15926,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ta rede på</t>
+            <t pos="Phrase">finne ut av</t>
+            <t pos="Phrase">se nærmere på</t>
          </tg>
       </mg>
    </e>
@@ -24454,6 +24471,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="Phrase">saađa sölkhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få bank</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Phrase">anttaat pörhään</l>
       </lg>
       <mg>
@@ -25432,6 +25459,40 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">restaurere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">skriinata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">screene</t>
+            <xg>
+            <x>Informantit vastathaan kysymykshiin ja heiltä mitathaan pittuuđen ja painon, ja heiltä skriinathaan syđän ja kepposet ja otethaan veripröövii.</x>
+            <xt>Informantene vil få et spørreskjema og bli målt i høyde, vekt, og få hjerte- og lunge screening og blodprøver.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">intervjuuata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">intervjue</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">keskittyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">konsentrere seg</t>
          </tg>
       </mg>
    </e>
