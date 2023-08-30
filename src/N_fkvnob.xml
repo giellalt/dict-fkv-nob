@@ -101791,4 +101791,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tekstikorpus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tekstkorpus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rettelsesprogram</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oikaisemaprogrami</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">analysaattori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">analysator</t>
+         </tg>
+      </mg>
+   </e>
 </r>

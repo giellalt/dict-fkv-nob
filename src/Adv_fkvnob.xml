@@ -528,6 +528,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">spredt</t>
+            <xg>
+               <x>Pohjais-Norjassa ihmiset asuthaan hajala ja välimatkat oon pitkät.</x>
+               <xt>I Nord-Norge bor folk spredt og avstandene er store</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -11385,11 +11394,50 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>i negative setninger</re>
-            <t pos="Adv"> nødvendigvis</t>
+            <t pos="Adv">nødvendigvis</t>
             <xg>
             <x>Mie halluisin tulla opettaajaksi ko mie havaittin, ette opettaajan tottuuđet ei välttämättä olheet tottuuđet.</x>
-            <xt>Jeg ville bli lærer da jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</xt>
+            <xt>Jeg ville bli lærer når jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kumarassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nedbøyd</t>
+            <xg>
+            <x>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</x>
+            <xt>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">menossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i gang</t>
+            <xg>
+            <x>Tutkimussenterillä oon menossa kolmas tutkimusprosekti.</x>
+            <xt>Forskningssenteret er i gang med sitt tredje forskningsprosjekt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">viralisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">formelt</t>
+            <t pos="Adv">offisielt</t>
          </tg>
       </mg>
    </e>
