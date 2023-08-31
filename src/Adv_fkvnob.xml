@@ -11432,12 +11432,50 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="Adv">krouvisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">grovt</t>
+            <xg>
+            <x>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana öystässä.</x>
+            <xt>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tarkkhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nøye</t>
+            <xg>
+            <x>Mutta silloin hän oli nuorempi, eikä kuuntelu niin tarkkhaan.</x>
+            <xt>Men da var hun yngre, og hørte ikke så nøye etter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Adv">viralisesti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">formelt</t>
             <t pos="Adv">offisielt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">uskonollisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">religiøst</t>
          </tg>
       </mg>
    </e>

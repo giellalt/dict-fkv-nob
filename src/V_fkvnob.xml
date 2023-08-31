@@ -2567,7 +2567,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">hakkeet</l>
          <stem>hae</stem>
@@ -7529,13 +7529,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="V">kuvvaila</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beskrive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skildre</t>
          </tg>
       </mg>
    </e>
@@ -15931,7 +15936,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">selvitä</l>
          <stem>selvvii</stem>
@@ -15946,6 +15951,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli klar(t)</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">finne ut</t>
+            <t pos="Phrase">gå opp for en</t>
+            <xg>
+            <x>Aijan myöten minulle selvis ette en miekhään ollu tyhä norjalainen.</x>
+            <xt>Etter hvert fant jeg ut/gikk det opp for meg at jeg ikke bare var norsk jeg heller.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25493,6 +25508,82 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">konsentrere seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kyläilä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">besøke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">sulauttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli oppslukt</t>
+            <xg>
+            <x>Ko kväänit aijan myötä sulaututhiin Kaarasjoven saamelaisuutheen, niin Pyssyjovesta tuli elläävä kväänikylä missä kulttuuri ja kieli kukithaan aivan meän päivhiin saakka.</x>
+            <xt>Mens det kvenske etter hvert ble oppslukt av det samiske i Karasjok, ble Børselv en levende kvensk bygd der kulturen og språket blomstret helt opp til våre dager.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sammensmelte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli assimilert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">plaarata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bla</t>
+            <xg>
+            <x>Hän löyttää joitaki kirjoi mikkä het plaarathaan läpitte.</x>
+            <xt>Hun finner noen bøker som de blar gjennom.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kamppaila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kjempe</t>
+            <xg>
+            <x>kamppaila vasthaan</x>
+            <xt>stritte imot</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">fangittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fange</t>
+            <xg>
+            <x>Se oon hän joka häyttyy laukkoot vasikan pörhään ja fangittaat sen narula.</x>
+            <xt>Der er han som må løpe etter kalven for å fange den med et tau.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
