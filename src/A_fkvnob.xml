@@ -16190,16 +16190,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">materiellinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">materiell</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">tervheyđellinen</l>
       </lg>
       <mg>
@@ -18037,6 +18027,120 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">grammatikalsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vanhaanorjalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">norrøn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">satumainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">eventyrlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ortodoksinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ortodoks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">monikulttuurillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">flerkulturell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mettäpeitetty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skogkledd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">materielinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">materiell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lutherilaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lutherdom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konsekventti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konsekvent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kommunistinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kommunistisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">jälkheinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">etter</t>
+            <xg>
+            <x>Sođan jälkheisennä aikana kväänin kieli ja kulttuuri oon hävinheet enämen ja enämen.</x>
+            <xt>I tida etter krigen har det kvenske språket og den kvenske kulturen blitt mer og mer borte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">fantastinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fantastisk</t>
          </tg>
       </mg>
    </e>
