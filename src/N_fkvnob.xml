@@ -18715,13 +18715,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">alkupörä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">opprinnelse</t>
+            <t pos="N">opphav</t>
          </tg>
       </mg>
    </e>
@@ -102220,6 +102221,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">laksefisker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lutherilaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lutherdom</t>
          </tg>
       </mg>
    </e>
