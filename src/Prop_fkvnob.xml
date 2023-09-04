@@ -2824,4 +2824,56 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ääninen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>innsjø</re>
+            <t pos="N">Onega</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjanlahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Bottenvika</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Suomenlahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Finskebukta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Laatokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>innsjø</re>
+            <t pos="N">Ladoga</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Mustameri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Svartehavet</t>
+         </tg>
+      </mg>
+   </e>
 </r>
