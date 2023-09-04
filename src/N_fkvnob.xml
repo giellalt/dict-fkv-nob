@@ -91137,16 +91137,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">musikkivideo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">musikkvideo</t>
-         </tg>
-      </mg>
-   </e>
    <e src="es">
       <lg>
          <l pos="N">viilipytty</l>
@@ -101804,11 +101794,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">rettelsesprogram</l>
+         <l pos="N">oikaisemaprogrami</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">oikaisemaprogrami</t>
+            <t pos="N">rettelsesprogram</t>
          </tg>
       </mg>
    </e>
