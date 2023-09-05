@@ -6506,19 +6506,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="A">määrätty</l>
       </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">viss</t>
-            <xg>
-            <x>määrätyn aijan</x>
-            <xt>en viss tid</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">pålagt</t>
@@ -6528,8 +6519,13 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">viss</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">määrätön</l>
          <stem>määrättömä</stem>
@@ -6537,6 +6533,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ubegrenset</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ubestemt</t>
+            <xg>
+            <x>Sinun tieđot laakrathaan määrättömäksi aijaksi.</x>
+            <xt>Dine opplysninger vil lagres i ubestemt tid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
