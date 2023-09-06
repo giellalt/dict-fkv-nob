@@ -64801,11 +64801,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">hjertesykdom</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">hjertesykdom</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ki">
       <lg>
@@ -76038,16 +76033,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">internasjonal</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">tutkimisprojekti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">forskingsprosjekt</t>
          </tg>
       </mg>
    </e>
@@ -99863,16 +99848,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tervheyđentila</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">helsetilstand</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">ihotauti</l>
       </lg>
       <mg>
@@ -102221,6 +102196,792 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lutherdom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">veripröövianalyysi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blodprøveanalyse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">träänäyskello</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">treningsklokke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheyspalvelustarjous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helsetjenestetilbud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tarttumavoima</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gripestyrke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sosiaalipalvelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sosialtjeneste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konsentrasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konsentrasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">huomiokyky</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppmerksomhetsevne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">freistaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prøvelse</t>
+            <t pos="N">utfordring</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">diabetes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diabetes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balansi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">balanse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hyksipröövi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hårprøve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lisätutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilleggsundersøkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheysvaiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseplage</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheystieto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseopplysning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimusresultaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsresultat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheystila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helsetilstand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimusprosekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsprosjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hyväksyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">godkjenning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suostumus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samtykke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daatta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">data</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lepopulsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hvilepuls</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daattabaasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">database</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daatankäsitteliijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">databehandler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faktaloova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">faktaboks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vasta-ainet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">antistoff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">väjenräknääminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">folketelling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">väärinkäyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overgrep</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimuskysymys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsspørsmål</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimusbiopankko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsbiobank</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">takaisinmellinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilbakemelding</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">takaisinantaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilbakeføring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suutervheys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">munnhelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sukulaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">slekthet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ryysiainet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rusmiddel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rasva-ainet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fettstoff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosektinjohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pröövimateriaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prøvemateriale</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">persoonansuojeluvalvooja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personvernombud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">persoonansuojelunoorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personvernsordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pääohjaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedveileder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">levitys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utbredelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">laboratooriumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">laboratorium</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konsentrasuunitesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konsentrasjonstest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kiussailu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mobbing</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kapasiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kapasitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jokapäivä-polttaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dagligrøyker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">indikaattori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">indikator</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">epätervheys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">uhelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">elämäntapattuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livshendelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">diagnoosirekisteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diagnoseregister</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">depresuunivaiva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">depresjonsplage</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daattapohja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">datagrunnlag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">daatankäsittely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">databehandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">biopankko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">biobank</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balansitesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">balansetest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">antistoffi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">antistoff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">aivohalvaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjerneslag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheyspersoona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kontaktperson</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">polletija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">politi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">persoonansuojelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personvern</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kysymäskeematutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spørreskjemaundersøkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fookusroikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fokusgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">elämänolotutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">levekårsundersøkelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tervheysesivalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helsemyndighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">metesiinikäyttö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">medisinbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">funksuuniestet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">funksjonsnedsettelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">huolenpitopalvelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omsorgstjeneste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">elämänkvaliteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">livskvalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">syđänrytmi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjerterytme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kropinmittausindeksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kroppsmasseindeks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lääkihoito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">legebehandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kansanmöötti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">folkemøte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">koodiavvain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kodenøkkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tohturigraadi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">doktorgrad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimusinstitusuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsinstitusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">asuransiselskaappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsikringsselskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosektistyyri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektstyre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hyötyarvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nytteverdi</t>
          </tg>
       </mg>
    </e>
