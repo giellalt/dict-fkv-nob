@@ -18139,4 +18139,159 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">eettinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">etisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kliininen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">klinisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ylösdateerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">oppdatert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tođennäköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sannsynlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sisälekovottu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innsamlet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">rautarikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">jernrik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">perinöllinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">arvelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">monietninen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fleretnisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">krooninen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kronisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kollektiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kollektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">etukätheinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">på forhånd</t>
+            <t pos="A">forhånds-</t>
+            <xg>
+            <x>Takaisinmellingin ja siihen kuuluuvan opastuksen annethaan tyhä jos etukätheinen estäminen tahi hoito oon mahđolista.</x>
+            <xt>Det vil kun bli gitt tilbakemelding ja tilhørende veiledning hvis forebygging eller behandlig er mulig.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">emosunaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">emosjonell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">anonyyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">anonym</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">anonyymiseerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">anonymisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kvalitatiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kvalitativ</t>
+         </tg>
+      </mg>
+   </e>
 </r>
