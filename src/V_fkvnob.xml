@@ -2185,7 +2185,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">eđesauttaat</l>
       </lg>
@@ -2193,6 +2193,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">hjelpe til</t>
             <t pos="V">fremme</t>
+            <t pos="V">bidra</t>
          </tg>
       </mg>
    </e>
@@ -25584,6 +25585,27 @@ For the full license text, see the link above.</lic>
             <x>Se oon hän joka häyttyy laukkoot vasikan pörhään ja fangittaat sen narula.</x>
             <xt>Der er han som må løpe etter kalven for å fange den med et tau.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">tunnistaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjenkjenne</t>
+            <t pos="V">kjenne igjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">suostuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">samtykke</t>
          </tg>
       </mg>
    </e>
