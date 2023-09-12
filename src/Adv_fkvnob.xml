@@ -2366,17 +2366,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Adv">häpheissä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">skamfullt</t>
-            <t pos="Adv">flaut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Adv">hätähättää</l>
       </lg>
       <mg>
@@ -6005,13 +5994,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="Adv">sijalensa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på plass</t>
+            <xg>
+            <x>Palaiset menthiin sijalensa.</x>
+            <xt>Brikkene falt på plass.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11476,6 +11469,35 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">religiøst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tollosti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">dumt</t>
+            <xg>
+            <x>Hän ei tehny sitä, ja se oli tollosti tehty.</x>
+            <xt>Hen gjorde det ikke, og det var dumt gjort.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ai">
+      <lg>
+         <l pos="Adv">häppeissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skamfullt</t>
+            <t pos="A">flaut</t>
+            <xg>
+            <x>olla häppeissä</x>
+            <xt>å skamme seg</xt>
+            </xg>
          </tg>
       </mg>
    </e>
