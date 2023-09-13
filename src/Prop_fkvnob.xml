@@ -2876,4 +2876,95 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tallinna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Tallinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Jukkasjärvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Jukkasjärvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kuusamo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kuusamo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Korpivuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Ytre Billefjord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sokkuvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>Porsanger</re>
+            <t pos="N">Østerbotn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sarvisvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Kolvik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Köykiniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Gjøkenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Patoniemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Stangenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Leipovuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Olderfjord</t>
+         </tg>
+      </mg>
+   </e>
 </r>
