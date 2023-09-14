@@ -45810,7 +45810,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">myllykivi</l>
          <stem>myllykive</stem>
@@ -45819,6 +45819,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">møllestein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kvernstein</t>
          </tg>
       </mg>
    </e>
@@ -103036,6 +103041,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sivilingeniør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suurindustrii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storindustri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">krystalliformu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krystallform</t>
          </tg>
       </mg>
    </e>
