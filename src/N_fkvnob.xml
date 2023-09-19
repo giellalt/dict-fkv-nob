@@ -94247,6 +94247,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">samspill</t>
+            <t pos="N">samhandling</t>
          </tg>
       </mg>
    </e>
@@ -103106,16 +103107,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">datering</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">yhtheispeli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">samhandling</t>
          </tg>
       </mg>
    </e>

@@ -11502,12 +11502,32 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">skamfullt</t>
-            <t pos="A">flaut</t>
+            <t pos="Adv">skamfullt</t>
+            <t pos="Adv">flaut</t>
             <xg>
             <x>olla häppeissä</x>
             <xt>å skamme seg</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">öysthäänpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">østover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">laajasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">omfattende</t>
          </tg>
       </mg>
    </e>
