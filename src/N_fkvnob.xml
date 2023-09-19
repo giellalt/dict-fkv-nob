@@ -77502,7 +77502,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">arranssööri</l>
+         <l pos="N">arransööri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -91256,13 +91256,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="me">
+   <e src="me;ki">
       <lg>
          <l pos="N">rakentamatapa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">byggemåte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">byggeskikk</t>
          </tg>
       </mg>
    </e>
@@ -103091,6 +103096,276 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">diskriminering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dateeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">datering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yhtheispeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samhandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">veronvaattiija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skatteinnkrever</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">turvetkatto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">torvtak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">täkkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dekke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">representatiiviteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">representativitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rauhoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fredning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rakentamateknikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">byggeteknikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rakentamanumero</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bygningsnummer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puuplankku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">treplanke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">puupiikari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trenagle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pohjaisseinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nordvegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulkuväylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ferdselsåre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">orginalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">orginalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">onkimapaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskeplass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">materiaalinpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">materialbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rakenuskonsti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">byggeskikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tavvaamistapa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stavemåte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">karttavärkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kartverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eteläseinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sørvegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naskulauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjørnebord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">aijanlasku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsregning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">restaureeramistyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">restaureringsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tuppilauta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">villmarkspanel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">raamivärkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rammeverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">latopaneeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">låvepanel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paaropelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bølgeblikk</t>
          </tg>
       </mg>
    </e>
