@@ -73478,7 +73478,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">ymmärys</l>
          <stem>ymmärykse</stem>
@@ -73486,6 +73486,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forståelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innsikt</t>
          </tg>
       </mg>
    </e>
@@ -103357,6 +103362,276 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bølgeblikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sesuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sesjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">naturaliseerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naturalisering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">majoriteettisamfynni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">majoritetssamfunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kanadalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kanader</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">itteymmärys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">selvforståelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">histooriitutkimus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">historieforskning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hierarkii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hierarki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">herrakansanarratiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">herrefolknarrativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eteläafrikkalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sørafrikaner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dekoloniseeraaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avkolonisering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dekaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dekan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">alistaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">underordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suursamfynni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storsamfunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stipendiaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stipendiat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">silmänaukaistaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øyeåpner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">registreeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">registrering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">refleksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">refleksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pilegrimivajelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pilegrimsvandring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">päiväruoka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lunsj</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">konferansipäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konferansedag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaffipausi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffepause</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">studentprest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studenttipappi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">saametinganraati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sametingsråd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">iltajumalanpalvelus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kveldsgudstjeneste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">debattikirjoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">debattinnlegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tietoinstitusuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunnskapsinstitusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">situeeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">situerthet</t>
          </tg>
       </mg>
    </e>
