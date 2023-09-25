@@ -15795,9 +15795,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ame;es">
       <lg>
-         <l pos="V" val="TV">sauttaat</l>
+         <l pos="V" hid="Hom1">sauttaat</l>
          <stem>sauta</stem>
       </lg>
       <mg>
@@ -15806,6 +15806,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">rekke</t>
             <t pos="V">nå</t>
             <t pos="V">innhente</t>            
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppnå</t>
          </tg>
       </mg>
    </e>
