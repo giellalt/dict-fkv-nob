@@ -8347,7 +8347,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">yhtheensä</l>
       </lg>
@@ -8356,6 +8356,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">sammenlagt</t>
             <t pos="Adv">til sammen</t>
             <t pos="Adv">i alt</t>
+            <t pos="Adv">totalt</t>
          </tg>
       </mg>
    </e>
@@ -11538,6 +11539,46 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">teologisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">motoorisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">motorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">lykhäisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">sportilisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sportslig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">mentaalisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mentalt</t>
          </tg>
       </mg>
    </e>
