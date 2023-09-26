@@ -1005,6 +1005,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Enontekiö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Enontekis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Belgia</l>
       </lg>
       <mg>

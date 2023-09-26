@@ -18808,6 +18808,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">vidunderlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="A">forunderlig</t>
          </tg>
       </mg>
@@ -18819,6 +18824,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ansvarlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">luvattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lovet</t>
+            <t pos="A">forjettet</t>
+            <xg>
+            <x>luvattu maa</x>
+            <xt>det lovte/forjettede land</xt>
+            </xg>
          </tg>
       </mg>
    </e>
