@@ -104364,4 +104364,180 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">taaleri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>penger</re>
+            <t pos="N">daler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mäntymettä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">furuskog</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eteläosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">sørlig del</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tarttumasuoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smittevern</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tarttumasuojareekeli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smittevernsregel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">turvaväli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avstand</t>
+            <t pos="N">sikkerhetsavstand</t>
+            <xg>
+            <x>Muista meetterin turvavälin!</x>
+            <xt>Husk en meters avstand!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kransinlaskeminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kransnedlegging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">korpsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">korps</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">flakulinna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flaggborg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sansihaaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sansehage</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sansi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sans</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nasunaalilaulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nasjonalsang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">piilikorteesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilkortesje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ylöställäys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppstilling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hätäkulkuneuvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utrykningskjøretøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ryssepresidentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">russepresident</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ryssepiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">russebil</t>
+         </tg>
+      </mg>
+   </e>
 </r>
