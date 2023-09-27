@@ -72233,7 +72233,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l pos="N">villavanthuut</l>
+         <l pos="N">villavantthuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -90102,13 +90102,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">valmistaminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">produksjon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ferdigstilling</t>
          </tg>
       </mg>
    </e>
@@ -104547,6 +104552,161 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">minnestein</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ketjusilmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>håndarbeid</re>
+            <t pos="N">kjedemaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fastasilmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>håndarbeid</re>
+            <t pos="N">fastmaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ruusunlehti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kronblad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vantutlanka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vottegarn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rannet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndledd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">löysäsilmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>håndarbeid</re>
+            <t pos="N">luftmaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">häkläkoukku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">heklekrok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fiinivilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kutomatihheys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strikkefasthet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kutomaresepti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strikkeoppskrift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fellinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>strikking</re>
+            <t pos="N">felling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eksemppelivantut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eksempelvott</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sukkatikut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>strikking</re>
+            <t pos="N">settpinner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pohjafäri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunnfarge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">merkkilanka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">merketråd</t>
          </tg>
       </mg>
    </e>

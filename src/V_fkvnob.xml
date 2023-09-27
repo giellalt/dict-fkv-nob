@@ -25688,6 +25688,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="V">fellata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>strikking</re>
+            <t pos="V">felle</t>
+            <xg>
+            <x>Joka kerta pittää fellata 4 silmää.</x>
+            <xt>Det skal felles 4 masker per omgang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="V">tunnistaat</l>
       </lg>
       <mg>
@@ -25846,6 +25861,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">berike</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">klipata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">klippe</t>
          </tg>
       </mg>
    </e>

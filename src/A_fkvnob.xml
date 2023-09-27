@@ -18842,4 +18842,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">toivottu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ønsket</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">veiledende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">opastaava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">muunfärinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av en annen farge</t>
+            <xg>
+            <x>Kuđo (11) – (13) silmää muunfärisellä langala.</x>
+            <xt>Strikk (11) – (13) masker på en tråd i en annen farge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
