@@ -2437,16 +2437,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
-         <l pos="N">dokumentasjuuni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">dokumentasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="grom">
-      <lg>
          <l pos="N">dokumentasuuni</l>
       </lg>
       <mg>
@@ -75742,16 +75732,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">dokumentasuuni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">dokumentasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">kuvadokumentasuuni</l>
       </lg>
       <mg>
@@ -90441,16 +90421,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">vierokieli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fremmedspråk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">vifta</l>
       </lg>
       <mg>
@@ -99291,16 +99261,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tervheysosasto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">helseenhet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N">atoomivahinko</l>
       </lg>
       <mg>
@@ -100624,6 +100584,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">helseavdeling</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">helseenhet</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -101529,16 +101494,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fisketur</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">lohenpyyttääjä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">laksefisker</t>
          </tg>
       </mg>
    </e>

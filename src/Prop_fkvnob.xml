@@ -2095,16 +2095,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Järvenpää</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Träskenda</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Naantali</l>
       </lg>
       <mg>
@@ -2823,6 +2813,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">Strand</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Träskenda</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -2867,32 +2862,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Laatokka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-	         <re>innsjø</re>
-            <t pos="N">Ladoga</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc" outer_cases="True">Mustameri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Svartehavet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tallinna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Tallinn</t>
          </tg>
       </mg>
    </e>
@@ -2974,16 +2948,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Olderfjord</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Etelä-Ruotti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Sør-Sverige</t>
          </tg>
       </mg>
    </e>
