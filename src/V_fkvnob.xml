@@ -977,6 +977,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="ki">
+      <lg>
+         <l pos="V">formaanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli formet</t>
+         </tg>
+      </mg>
+   </e>
      <e src="aili">
       <lg>
          <l pos="V">varmistaat</l>
@@ -11464,6 +11474,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">eksistere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">olla toimessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være i drift</t>
          </tg>
       </mg>
    </e>
@@ -25856,6 +25876,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">klippe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="V">kaalata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vade</t>
+            <t pos="V">vasse</t>
          </tg>
       </mg>
    </e>
