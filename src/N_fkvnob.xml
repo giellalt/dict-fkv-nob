@@ -73459,7 +73459,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ki">
+   <e src="ta;ki;es">
       <lg>
          <l pos="N">ymmärys</l>
          <stem>ymmärykse</stem>
@@ -73472,6 +73472,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">innsikt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjønn</t>
          </tg>
       </mg>
    </e>
@@ -104857,6 +104862,402 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">naturbeitemark</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">byrokratii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">byråkrati</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">virkistysajo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rekreasjonskjøring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">virkistys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rekreasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">luonon monenlaisuuslaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">naturmangfoldslov</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ympäristökriminaliteetti-ilmoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">miljøkriminalitetsmelding</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ympäristökriminaliteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">miljøkriminalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">yliraja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">øvre grense</t>
+            <xg>
+            <x>Hallituksela oon halu nostaat motorikulkulajin rikkomisesta seuraavan rangaistuksen ylirajjaa ja kehittäät lakipohjaa assiintilan oikaisemista varten.</x>
+            <xt>Regjeringen ønsker å heve strafferammen for overtredelse av motorferdselloven samt vurdere å innføre hjemmel for retting.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lakipohja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemmel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oikaiseminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">retting</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>det å rette opp feil, skader e.l.</re>
+            <t pos="N">oppretting</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vesiala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vassdrag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">varovaisuusprinsippi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">føre-var-prinsippet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vahđinpito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vakthold</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">uuđistusdepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">moderniseringsdepartement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">totheenpaneminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">implementering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">referansijoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">referansegruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pohja-ajatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunntanke</t>
+            <xg>
+            <x>Lautakunta saattaa kuitenki tarpheen jälkhiin ehđottaat muutoksii tämänki suhtheen siinä määrässä ko se sen mielestä passaa yhtheen Isontingan pohja-ajatuksen kansa.</x>
+            <xt>Utvalget kan allikevel foreslå endringer også på dette feltet i den grad det mener Stortingets føringer gir grunnlag for det.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">motorikulkumääräys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motorferdselregelverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">monenlaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mangfold</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">läpikäyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjennomgang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kokkeilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jääfisku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">isfiske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hankaluus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utfordring</t>
+            <t pos="N">vanskelighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hakemustenhoito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søknadsbehandling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eđustaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">representant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kommunaali- ja uuđistusdepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommunal- og moderniseringsdepartement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hyötykulku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nyttekjøring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kuluminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">slitasje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alasuunittelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arealplanlegging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ymmärystila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjønnsrom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ittemääräämisoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">selvstyringsrett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kliima- ja ympäristödepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klima- og miljødirektorat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rikkominen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overtredelse</t>
+            <t pos="N">brudd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tulkitteminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tolkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ohjaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veiledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">selvitysneuvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utredningsinstruks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">reekelinmuutos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regelendring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">faakijoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">faggruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">lautakuntatyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utvalgsarbeid</t>
          </tg>
       </mg>
    </e>
