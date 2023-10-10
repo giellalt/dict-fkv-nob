@@ -13486,7 +13486,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">spesifikk</t>
+            <t pos="A">eksplisitt</t>
             <t pos="A">aktuell</t>
             <t pos="Phrase">den/det det er snakk/spørsmål</t>
             <xg>
@@ -18983,6 +18983,187 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">sammenhengende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">verttaamiskelpoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sammenlignbar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">spesifikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">spesifikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sovinttaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forsonende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">semistrukturellinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">semistrukturell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">narratiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">narrativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">moolitietoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">målbevisst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kulttuurikompetentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kulturkompetent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">jokapäivälinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">daglig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">johtaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ledende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">henkiherkkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">personsensitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">häppeelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skammelig</t>
+            <t pos="A">skamfull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">eksterni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ekstern</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">assimileeraava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">assimilerende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">abstraktinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">abstrakt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">teemaattinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tematisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">subjektiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">subjektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kvalifiseerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kvalifisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">metesiinifaakilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">medisinfaglig</t>
          </tg>
       </mg>
    </e>
