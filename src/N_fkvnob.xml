@@ -11750,8 +11750,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hytte</t>
             <t pos="N">stue</t>
+            <t pos="N">hytte</t>
          </tg>
       </mg>
    </e>
@@ -38098,7 +38098,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;akr">
       <lg>
          <l pos="N">kämppä</l>
          <stem>kämpä</stem>
@@ -38107,6 +38107,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">stue</t>
             <t pos="N">koie</t>
+            <t pos="N">hytte</t>
          </tg>
       </mg>
    </e>
@@ -59760,6 +59761,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">samisk</t>
          </tg>
       </mg>
@@ -67831,6 +67833,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">hus</t>
             <t pos="N">stue</t>
             <t pos="N">hytte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>oppholdsrom i bolighus</re>
+            <t pos="N">stue</t>
             <xg>
                <x>Se ei kyllä pääse tallista tuphaan.</x>
                <xt>Han kommer seg sikkert ikke fra stallen til stua (idiomatisk uttrykk som beskriver en treg person, som ikke får gjort noe).</xt>
@@ -77675,6 +77683,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">sørsamisk</t>
          </tg>
       </mg>
@@ -77715,6 +77724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">lulesamisk</t>
          </tg>
       </mg>
@@ -77755,6 +77765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">nordsamisk</t>
          </tg>
       </mg>
@@ -78520,6 +78531,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">østsamisk</t>
          </tg>
       </mg>
@@ -92759,6 +92771,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">umesamisk</t>
          </tg>
       </mg>
@@ -92769,6 +92782,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>språk</re>
             <t pos="N">pitesamisk</t>
          </tg>
       </mg>

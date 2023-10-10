@@ -2928,6 +2928,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">kauvemin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om tid</re>
+            <t pos="Adv">lengre</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="Adv">kauvon</l>
@@ -11610,6 +11621,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">stramt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">systemaattisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">systematisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">ittenäisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">selvstendig</t>
          </tg>
       </mg>
    </e>
