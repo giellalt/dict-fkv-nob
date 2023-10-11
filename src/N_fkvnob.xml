@@ -77731,6 +77731,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">luulajansaamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lulesame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">kielireekeli</l>
       </lg>
       <mg>
@@ -92778,12 +92788,32 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">uumajansaamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">umesame</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">piitimensaame</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
 	         <re>språk</re>
             <t pos="N">pitesamisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">piitimensaamelainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pitesame</t>
          </tg>
       </mg>
    </e>
