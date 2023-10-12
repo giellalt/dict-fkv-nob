@@ -11430,10 +11430,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai">
       <lg>
          <l pos="A">yhđenlainen</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">en slags</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">samme slags</t>
