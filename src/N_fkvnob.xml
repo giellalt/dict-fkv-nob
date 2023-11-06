@@ -106569,7 +106569,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">keskittymispropleemi</l>
+         <l pos="N">keskittymisprobleemi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -106968,6 +106968,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">ryggstøtte</t>
             <t pos="N">ryggstø</t>
          </tg>
       </mg>
@@ -107161,12 +107162,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">aanen-taanen</l>
+         <l pos="Phrase">aanen-taanen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>regle</re>
-            <t pos="N">elle-melle</t>
+            <t pos="Phrase">elle-melle</t>
          </tg>
       </mg>
    </e>
@@ -107202,7 +107203,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">jalkapallokentä</l>
+         <l pos="N">jalkapallokenttä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -107544,7 +107545,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">godgjørelse</t>
+            <t pos="N">godtgjørelse</t>
          </tg>
       </mg>
    </e>
