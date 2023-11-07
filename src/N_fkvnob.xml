@@ -69410,7 +69410,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">uskolisuus</l>
          <stem>uskolisuuđe</stem>
@@ -69419,6 +69419,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trofasthet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lojalitet</t>
          </tg>
       </mg>
    </e>
@@ -77493,6 +77498,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">arvegods</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">perintökapine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arvestykke</t>
          </tg>
       </mg>
    </e>
@@ -94781,9 +94796,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
-         <l pos="N">haminabassenki</l>
+         <l pos="N">haminabasenki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -97191,16 +97206,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ubåt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">sjarkki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sjark</t>
          </tg>
       </mg>
    </e>
@@ -105253,17 +105258,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">rikkominen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">overtredelse</t>
-            <t pos="N">brudd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">tulkitteminen</l>
       </lg>
       <mg>
@@ -106262,16 +106256,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">elläintohtori</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">dyrlege</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">dongeriihousut</l>
       </lg>
       <mg>
@@ -106419,16 +106403,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bustete øyenbryn</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">kuvvaaminen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fotografering</t>
          </tg>
       </mg>
    </e>
@@ -106643,7 +106617,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>i bakken</re>
             <t pos="N">aking</t>
          </tg>
       </mg>
@@ -106721,6 +106694,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">silhuetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">silhuett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">pikkuihminen</l>
       </lg>
       <mg>
@@ -106736,6 +106719,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">snarvisitt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">visitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">visitt</t>
          </tg>
       </mg>
    </e>
@@ -106909,16 +106902,6 @@ For the full license text, see the link above.</lic>
          <re>på lov, regel</re>
             <t pos="N">brudd</t>
             <t pos="N">overtredelse</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">haminabasengi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">havnebasseng</t>
          </tg>
       </mg>
    </e>
@@ -107219,16 +107202,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">rundball</t>
             <t pos="N">høyball</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">suuruuđenhullu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">stormannsgal</t>
          </tg>
       </mg>
    </e>
@@ -107558,17 +107531,6 @@ For the full license text, see the link above.</lic>
          <re>oppdiktet årsak, grunn</re>
             <t pos="N">unnskyldning</t>
             <t pos="N">påskudd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">liikakilo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-         <re>om bagasje</re>
-            <t pos="N">overvekt</t>
          </tg>
       </mg>
    </e>
