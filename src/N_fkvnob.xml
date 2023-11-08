@@ -51991,6 +51991,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">regndråpe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">pisk</t>
          </tg>
       </mg>
@@ -105124,6 +105128,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">motorferdselregelverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">motoriajo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motorferdsel</t>
          </tg>
       </mg>
    </e>
