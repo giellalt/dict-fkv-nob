@@ -83233,6 +83233,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">snøras</t>
+            <t pos="N">snøskred</t>
          </tg>
       </mg>
    </e>
@@ -87452,7 +87453,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">skred‘ (jf. vierimä)</t>
+	         <re>jf. vierimä</re>
+            <t pos="N">skred</t>
          </tg>
       </mg>
    </e>
@@ -87462,7 +87464,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">norsk kvinnfolk</t>
+            <t pos="Phrase">norsk kvinnfolk</t>
          </tg>
       </mg>
    </e>
@@ -107065,16 +107067,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">vanhaafaari</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">gammelkall</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">vahingonilo</l>
       </lg>
       <mg>
@@ -107119,6 +107111,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">snøras</t>
             <t pos="N">snøskred</t>
          </tg>
       </mg>
