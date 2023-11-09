@@ -13256,6 +13256,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">flerfarget</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="A">fargerik</t>
          </tg>
       </mg>
@@ -19321,6 +19326,588 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">diskutabel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ainhainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konstant</t>
+            <t pos="A">evig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">veittenterävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sylkvass</t>
+            <t pos="A">knivskarp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vastaputsattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nypusset</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">siirettävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">flyttbar</t>
+            <t pos="A">portabel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pitkähijainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">langermet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">objektiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">objektiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">muistuttaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">minner om</t>
+            <xg>
+            <x>Vaattheen takkaa kuului tomhaus ko sinne putos jotaki. Sitte kuului ukkoista muistuttaavaa jyrinää.</x>
+            <xt>Bak forhenget lød det et dunk som om noe datt ned. Fulgt av ille brumming som minnet om lyn.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">matruusipukuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">matroskledd</t>
+            <t pos="Phrase">kledd som matros</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kierttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">omvandrende</t>
+            <t pos="A">omreisende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ambulerende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>bevege i krets</re>
+            <t pos="A">dreiende</t>
+            <t pos="A">kretsende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kesävaattheinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sommerkledd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kengätön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skoløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kauhunsekainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skrekkblandet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">karmiton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">karmløs</t>
+            <t pos="A">rammeløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">itteloistaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">selvlysende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">autenttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">autentisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pölättäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skummel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">suuruuđenhullu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stormannsgal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">unistelleeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">drømmende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">tuliterä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">flunkende ny</t>
+            <t pos="Phrase">splitter ny</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">oikkeenpuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">høyresidig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vasemanpuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">venstresidig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">hyperaktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hyperaktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sishäänrakenettu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innebygd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sinapinkeltainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sennepsgul</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pikkuruinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bitteliten</t>
+            <t pos="A">bittesmå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pahemansorttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av verre sort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ärryttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">irriterende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paaroileeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bølgete</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mallinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av modell</t>
+            <t pos="A">modell</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av form</t>
+            <t pos="A">form</t>
+            <xg>
+            <x>Maantasala olleeviitten lumiluoliin ovenreijät piti laittaat kaaren malliset. Net olthiin kaikkiin kaunhiimat.</x>
+            <xt>Åpningen til snehulene i lavlandet måtte lages bueformet. Det var aller penest.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kuttumaton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ubuden</t>
+            <t pos="A">uinvitert</t>
+            <xg>
+            <x>Sillä säästyimä kuttumattomista vierhaista ja pahemansorttisilta järjestysrikkomisilta.</x>
+            <xt>Da slapp vi ubedt besøk og stygge overtramp på ordensreglementet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">jäljetön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sporløs</t>
+            <xg>
+            <x>hävitä jäljettömhiin</x>
+            <xt>forsvinne i løse luften, forsvinne sporløst</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ensilappiilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">første spadetak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lappiilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">spadefull</t>
+            <t pos="A">spadetak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">asuttava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">beboelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">aamuvarhainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">grytidlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">aamulinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">morgenlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vahingoniloinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skadefro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pystöhenkoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stupbratt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">puolivalmis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">halvferdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">petolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forrædersk</t>
+            <t pos="A">utkrøpen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lissäilty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">overdrevet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kauhistunnu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forferdet</t>
+            <t pos="A">vettskremt</t>
+            <t pos="A">forskrekket</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vetoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">trekkfull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">puoleton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">upartisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">populistinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">populistisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pilhaanajettu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nedkjørt</t>
+            <t pos="A">nedslitt</t>
+            <t pos="A">ramponert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">inhoittaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avskyelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vasthaantulleeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">motgående</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">näköisä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lys</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">eteerinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">eterisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">leppymätön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uforsonlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pyöryttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forvirrende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">täppitäysi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stappfull</t>
+            <t pos="A">proppfull</t>
+            <t pos="A">pakkfull</t>
          </tg>
       </mg>
    </e>
