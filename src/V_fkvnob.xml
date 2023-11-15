@@ -9300,6 +9300,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lure</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">holde seg skjult og vokte på noe</t>
          </tg>
       </mg>
@@ -10959,7 +10963,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">stå opp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">stige</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">stikke opp</t>
          </tg>
       </mg>
@@ -13639,9 +13651,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>f.eks. bøker, aviser</re>
             <t pos="V">prente</t>
-            <t pos="Phrase">skrive på maskin</t>
             <t pos="V">trykke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">skrive på maskin</t>
          </tg>
       </mg>
    </e>

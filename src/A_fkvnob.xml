@@ -13641,7 +13641,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ondsinnet</t>
+            <t pos="A">ondsinnet</t>
          </tg>
       </mg>
    </e>
@@ -19908,6 +19908,21 @@ For the full license text, see the link above.</lic>
             <t pos="A">stappfull</t>
             <t pos="A">proppfull</t>
             <t pos="A">pakkfull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">koristeltu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">pyntet</t>
+            <t pos="A">dekorert</t>
+            <xg>
+            <x>Koristeltuna setolkkakulkusella kuljetethiin hevoiset ihmissii joulujumalanpalveluksheen, ristiäishiin, häihin ja kraviaishiin.</x>
+            <xt>Pyntet med dombjeller og sedolk fraktet hestene mennesker til julegudstjeneste, til dåp, bryllup og begravelse.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
