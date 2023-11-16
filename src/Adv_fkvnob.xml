@@ -11822,4 +11822,52 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">upottoman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>forsterkningsord</re>
+            <t pos="A">veldig</t>
+            <t pos="Adv">mye</t>
+            <xg>
+            <x>Häh? Ei, sehän oon apoteekista, kyllä se oon upottoman tervheelinen.</x>
+            <xt>Hæ? Nei, den er fra apoteket, så den er kjempesunn.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuoloin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">da</t>
+            <t pos="Adv">den gang</t>
+            <t pos="Phrase">på det tidspunktet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pörästäpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i ettertid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">supussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sammentrukket</t>
+         </tg>
+      </mg>
+   </e>
 </r>
