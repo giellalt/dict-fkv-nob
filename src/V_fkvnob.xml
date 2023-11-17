@@ -2022,7 +2022,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">eppäilä</l>
          <stem>eppäile</stem>
@@ -2031,6 +2031,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tvile</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>komme i tvil</re>
+            <t pos="V">stusse</t>
          </tg>
       </mg>
    </e>
@@ -10347,7 +10353,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">murettiit</l>
          <stem>mureti</stem>
@@ -10355,6 +10361,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sørge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bekymre seg</t>
          </tg>
       </mg>
    </e>
@@ -21445,6 +21456,18 @@ For the full license text, see the link above.</lic>
             <t pos="V">ryke</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>matlaging</re>
+            <t pos="V">brune</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>steke ganske lett, så overflaten blir brun</re>
+            <t pos="V">steke</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -26666,6 +26689,75 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">gi avsky</t>
             <t pos="Phrase">få til å vemmes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tallustella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rusle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">jähmettyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>av skrekk eller i hat, hån forakt</re>
+            <t pos="V">stivne</t>
+            <t pos="Phrase">bli lammet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">huojuskella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>frek.</re>
+            <t pos="V">svaie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">huojuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svaie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">häppeilä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>litt eller tidvis</re>
+            <t pos="Phrase">skamme seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">blyges</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">boikotteerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">boikotte</t>
          </tg>
       </mg>
    </e>
