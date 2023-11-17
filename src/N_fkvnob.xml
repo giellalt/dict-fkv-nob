@@ -25607,7 +25607,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">hyysikkä</l>
          <stem>hyysikä</stem>
@@ -25615,7 +25615,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utedo</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">toalett</t>
+            <t pos="N">dass</t>
          </tg>
       </mg>
    </e>
@@ -32321,13 +32326,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">keula</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forstavn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">baug</t>
          </tg>
       </mg>
    </e>
@@ -46303,6 +46313,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ansikt</t>
+            <t pos="N">fjes</t>
             <t pos="N">kjeft</t>
             <xg>
                <x>Hänelä oon kyllä iso naama.</x>
@@ -67137,13 +67148,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">trappu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trapp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">leider</t>
          </tg>
       </mg>
    </e>
@@ -79546,6 +79562,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">havari</t>
+            <t pos="N">forlis</t>
+            <t pos="N">skipsvrak</t>
          </tg>
       </mg>
    </e>
@@ -107845,6 +107863,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">multekart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">Vikatetmies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">Mannen med ljåen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">murtonpyytö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">småseifiske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eppäily</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">mistanke</t>
          </tg>
       </mg>
    </e>
