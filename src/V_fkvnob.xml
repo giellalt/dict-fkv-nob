@@ -26776,4 +26776,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="V">perruuttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">avlyse</t>
+            <t pos="V">kansellere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">litistäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">klemme flat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>gjøre flat</re>
+            <t pos="V">flate</t>
+         </tg>
+      </mg>
+   </e>
 </r>
