@@ -11988,4 +11988,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tiettäin ja tahtoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med viten og vilje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">myötälukkiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>medregnet</re>
+            <t pos="Adv">inkludert</t>
+            <xg>
+            <x>Niin ko met sen näjemä, vastaus oon – tottuuskommisuunin ja raportin myötälukkiin – ette ruijalaistaminen tiettäin ja tahtoin aina oon toimessa.</x>
+            <xt>Etter vår oppfatning er svaret – sannhetskommisjonen og rapporten inkludert – at fornorskningen med viten og vilje pågår.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuntheelisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">emosjonelt</t>
+         </tg>
+      </mg>
+   </e>
 </r>

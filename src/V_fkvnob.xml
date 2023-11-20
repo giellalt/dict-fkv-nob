@@ -3392,7 +3392,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">hourata</l>
          <stem>houraa</stem>
@@ -3402,6 +3402,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tøve</t>
             <t pos="V">tulle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>prate tøv</re>
+            <t pos="V">fable</t>
          </tg>
       </mg>
    </e>
@@ -11510,10 +11516,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="Phrase">olla toimessa</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">pågå</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">være i drift</t>
