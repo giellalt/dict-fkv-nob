@@ -107092,6 +107092,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">bedrag</t>
             <t pos="N">svindel</t>
             <t pos="N">forræderi</t>
+            <t pos="N">lureri</t>
          </tg>
       </mg>
    </e>
@@ -107893,6 +107894,148 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">mistanke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tillaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">anledning</t>
+            <t pos="N">begivenhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tiekartta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veikart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sokkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blindhet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">perustelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">begrunnelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">murunen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smule</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">murkinabuffetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lunsjbuffè</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">loppuselvittely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>det å gjøre opp, bringe klarhet i et motsetningsforhold, en konflikt</re>
+            <t pos="N">sluttoppgjør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kurjuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elendighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jälkimainet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ettermæle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">finansieeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finansiering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tottuusvuosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sannhetsår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">syntisäkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">synder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">paranustoimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbedringstiltak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">johtopäätös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konklusjon</t>
          </tg>
       </mg>
    </e>
