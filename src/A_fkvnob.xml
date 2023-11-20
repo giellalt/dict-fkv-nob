@@ -3765,6 +3765,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">vanskelig</t>
+            <t pos="A">vrien</t>
             <xg>
             <x>Ko ihminen mistanttaa oman kielen, kulttuurin, identiteetin ja omanarvontunnon, niin niitä oon huono saađa takaisin.</x>
             <xt>Når man mister språk, kultur, identitet og egenverdi vil det være vanskelig å ta det tilbake.</xt>
@@ -20081,6 +20082,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">urovekkende</t>
             <t pos="A">bekymringsfull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kiukkuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bisk</t>
          </tg>
       </mg>
    </e>

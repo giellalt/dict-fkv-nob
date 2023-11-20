@@ -877,6 +877,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sitä vastoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">derimot</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Adv">yksiäänisesti</l>
@@ -4397,13 +4407,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">muutamisti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">av og til</t>
+            <t pos="Adv">stundom</t>
          </tg>
       </mg>
    </e>
@@ -6239,7 +6250,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">suorhaan</l>
       </lg>
@@ -6247,6 +6258,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">rett</t>
             <t pos="Adv">strak</t>
+            <t pos="Adv">ben</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Adv">direkte</t>
          </tg>
       </mg>
@@ -6257,7 +6273,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">omtent</t>
+            <t pos="Adv">omtrent</t>
          </tg>
       </mg>
    </e>
@@ -6296,13 +6312,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Adv">syrjälensä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på kant</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">sideveis</t>
+            <t pos="Adv">til side</t>
+            <xg>
+               <x>Silloin se piiskas mertä mastola, meni syrjälensä ja läiskytti mertä sekä paapuurin ette styyrpuurin puolelta.</x>
+               <xt>Da pisket hun sjøen med masta si, la seg sideveis over og smakket til sjøen både på babord og styrbord side.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11867,6 +11893,84 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">sammentrukket</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">villisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vilt</t>
+            <t pos="Adv">ustyrlig</t>
+            <t pos="Adv">voldsomt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">päivätolkula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">dagevis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kiukkuisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">biskt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">epätoivoisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fortvilt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">joka taphauksessa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i alle fall</t>
+            <t pos="Adv">uansett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hullusti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">galt</t>
+            <xg>
+            <x>käyđä hullusti</x>
+            <xt>å gå galt</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hullumasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">galere</t>
+            <t pos="Adv">verre</t>
          </tg>
       </mg>
    </e>
