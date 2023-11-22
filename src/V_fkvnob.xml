@@ -2892,7 +2892,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">havaita</l>
          <stem>havaitte</stem>
@@ -2902,6 +2902,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">merke</t>
             <t pos="V">oppdage</t>
+            <t pos="V">fornemme</t>
          </tg>
       </mg>
    </e>
@@ -3124,8 +3125,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">skitne til</t>
             <t pos="V">gni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">skitne til</t>
          </tg>
       </mg>
    </e>
@@ -3366,6 +3371,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">arbeide</t>
             <t pos="V">sysle</t>
             <t pos="V">drive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">anskaffe</t>
+            <t pos="Phrase">skaffe seg</t>
          </tg>
       </mg>
    </e>
@@ -7488,19 +7499,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">kuuluut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tilhøre</t>
+            <t pos="Phrase">høre til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">høres</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">høre til</t>
+	         <re>gi lyd</re>
+            <t pos="V">lyde</t>
          </tg>
       </mg>
    </e>
@@ -9347,7 +9364,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">lyhenttäät</l>
          <stem>lyhenä</stem>
@@ -9356,6 +9373,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forkorte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>f.eks. bukser</re>
+            <t pos="Phrase">legge opp</t>
          </tg>
       </mg>
    </e>
@@ -10961,6 +10984,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">løfte</t>
+            <xg>
+            <x>nostaat tuntheita</x>
+            <xt>å fremkalle følelser</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -16508,7 +16535,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">sotkeet</l>
       </lg>
@@ -16526,6 +16553,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">elte</t>
             <t pos="V">kna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">skitne til</t>
+            <xg>
+               <x>Se mie piđin kaksoissii käđestä ette kumpikhaan ei kattois lopulisesti eli – mikä vielä pahempi – ei sotkettais vaattheita.</x>
+               <xt>Så jeg holdte tvillingene i hendene, sånn at ingen av dem ble borte for godt eller i verste fall skitnet seg til i tøyet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21425,6 +21461,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">knitre</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bæse</t>
+         </tg>
+      </mg>
    </e>
    <e src="es">
       <lg>
@@ -22609,6 +22650,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">hikste</t>
             <t pos="V">hikke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hulke</t>
          </tg>
       </mg>
    </e>

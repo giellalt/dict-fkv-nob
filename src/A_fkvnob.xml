@@ -6242,7 +6242,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">merkilinen</l>
          <stem>merkilise</stem>
@@ -6251,6 +6251,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">merkelig</t>
+            <t pos="A">rar</t>
          </tg>
       </mg>
    </e>
@@ -8844,13 +8845,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">selvä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">klar</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tydelig</t>
          </tg>
       </mg>
    </e>
@@ -14647,6 +14653,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>om stemme, lyd</re>
             <t pos="A">lav</t>
+            <t pos="A">dempet</t>
          </tg>
       </mg>
    </e>
@@ -14712,6 +14719,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">alvorlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">seriøs</t>
          </tg>
       </mg>
       <mg>

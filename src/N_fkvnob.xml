@@ -8260,6 +8260,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="N">kattooja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskuer</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>person som betrakter noe, iakttager</re>
+            <t pos="N">betrakter</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="N">kylissi</l>
@@ -24923,7 +24939,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">homma</l>
       </lg>
@@ -24931,6 +24947,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">syssel</t>
             <t pos="N">arbeid</t>
+            <xg>
+            <x>olla homma hanskassa</x>
+            <xt>å ha kontroll</xt>
+            </xg>
+            <xg>
+            <x>Meiđän mammoila oli heti homma hanskassa.</x>
+            <xt>Mammaene våre fikk raskt kontroll.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69770,7 +69794,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">vaatet</l>
          <stem>vathee</stem>
@@ -69779,6 +69803,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">klesplagg</t>
             <t pos="N">tøy</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>klede som henger foran noe</re>
+            <t pos="N">forheng</t>
          </tg>
       </mg>
    </e>
@@ -79872,6 +79902,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">finklær</t>
+            <t pos="N">finstas</t>
          </tg>
       </mg>
    </e>
@@ -82234,6 +82265,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skurkestrek</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ugang</t>
          </tg>
       </mg>
    </e>
@@ -90029,6 +90065,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sporsans</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sans</t>
+            <xg>
+            <x>Onneksi meiđän mammoila oli seittemäs vainu sen suhtheen jos heiđän kläpit jouđuthiin vaikkeukshiin.</x>
+            <xt>Til alt hell hadde mammaene våre en syvende sans for når ungene deres stelte i stand trøbbel.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
