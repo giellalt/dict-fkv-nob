@@ -6242,6 +6242,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kiimhainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kåt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">halukas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kåt</t>
+            <t pos="A">villig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="na">
       <lg>
          <l pos="A">menettynny</l>
@@ -12117,16 +12138,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">administrativ</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="A">halukas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">villig</t>
          </tg>
       </mg>
    </e>
