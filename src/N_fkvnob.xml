@@ -77883,7 +77883,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kunnskapsdepartementti</l>
+         <l pos="N">tietodepartementti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -108081,6 +108081,414 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">konklusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kommisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">yhtheenliittäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammenslåing</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vastuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ansvar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tottuuskommisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sannhetskommisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">strategiiplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strategiplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">spesialisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spesialist</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">seuraamus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">følge</t>
+            <t pos="N">konsekvens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">följy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">følge</t>
+            <xg>
+            <x>Saanko tulla följhyyn?</x>
+            <xt>Får jeg slå følge?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">respekti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">respekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">redaksuunikomitee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">redaksjonskomité</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pleenumijohtaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">plenumsleder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pikkusisko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lillesøster</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">opiskeluvelka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiegjeld</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">opaskirja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndbok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">miljöödepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">miljødepartement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">merkkivaattheet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">merkeklær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">majoriteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">majoritet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulttuuriperintö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturarv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulttuurikomitee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturkomité</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kesätapattuma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommerarrangement</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">integreerinkidepartementti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">integreringsdeparttementti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hammaspiina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tannpine</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fundamentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fundament</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">flakupäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flaggdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fanfaari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fanfare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">epäoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">urett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">abortti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">abort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pikkuväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småfolk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kiinostus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">interesse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">paikannimikonsulentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stedsnavnkonsulent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">neuvonpittääjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>person som diskuterer for å komme fram til en avgjørelse</re>
+            <t pos="N">forhandler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">valtaherra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>politisk, mannlig</re>
+            <t pos="N">leder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">valtavaimo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>politisk, kvinnelig</re>
+            <t pos="N">leder</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oikkeustieđet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettsvitenskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">järjestäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulttuuribussi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturbuss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">festivaalitunnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">festivalstemning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">syntymäpäiväkakko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bursdagskake</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">faakiväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagfolk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kulttuuriaktivisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturaktivist</t>
          </tg>
       </mg>
    </e>
