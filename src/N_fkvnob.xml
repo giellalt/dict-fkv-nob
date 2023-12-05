@@ -442,11 +442,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="na">
       <lg>
-         <l pos="N">assiinajaaja</l>
+         <l pos="N">assiinajjaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">advokat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">sakfører</t>
          </tg>
       </mg>
@@ -587,7 +591,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">elektrikker</t>
+            <t pos="N">elektriker</t>
          </tg>
       </mg>
    </e>
@@ -688,7 +692,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">oppholdsvær og østavind</t>
+            <t pos="Phrase">oppholdsvær og østavind</t>
          </tg>
       </mg>
    </e>
@@ -1837,7 +1841,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jogurt</t>
-               <t pos="N">yogurt</t>
+            <t pos="N">yoghurt</t>
          </tg>
       </mg>
    </e>
@@ -2210,7 +2214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">øye-eple</t>
+            <t pos="N">øyeeple</t>
          </tg>
       </mg>
    </e>
@@ -2290,7 +2294,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">etterabeidsaktivitet</t>
+            <t pos="N">etterarbeidsaktivitet</t>
          </tg>
       </mg>
    </e>
@@ -2320,7 +2324,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">autospilling</t>
+            <t pos="N">autoavspilling</t>
          </tg>
       </mg>
    </e>
@@ -4443,7 +4447,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">rap (musikk)</t>
+	         <re>musikk</re>
+            <t pos="N">rap</t>
          </tg>
       </mg>
    </e>
@@ -5894,7 +5899,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">spensthopp </t>
+            <t pos="N">spensthopp</t>
          </tg>
       </mg>
    </e>
@@ -6010,11 +6015,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">kilowatti-tiima</l>
+         <l pos="N">kilowattitiima</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kilowatt-time</t>
           <t pos="N">kilowattime</t>
          </tg>
       </mg>
@@ -6512,7 +6516,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">fasadi</t>
+            <t pos="N">fasade</t>
          </tg>
       </mg>
    </e>
@@ -8251,7 +8255,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kulissi</t>
+            <t pos="N">kulisse</t>
          </tg>
       </mg>
    </e>
@@ -8811,7 +8815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">slalom</t>
+            <t pos="N">slalåm</t>
          </tg>
       </mg>
    </e>
@@ -10757,6 +10761,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">fiskeyngel</t>
             <t pos="Phrase">liten fisk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">bekkeørret</t>
          </tg>
       </mg>
@@ -10973,7 +10981,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">(smal) vik</t>
+            <t pos="Phrase">smal vik</t>
             <t pos="N">kjos</t>
          </tg>
       </mg>
@@ -72754,7 +72762,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">vik</t>
+            <t pos="Phrase">smal vik</t>
+            <t pos="N">kjos</t>
          </tg>
       </mg>
    </e>
