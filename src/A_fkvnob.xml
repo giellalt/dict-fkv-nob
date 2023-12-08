@@ -212,7 +212,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">kroket</t>
+            <t pos="A">krokete</t>
             <t pos="A">krøkt</t>
          </tg>
       </mg>
@@ -452,7 +452,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">(svakt) hellende</t>
+	         <re>svakt</re>
+            <t pos="Phrase">hellende</t>
          </tg>
       </mg>
    </e>
@@ -2347,7 +2348,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ikke eksisterende</t>
+            <t pos="A">ikke-eksisterende</t>
             <t pos="A">ubetydelig</t>
          </tg>
       </mg>
@@ -2492,7 +2493,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">systemaatisk</t>
+            <t pos="A">systematisk</t>
          </tg>
       </mg>
    </e>
@@ -4770,7 +4771,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">kroket</t>
+            <t pos="A">krokete</t>
          </tg>
       </mg>
    </e>
@@ -5372,7 +5373,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">bøyd</t>
-            <t pos="A">kroket</t>
+            <t pos="A">krokete</t>
             <t pos="A">krum</t>
          </tg>
       </mg>
@@ -8078,26 +8079,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">pykejäläinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">som er fra Bygøynes</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">pyssyjokilainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">fra Børselv</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">pystö</l>
@@ -8213,16 +8194,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">frisk</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">raisilainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">som er fra Nordreisa</t>
          </tg>
       </mg>
    </e>
@@ -9453,16 +9424,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">tett</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="A">talosvankkalainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">som er fra Olderdalen</t>
          </tg>
       </mg>
    </e>
@@ -11450,7 +11411,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">krum</t>
             <t pos="A">buet</t>
-            <t pos="A">kroket</t>
+            <t pos="A">krokete</t>
          </tg>
       </mg>
    </e>
@@ -12405,11 +12366,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">interessert</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">ivrig</t>
               <xg>
                <x>Studentit olthiin innokkhaat.</x>
@@ -13091,17 +13047,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="A">lattee</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">flat</t>
-            <t pos="A">platt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="A">leppääkassuuva</l>
       </lg>
       <mg>
@@ -13442,7 +13387,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">forholdvis</t>
+            <t pos="A">forholdsvis</t>
             <t pos="A">relativ</t>
          </tg>
       </mg>
@@ -13474,12 +13419,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">å være for en sak</t>
+            <t pos="A">velvillig</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">velvillig</t>
+            <t pos="Phrase">å være for en sak</t>
          </tg>
       </mg>
    </e>
@@ -14891,7 +14836,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">værre</t>
+            <t pos="A">verre</t>
             <t pos="A">dårligere</t>
          </tg>
       </mg>
@@ -17271,16 +17216,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">raisinvankkalainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">en fra reisadalen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="A">öystälinen</l>
       </lg>
       <mg>
@@ -17898,7 +17833,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">saklig</t>
-            <t pos="A">rimelig</t>
             <xg>
             <x>Hakkiijat jokka saađhaan kuurttoo, lähätethään räkingin fylkinkommuunille jälkhiin ko het oon ottanheet vasthaan päätöspreivin ilman assiilista viivyttellyy, ja viimisthään päätöspreivin aikafristin sisälä.</x>
             <xt>Søkere som blir tildelt støtte skal sende faktura til fylkeskommunen etter at vedtaksbrevet er mottat uten ugrunnet/saklig opphold, og senest innen tidsfristen som er satt i vedtaksbrevet.</xt>
@@ -18396,6 +18330,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">hittil</t>
             <t pos="Phrase">fram til nå</t>
             <t pos="Phrase">inntil nå</t>
             <xg>
