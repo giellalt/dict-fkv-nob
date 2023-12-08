@@ -7046,6 +7046,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
+         <l pos="N">herskuknappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klitoris</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
          <l pos="N">klötsi</l>
       </lg>
       <mg>
@@ -8951,11 +8961,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N" nr="Pl">sukupuoliorgaanit</l>
+         <l pos="N">sukupuoliorgaani</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kjønnsorganer</t>
+            <t pos="N">kjønnsorgan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="bildetema">
+      <lg>
+         <l pos="N">sukupuolivärkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjønnsorgan</t>
          </tg>
       </mg>
    </e>
@@ -9606,7 +9626,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">vagina</t>
             <t pos="N">skjede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pillunsisus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vagina</t>
          </tg>
       </mg>
    </e>
@@ -34860,6 +34891,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">kondomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kondom</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">kortteeri</l>
@@ -36250,19 +36291,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">kulli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kuk</t>
+            <t pos="N">penis</t>
          </tg>
       </mg>
    </e>
    <e src="ta">
       <lg>
          <l pos="N">kullit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">testikler</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">munat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -70544,13 +70596,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">vapaa-aika</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fritid</t>
+            <xg>
+            <x>Hva gjør du på fritiden?</x>
+            <xt>Mitä tehet vapaa-aijassa?</xt>
+            </xg>
          </tg>
       </mg>
    </e>

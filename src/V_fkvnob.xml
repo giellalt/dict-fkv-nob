@@ -6656,7 +6656,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">korjata</l>
          <stem>korjaa</stem>
@@ -6679,6 +6679,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">reparere</t>
             <t pos="V">forbedre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sanke</t>
          </tg>
       </mg>
    </e>
@@ -6849,7 +6854,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">plukke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">samle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sanke</t>
          </tg>
       </mg>
    </e>
