@@ -18096,16 +18096,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">aikasaapphaat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tidsstøvler</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="N">aikasärmi</l>
       </lg>
       <mg>
@@ -51400,7 +51390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">perkelet</l>
          <stem>perkelhee</stem>
@@ -51409,6 +51399,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">djevel</t>
             <t pos="N">satan</t>
+            <t pos="N">faen</t>
          </tg>
       </mg>
    </e>
@@ -51445,7 +51436,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">persetreikä</l>
          <stem>persetreijä</stem>
@@ -51454,6 +51445,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rævhull</t>
+            <t pos="N">anus</t>
          </tg>
       </mg>
    </e>
@@ -56708,16 +56700,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">raisilainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">Nordreisa-væring</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">raita</l>
@@ -58062,7 +58044,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">rietas</l>
          <stem>riethaa</stem>
@@ -58070,6 +58052,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">djevel</t>
+            <t pos="N">faen</t>
+            <t pos="N">fanden</t>
+            <xg>
+            <x>rietthaan ämmi</x>
+            <xt>fandens oldemor</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -85283,16 +85271,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">paari</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">bår</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">paarmuska</l>
       </lg>
       <mg>
@@ -92096,16 +92074,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">offerritual</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">tulvimaa-ala</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">flommarkområde</t>
          </tg>
       </mg>
    </e>
@@ -108599,6 +108567,327 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">besøk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">transimies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">transinainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">transkvinne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">epäbinääri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ikke-binær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">fraasikirja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frasebok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">muorinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">äitinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">isänpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">farsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faarinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">farsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">iid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>muslimsk høytid som markerer slutten på ramadan</re>
+            <t pos="N">id</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ystävänpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">valentinsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaverinpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">valentinsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">rakkhauđenpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">valentinsdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">olut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">øl</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prevensuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prevensjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">klamyydia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klamydia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pillunhuuli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjønnsleppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ulkopillunhuulet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ytre kjønnslepper</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sisäpillunhuulet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">indre kjønnslepper</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pillunreikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skjedeinngang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kullinpää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">penishode</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">etunahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forhud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kalakortti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fiskekort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tuulenhenki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vindpust</t>
+            <xg>
+            <x>Ei tuulenhenkkeekhään.</x>
+            <xt>Ikke et vindpust engang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paskasää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drittvær</t>
+            <xg>
+            <x>Se oon oikkee paskasää.</x>
+            <xt>Det er skikkelig drittvær.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kusisađet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pissregn</t>
+            <xg>
+            <x>Nyt oon kusisađet.</x>
+            <xt>Det pissregner.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">voimailmaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kraftuttrykk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">hevoskulli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hestkuk</t>
+            <xg>
+            <x>Saatanan hevoskulli!</x>
+            <xt>Satans hestkuk!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">paskareikä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rævhull</t>
+            <xg>
+            <x>Sie paskareikä!</x>
+            <xt>Du ditt rævhull!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">balsami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">balsam</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pesofati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaskekar</t>
          </tg>
       </mg>
    </e>
