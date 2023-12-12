@@ -4136,6 +4136,11 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">glede seg</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være glad</t>
+         </tg>
+      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -11617,7 +11622,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">onnitella</l>
          <stem>onnittele</stem>
@@ -11626,6 +11631,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lykkeønske</t>
+            <t pos="V">gratulere</t>
          </tg>
       </mg>
    </e>
@@ -14267,8 +14273,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tørke</t>
             <xg>
-            <x>pyhkiit tommuu</x>
-            <xt>tørke støv</xt>
+            <x>Ämmi pyhkii tommuu.</x>
+            <xt>Bestemor tørker støv.</xt>
             </xg>
          </tg>
       </mg>
@@ -14283,7 +14289,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+	         <re>også billedlig</re>
             <t pos="Phrase">viske ut</t>
+            <xg>
+            <x>Jos opettaajastudentti valittee kainun kielen, hänen opiskeluvelasta pyhithään poijes 50.000 kruunuu.</x>
+            <xt>Hvis en student velger kvensk i sin lærerutdanning vil vedkommende få ettergitt 50.000 kroner av studielånet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23499,7 +23510,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">nå</t>
             <xg>
-            <x>Ettei kukhaan minnuu saavuta.</x>
+            <x>Niin ettei kukhaan saavuta minnuu.</x>
             <xt>Slik at ingen når meg.</xt>
             </xg>
          </tg>
@@ -26861,6 +26872,41 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	         <re>gjøre flat</re>
             <t pos="V">flate</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tossutella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tøfle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">ommela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">tavoittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>å nå noen, nå ut til noen</re>
+            <t pos="V">nå</t>
+            <xg>
+            <x>Kainulaiset oon kuitenki pitänheet esityötä tärkkeenä, mutta piian het ei ole tavoittanheet kaikkii.</x>
+            <xt>Kvenene har likevel følt det viktig med et forarbeid, men man ikke har nådd ut til alle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
