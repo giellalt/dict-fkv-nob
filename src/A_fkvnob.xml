@@ -20316,4 +20316,69 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="A">utooppinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utopisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">puolitäysi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">halvfull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paperinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>av papir, papir-</re>
+            <t pos="N">papir</t>
+            <xg>
+            <x>Ruijan Kaijun 25-vuotisjuhlan kunniaksi paperinen Ruijan Kaiku alkkaa tulemhaan ulos uuđen näköisennä.</x>
+            <xt>I anledning Ruijan Kaikus 25-årsjubileum vil papirversjonen av Ruijan Kaiku bli gitt ut i ny drakt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">nuoremanlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ungdommelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">musikaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">musikalsk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">debateerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">debatert</t>
+         </tg>
+      </mg>
+   </e>
 </r>

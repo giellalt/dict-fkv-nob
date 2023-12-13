@@ -11027,7 +11027,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">nousta</l>
          <stem>nouse</stem>
@@ -26907,6 +26907,26 @@ For the full license text, see the link above.</lic>
             <x>Kainulaiset oon kuitenki pitänheet esityötä tärkkeenä, mutta piian het ei ole tavoittanheet kaikkii.</x>
             <xt>Kvenene har likevel følt det viktig med et forarbeid, men man ikke har nådd ut til alle.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">lyhytsulkkeet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kortslutte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">heisata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">heise</t>
          </tg>
       </mg>
    </e>
