@@ -11990,7 +11990,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">tiettäin ja tahtoin</l>
+         <l pos="Phrase">tiettäin ja tahtoin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12079,6 +12079,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">klart</t>
             <t pos="A">tydelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">agressiivisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">agressivt</t>
          </tg>
       </mg>
    </e>
