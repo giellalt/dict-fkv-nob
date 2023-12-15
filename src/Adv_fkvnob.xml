@@ -12067,7 +12067,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">grundig</t>
+            <t pos="Adv">grundig</t>
          </tg>
       </mg>
    </e>
@@ -12077,8 +12077,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">klart</t>
-            <t pos="A">tydelig</t>
+            <t pos="Adv">klart</t>
+            <t pos="Adv">tydelig</t>
          </tg>
       </mg>
    </e>
@@ -12088,7 +12088,49 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">aggressivt</t>
+            <t pos="Adv">aggressivt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">yhtheisvoimin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">sammen</t>
+            <t pos="Phrase">i samarbeid med</t>
+            <t pos="Phrase">med felles krefter</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">valvheile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">våken</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pukstaavillisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bokstavelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pitkämielisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">langsiktig</t>
          </tg>
       </mg>
    </e>
