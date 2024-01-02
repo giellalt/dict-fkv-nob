@@ -32801,7 +32801,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kilpa</l>
          <stem>kilva</stem>
@@ -32810,6 +32810,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kappløp</t>
+            <t pos="N">konkurranse</t>
             <xg>
                <x>juosta kilppaa</x>
                <xt>løpe om kapp</xt>
@@ -98751,7 +98752,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">assiitittel</l>
+         <l pos="N">assiititteli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -105499,7 +105500,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">nutaatti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">notat</t>
          </tg>
       </mg>
@@ -105509,7 +105510,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">pääpohja</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">hovedgrunnlag</t>
             <xg>
             <x>Tämä luopi pääpohjan kommisuunin raportille.</x>
@@ -105523,7 +105524,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kalttiimateriaali</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">kildemateriale</t>
          </tg>
       </mg>
@@ -105533,7 +105534,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">valtadokumentti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">hoveddokument</t>
          </tg>
       </mg>
@@ -105543,7 +105544,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">työperiuudi</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">arbeidsperiode</t>
          </tg>
       </mg>
@@ -105553,7 +105554,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">tekstidokumentti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">tekstdokument</t>
          </tg>
       </mg>
@@ -105563,7 +105564,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">privaattihenki</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">enkeltperson</t>
          </tg>
       </mg>
@@ -105573,7 +105574,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">paikalismiljöö</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">lokalmiljø</t>
          </tg>
       </mg>
@@ -105583,7 +105584,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">myöntymäskeema</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">samtykkeskjema</t>
          </tg>
       </mg>
@@ -105593,7 +105594,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">metadaattaskeema</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">metadataskjema</t>
          </tg>
       </mg>
@@ -105603,7 +105604,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">maili</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">e-post</t>
          </tg>
       </mg>
@@ -105613,7 +105614,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">intervjyyisituasuuni</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">intervjusituasjon</t>
          </tg>
       </mg>
@@ -105623,7 +105624,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">faasi</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">fase</t>
          </tg>
       </mg>
@@ -105633,7 +105634,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">elämänsituasuuni</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">livssituasjon</t>
          </tg>
       </mg>
@@ -105643,7 +105644,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">batteri</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">batteri</t>
          </tg>
       </mg>
@@ -105653,7 +105654,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">arkiveeraamisprosessi</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">arkiveringsprosess</t>
          </tg>
       </mg>
@@ -105663,7 +105664,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">analyysifaasi</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">analysefase</t>
          </tg>
       </mg>
@@ -105673,7 +105674,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">ääniylösottaaja</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">lydopptaker</t>
          </tg>
       </mg>
@@ -105683,7 +105684,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">siviilistatus</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">sivilstatus</t>
          </tg>
       </mg>
@@ -105693,7 +105694,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kyseliijä</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">intervjuer</t>
          </tg>
       </mg>
@@ -105703,7 +105704,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">intervjyyiopastus</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">intervjyguide</t>
          </tg>
       </mg>
@@ -105713,7 +105714,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">faaki-ihminen</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">fagperson</t>
          </tg>
       </mg>
@@ -105723,7 +105724,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">alkupunkti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">utgangspunkt</t>
          </tg>
       </mg>
@@ -105733,7 +105734,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">tietoreikä</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">kunnskapshull</t>
          </tg>
       </mg>
@@ -105743,7 +105744,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">pohjamateriaali</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">grunnlagsmateriale</t>
          </tg>
       </mg>
@@ -105753,7 +105754,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">valtasuhđet</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">maktforhold</t>
          </tg>
       </mg>
@@ -105763,7 +105764,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">apupraatti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">støttesamtale</t>
          </tg>
       </mg>
@@ -105773,7 +105774,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">elämänmailma</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">livsverden</t>
          </tg>
       </mg>
@@ -105783,7 +105784,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">fookusjoukkointervjyyi</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">fokusgruppeintervju</t>
          </tg>
       </mg>
@@ -105793,7 +105794,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">tavustieto</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">bakgrunnsinformasjon</t>
          </tg>
       </mg>
@@ -105803,7 +105804,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">äänitasa</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">lydnivå</t>
          </tg>
       </mg>
@@ -105813,7 +105814,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">aijanpito</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">tidsbruk</t>
          </tg>
       </mg>
@@ -105823,7 +105824,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">ääniylösotto</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">lydopptak</t>
          </tg>
       </mg>
@@ -105833,7 +105834,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">tutkimustyö</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">granskningsarbeid</t>
          </tg>
       </mg>
@@ -105843,7 +105844,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">daattasisälys</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">datainnhold</t>
          </tg>
       </mg>
@@ -105853,7 +105854,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">daattamäärä</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">informasjonsmengde</t>
          </tg>
       </mg>
@@ -105863,7 +105864,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">hakemismahđolisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">søkemulighet</t>
          </tg>
       </mg>
@@ -105873,7 +105874,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">avvainsanalista</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">nøkkelordliste</t>
          </tg>
       </mg>
@@ -105883,7 +105884,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">arkiivinumero</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">arkivnummer</t>
          </tg>
       </mg>
@@ -105893,7 +105894,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">terapeutti</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">terapeut</t>
          </tg>
       </mg>
@@ -105903,7 +105904,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">vuosivärkki</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">årsverk</t>
          </tg>
       </mg>
@@ -105913,7 +105914,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">erikoistervheyspalvelu</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">spesialisthelsetjeneste</t>
          </tg>
       </mg>
@@ -105923,7 +105924,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">mobiili</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
          <re>telefon</re>
             <t pos="N">mobil</t>
          </tg>
@@ -105934,7 +105935,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kotilaita</l>
       </lg>
       <mg>
-         <tg xml:lang="fkv">
+         <tg xml:lang="nob">
             <t pos="N">hjemmeside</t>
          </tg>
       </mg>
