@@ -12146,4 +12146,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Phrase">kaikesta päätelen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">etter alt og dømme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pikkusomasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">småmorsomt</t>
+            <t pos="Phrase">smått humoristisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nykypäivän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">dagens</t>
+            <t pos="Adv">nåtidens</t>
+         </tg>
+      </mg>
+   </e>
 </r>

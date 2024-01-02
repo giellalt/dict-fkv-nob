@@ -10424,6 +10424,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bekymre seg</t>
+            <t pos="Phrase">være bekymret</t>
+            <t pos="Phrase">uroe seg</t>
+            <t pos="Phrase">engste seg</t>
          </tg>
       </mg>
    </e>
@@ -26927,6 +26930,96 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">heise</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">integreeraanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli integrert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">jajela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">dele ut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">köyhetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli fattig</t>
+            <t pos="Phrase">bli fattigere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">kuoriinttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">klekkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">nomineerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">nominere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">osittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">dele opp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">ruijalaistuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fornorskes</t>
+            <t pos="Phrase">la seg fornorske</t>
+            <t pos="Phrase">bli fornorske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="V">sotkeenttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">vikle seg inn</t>
+            <t pos="Phrase">bli viklet inn</t>
+            <t pos="Phrase">bli rotet inn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">floke seg</t>
          </tg>
       </mg>
    </e>
