@@ -526,21 +526,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Pron">moni</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">mange</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Det">noen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
          <l pos="Pron">muu</l>
       </lg>
       <mg>
@@ -713,17 +698,6 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">den her</t>
             <t pos="Pron">denne her</t>
             <t pos="Pron">dette her</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Pron">ussee</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Pron">mange</t>
-            <t pos="Pron">mang en</t>
          </tg>
       </mg>
    </e>
