@@ -9619,8 +9619,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om vannet</re>
-            <t pos="Phrase">helt stille</t>
+            <t pos="A">blikkstille</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">peilityven</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blikkstille</t>
          </tg>
       </mg>
    </e>

@@ -1197,7 +1197,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="kl;ai">
+   <e src="kl;ai;es">
       <lg>
          <l pos="N">paula</l>
       </lg>
@@ -1205,6 +1205,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">skallebånd</t>
             <t pos="N">komagebånd</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">telne</t>
          </tg>
       </mg>
    </e>
