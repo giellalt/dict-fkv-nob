@@ -8259,7 +8259,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>person som betrakter noe, iakttager</re>
             <t pos="N">betrakter</t>
          </tg>
       </mg>
@@ -87054,7 +87053,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>vanlig som kunavn</re>
-            <t pos="N">rødbrun ku</t>
+            <t pos="Phrase">rødbrun ku</t>
          </tg>
       </mg>
    </e>
@@ -87075,7 +87074,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>som ikke er bra til noe annet enn å slikke rømmekoller</re>
-            <t pos="N">udugelig menneske</t>
+            <t pos="Phrase">udugelig menneske</t>
          </tg>
       </mg>
    </e>
@@ -98995,7 +98994,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">assiinkäsitteliijä</l>
+         <l pos="N">assiinkäsittelliijä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
