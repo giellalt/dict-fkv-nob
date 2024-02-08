@@ -14376,6 +14376,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">beboer</t>
             <t pos="N">innbygger</t>
             <syng>
                <syn>assuuja</syn>
@@ -14650,20 +14651,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">bobil</t>
             <t pos="N">campingbil</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="N">assuuja</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">innbygger</t>
-            <syng>
-               <syn>asukko</syn>
-               <syn>asukas</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -19642,11 +19629,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">asuja</l>
+         <l pos="N">assuuja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beboer</t>
+            <t pos="N">innbygger</t>
          </tg>
       </mg>
    </e>
