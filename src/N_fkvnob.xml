@@ -6105,11 +6105,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kt">
       <lg>
-         <l pos="N">seksuaalinen suunta</l>
+         <l pos="Phrase">seksuaalinen suunta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">seksuell legning</t>
+            <t pos="Phrase">seksuell legning</t>
          </tg>
       </mg>
    </e>
@@ -63764,7 +63764,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">suunta</l>
          <stem>suuna</stem>
@@ -63773,6 +63773,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">retning</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om seksualitet</re>
+            <t pos="N">legning</t>
          </tg>
       </mg>
    </e>
