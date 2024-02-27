@@ -14,7 +14,7 @@ Kilder ◊ Lähteet
  - **ås** = 
  - **bildetema** = 
  - **es** = Eira Söderholm
- - **fb** = Facecook
+ - **fb** = Facebook
  - **grom** = 
  - **gt** = 
  - **ia** = 
