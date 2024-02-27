@@ -4,4 +4,5 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 
 # Muu tieto
 
-Add text and links as needed.
+- [Kilder ◊ Lähteet](sources.md)
+
