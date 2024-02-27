@@ -4,13 +4,13 @@ Kilder ◊ Lähteet
 
 
 
- - **ae** = 
+ - **ae** = Agnes Eriksen
  - **aht** = 
- - **ai** = 
- - **aili** = 
- - **akr** = 
- - **ame** = 
- - **anb** = 
+ - **ai** = Aikamatka
+ - **aili** = Aili Eriksen
+ - **akr** = Anna Kaisa Räisänen
+ - **ame** = Aili
+ - **anb** = Alf Nilsen Børsskog
  - **ås** = 
  - **bildetema** = 
  - **es** = 
