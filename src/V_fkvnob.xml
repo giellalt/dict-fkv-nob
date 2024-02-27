@@ -16166,23 +16166,40 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">klarne</t>
-            <t pos="Phrase">bli edru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">bli klar(t)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">finne ut</t>
-            <t pos="Phrase">gå opp for en</t>
+            <t pos="V">klarne (opp)</t>
             <xg>
-            <x>Aijan myöten minulle selvis ette en miekhään ollu tyhä norjalainen.</x>
-            <xt>Etter hvert fant jeg ut/gikk det opp for meg at jeg ikke bare var norsk jeg heller.</xt>
+               <x>Taivas selvis.</x>
+               <xt>Himmelen klarnet.</xt>
             </xg>
+            <xg>
+               <x>Se selvis mulle.</x>
+               <xt>Det klarnet for meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gå opp for en</t>
+            <t pos="Phrase">finne ut av</t>
+            <xg>
+               <x>Aijan myöten minulle selvis ette en miekhään ollu tyhä norjalainen.</x>
+               <xt>Etter hvert gikk det opp for meg at jeg ikke bare var norsk jeg heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli edru</t>
+            <xg>
+               <x>Minun pää selvis.</x>
+               <xt>Jeg ble edru.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	    <re>pärjätä</re>
+            <t pos="V">klare seg</t>
          </tg>
       </mg>
    </e>
