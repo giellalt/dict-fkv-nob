@@ -13,12 +13,12 @@ Kilder ◊ Lähteet
  - **anb** = Alf Nilsen Børsskog
  - **ås** = 
  - **bildetema** = 
- - **es** = 
- - **fb** = 
+ - **es** = Eira Söderholm
+ - **fb** = Facecook
  - **grom** = 
  - **gt** = 
  - **ia** = 
- - **ki** = 
+ - **ki** = Kainun institutti
  - **kl** = 
  - **ks** = 
  - **kt** = 
@@ -34,8 +34,8 @@ Kilder ◊ Lähteet
  - **rh** = 
  - **rk** = 
  - **t** = 
- - **ta** = 
+ - **ta** = Terje Aronsen
  - **taia** = 
  - **th** = 
- - **uit** = 
- - **yr** = 
+ - **uit** = UiT
+ - **yr** = Yr
