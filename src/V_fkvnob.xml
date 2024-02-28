@@ -16147,14 +16147,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">utrede</t>
+            <t pos="Phrase">finne ut av</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ta rede på</t>
-            <t pos="Phrase">finne ut av</t>
-            <t pos="Phrase">se nærmere på</t>
+            <t pos="V">utrede</t>
          </tg>
       </mg>
    </e>
@@ -16201,6 +16199,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	    <re>pärjätä</re>
             <t pos="V">klare seg</t>
+            <xg>
+               <x>Mie selvisin vaikkeesta tilantheesta.</x>
+               <xt>Jeg klarte meg ut av den vanskelige situasjonen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
