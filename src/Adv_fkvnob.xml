@@ -12165,7 +12165,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">småmorsomt</t>
-            <t pos="Phrase">smått humoristisk</t>
          </tg>
       </mg>
    </e>
@@ -12177,6 +12176,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">dagens</t>
             <t pos="Adv">nåtidens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">tukossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adj">tett</t>
+            <xg>
+            <x>Minula oon nenä tukossa.</x>
+            <xt>Jeg er tett i nesen.</xt>
+            </xg>
+            <xg>
+            <x>Vaski oon tukossa.</x>
+            <xt>Vasken er tett.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
