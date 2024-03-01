@@ -7,7 +7,7 @@
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
 <!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
-                  N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED >
+                  N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase ) #REQUIRED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
@@ -15,6 +15,7 @@
 <!ATTLIST l dial (p|j|v|pv|jv|pj) #IMPLIED >
 <!ATTLIST l sem_type ( Obj | Org | Plc ) #IMPLIED >
 <!ATTLIST l outer_cases ( True | False ) #IMPLIED >
+<!ATTLIST l hid CDATA #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>
@@ -25,19 +26,35 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT lg ( l, stem* ) >
+<!ELEMENT lg ( l, lemma_ref*, stem*, analysis*, mini_paradigm*, algu?) >
+<!ELEMENT lemma_ref (#PCDATA) >
+<!ATTLIST lemma_ref lemmaID CDATA #IMPLIED >
+<!ELEMENT analysis (#PCDATA|wordform)* >
+<!ATTLIST analysis ms CDATA #IMPLIED >
+<!ELEMENT wordform (#PCDATA) >
+<!ELEMENT mini_paradigm (analysis+) >
 
-<!ELEMENT mg ( tg ) >
+<!-- algu = lemma IDs in the algu database -->
+<!ELEMENT algu EMPTY >
+<!ATTLIST algu
+      lekseemi_id CDATA #REQUIRED >
+<!ATTLIST algu
+      sanue_id CDATA #REQUIRED >
+
+<!ELEMENT mg ( tg | xg* ) >
 
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xml:lang (fkv) #IMPLIED>
 <!ATTLIST r id (fkvnob) #IMPLIED>
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml">
 
 <!ELEMENT stem ( #PCDATA ) >
 
 <!ELEMENT syn ( #PCDATA ) >
 
 <!ELEMENT syng ( syn+ ) >
+
+<!ELEMENT re ( #PCDATA ) >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
@@ -48,12 +65,18 @@
 <!ATTLIST t t_type NMTOKEN #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
-<!ELEMENT tg ( syng | t | xg )* >
+<!ELEMENT tg ( re? | t | syng? | xg? )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg re CDATA #IMPLIED >
 <!ATTLIST tg xml:lang ( nob ) #IMPLIED >
 <!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
+<!ATTLIST xg re CDATA #IMPLIED >
 <!ELEMENT x ( #PCDATA ) >
 <!ELEMENT xt ( #PCDATA ) >
+
+<!ELEMENT xhtml:script EMPTY >
+<!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
+<!ATTLIST xhtml:script src  CDATA #IMPLIED >
+<!ATTLIST xhtml:script xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
