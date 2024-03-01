@@ -2,7 +2,7 @@
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../scripts/dict_fkvnob.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="fkvnob" xml:lang="fkv">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
+  <lics>
     <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -27,7 +27,7 @@ For the full license text, see the link above.</lic>
   </lics>
   <e>
     <lg>
-      <l context="mie" pos="V">ei</l>
+      <l pos="V">ei</l>
       <analysis>IV_Neg_Act_Sg3</analysis>
       <mini_paradigm>
         <analysis ms="IV_Neg_Act_Sg1">
