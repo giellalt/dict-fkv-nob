@@ -41,7 +41,7 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
-<!ELEMENT mg ( tg | xg* ) >
+<!ELEMENT mg ( tg+ | xg* ) >
 
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xml:lang (fkv) #IMPLIED>
