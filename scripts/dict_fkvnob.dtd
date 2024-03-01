@@ -16,6 +16,7 @@
 <!ATTLIST l sem_type ( Obj | Org | Plc ) #IMPLIED >
 <!ATTLIST l outer_cases ( True | False ) #IMPLIED >
 <!ATTLIST l hid CDATA #IMPLIED >
+<!ATTLIST l re CDATA #IMPLIED >
 
 <!ELEMENT lics (lic, ref*, sourcenote*) >
 <!ATTLIST lics xml:space (default|preserve) 'preserve'>
