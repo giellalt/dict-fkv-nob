@@ -8768,8 +8768,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">i løpet av</t>
-            <x>Näjemä joulun aikhaan.</x>
-            <xt>Vi sees til jul.</xt>
+            <xg>
+               <x>Näjemä joulun aikhaan.</x>
+               <xt>Vi sees til jul.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8800,8 +8802,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fra begynnelsen</t>
-            <x>Alusta saakka.</x>
-            <xt>Fra begynnelsen av.</xt>
+            <xg>
+               <x>Alusta saakka.</x>
+               <xt>Fra begynnelsen av.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9268,7 +9272,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         (f.eks om forlatt hus)
+            <re>f.eks om forlatt hus</re>
             <t pos="Adv">stå kaldt</t>
          </tg>
       </mg>
@@ -12185,7 +12189,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adj">tett</t>
+            <t pos="A">tett</t>
             <xg>
             <x>Minula oon nenä tukossa.</x>
             <xt>Jeg er tett i nesen.</xt>

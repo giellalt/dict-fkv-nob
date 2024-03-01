@@ -11875,10 +11875,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>i sammensetninger</re>
+            <re>i sammensetninger</re>
             <t pos="A">verdt</t>
-            <x>Kullan arvoinen.</x>
-            <xt>Gull verdt.</xt>
+            <xg>
+               <x>Kullan arvoinen.</x>
+               <xt>Gull verdt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16923,11 +16925,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">en med finsk kulturbakgrunn</t>
+            <xg>
+               <x>Kväänit ja norjansuomalaiset oon suomenkielisten ja suomenkulttuuristen jälkeläissii.</x>
+               <xt>Kvener og norskfinner er etterkommere etter folk med finsk språk og kulturbakgrunn.</xt>
+            </xg>
          </tg>
-         <xg>
-         <x>Kväänit ja norjansuomalaiset oon suomenkielisten ja suomenkulttuuristen jälkeläissii.</x>
-         <xt>Kvener og norskfinner er etterkommere etter folk med finsk språk og kulturbakgrunn.</xt>
-         </xg>
       </mg>
    </e>
    <e src="ki">

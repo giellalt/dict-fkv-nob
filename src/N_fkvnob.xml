@@ -77407,8 +77407,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tidsregning</t>
-            <x>Ennen aijanräkningin alun.</x>
-            <xt>Før vår tidsregning.</xt>
+            <xg>
+               <x>Ennen aijanräkningin alun.</x>
+               <xt>Før vår tidsregning.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -92312,11 +92314,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="">haukipopulasuuni</l>
+         <l pos="N">haukipopulasuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="">gjeddebestand</t>
+            <t pos="N">gjeddebestand</t>
          </tg>
       </mg>
    </e>
