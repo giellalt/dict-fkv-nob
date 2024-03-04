@@ -16552,18 +16552,57 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">komme overens</t>
-            <t pos="V">passe</t>
+            <t pos="V">avtale</t>
+            <xg>
+            <x>Met sovima ette alama studeeraamhaan kväänii yhđessä.</x>
+            <xt>Vi avtalte at vi skal begynne å studere kvensk sammen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">avtale</t>
+            <t pos="V">passe</t>
+            <xg>
+            <x>Kello kymmenen ei sovi minule.</x>
+            <xt>Klokken ti passer ikke for meg.</xt>
+            </xg>
+            <xg>
+            <x>Hän sanoi ette vihrinen soppii minun silmile.</x>
+            <xt>Han sa at grønn passer til øynene mine.</xt>
+            </xg>
+            <xg>
+            <x>Avvain ei sopinu lukkhuun.</x>
+            <xt>Nøkkelen passet ikke i låsen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>være sømmelig</re>
+            <t pos="Phrase">passe seg</t>
+            <xg>
+            <x>Ei se sovi puhhuut tuommoisten assiitten ympäri äiđin kuulten.</x>
+            <xt>Det passer seg ikke å snakke om slikt når mor hører.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">få plass</t>
+            <xg>
+            <x>Kyllä kaikki sinun tavarat sovithaan tuohon koffertthiin.</x>
+            <xt>Jada, alle tingene dine får plass i den kofferten der.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>bli enige</re>
+            <t pos="Phrase">komme overens</t>
+            <xg>
+            <x>Met sovithiin hinnasta.</x>
+            <xt>Vi kom overens om prisen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
