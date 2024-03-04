@@ -254,24 +254,28 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">forbi</t>
-              <xg>
-               <x>Tenon tie mennee  Kaarasjoven siutti.</x>
-               <xt>Veien til Tana går forbi Karasjok.</xt>
+	         <re>om tid</re>
+            <t pos="Pr">over</t>
+            <t pos="Pr">ever</t>
+            <xg>
+               <x>Kello oon siutte keskiyön.</x>
+               <xt>Klokka er over midnatt.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai">
       <lg>
          <l pos="Pr">sivvu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">forbi</t>
+	         <re>om tid</re>
+            <t pos="Pr">over</t>
+            <t pos="Pr">etter</t>
             <xg>
-               <x>Hän meni klasin sivvu.</x>
-               <xt>Hun gikk forbi vinduet.</xt>
+               <x>Kello oon sivvu keskiyön.</x>
+               <xt>Klokka er over midnatt.</xt>
             </xg>
          </tg>
       </mg>
