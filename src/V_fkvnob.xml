@@ -4111,16 +4111,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">melde</t>
+            <t pos="V">anmelde</t>
+            <t pos="Phrase">si fra</t>
             <t pos="V">kunngjøre</t>
             <t pos="V">opplyse</t>
+         </tg>
+      </mg>
+<!--      <mg>
+         <tg xml:lang="nob">
             <t pos="V">utgi</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">si fra</t>
-         </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="nob">
             <t pos="V">uttrykke</t>
