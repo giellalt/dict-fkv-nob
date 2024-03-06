@@ -4992,8 +4992,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">fordyre</t>
             <t pos="Phrase">stille på skrå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fordyre</t>
          </tg>
       </mg>
    </e>
@@ -5078,8 +5082,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>kalve, lamme</re>
             <t pos="V">bære</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om dyr, føde</re>
+            <t pos="V">kalve</t>
+            <t pos="V">lamme</t>
          </tg>
       </mg>
    </e>
