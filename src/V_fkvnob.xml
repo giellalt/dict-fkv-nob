@@ -10082,8 +10082,8 @@ For the full license text, see the link above.</lic>
          <re>være i ferd med, være like ved</re>
             <t pos="Phrase">holde på</t>
             <xg>
-               <x>Menheenä talvena meinasimma kuola kylmhään, justhiin pärjäsimmä hengen.</x>
-               <xt>Forrige vinter holdt vi på å dø av kulde, bare så vidt at vi berget livet.</xt>
+               <x>Menheenä talvena meinasimma kuola kylmhään.</x>
+               <xt>Forrige vinter holdt vi på å dø av kulde.</xt>
             </xg>
          </tg>
       </mg>
@@ -10105,6 +10105,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lykkes</t>
+            <t pos="Phrase">gå an</t>
             <xg>
                <x>Se ei menesty tehhä sillä laila.</x>
                <xt>Det går ikke an å gjøre på den måten.</xt>
@@ -16198,7 +16199,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">gå opp for en</t>
             <xg>
-               <x>Aijan myöten minulle selvis ette en miekhään ollu tyhä norjalainen.</x>
+               <x>Aijan myöten minule selvis ette en miekhään ollu tyhä norjalainen.</x>
                <xt>Etter hvert gikk det opp for meg at jeg ikke bare var norsk jeg heller.</xt>
             </xg>
          </tg>
