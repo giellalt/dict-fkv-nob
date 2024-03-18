@@ -8333,39 +8333,125 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es;ki">
       <lg>
          <l pos="V">laskeet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">slipe</t>
-            <t pos="V">kvesse</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">gå ned</t>
-            <t pos="V">tappe</t>
             <t pos="V">slippe</t>
+            <xg>
+            <x>Laske minun sisäle!</x>
+            <xt>Slipp meg inn!</xt>
+            </xg>
+            <xg>
+            <x>Lehmät laskethaan ulos laitumille kevväilä.</x>
+            <xt>Kyrne slippes ut på beite om våren.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">legge</t>
-            <t pos="Phrase">legge ned</t>
-            <t pos="Phrase">legge på</t>
+            <t pos="Phrase">legge ned, på</t>
+            <xg>
+            <x>Hän laski kransin hauđale.</x>
+            <xt>Hen la ned en krans på graven.</xt>
+            </xg>
+            <xg>
+            <x>Mie laskin minun asheen ko tajusin etten ennää saattanu voittaat taistelluu.</x>
+            <xt>Jeg la ned våpenet mitt da jeg innså at jeg ikke kunne vinne kampen lenger.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">sette</t>
+            <xg>
+            <x>Het laskethiin uuđet verkot.</x>
+            <xt>De satte ut nytt garn.</xt>
+            </xg>
+            <xg>
+            <x>Laske sen maahan ja kävele pois.</x>
+            <xt>Sett den ned og gå vekk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">senke</t>
             <t pos="Phrase">senke ned</t>
+            <t pos="V">fire</t>
+            <xg>
+            <x>Hinnat oon laskenheet kolmela prosentilla.</x>
+            <xt>Prisene har sunket med tre prosent.</xt>
+            </xg>
+            <xg>
+            <x>Hänen laskethiin venheesseen kaijasta.</x>
+            <xt>Han ble firt ned i båten fra kaia.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">ferdes nedover</t>
+            <t pos="Phrase">gå ned</t>
+            <t pos="V">synke</t>
             <t pos="V">lande</t>
+            <xg>
+            <x>Aurinko laskee.</x>
+            <xt>Sola går ned.</xt>
+            </xg>
+            <xg>
+            <x>Flyyi laskee kello kymmenen.</x>
+            <xt>Flyet lander klokken ti.</xt>
+            </xg>
+            <xg>
+            <x>Vesi laskee, ja silloin tullee fiervavesi.</x>
+            <xt>Sjøen synker, og da blir det fjære.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">telle</t>
+            <t pos="V">regne</t>
+            <xg>
+            <x>Ossaatko laskeet kymmenheen?</x>
+            <xt>Kan du telle til ti?</xt>
+            </xg>
+            <xg>
+            <x>Hänen laskethaan mailman parhaaksi jalkapallonpellaajaksi.</x>
+            <xt>Hun blir regnet som verdens beste fotballspiller.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">slipe</t>
+            <t pos="V">kvesse</t>
+            <xg>
+            <x>Oon hyvä laskeet veittii ennen käyttöö.</x>
+            <xt>Det er lurt å kvesse knivene før du bruker dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">tappe</t>
+            <xg>
+            <x>Muori laski vettä paatiammheesseen.</x>
+            <xt>Mor tappet vann i badekaret.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">renne</t>
+            <xg>
+            <x>Joki laskee merheen.</x>
+            <xt>Elven renner ut i havet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
