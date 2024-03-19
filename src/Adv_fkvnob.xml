@@ -2656,11 +2656,11 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">igjen</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bli igjen</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e src="ai">
       <lg>
@@ -7212,11 +7212,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">tett</t>
-            <t pos="Adv">stengt</t>
+            <t pos="A">stengt</t>
+            <t pos="A">sperret</t>
+            <t pos="A">tett</t>
+            <t pos="Adv">igjen</t>
             <xg>
                <x>Tie oon ummessa.</x>
-               <xt>Veien er stengt.</xt>
+               <xt>Veien har føket igjen.</xt>
+            </xg>
+            <xg>
+               <x>Sluuka oon ummessa.</x>
+               <xt>Sluken er tett.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om tidsfrist</re>
+            <t pos="Adv">ut</t>
+            <xg>
+               <x>Hakema-aika oon jo ummessa.</x>
+               <xt>Søknadsfristen har allerede gått ut.</xt>
             </xg>
          </tg>
       </mg>
@@ -7227,11 +7243,31 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">tett</t>
-            <t pos="Adv">stengt</t>
+            <t pos="A">stengt</t>
+            <t pos="A">sperret</t>
+            <t pos="A">tett</t>
+            <t pos="Adv">igjen</t>
             <xg>
                <x>Tie meni umpheen.</x>
-               <xt>Veien ble stengt.</xt>
+               <xt>Veien ble sperret.</xt>
+            </xg>
+            <xg>
+               <x>Sluuka meni umpheen.</x>
+               <xt>Sluken ble tett.</xt>
+            </xg>
+<!--            <xg>
+               <x>Polku oon menny umpheen.</x>
+               <xt>Stien har grodd igjen.</xt>
+            </xg> -->
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om tidsfrist</re>
+            <t pos="Adv">ut</t>
+            <xg>
+               <x>Hakema-aika mennee umpheen huomena.</x>
+               <xt>Søknadsfristen går ut i morgen.</xt>
             </xg>
          </tg>
       </mg>
@@ -7242,7 +7278,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>også om hel fisk</re>
+<!--	         <re>også om hel fisk</re>-->
             <t pos="Adv">lukket</t>
             <t pos="Adv">tildekket</t>
             <t pos="Adv">uåpnet</t>
