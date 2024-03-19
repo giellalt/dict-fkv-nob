@@ -1631,7 +1631,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">la være</t>
             <xg>
-               <x>Annan minun olla rauhassa.</x>
+               <x>Anna minun olla rauhassa.</x>
                <xt>La meg være i fred.</xt>
             </xg>
          </tg>
@@ -11644,7 +11644,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ha</t>
-                          <xg>
+               <xg>
                <x>Minula oon kaksi kissaa.</x>
                <xt>Jeg har to katter.</xt>
             </xg>
@@ -11677,10 +11677,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">pågå</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Phrase">være i drift</t>
          </tg>
       </mg>
@@ -11916,6 +11912,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ottaat huomihoon</x>
                <xt>ta hensyn til</xt>
+            </xg>
+            <xg>
+               <x>ottaat korttelin</x>
+               <xt>innlosjere seg</xt>
             </xg>
          </tg>
       </mg>
@@ -12271,7 +12271,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">bli</t>
+            <t pos="V">bli</t>
             <t pos="Phrase">skje lett, ofte</t>
             <xg>
                <x>Mie pakkaan unheettamhaan kaikki.</x>
