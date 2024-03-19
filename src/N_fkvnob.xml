@@ -12291,7 +12291,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia;yr">
+   <e src="ia;yr;es">
       <lg>
          <l pos="N">korsa</l>
       </lg>
@@ -12304,6 +12304,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">juv</t>
+            <t pos="N">kløft</t>
          </tg>
       </mg>
    </e>
@@ -34894,18 +34895,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kortteli</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="N">mål</t>
+         </tg>
+      </mg> -->
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">losji</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">losji</t>
+            <t pos="N">kvarter</t>
          </tg>
       </mg>
    </e>
