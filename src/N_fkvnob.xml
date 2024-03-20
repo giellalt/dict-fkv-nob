@@ -97444,11 +97444,34 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>det noe er rettet mot</re>
             <t pos="N">mål</t>
             <xg>
-            <x>Se oli suuri mahđolisuus jouttuut flyyin ja sukelusvenheen hyökkäyksen kohtheeksi.</x>
-            <xt>Det var stor sjanse for å bli utsatt for flyangrep og ubåtangrep.</xt>
+            <x>Reisun kohđet oli Helsinki.</x>
+            <xt>Målet for reisen var Helsinki.</xt>
+            </xg>
+            <xg>
+            <x>Viholinen pommasi siviilikohtheita.</x>
+            <xt>Fienden bombet sivile mål.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>noe en handling, følelse e.l. er rettet mot</re>
+            <t pos="N">gjenstand</t>
+            <t pos="N">objekt</t>
+            <t pos="N">formål</t>
+            <xg>
+            <x>Tämä elävä oon ollu usheitten tietheelisten tutkimusten kohteena.</x>
+            <xt>Dette dyret har vært gjenstand for mange vitenskaplige studier.</xt>
+            </xg>
+            <xg>
+            <x>Hän oli erinomhainen tutkimuskohđet.</x>
+            <xt>Hen var et utmerket forskningsobjekt.</xt>
+            </xg>
+            <xg>
+            <x>Sođassa sikhuusitki saatethaan jouttuut hyökkäyksen kohtheeksi.</x>
+            <xt>I krig kan også sykehus bli gjenstand for angrep.</xt>
             </xg>
          </tg>
       </mg>
