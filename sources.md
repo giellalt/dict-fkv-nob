@@ -11,7 +11,6 @@ Kilder ◊ Lähteet
  - **akr** = Anna Kaisa Räisänen
  - **ame** = Aili
  - **anb** = Alf Nilsen Børsskog
- - **ås** = 
  - **bildetema** = 
  - **es** = Eira Söderholm
  - **fb** = Facebook
@@ -38,4 +37,5 @@ Kilder ◊ Lähteet
  - **taia** = 
  - **th** = 
  - **uit** = UiT
- - **yr** = Yr
+ - **yr** = yr.no
+ - **ås** = 
