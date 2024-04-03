@@ -20450,26 +20450,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="es;ta;ai">
       <lg>
          <l pos="V">välttäät</l>
          <stem>vältä</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">være bra nok</t>
+            <t pos="V">unngå</t>
+<!--            <xg>
+               <x>Kaikki mikä oon liiaksi saatethaan välttäät.</x>
+               <xt>Alt som er unødvendig skal unngås.</xt>
+            </xg> --> pitääkö olla "kaikkee mikä..."?
             <xg>
-               <x>Kyllä se minule välttää.</x>
-               <xt>Den er bra nok for meg.</xt>
+               <x>Kaikkee jouttaavaa häyttyy välttäät.</x>
+               <xt>Alt som er unødvendig skal unngås.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">unngå</t>
+            <t pos="Phrase">være bra nok</t>
             <xg>
-               <x>Kaikki mikä oon liiaksi saatethaan välttäät.</x>
-               <xt>Alt som er unødvendig skal unngås.</xt>
+               <x>Kyllä se minule välttää.</x>
+               <xt>Den er bra nok for meg.</xt>
             </xg>
          </tg>
       </mg>
