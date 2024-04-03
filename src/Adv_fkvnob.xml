@@ -8022,17 +8022,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">litt</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">litt av hvert</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">her og der</t>
-            <t pos="Adv">mange steder</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -8055,18 +8044,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Adv">väkisin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">med tvang</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Adv">med makt</t>
+            <t pos="Adv">med tvang</t>
          </tg>
       </mg>
       <mg>
@@ -8080,13 +8065,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Adv">välhiin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">iblant</t>
+            <t pos="Adv">innimellom</t>
+            <t pos="Phrase">nå og da</t>
          </tg>
       </mg>
    </e>
@@ -8142,11 +8129,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">imens</t>
-            <t pos="Adv">mens</t>
-            <xg>
-               <x>Sillä vällii ko toiset syöthiin, sillä vällii met olima saunassa</x>
-               <xt>Mens de andre spiste, var vi i badstuen</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -8829,16 +8811,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">avula</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">med hjelp av</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="Adv">avvujalkaisin</l>
       </lg>
       <mg>
@@ -8896,7 +8868,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">fram</t>
             <xg>
             <x>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</x>
-            <xt>Dette er en automatisk bekreftelse på at e-posten er mottatt/kommet fram.</xt>
+            <xt>Dette er en automatisk bekreftelse på at e-posten er kommet fram.</xt>
             </xg>
          </tg>
       </mg>
@@ -8907,7 +8879,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i besittelse</t>
+	         <re>å ha</re>
+            <t pos="Phrase">i besittelse</t>
+            <xg>
+            <x>Kyllä meilä vielä joskus oon paljonki hyvvää helmassa.</x>
+            <xt>Vi kommer nok en gang til å ha mye godt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
