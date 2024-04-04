@@ -7813,8 +7813,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">følge etter</t>
             <t pos="V">forfølge</t>
+            <t pos="Phrase">følge etter</t>
          </tg>
       </mg>
    </e>
@@ -7828,7 +7828,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">kärssiit</l>
          <stem>kärsi</stem>
@@ -7836,6 +7836,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lide</t>
+            <t pos="Phrase">plages av</t>
          </tg>
       </mg>
       <mg>
