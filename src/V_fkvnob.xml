@@ -12949,10 +12949,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bry seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Phrase">bry seg om</t>
             <xg>
                <x>Mie en perusta siitä.</x>
@@ -12965,6 +12961,21 @@ For the full license text, see the link above.</lic>
             <t pos="V">grunnlegge</t>
             <t pos="V">stifte</t>
             <t pos="V">starte</t>
+            <t pos="V">etablere</t>
+            <xg>
+               <x>Kainun instituutin perustethiin vuona 2005.</x>
+               <xt>Kvensk institutt ble stiftet i 2005.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">begrunne</t>
+            <t pos="Phrase">basere på</t>
+            <xg>
+               <x>Hän perusti päätöksen perruut siihen ette osalistuujiita ei ollu nokko.</x>
+               <xt>Han begrunnet beslutningen om å avlyse med at det ikke var nok deltakere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25474,8 +25485,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">være basert på</t>
             <xg>
-            <x>Kväänipuku ei perustu entisaijan pukutradisuunhiin, mutta se oon rekonstruksuuni.</x>
-            <xt>Kvendrakten er ikke basert på eldre tiders drakttradisjoner, men er en nykonstruksjon.</xt>
+            <x>Muistelus perustuu tosiassiisseen.</x>
+            <xt>Fortellingen er basert på fakta.</xt>
             </xg>
          </tg>
       </mg>
@@ -25490,8 +25501,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">anta</t>
             <t pos="Phrase">trekke slutninger</t>
             <xg>
-            <x>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin, ette kväänit vaatithiin ittensä niin ko muuki pohjaisen väki.</x>
-            <xt>Andre kilder tyder heller på det motsatte, at kvenene kledde seg som den øvrige befolkninga i nord.</xt>
+            <x>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin.</x>
+            <xt>Andre kilder tyder heller på at det kunne ha vært motsatt.</xt>
             </xg>
          </tg>
       </mg>
