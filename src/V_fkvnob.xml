@@ -6672,7 +6672,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;ki">
+   <e src="ta;ai;ki;es">
       <lg>
          <l pos="V">korjata</l>
          <stem>korjaa</stem>
@@ -6680,15 +6680,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gjemme</t>
-            <t pos="V">rydde</t>
+            <t pos="V">sanke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ta vare på</t>
             <t pos="Phrase">samle inn</t>
             <t pos="Phrase">ta i bevaring</t>
+            <t pos="Phrase">ta vare på</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rydde</t>
          </tg>
       </mg>
       <mg>
@@ -6699,7 +6703,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">sanke</t>
+            <t pos="V">gjemme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sløye</t>
+            <xg>
+            <x>Kaiala korjathiin kallaa.</x>
+            <xt>De sløyet fisk på kaia.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11964,6 +11977,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">ottaat vaarin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ivareta</t>
+            <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>Vi må ta vare på det kvenske språket og lære det til barna.</x>
+               <xt>Met häyđymä ottaat vaarin kväänin kielestä ja opettaat sitä lapsile.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Phrase">pittäät vaarin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ivareta</t>
+            <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>Vi må ta vare på det kvenske språket og lære det til barna.</x>
+               <xt>Met häyđymä pittäät vaarin kväänin kielestä ja opettaat sitä lapsile.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="pp">
       <lg>
          <l pos="Phrase">pittäät huolen</l>
@@ -11972,13 +12015,23 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">ta vare på</t>
             <xg>
-               <x>Piđä huolen ittestä</x>
-               <xt>Ta vare på deg selv</xt>
+               <x>Piđä huolen ittestä.</x>
+               <xt>Ta vare på deg selv.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>at noe går i orden</re>
             <t pos="Phrase">passe på</t>
+            <t pos="Phrase">se til</t>
             <xg>
-               <x>Piđä huolen siitä, ette paikka jääpi hyvhään kunthoon ko lähđet.</x>
-               <xt>Pass på at stedet er i god stand når du drar,</xt>
+               <x>Piđä huolen siitä ette ovi oon kiini ko sie lähđet.</x>
+               <xt>Pass på at døren er lukket når du drar.</xt>
+            </xg>
+            <xg>
+               <x>Piđä huolen ette kaikki mennee niin ko pittää.</x>
+               <xt>Se til at alt går som det skal.</xt>
             </xg>
          </tg>
       </mg>
