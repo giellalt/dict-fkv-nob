@@ -15351,17 +15351,53 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="akr">
+   <e src="ki">
       <lg>
          <l pos="A">muunlainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">annen</t>
-            <t pos="A">ulik</t>
+            <t pos="A">annerledes</t>
+            <t pos="A">annenslags</t>
+            <t pos="Phrase">en annen form for</t>
             <xg>
             <x>Jos oon tarvet niin saat muunlaisen suojan.</x>
             <xt>Hvis det er nødvendig får du en annen form for beskyttelse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">muulainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">annen</t>
+            <t pos="A">annerledes</t>
+            <t pos="A">annenslags</t>
+            <t pos="Phrase">en annen form for</t>
+            <xg>
+            <x>Jos oon tarvet niin saat muulaisen suojan.</x>
+            <xt>Hvis det er nødvendig får du en annen form for beskyttelse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">muunkilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">annen</t>
+            <t pos="A">annerledes</t>
+            <t pos="A">annenslags</t>
+            <t pos="Phrase">også en annen form for</t>
+            <xg>
+            <x>Jos oon tarvet niin saat muunkilaisen suojan.</x>
+            <xt>Hvis det er nødvendig får du også en annen form for beskyttelse.</xt>
             </xg>
          </tg>
       </mg>
