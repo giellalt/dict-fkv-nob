@@ -1,7 +1,38 @@
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+    xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv | sms | myv | mhr | sjd | rus | smj ) #IMPLIED
+>
+<!ATTLIST r
+      id ( smenob | nobsme | smnfin | finsmn | finsme | fkvnob | smnsme | smjsme | smesmn | smesmj | smesma | smefin | smasme | smanob | nobsma | smafin | swesma | smeeng |
+      nobsmj ) #IMPLIED >
+
+<!--
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+    xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv| sms | myv | mhr | sjd | rus | smj ) #IMPLIED
+ id ( fkvnob | nobfkv ) #IMPLIED
+ >
+-->
+
+<!-- the header -->
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'
+    xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
 <!ELEMENT e ( lg, mg+ ) >
 <!ATTLIST e reverse NMTOKEN #IMPLIED >
 <!ATTLIST e src CDATA #REQUIRED >
-<!ATTLIST e dial (p|r|v|pv|rv|pr|prv) #IMPLIED >
+<!ATTLIST e dial (p|r|v|pv|rv|pr|prv) #IMPLIED
+ id  CDATA #IMPLIED
+ reverse (yes) #IMPLIED
+ >
 
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
@@ -18,14 +49,6 @@
 <!ATTLIST l hid CDATA #IMPLIED >
 <!ATTLIST l re CDATA #IMPLIED >
 
-<!ELEMENT lics (lic, ref*, sourcenote*) >
-<!ATTLIST lics xml:space (default|preserve) 'preserve'>
-<!ELEMENT lic (#PCDATA|a)*>
-<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
-<!ELEMENT ref (#PCDATA|a|i)*>
-<!ELEMENT sourcenote (#PCDATA|a)*>
-<!ELEMENT a (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
 
 <!ELEMENT lg ( l, lemma_ref*, stem*, analysis*, mini_paradigm*, algu?) >
 <!ELEMENT lemma_ref (#PCDATA) >
@@ -44,10 +67,6 @@
 
 <!ELEMENT mg ( tg+ | xg* ) >
 
-<!ELEMENT r (lics?, e+, xhtml:script?) >
-<!ATTLIST r xml:lang (fkv) #IMPLIED>
-<!ATTLIST r id (fkvnob) #IMPLIED>
-<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml">
 
 <!ELEMENT stem ( #PCDATA ) >
 
