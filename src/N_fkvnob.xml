@@ -2903,16 +2903,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="grom">
       <lg>
-         <l pos="N">fantasiirikas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fantasifull</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="grom">
-      <lg>
          <l pos="N">kielenpito</l>
       </lg>
       <mg>
@@ -75900,7 +75890,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kielitieđe</l>
+         <l pos="N">kielitieđet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -96322,11 +96312,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">topograafii</l>
+         <l pos="N">topografia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">topografi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">topografii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">topografi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kategoria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kategori</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kategorii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kategori</t>
          </tg>
       </mg>
    </e>
