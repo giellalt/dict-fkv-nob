@@ -5,6 +5,11 @@
      suijutus - sujutus lisätty, suijutus kans?
    2 nukkuissa, syötessä (katto muutki 2. infinitiivejä Eirasta ja Børsskogista)
    2 jäsenten pittääkö tämän laittaat jäseniitten vierele?
+   2 omituisuus-syntakti  N  eierskapssetning (gram.)
+   2 muutos-syntakti  N  endringssetning (gram.)
+   2 liiket-syntakti  N  bevegelsessetning (gram.)
+   2 arvelu-syntaktissa
+
 
    2 (ei) minheen (ei minnekhään) mihinkhään
 
@@ -77,45 +82,40 @@
    2 ainetsana  N  stofford
    2 affektiivinen  A  affektiv
    2 abstraktisana  N  abstrakt ord
-   2 vapaahaamuinen
-   2 universaalinen
-   2 tuplavokaalirankainen
-   2 temporaalinen
-   2 tarkkuus
-   2 superjunksuuni
+   2 vapaahaamuinen  A  som har/med fri form..
+   2 universaalinen  A  universal
+   2 tuplavokaalirankainen  A  som har dobbelvokal i stammen, dobbelvokalstammet
+   2 temporaalinen  A  temporal
+   2 tarkkuus  A  nøyaktighet, presisjon
+   2 superjunksuuni  N  superjunksjon
    2 Spaania - sanakirjassa Espanja
-   2 relatiivipronomeni
-   2 relatiivinen
-   2 refleksiivi
-   2 omituisuus-syntakti
-   2 muutos-syntakti
-   2 morfeemi
-   2 liiket-syntakti
-   2 kontrastiivinen
-   2 konnektiivi
-   2 konnektiivisubjunksuuni
-   2 komitatiivinen
-   2 kognisuuni
-   2 kausaalinen
+   2 relatiivipronomeni  N  relativt pronomen
+   2 relatiivinen  A  relativ
+   2 refleksiivi  A  refleksiv
+   2 morfeemi  N  morfem
+   2 kontrastiivinen  N  kontrastiv
+   2 konnektiivi  A  konnektiv
+   2 konnektiivisubjunksuuni  N  konnektiv subjunksjon
+   2 komitatiivinen  A  komitativ
+   2 kognisuuni  N  kognisjon
+   2 kausaalinen  A  kausal
    2 Joosefi (nimi)
-   2 instrumentaalinen
-   2 indefinittinen
-   2 illustratiivinen
-   2 duaalinen
-   2 additiivinen
-   2 äänenvaihettelu
-   2 arvelu-syntaktissa
-   1 ymmärtäväinen (ymmärttääväinen?)
-   1 ylösrakentaminen
-   1 ylöspantu oppført?
-   1 ylheisyys
+   2 instrumentaalinen  A  instrumental
+   2 indefinittinen  A  indefinitt
+   2 illustratiivinen  A  illustrativ
+   2 duaalinen  A  
+   2 additiivinen  A  additiv
+   2 äänenvaihettelu  N  lydveksling
+   1 ymmärtäväinen  A  forståelsesfull (meilä oon ymmärttääväinen sanakirjassa, molemat sinne?)
+   1 ylösrakentaminen  N  oppbygning
+   1 ylöspantu  N  oppført?
+   1 ylheisyys  N  vanlighet, universalitet, utbredelse/hyppighet
    1 ylheisyysvyrtteeraus
-   1 ylheissubjunksuuni
-   1 ylheispätteeva
-   1 ylheiskäsitys
-   1 ylheisgeminasuuni
-   1 ylheisesitys
-   1 yksittäin
+   1 ylheissubjunksuuni  N  universalsubjunksjon
+   1 ylheiskäsitys  N  allmenn/generell oppfatning
+   1 ylheisgeminasuuni  N  allmenngeminering
+   1 ylheisesitys  N  allmenn/generell oversikt, presentasjon, framstilling
+   1 yksittäin  Adv  enkeltvis, individuelt
    1 yksipaikkainen
    1 yksinäiskonsonantti
    1 yksiluku (singulaari
@@ -1034,9 +1034,7 @@ toivottelu
    1 infinitiin
    1 inen-nomeniksi
    1 inen-nomeniila
-   1 indefinittissii
    1 indefinittipronomeninaki
-   1 indefinittinen
    1 in-derivasuunisuffiksilla
    1 implikeerathaan
    1 implikeeraa
@@ -1724,7 +1722,7 @@ toivottelu
    1 Advs
    1 Adverbiin
    1 AdvP:nä
-   1 Additiivissii
+   1 
    1 AdVLI
    1 Abessiivihaamuisella
    1 Aaroninniemestä
