@@ -148,32 +148,31 @@
    1 vaihettelutabelli
    1 vaihettelupari  N  vekslingspar
    1 vaihettelugraadi  N  vekslingsstadie/grad
-   1 usheus
-   1 usheemanlainen
+   1 usheus  N  hyppighet, frekvens, mengde
+   1 usheemanlainen  A  flere, mange ulike
    1 ulkopyytö  N  havfiske
-   1 ulkopinta
-   1 ulkopaikkakaasus
-   1 tyrmhään
-   1 tynnyrittäin
-   1 tynnyrillinen
-   1 turvethommassa
-   1 tunnettuus
+   1 ulkopinta  N  ytterside, ytre side
+   1 ulkopaikkakaasus  N  ytre lokalkasus
+   1 tyrmhään - tyrmhiin
+   1 tynnyrittäin  Adv  tønnevis
+   1 tynnyrillinen  Adv  en tønne, et fat med..
+   1 turvethomma  N  
+   1 tunnettuus  N  kjenthet
    1 tulemahaamu
 erroomahaamu
-   1 triftongi
+   1 triftongi  N  triftong
    1 translatiivihaamuinen
    1 transitiiviverbi
    1 transitiivisyntaktinen
-   1 ei tottavishiinkhään
-   1 tottavishiin
-   1 totaaliobjekti
+   1 ei tottavishiinkhään  Adv  for all del ikke
+   1 tottavishiin  Adv  ja visst
+   1 totaaliobjekti  N  totalobjekt
    1 totaaliobjektihaamu
-   1 voi tontta (voi riivattu)
-   1 toivottavuus
-toivottelu
-   1 toisinhaan
-   1 tohtori
-   1 tieđolinen
+   1 voi tontta  Interj  helsike
+   1 toivottavuus  N  det at noe er ønskelig
+toivottelu  N  (lykke)ønskning
+   1 toisinhaan  Adv  av og til
+   1 tieđolinen  A  kognitiv
    1 tervettelysana
    1 teko-syntakti
    1 tavalisuus
