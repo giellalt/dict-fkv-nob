@@ -2238,12 +2238,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="es;ks">
       <lg>
          <l pos="Adv">tuskin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">knapt</t>
+            <t pos="Phrase">nesten ikke</t>
+            <t pos="Phrase">bare så vidt</t>
+            <t pos="Adv">snaut</t>
             <t pos="Adv">neppe</t>
          </tg>
       </mg>
@@ -2254,7 +2258,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">ved en feiltakelse</t>
+            <t pos="Phrase">ved en feiltakelse</t>
          </tg>
       </mg>
    </e>
