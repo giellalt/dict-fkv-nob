@@ -20996,7 +20996,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">åpne flere ganger</t>
+            <t pos="Phrase">åpne flere ganger</t>
          </tg>
       </mg>
    </e>
@@ -21007,21 +21007,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">grine</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">skjære ansikt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">gjøre en grimase</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">lage en grimase</t>
+            <t pos="Phrase">skjære ansikt</t>
+            <t pos="Phrase">gjøre en grimase</t>
+            <t pos="Phrase">lage en grimase</t>
          </tg>
       </mg>
    </e>
@@ -21032,16 +21020,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">grine</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">gjøre grimaser</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">skjære ansikt</t>
+            <t pos="Phrase">gjøre grimaser</t>
+            <t pos="Phrase">skjære ansikt</t>
          </tg>
       </mg>
    </e>
@@ -21052,10 +21032,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">irritere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">terge</t>
          </tg>
       </mg>
