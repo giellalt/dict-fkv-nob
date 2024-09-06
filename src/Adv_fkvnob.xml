@@ -7631,7 +7631,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Adv">vasiten</l>
       </lg>
@@ -7644,6 +7644,27 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">uttrykkelig</t>
             <t pos="Adv">spesielt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">med vilje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">väkisten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med makt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nødvendigvis</t>
+            <t pos="Adv">uunngåelig</t>
          </tg>
       </mg>
    </e>
