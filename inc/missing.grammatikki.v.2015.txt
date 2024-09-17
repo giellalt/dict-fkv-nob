@@ -9,6 +9,15 @@
    2 muutos-syntakti  N  endringssetning (gram.)
    2 liiket-syntakti  N  bevegelsessetning (gram.)
    2 arvelu-syntaktissa
+   1 teko-syntakti  N  
+   1 siirtämis-syntakti
+   1 semanttis-syntaktinen
+   1 sansi-predikasuunisyntakti
+   1 sanoma-aktiverbi
+   1 sanoma-akti
+
+
+
 
 
    2 (ei) minheen (ei minnekhään) mihinkhään
@@ -173,61 +182,52 @@ erroomahaamu
 toivottelu  N  (lykke)ønskning
    1 toisinhaan  Adv  av og til
    1 tieđolinen  A  kognitiv
-   1 tervettelysana
-   1 teko-syntakti
-   1 tavalisuus
-   1 täsmälheen
-   1 tarkenttaat
-   1 tämänsorttinen
-   1 takavokaali
-   1 taivutusstyyppi, suijutustyyppi
-   1 taikuus (pittääkö olla taikkuus?)
-   1 tääläpäin
-   1 suffiksillinen
-   1 systemaatilisesti
-   1 synonyymi
-   1 sylkäisy
-   1 suuväylä
-   1 superlatiivihaamu
-   1 suoristuut
-   1 suoristuminen
-   1 suoristuma
-   1 suhđetadposisuuni
-   1 suhteen
-   1 suhista
-   1 suffiksillinen
-   1 subjektikongruensi
-   1 spesiaalivaihettelureekeli
-   1 spesiaaligraadivaihettelu
-   1 spesiaaligeminasuuni
+   1 tervettelysana  N  hilsning(sord)
+   1 tavalisuus  N  alminnelighet
+   1 täsmälheen  Adv  nettopp, akkurat
+   1 tarkenttaat  V  presisere, spesifisere
+   1 tämänsorttinen  A  av denne/dette slag
+   1 takavokaali  N  bakre vokal
+   1 taivutusstyyppi, suijutustyyppi  N  bøyingsklasse
+   1 taikuus (pittääkö olla taikkuus?)  N  trolldom
+   1 tääläpäin  Adv  her omkring
+   1 suffiksillinen  A  
+   1 systemaatilisesti  Adv  systematisk
+   1 synonyymi  N  synonym
+   1 sylkäisy  N  spytting
+   1 suuväylä  N  munnhule
+   1 superlatiivihaamu  N  superlativform
+   1 suoristuut  V  utjevne, utjamne, rettes ut, bli rakere, bli rettere, 
+   1 vokaaliitten suoristuminen/oikeneminen  N  vokalutjevning, vokalutjamning
+   1 vokaaliitten suoristuma  N  vokalutjamning, vokalutjevning
+   1 suhđetadposisuuni  N  forholdsadposisjon
+   1 suhista  V  visle
+   1 subjektikongruensi  N  subjektkongruens
+   1 spesiaalivaihettelureekeli  N  spesialstadievekslingsregel
+   1 spesiaaligraadivaihettelu  N  spesialstadieveksling
+   1 spesiaaligeminasuuni  N  spesialgeminering
    1 sorttinen
-   1 sölitysten
-   1 sivulepäin
+   1 sölitysten  Adv  i fanget på hverandre
+   1 sivulepäin  Adv  til siden
    1 sitteerata - meilä oon siteerata, yhelä t:lä oon piian parempi?
-   1 sitomasuhđet
-   1 sisätysten
-   1 sisäpaikkakaasus
-   1 siirtymä
-   1 siirtämis-syntakti
-   1 sieltäpäin
-   1 sieläpäin
-   1 seuraavanlainen
-   1 semanttis-syntaktinen
+   1 sitomasuhđet  N  bindende forhold..
+   1 sisätysten  Adv  inne i hverandre
+   1 sisäpaikkakaasus  N  indre lokalkasus
+   1 siirtymä  N  flytting, forflytning
+   1 sieltäpäin  Adv  der fra et sted
+   1 sieläpäin  Adv  der omkring
+   1 seuraavanlainen  A  følgende
    1 selventtäät  V  gjøre noe klart(ere)/tydlig(ere), klargjøre, oppklare
-   1 selvemin
-   1 selittäävää
+   1 selvemin  Adv  tydeligere, klarere
+   1 selittäävää  A  forklarende
    1 sekaparadigmalinen
    1 sekaparadigmaattinen
    1 säntilheen  Adv  akkurat
-halula  Adv  gjerne
+   halula  Adv  gjerne
    1 sansihavaittema  N  sanseinntrykk
-   1 sansi-predikasuunisyntakti
    1 sanomaverbi  N  taleverb
-   1 sanoma-aktiverbi
-   1 sanoma-akti
-   1 sanasto
-   1 sanansisäinen
-   1 sananalkuinen
+   1 sanasto  N  vokabular
+   1 sananalkuinen  A  som er i begynnelsen av et ord..
    1 samapersoonainen
    1 samantapainen
    1 samanlajinen
