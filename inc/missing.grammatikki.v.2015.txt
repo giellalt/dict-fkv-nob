@@ -4,10 +4,10 @@
    3 -loppuinen/-loppunen analysaattoriin, miten?, 2 haamuinen (analysaattoriin) -haamuinen
    3 ilmoittammaa - ma-partisippi + pittuusreekeli
      suijutus - sujutus lisätty, suijutus kans?
-   2 nukkuissa, syötessä, puttoissa, muistelessa, muistaissa (katto muutki 2. infinitiivejä Eirasta ja Børsskogista)
+   2 nukkuissa, syötessä, puttoissa, muistelessa, muistaissa, juostessa (katto muutki 2. infinitiivejä Eirasta ja Børsskogista)
    1 poislukkiin - adv? med unntak av, unntatt
    1 piikaroitteat entäs nämät siirtymärankaiset verbit, haluammako lisätä net?
-   2 jäsenten pittääkö tämän laittaat jäseniitten vierele?
+   2 jäsenten laitamako tämän jäseniitten vierele?
    2 omituisuus-syntakti  N  eierskapssetning (gram.)
    2 muutos-syntakti  N  endringssetning (gram.)
    2 liiket-syntakti  N  bevegelsessetning (gram.)
@@ -17,7 +17,9 @@
    1 semanttis-syntaktinen
    1 sansi-predikasuunisyntakti
    1 sanoma-aktiverbi
-   1 sanoma-akti
+   1 sanoma-akti indirekte tale (grammatikk)
+   2 ohjaama-akti  N  styringssetning
+
 
 
 
@@ -64,9 +66,7 @@ yksilekseemi  N  simpleksord
    2 syntaktifragmentti  N  setningsfragment
    2 relatiivisyntakti  N  relativsetning
    2 pimmeemys  A  mørkest
-   2 ohjaama-akti  N  styringssetning
-   2 sanoma-akti  N  indirekte tale (grammatikk)
-   2 mihinkäsin korhænne..
+   2 mihinkäsin  Adv  hvor hen, spørrende proadverb
    2 kysymäadverbi  Adv  spørreadverb
    2 kursiveerata  V  kursivere
    2 kursiivi  N  kursiv
@@ -308,7 +308,7 @@ senki  Interj  for en/ei/et... Senki pöllöpää! For en tosk!
    1 omituisluonto  N  karakter, egenart?
    1 oikheinpäin  Adv  rett (vei)
    1 oijenttuut  V  rette seg ut, strekke seg ut
-   1 ohhuin - ohut/lyhyt-paradigma vailuu. Grammatikissa seissoo lyhy(t)-lyhempi-lyhhyin/ohu(t)-ohempi-ohhuin, tulleeko sitte näin lyhyt-lyhen,lyhyttä,lyhessä,lyhhyin/ohut-ohen,ohutta,ohessa,ohhuin? Mie olen kans nähny jossaki varhemin ette lyhyt-sanan rangassa oon v lyhyven, lyhyvempi
+   1 ohhuin - ohut/lyhyt-paradigma vailuu. Grammatikissa seissoo lyhy(t)-lyhempi-lyhhyin/ohu(t)-ohempi-ohhuin, tulleeko sitte näin lyhyt-lyhen,lyhyttä,lyhessä,lyhhyin/ohut-ohen,ohutta,ohessa,ohhuin? varhemin olen kans nähny jossaki ette lyhyt-sanan rangassa oon v lyhyven, lyhyvempi
    1 nyky-yhtheiskunta  N  dagens samfunn
    1 nyky- liitet
    1 nyansi vain nuansi?
@@ -328,7 +328,7 @@ senki  Interj  for en/ei/et... Senki pöllöpää! For en tosk!
    1 neljenissä - ordinaaliitten taivutus vailuu
    1 neljä - lissäämäkö neljä kans?
    1 nelinkontin  Adv  på alle fire
-   1 näytästäät  V  vise
+   1 näytästäät  V  vise mitä eroa oon tällä ja näyttäät-verbilä?
    1 naurattaat  V  få til å le
    1 nasaali  A  nasal
    1 nähten meilä oon nähđen
@@ -346,273 +346,124 @@ senki  Interj  for en/ei/et... Senki pöllöpää! For en tosk!
    1 mogadishulainen
    1 modifiseeraava
    1 mitattava tellelig?
-   1 miljoonittain
+   1 miljoonittain, miljuunittain  Adv  millionvis, millioner av
    1 miinoitus  N  minelegging
    1 miiloittain  Adv  milevis
    1 meetterittäin  Adv  metervis
    1 markkinaväki  N  markedsfolk
    1 markantti  A  markant
-   1 manifestaanttuut
-   1 maksimaalinen
-   1 lyhykäisyys
-   1 lyhykäisemmin
+   1 manifestaanttuut  V  manifistere
+   1 maksimaalinen  A  maksimal
+   1 lyhykäisyys  N  korthet
+   1 lyhykäisemmin  Adv  kortere
    1 lujeteltuna rangert, opplistet lujetella-å liste
-   1 litteroita
-   1 lingvistinen
-   1 likikonteksti
-   1 likikielisyysindeksi
-   1 likheisyysarvo
+   1 litteroita  V  transkribere
+   1 lingvistinen  A  lingvistisk
+   1 likikonteksti  N  nær kontekst
+   1 likikielisyysindeksi  N  nærspråksindeks
+   1 likheisyysarvo  N  avstandsverdi
    1 liittohaamu sammensatt form (gram)
-   1 leksikaalistuut
+   1 leksikaalistuut  V  bli leksikalisert
    1 lappheela(nsa), lappheele(nsa)  Adv  på flatsida
-   1 länsidialekti
-   1 lähtiin - lähtien
-   1 labiaali
-   1 lääkitysihminen
-   1 kysymäsana
+   1 länsidialekti  N  vestlig dialekt
+   1 lähtiin  Adv
+   1 labiaali  A  labial
+   1 lääkitysihminen  N  helbredes
+   1 kysymäsana  N  spørreord
    1 kysymäsanakysymys
-   1 kysymäpronomeni
+   1 kysymäpronomeni  N  spørrepronomen
    1 kysymäpronomenihaamu
-   1 kysymäadverbi
-   1 kysymäadjektiivi
+   1 kysymäadverbi  N  spørreadverb
+   1 kysymäadjektiivi  N  spørreadjektiv
    1 kylläntynheet kylläänttyyt joka meilä jo oon saattaa olla parempi?
-   1 kvantitatiivinen
+   1 kvantitatiivinen  A  kvantitativ
    1 kuvvaava
    1 kuulten
-   1 krannikansa
+   1 krannikansa  N  nabofolk
    1 kotisalla  Adv  hjemme
-   1 korsteeni
-   1 korpus
+   1 korsteeni  N  korstein
+   1 korpus  N  korpus
    1 korkkeimangraadinen
-   1 kontrastiivinen
-   1 kontrasteerata
-   1 konsonanttikomposisuuni
-   1 konsessiivinen
-   1 konnektiivi
-   1 konnektiivisubjunksuuni
+   1 kontrastiivinen  A  kontrastiv
+   1 kontrasteerata  V  konstrastere
+   1 konsonanttikomposisuuni  N  konsonantkomposijon
+   1 konsessiivinen  A  konsessiv
+   1 konnektiivi  A  konnektiv
+   1 konnektiivisubjunksuuni  N  konnektivsubjuksjon
    1 konkreettissiimin
-   1 kongrueeraava
+   1 kongrueerata  V  kongruere
    1 kommenttaari yhelä vain kahela t:lä?
-   1 komitatiivinen
-   1 kolmittain
-   1 kolmenlainen
-   1 kollektiividerivasuuni
-   1 kokkiija
-   1 kivettyyt  V  stivne
-   1 kilomeetterittäin
-   1 kielipoliittinen
-   1 kielihistoorialinen
-   1 keskinäisesti
-   1 keskenhänsä
+   1 komitatiivinen  A  komitativ
+   1 kolmittain  Adv  tre i lag
+   1 kolmenlainen  A  av tre typer..
+   1 kollektiividerivasuuni  N  kollektivavledning
+   1 kokkiija  N  erfarer
+   1 kilomeetterittäin  Adv  kilometervis
+   1 kielipoliittinen  A  språkpolitisk
+   1 kielihistoorialinen  A  språkhistorisk
+   1 keskinäisesti  Adv  seg imellom
    1 kerrata  V  gjenta, repetere
-   1 kausaalinen
+   1 kausaalinen  A  kausal
    1 (ei) kau(v)aa  Adv  (ikke) lenge
    1 karitiivisuffiksi
    1 karitiiviadjektiivi
-   1 kalthoon
+   1 kalthoon  Adv  på skrå
    1 kaksoispronomeni  N  parpronomet
-   1 kaksittain
+   1 kaksittain  Adv  parvis, to i lag
    1 kaitaisemasti  Adv  
-   1 kainunkieisessä
-   1 kainulainen-adjektiivin
-   1 kaikki-sanan
-   1 kaikki-pronomeni
-   1 kaikisti
-   1 kaikilet
-   1 kai-nu-lai-sis-ta
-   1 kai-nu-lai-ses-ta
-   1 kai-nu-lai-ses-sa-ki
-   1 kahđekse
-   1 kahte
-   1 kaffipöönät
-   1 kaasus-
-   1 ka-o-ta
-   1 kO-kysymyksheen
-   1 kO-kysymyksessä
-   1 kO-kysymäsyntakti
-   1 kO-kysmykshiin
-   1 kAs-suffiksilla
-   1 kAs-derivasuuniita
-   1 k/:n
-   1 k-loppuiset
-   1 juurimorfeemin
-   1 juostessa
-   1 juo-
-   1 jukse
-   1 juhanekse
-   1 jove
-   1 jout
-   1 jouko
-   1 joukkonsa
-   1 joukko-syntaktissa
-   1 jou
-   1 jotakuta
-   1 jossetta
-   1 jossen
-   1 jossema
-   1 jompi
-   1 jommissakummissa
-   1 joka-
-   1 jo-en
-   1 jäsenista
-   1 järjestystä
-   1 järjestys
-   1 jaloin
-   1 jälkheen-postposisuunin
-   1 jalkapallomatsi
-   1 jälemin
-   1 jakkaanttuuvat
-   1 jaan
-   1 jääkhöön
-   1 jA
-   1 j:n
-   1 iva
-   1 ittiästii
-   1 ittiännii
-   1 ittiännäi
-   1 ittestii
-   1 ittessänsäi
-   1 ittenii
-   1 ittemäi
-   1 ittellänsä
-   1 ittelestii
-   1 ittelensäi
-   1 ittelennii
-   1 ittelästii
-   1 ittelänsäi
-   1 itteksestii
-   1 itteksensäi
-   1 itteksenii
-   1 ittekhääni
-   1 itteestii
-   1 itteensäi
-   1 itteenii
-   1 itteenäi
-   1 itteästii
-   1 itteännii
-   1 itteännäi
-   1 itte-sannaa
-   1 itte-sana
-   1 itkettää
-   1 istuime
-   1 issoimp
-   1 issoima
-   1 issa
-   1 irrallissii
-   1 intstruktiivin
-   1 intransitiiviverbiksi
-   1 intervjuuissa
-   1 intervjuuatut
-   1 intervjuuarinna
-   1 internationalis
-   1 interjeksuuniita
-   1 interjeksuunhiin
-   1 instrumentaaliset
-   1 instruktiivin
-   1 instruktiiviksi
-   1 instruktiivihaamut
-   1 inklusiiviset
-   1 inftiivi
-   1 infinittisissä
-   1 infinittisillä
-   1 infinittishiin
-   1 infinittiset
-   1 infinittinen
-   1 infinitiin
-   1 inen-nomeniksi
-   1 inen-nomeniila
-   1 indefinittipronomeninaki
-   1 in-derivasuunisuffiksilla
-   1 implikeerathaan
-   1 implikeeraa
-   1 imperatiiviseksi
-   1 imperatiivinen
-   1 impA-
-   1 impA
-   1 immigranttipolven
-   1 ime:n
-   1 imA-
-   1 ilmoittaamaa
-   1 ilmoitehaan
-   1 ilmo
-   1 ilman-preposisuunii
-   1 ilman-fraasi
-   1 ilman-
-   1 illustratiivisessa
-   1 illatiividefinerauksesta
-   1 ilje
-   1 ile
-   1 il
-   1 ija
-   1 iitA
-   1 iim
-   1 ihmineni
-   1 ihminen-tyyppiin
-   1 ihminen-nomenit
-   1 ihminen-nomeniksi
-   1 ihminen-nomeniissa
-   1 ihmettelyfraassii
-   1 identistä
-   1 iO-
-   1 iA-variantti
-   1 iA-taphauksissa
-   1 iA-loppuissii
-   1 iA-
-   1 i:tä
-   1 i:lä
-   1 i:ki
-   1 i-rankaiset
-   1 i-loppuiset
-   1 hyrräili
-   1 hypä
-   1 hylänheet
-   1 huonomanlaista
+   1 kaikisti  Adv  bestandig
+   1 kaffipöönä  N  kaffebønne
+   1 juurimorfeemi  N  rotmorfem
+   1 jommissakummissa - pluraalin paradigma vailuu
+   1 järjestyyt  V  hmm, ordne seg, bli satt i rekkefølge, struktureres
+   1 järjestys  N  rekkefølge, ordning (måte som noe er ordnet eller innrettet på;
+system, eikö vain?)
+   1 kuivin jaloin  Adv  tørrføtt, tørrskodd
+   1 jalkapallomatsi  N  fotballkamp
+   1 jälemin  Adv  etterpå, senere
+   1 itkettäät  V  få til å gråte, ville gråte (Minnuu itkettää-Jeg blir på gråten)
+   1 irrallinen  A  løs, separat, frittstående
+   1 intstruktiivi  N  instruktiv
+   1 intervjuui u vain y?
+   1 intervjuuari  N  intervjuer
+   1 interjeksuuni  N  interjeksjon
+   1 instrumentaalinen  A  instrumental
+   1 inklusiivinen  A  inklusiv
+   1 indefinittipronomeni  N  indefinitt pronomen
+   1 implikeerata  V  implisere
+   1 imperatiivinen  A  imperativ
+   1 immigranttipolvi  N  immigrantgenerasjon
+   1 illustratiivinen  A  illustrativ
+   1 illatiividefineraus  N  illativsmodifikator
+   1 hyrräilä  V  nynne
+   1 huonomanlainen av dårligere sort
    1 huomiofraassii
-   1 http://www.kvenskinstitutt.no/kvener/kven-og-kainulainen
-   1 ht:n
-   1 ht-yhtymä
-   1 housui
-   1 hööliysfraassii
-   1 homorgaanisuutheen
-   1 hitu
-   1 hithaiten
-   1 histooriallisesti
-   1 hirmun
-   1 hirm
-   1 hinen-suffiksilla
-   1 hiilokse
-   1 heitäi
-   1 häyt
-   1 hävetä-verbin
-   1 hautunu
-   1 haukkumamielessä
-   1 hau
-   1 harvo
-   1 harvemin
-   1 harvakseen
-   1 haraka
-   1 haluais
-   1 hallussapiđosta
-   1 hallitteeviin
+   1 yhtymä  N  samband, kombinasjon
+   1 hööliysfraasi  N  høflighetsfrase
+hööliys  N  høflighet
+   1 homogaanisuus  N  homogenitet
+   1 hituisen  Adv  ørlite
+   1 hithaiten  Adv  tregest
+   1 histooriallisesti  Adv  historisk
+   1 hirmun  Adv  uhyre, veldig, meget
+   1 hauttuut  V  svelle
+   1 haukkumamielessä hmm i nedsettende forstand
+   1 harvemin  Adv  mer sjelden, sjeldnere
+   1 hallussapito  N  innehavelse
+   1 hallitteeva styrende
    1 halkaisu  N  kløyving
-   1 hakemakirjana
-   1 hakemahaamu
-   1 haamustetuita
-   1 haamuinen
-   1 grammatikk
-   1 graadivaihettelureekeliitten
-   1 graadivaihettellee
-   1 graadivaihettelireekeliitten
-   1 graadiadverbina
-   1 genuiiniistaki
-   1 genitiivinhaamuinen
-   1 genitiividefineerauksenana
-   1 generiininen
-   1 gemineerattu
-   1 geminasuunissa
-   1 geminaattiklusiiliitten
-   1 geeneerisessä
-   1 futuurii
+   1 hakemakirja  N  oppslagsbok
+   1 hakemahaamu  N  oppslagsform
+ork, energi-tarmo
+   1 graadivaihettelureekeli  N  stadievekslingsregel
+   1 graadivaihetella  V  stadieveksle
+   1 graadiadverbi  N  gradsadverb
+   1 genuiini  A  genuin
+   1 genitiividefineeraus  N  genetivmodifikator
+   1 gemineerata  V  geminere
+   1 geminasuuni  N  geminasjon
+   1 geminaattiklusiili  N  geminasjonklusil
+   1 futuuri  N  framtid (gramatikk)
    1 funktiot
    1 funksuunita
    1 frekventillissii
