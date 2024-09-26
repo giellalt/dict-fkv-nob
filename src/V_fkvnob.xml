@@ -5021,11 +5021,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">kallistuut</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="V">dra</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="nob">
             <t pos="V">helle</t>
@@ -16582,10 +16582,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">siteerata</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sitere</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">gå konkurs</t>
