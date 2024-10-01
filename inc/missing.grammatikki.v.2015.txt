@@ -48,7 +48,7 @@ til dels  Adv  osittain, osaksi, osin
    3 suhđetadposisuunit  N  forholdsadposisjon
    3 infinittinen  A  infinitt
      finittinen  A  finitt
-   3 Beronkan (sukunimi), Perunka
+   3 Beronka (sukunimi), Perunka
    2 yksilekseeminen  A  som er simpleksord..
 yksilekseemi  N  simpleksord
    lekseemi  N  leksem
@@ -191,7 +191,7 @@ toivottelu  N  (lykke)ønskning
    1 toisinhaan  Adv  av og til
    1 tieđolinen  A  kognitiv
    1 tervettelysana  N  hilsning(sord)
-   1 tavalisuus  N  alminnelighet
+   1 tavalisuus  N  alminnelighet, forekomst
    1 täsmälheen  Adv  nettopp, akkurat
    1 tarkenttaat  V  presisere, spesifisere
    1 tämänsorttinen  A  av denne/dette slag
@@ -233,6 +233,7 @@ toivottelu  N  (lykke)ønskning
    1 säntilheen  Adv  akkurat
    halula  Adv  gjerne
    1 sansihavaittema  N  sanseinntrykk
+sansihavainto  N  sanseinntrykk, sansefornemmelse
    1 sanomaverbi  N  taleverb
    1 sanasto  N  vokabular
    1 sananalkuinen  A  som er i begynnelsen av et ord..
@@ -384,7 +385,6 @@ senki  Interj  for en/ei/et... Senki pöllöpää! For en tosk!
    1 korsteeni  N  korstein
    1 korpus  N  korpus
    1 korkkeimangraadinen
-   1 kontrastiivinen  A  kontrastiv
    1 kontrasteerata  V  konstrastere
    1 konsonanttikomposisuuni  N  konsonantkomposijon
    1 konsessiivinen  A  konsessiv
@@ -502,11 +502,12 @@ ork, energi-tarmo
    1 dialogisanat
    1 dialektikontinuumi  N  dialektkontinuum
    1 dialekti-isoglossi  N  dialektisogloss
-   1 derivasuunimorfeemiita
+   1 derivasuunimorfeemi  N  avledningsmorfem
+derivasuunisuffiksi  N  avledningssuffiks
    1 diminutiivi  N  diminutiv - tekstissä oon deminutiivi, virhet?
    1 aukaisu  N  åpning
    1 astia analysaattorhiin
-   1 assimileeraanttuut  V  assimileres
+   1 assimileeraanttuut  V  assimileres, bli assimilert
    1 aspirasuuni  N  aspirasjon
    1 arveluverbi  N  meningsverb
    1 arvattavasti  Adv  formodentlig
@@ -515,9 +516,10 @@ ork, energi-tarmo
    1 ämpärittäin  Adv  bøttevis
    1 altso  Adv  altså
    1 äläkä, älkkääkä...
-   1 alisyntakti
+   1 alisyntakti - leddsetning?
+ylisyntakti  N  oversetning
    1 alempi  A  lavere
-   1 alemangraadinen
+   1 alemangraadinen av lavere grad..
    1 aktualiseeraanttuut  V  aktualiseres, bli aktualisert
    1 aksuneeraus  N  aksjonering
    1 akkusatiivi  N  akkusativ
@@ -534,7 +536,7 @@ ork, energi-tarmo
    1 äänenvaihettuminen  N  lydendring
    1 toissaaltakäsin  Adv  på den andre siden
    1 ylifraasi  N  oversetning
-   1 ylheisyysmerkit
+   1 ylheisyysmerkki  N  hmm 
    1 yhđyssana  N  sammensatt ord
    1 Vokaalirankainen  A  vokalstammet
    1 vokaalinpitenemä  N  vokalforlengig/forlengelse
@@ -549,141 +551,52 @@ ork, energi-tarmo
    1 Spaania  N  Spania
    1 Sotan/Sođankylä  N  Sodankylä
    1 sosiolingvistinen  A  sosiologisk
-   1 Solgunni
-   1 Skruvi-seđälä
-   1 Sinulai
-   1 Siirtymä-h:sta
-   1 Siirtämis-syntaktissa
-   1 Siirtämis-syntaktiita
-   1 Seii
-   1 Sautshoon
-   1 Sappheen
-   1 Sansi-syntaktin
-   1 Sanomaverbii
-   1 Sanoma-akti-syntakthiin
-   1 Samisk
-   1 Samantapainen
-   1 Sääverbii
-   1 Säätila
-   1 SANSI-syntaktissa
-   1 SANSI
-   1 SANOMA-AKTI-fraassiin
-   1 Ruija-databaasista
-   1 Reisivuonon
-   1 Reisivuonhoon
-   1 Referatiivisillä
-   1 Rapolan
-   1 Priitankhaan
-   1 Priita
-   1 Predikoivat
+   1 Solgunni  N  Solgunn
+   1 Skruvi-setä  N  Onkel Skrue
+   1 Sautso  N  Sautso
+   1 Sappi  N  Sappen (oonko e-rankainen?)
+niemi - nientä - halluumako lisätä tämän haamun?
+   1 samantapainen  A  lignende, tilsvarende, av samme slag
+   1 Raisinvuono  N  Reisafjorden
+   1 Referatiivinen syntakti indirekte setning
+   1 Rapola  N  Rapola
+   1 Priitta  N  Brita
    1 Pitkästäniemestä Pitkäniemi-Langnes
-   1 Pikku-Matti
-   1 Pikku-Matile
-   1 Pikku-Liisa
-   1 Pikku-Liis
-   1 Peruska
-   1 Persoonahaamuinen
-   1 Passiivinhaamuinen
-   1 Partisippihaamuiset
-   1 Paikka-syntaktiissa
-   1 Paikka-syntakti
-   1 Paikka-adverbiile
-   1 Omistuspredikasuuni-syntaktin
-   1 Nykysannoin
-   1 Nykykielessä
-   1 Nykyään
-   1 Nukkuissa
-   1 Nord-Reisa
-   1 Nimitysakti-syntaktiissa
-   1 Nimitysakti
-   1 Nilsen-Børskogin
-   1 Niilan
-   1 Niiläi
-   1 Niemenaikhuun
-   1 Nenetsiilä
-   1 Neljenissä
-   1 Natsit
-   1 Näissa
-   1 Muuttamis-syntaktin
-   1 Murrekartasto
-   1 Muoto-opin
-   1 Morfeemiita
-   1 Mooraa
-   1 Mofofonologiseksi
-   1 Modiseeratut
-   1 Modifiseeratun
-   1 Modifiseeratuksi
-   1 Modifiseeratuitten
-   1 Modifiseeratuita
-   1 Modifiseeraavissa
+   1 Nykysannoin med dagens ord..
+   1 nykykieli  N  moderne språk
+   1 navngivning-nimitys
+   1 Niila  N  Nils
+Oula  N  Olav
+   1 Niemenaikku  N  Niemennaiko
+   1 nenetsi  N  nenetser
+   1 mooraa  interj  god morgen
+   1 modiseerata  V  modifisere
    1 Modaalisuus
-   1 Mihail
-   1 Marjut
-   1 Maarit
-   1 MUUTOS-syntaktissa
-   1 Lokatiiviset
-   1 Lokatiivis-habitiiviset
-   1 Kysymysenkliitti
-   1 Kuosuvaan
-   1 Kruunsta
-   1 Kristiaanihaan
-   1 Kreetta
-   1 Kontrastiivissii
-   1 Konstareeraavat
-   1 Konsessiivisilla
-   1 Konsessiivinen
-   1 Konnektiivisubjunksuunina
-   1 Konnektiivi
-   1 Kondisunaaliset
-   1 Kondisunaalinen
-   1 Kokkoovasti
-   1 Koivuhalvot
-   1 Kognitiivissii
-   1 Kognisuuni-syntaktin
-   1 Kirjoitetussa
-   1 Kiristen
-   1 Kippanen
-   1 Kippaisen
-   1 Keisissä
-   1 Kausatiiviverbii
-   1 Karitiiviadjektiivit
-   1 Kalla
-   1 Kalevalaseuralta
-   1 KOMMENTTI
-   1 Jyykeän
-   1 Juurimorfeemit
-   1 Johaneksen
-   1 Jänttevin
+   1 Marjut  N  Marjut
+   1 Maarit  N  Marit
+   1 Lokatiivinen  A  lokativ
+   1 Kristiaania  N  Christiania
+   1 Kreetta  N  Greta
+   1 konstareeraava  A  konstanterende
+   1 koivuhalko  N  bjørkeved (halvot, k:v)
+   1 Kippanen  N  Kippanen
+   1 Kippainen  N  Kippainen
+   1 Keisi  N  Keisi, Kjæs
+   1 kommentti  N  kommentar
+   1 Jyykeän lissäämäkö Jyykeän rinnastusmuotona?
+   1 Johanes  N  Johannes
+   1 jänttevin jaloin - med seige skritt
    1 Jaakkola sukunimi Jaakkoloita
-   1 Iso-Liisa
-   1 Intrumentaaliset
-   1 Intransitiivisista
-   1 Interjeksuunit
-   1 Instrumentaalisila
-   1 Illustratiivisen
-   1 Hierarkkista
-   1 Hakemasanana
-   1 Habitiiviset
-   1 Häävierhaat
+   1 intrumentaalinen  A  instrumental
+   1 häävieras  N  bryllupsgjest
    1 Fraasimaiset
-   1 Formaalisesti
-   1 Finittisilä
-   1 Finittinen
-   1 Fepruarikuussa
-   1 Fennoskadinaavian
-   1 Faarao
-   1 Etelävarenkilainen
-   1 Epäittenäiset
-   1 Eksistensipredikasuuni-syntaktin
-   1 Eirala
-   1 Einari
-   1 Beronkalta
-   1 Aspekti-syntaktin
-   1 Asiantilojen
+   1 Formaalisesti  Adv  formelt?
+   1 faarao  N  farao
+   1 etelävarenkilainen  N  sør-varangværing?
+   1 epäittenäinen  A  uselvstending
+   1 Eira  N  Eira
+   1 Einari  N  Einar
    1 Ariniemi  N  Amtmannsnes
-   1 Argumenttirakenne
-   1 Alisyntakti
-   1 Äläkä
-   1 Abessiivihaamuisella
-   1 Aaroninniemestä
-   1 Äännehistoriallinen
+   1 Aaroninniemi  N  Aronnes
+Aaroni  N  Aron
+Seita  N  Seida
