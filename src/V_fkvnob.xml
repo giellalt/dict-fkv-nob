@@ -20393,7 +20393,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">voiđa</l>
          <stem>voi</stem>
@@ -20402,6 +20402,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kunne</t>
+            <t pos="V">makte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>om helsetilstand</re>
+            <t pos="Phrase">ha det</t>
             <xg>
                <x>Hän voipi hyvin.</x>
                <xt>Hun har det bra.</xt>
