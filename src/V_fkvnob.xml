@@ -3925,7 +3925,7 @@ For the full license text, see the link above.</lic>
                <xt>Folk behøver ikke å skjemmes over sitt eget språk.</xt>
             </xg>
             <xg>
-               <x>Pekka häppee ittensä puhheitä.</x>
+               <x>Pekka häppee ittensä puhheita.</x>
                <xt>Pekka skjemmes over det han har sagt.</xt>
             </xg>
          </tg>
@@ -3950,17 +3950,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forsvinne</t>
+            <t pos="Phrase">bli borte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">omkomme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">drukne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">bli borte</t>
          </tg>
       </mg>
    </e>
