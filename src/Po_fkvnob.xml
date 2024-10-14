@@ -652,12 +652,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">med tida</t>
-            <t pos="Adv">etter hvert</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -668,21 +662,16 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">med</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">blant annet</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta;ai">
       <lg>
          <l pos="Po">myöđen</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs med</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs</t>
