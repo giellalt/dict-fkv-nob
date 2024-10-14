@@ -16081,13 +16081,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="V">salvaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">tømre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lafte</t>
          </tg>
       </mg>
    </e>
@@ -16202,6 +16207,24 @@ For the full license text, see the link above.</lic>
       <lg>
          <l hid="Hom1" pos="V">sauttaat</l>
          <stem>sauta</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>f.eks. rekke bussen</re>
+            <t pos="V">rekke</t>
+            <t pos="V">nå</t>
+            <t pos="V">innhente</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppnå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai;ame;es">
+      <lg>
+         <l pos="V">saavuttaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -23746,25 +23769,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="V">saavuttaat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">oppnå</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">nå</t>
-            <xg>
-               <x>Niin ettei kukhaan saavuta minnuu.</x>
-               <xt>Slik at ingen når meg.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="V">säikyttäät</l>
       </lg>
       <mg>
@@ -23773,13 +23777,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="V">salvoot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kastrere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lafte</t>
          </tg>
       </mg>
    </e>
@@ -26209,15 +26218,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="anb;es">
       <lg>
          <l pos="V">salvata</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">lafte</t>
+            <t pos="V">sperre</t>
+            <t pos="V">blokkere</t>
+            <t pos="V">stoppe</t>
+            <t pos="V">stenge</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hindre</t>
+         </tg>
+      </mg>
+<!--      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">lafte</t>
+         </tg>
+      </mg> -->
    </e>
    <e src="ki">
       <lg>
