@@ -22852,7 +22852,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">hankki</l>
       </lg>
@@ -22860,7 +22860,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">bunt</t>
             <t pos="N">knippe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">hank</t>
+            <t pos="N">håndtak</t>
          </tg>
       </mg>
    </e>
