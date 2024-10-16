@@ -82268,7 +82268,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">kilpielläävä</l>
+         <l pos="N">kilpielävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -92183,7 +92183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">pikkuelläävä</l>
+         <l pos="N">pikkuelävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -92801,11 +92801,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">meri-imuelläävä</l>
+         <l pos="N">meri-imuelävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sjøpattedyr</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">imuelävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pattedyr</t>
          </tg>
       </mg>
    </e>
