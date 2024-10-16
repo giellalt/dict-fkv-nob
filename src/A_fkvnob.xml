@@ -6542,7 +6542,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">komplisert</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="A">svinget</t>
+            <t pos="A">svingete</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">mukkainen</l>
+         <stem>mukkase</stem>
+         <stem>mukkas</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">komplisert</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">svinget</t>
+            <t pos="A">svingete</t>
          </tg>
       </mg>
    </e>
