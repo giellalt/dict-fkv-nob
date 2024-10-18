@@ -50478,12 +50478,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">dyrking</t>
+            <t pos="N">tjeneste</t>
+            <xg>
+            <x>Saatatko tehđä minule palveluksen?</x>
+            <xt>Kan du gjøre meg en tjeneste?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">tjeneste</t>
+            <t pos="N">dyrking</t>
+            <t pos="N">dyrkelse</t>
          </tg>
       </mg>
    </e>
