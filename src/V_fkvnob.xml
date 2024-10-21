@@ -10477,7 +10477,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;anb;ki">
       <lg>
          <l pos="V">muistutella</l>
          <stem>muistuttele</stem>
@@ -10491,12 +10491,37 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Phrase">minne om</t>
+            <t pos="Phrase">ligne på noe</t>
+            <xg>
+            <x>Iisakki muistuttellee hänele Mikkoo.</x>
+            <xt>Isak minner ham om Mikko.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">påminne</t>
             <t pos="Phrase">minne på</t>
+            <xg>
+            <x>Muistuttele minule ette mie muistan rinkata hänele.</x>
+            <xt>Påminn meg så jeg husker å ringe ham.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">minnes</t>
+            <t pos="V">mimre</t>
+            <t pos="V">huske</t>
+            <xg>
+            <x>Tet muistutteletta tyhä vanhoi aikkoi.</x>
+            <xt>Dere mimrer bare om gamle dager.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;es">
+   <e src="ta;es;anb;ki">
       <lg>
          <l pos="V">muistuttaat</l>
          <stem>muistuta</stem>
@@ -10505,12 +10530,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">minne om</t>
             <t pos="Phrase">ligne på noe</t>
+            <xg>
+            <x>Sie muistutat sinun äittii.</x>
+            <xt>Du ligner på din mor.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">påminne</t>
             <t pos="Phrase">minne på</t>
+            <xg>
+            <x>Muistuta minule ette mie rinkkaan hänele.</x>
+            <xt>Minn meg på at jeg skal ringe ham.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
