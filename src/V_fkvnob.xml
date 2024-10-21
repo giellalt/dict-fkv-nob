@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">aiđata</l>
          <stem>aittaa</stem>
@@ -1514,6 +1514,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">inngjerde</t>
             <t pos="Phrase">gjerde inn</t>
          </tg>
       </mg>
