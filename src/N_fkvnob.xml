@@ -72797,7 +72797,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">viti</l>
          <stem>viđe</stem>
@@ -72806,6 +72806,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nysnø</t>
+            <t pos="N">løssnø</t>
+            <t pos="Phrase">lett snø</t>
          </tg>
       </mg>
    </e>
@@ -92883,10 +92885,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nåtid</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
             <t pos="N">samtid</t>
          </tg>
       </mg>
