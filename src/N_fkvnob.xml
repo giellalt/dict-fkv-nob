@@ -65,10 +65,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skikk</t>
-         <xg>
+<!--         <xg>
 	     <x>Hittil har det blitt skrevet svært lite på kvensk.</x>
 	     <xt>Kainun kielelä oon tähän asti kirjoitettu hyvin vähän .</xt>
-	   </xg>
+	   </xg> -->
          </tg>
       </mg>
    </e>
@@ -13748,7 +13748,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
-         <l pos="N">hamphaittenhoitopalvelu</l>
+         <l pos="N">hamphaittenhoitopalvelus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -41385,14 +41385,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">loisto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">skinn</t>
             <t pos="N">glans</t>
             <t pos="N">stråling</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prakt</t>
          </tg>
       </mg>
    </e>
@@ -50478,12 +50484,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">dyrking</t>
+            <t pos="N">tjeneste</t>
+            <xg>
+            <x>Saatatko tehđä minule palveluksen?</x>
+            <xt>Kan du gjøre meg en tjeneste?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">tjeneste</t>
+            <t pos="N">dyrking</t>
+            <t pos="N">dyrkelse</t>
          </tg>
       </mg>
    </e>
@@ -50899,6 +50910,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">parttii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">parti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">partia</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -56515,6 +56536,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tulling</t>
+            <t pos="N">dumming</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pörröpää</l>
+         <stem>pörrö</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tulling</t>
+            <t pos="N">dumming</t>
          </tg>
       </mg>
    </e>
@@ -60828,18 +60862,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;me">
+   <e src="ta;ai;me;es">
       <lg>
          <l pos="N">sauva</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stav</t>
+            <t pos="N">skistav</t>
          </tg>
       </mg>
             <mg>
          <tg xml:lang="nob">
-            <t pos="N">skistav</t>
+            <t pos="N">krykke</t>
          </tg>
       </mg>
    </e>
@@ -69547,10 +69582,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">enspråklig person</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Phrase">en som ikke forstår stedets språk</t>
          </tg>
       </mg>
@@ -71059,19 +71090,44 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">skaft</t>
          </tg>
+         <xg>
+         <x>Hänen sormenjäljet löyđethiin kirvesvarresta.</x>
+         <xt>Hens fingeravtrykk ble funnet på økseskaftet.</xt>
+         </xg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stilk</t>
+         <xg>
+         <x>Leikkaa tulipaanin varret suorhaan eikä viinthoon ennen ko sie laitat net vaashiin.</x>
+         <xt>Snitt tulipanstilkene tvers over, ikke på skrå, før du setter de i vasen.</xt>
+         </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">side</t>
             <t pos="N">kant</t>
+         <xg>
+         <x>Het plokathiin kukkii tien varresta.</x>
+         <xt>De plukket blomster i veikanten.</xt>
+         </xg>
+         <xg>
+         <x>Kylä oon joven varrela.</x>
+         <xt>Bygda ligger langs elvekanten.</xt>
+         </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kropp</t>
+         <xg>
+         <x>Se oli pieni mies varrelta.</x>
+         <xt>Mannen var liten i kroppen.</xt>
+         </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="N">vrangbord</t>
          </tg>
@@ -72761,7 +72817,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">viti</l>
          <stem>viđe</stem>
@@ -72770,6 +72826,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nysnø</t>
+            <t pos="N">løssnø</t>
+            <t pos="Phrase">lett snø</t>
          </tg>
       </mg>
    </e>
@@ -82268,7 +82326,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">kilpielläävä</l>
+         <l pos="N">kilpielävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -83292,7 +83350,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hest med hvit stripe eller flekk på hodet</t>
+            <t pos="Phrase">hest med hvit stripe eller flekk på hodet</t>
          </tg>
       </mg>
    </e>
@@ -83302,6 +83360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	         <re>komitè</re>
             <t pos="N">utvalg</t>
          </tg>
       </mg>
@@ -92183,7 +92242,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">pikkuelläävä</l>
+         <l pos="N">pikkuelävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -92801,11 +92860,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">meri-imuelläävä</l>
+         <l pos="N">meri-imuelävä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sjøpattedyr</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">imuelävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pattedyr</t>
          </tg>
       </mg>
    </e>
@@ -92836,10 +92905,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nåtid</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
             <t pos="N">samtid</t>
          </tg>
       </mg>
@@ -102334,7 +102399,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">tervheyspalvelutarjous</l>
+         <l pos="N">tervheyspalvelustarjous</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -102354,7 +102419,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">sosiaalipalvelu</l>
+         <l pos="N">sosiaalipalvelus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -106511,7 +106576,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">erikoistervheyspalvelu</l>
+         <l pos="N">erikoistervheyspalvelus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -110614,6 +110679,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">basketball</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vesihernet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dråpe</t>
          </tg>
       </mg>
    </e>
