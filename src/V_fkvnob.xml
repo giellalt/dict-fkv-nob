@@ -16854,17 +16854,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">kna</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">skitne til</t>
-            <xg>
-               <x>Se mie piđin kaksoissii käđestä ette kumpikhaan ei kattois lopulisesti eli – mikä vielä pahempi – ei
-               sotkettais vaattheita.</x>
-               <xt>Så jeg holdte tvillingene i hendene, sånn at ingen av dem ble borte for godt eller i verste fall
-               skitnet seg til i tøyet.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -16876,6 +16865,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+<!--   <e src="es">
+      <lg>
+         <l pos="V">sotkettaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">skitne til</t>
+            <xg>
+               <x>Se mie piđin kaksoissii käđestä ette kumpikhaan ei kattois lopulisesti eli – mikä vielä pahempi – ei
+               sotkettais vaattheita.</x>
+               <xt>Så jeg holdte tvillingene i hendene, sånn at ingen av dem ble borte for godt eller i verste fall
+               skitnet seg til i tøyet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> -->
    <e src="ta;ai">
       <lg>
          <l pos="V">souttaat</l>
