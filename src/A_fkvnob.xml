@@ -3967,12 +3967,30 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">gammel</t>
             <xg>
-               <x>vuođen ikhäinen</x>
-               <xt>ett år gammel</xt>
+               <x>Hän oon vuođen ikhäinen.</x>
+               <xt>Han er ett år gammel.</xt>
             </xg>
             <xg>
-               <x>eri-ikhäinen</x>
-               <xt>av ulik alder</xt>
+               <x>Vaikka met olema eri-ikhäiset, met ymmärämmä toinen toista hyvin.</x>
+               <xt>Selv om vi er av ulik alder forstår vi hverandre godt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ikäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gammel</t>
+            <xg>
+               <x>Hän oon vuođen ikäinen.</x>
+               <xt>Han er ett år gammel.</xt>
+            </xg>
+            <xg>
+               <x>Vaikka met olema eri-ikäiset, met ymmärämmä toinen toista hyvin.</x>
+               <xt>Selv om vi er av ulik alder forstår vi hverandre godt.</xt>
             </xg>
          </tg>
       </mg>
@@ -3986,9 +4004,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">evig</t>
-            <syng>
-               <syn>ikunen</syn>
-            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gammel</t>
+            <xg>
+               <x>Hän oon vuođen ikuinen.</x>
+               <xt>Han er ett år gammel.</xt>
+            </xg>
+            <xg>
+               <x>Vaikka met olema eri-ikuiset, met ymmärämmä toinen toista hyvin.</x>
+               <xt>Selv om vi er av ulik alder forstår vi hverandre godt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
