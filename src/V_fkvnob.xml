@@ -11464,12 +11464,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es;ta">
       <lg>
          <l pos="V">näytelä</l>
          <stem>näyttele</stem>
          <stem>näytel</stem>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">vise fram</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>f.eks. i et skuespill</re>
+            <t pos="V">spille</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">få til å springe</t>
@@ -11508,7 +11519,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">nöyrttyyt</l>
          <stem>nöyry</stem>
@@ -11517,6 +11528,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli skikkelig sint</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ydmyke seg</t>
+            <t pos="Phrase">bli ydmyk</t>
          </tg>
       </mg>
    </e>
