@@ -9711,7 +9711,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">lähätellä</l>
          <stem>lähättele</stem>
@@ -9720,6 +9720,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">banne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sende</t>
          </tg>
       </mg>
    </e>
@@ -9735,11 +9740,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">sende</t>
-            <xg>
-               <x>lähättäät etheenpäin</x>
-               <xt>videresende</xt>
-            </xg>
+            <t pos="V">banne</t>
          </tg>
       </mg>
    </e>
