@@ -5031,7 +5031,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">kolo</l>
          <stem>kollo</stem>
@@ -5040,6 +5040,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">forferdelig</t>
             <t pos="A">stygg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">skremmende</t>
          </tg>
       </mg>
    </e>
