@@ -10928,7 +10928,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">vasittu</l>
       </lg>
@@ -10936,6 +10936,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">egentlig</t>
             <t pos="A">virkelig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">viss</t>
+            <t pos="A">bestemt</t>
          </tg>
       </mg>
    </e>
