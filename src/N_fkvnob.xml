@@ -86607,7 +86607,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">folk i de nordiske landene</t>
+            <t pos="N">nordboer</t>
          </tg>
       </mg>
    </e>
@@ -110776,6 +110776,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">fordypning</t>
             <t pos="N">hull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">maalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>en som bor på landet</re>
+            <t pos="N">bonde</t>
          </tg>
       </mg>
    </e>
