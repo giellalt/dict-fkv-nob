@@ -60581,12 +60581,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ord</t>
+            <xg>
+                <x>Mitä tämä sana meinaa?</x>
+	            <xt>Hva betur dette ordet?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">beskjed</t>
             <t pos="N">bud</t>
+            <xg>
+                <x>Hän pani sanan heiđän pörhään.</x>
+	            <xt>Hen sendte bud etter dem.</xt>
+            </xg>
+            <xg>
+                <x>Hän sai sanan siitä.</x>
+	            <xt>Hen fikk beskjed om det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
