@@ -3138,13 +3138,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">hieroot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">gni</t>
+            <t pos="V">massere</t>
          </tg>
       </mg>
       <mg>
@@ -9667,7 +9668,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">lyöđä</l>
          <stem>lyö</stem>
@@ -9680,6 +9681,18 @@ For the full license text, see the link above.</lic>
                <x>Hän lyöpi vasarala.</x>
                <xt>Han slår med hammeren.</xt>
             </xg>
+            <xg>
+               <x>Tromssan ja Finmarkun lyöthiin yhtheen vuona 2020, mutta ei se avioliitto kauvoin kestäny.</x>
+               <xt>Troms og Finnmark ble slått sammen i 2020, men ekteskapet varte ikke lenge.</xt>
+            </xg>
+<!--            <xg>
+               <x>Lyökkää nyt pois sen lampun.</x>
+               <xt>Slå nå av den lampen der.</xt>
+            </xg> -->
+            <xg>
+               <x>Ei se lyöny leivile tuo investeerinki.</x>
+               <xt>Det lønte seg ikke med den investeringa der.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -9690,6 +9703,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">slå seg sammen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">slå av</t>
          </tg>
       </mg>
    </e>
