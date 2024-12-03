@@ -42427,15 +42427,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">lykky</l>
          <stem>lyky</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">tur</t>
             <t pos="N">lykke</t>
+            <t pos="N">hell</t>
+            <t pos="N">tur</t>
+            <xg>
+            <x>Lykkyy tykö!</x>
+            <xt>Lykke til!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48797,7 +48802,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">onni</l>
          <stem>onne</stem>
