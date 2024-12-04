@@ -3486,6 +3486,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">svimle</t>
+            <t pos="Phrase">bli svimmel</t>
+            <t pos="Phrase">være svimmel</t>
+            <xg>
+	            <x>Minnuu huimaa.</x>
+	            <xt>Jeg er svimmel.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3542,7 +3548,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">hullutella</l>
          <stem>hulluttele</stem>
@@ -3552,6 +3558,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tulle</t>
             <t pos="V">tøyse</t>
+            <t pos="V">fjase</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fleipe</t>
+            <t pos="V">spøke</t>
          </tg>
       </mg>
    </e>
@@ -3954,16 +3967,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">forsvinne</t>
             <t pos="Phrase">bli borte</t>
+            <t pos="V">drukne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">omkomme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">drukne</t>
          </tg>
       </mg>
    </e>
