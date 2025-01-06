@@ -12322,13 +12322,91 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">painuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">synke</t>
+            <t pos="V">falle</t>
+            <t pos="Phrase">gå ned</t>
+            <xg>
+	            <x>Kenkä painui jänkhään.</x>
+	            <xt>Skoen sank ned i myra.</xt>
+            </xg>
+            <xg>
+	            <x>Hän painui matalaksi ja jäi ođottamhaan saalista.</x>
+	            <xt>Han la seg lavt og ventet på byttet.</xt>
+            </xg>
+            <xg>
+	            <x>Minun mieli painui ko kuulin uutisen.</x>
+	            <xt>Jeg ble nedstemt da jeg hørte nyheten.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>tett mot noe</re>
+            <t pos="V">presses</t>
+            <t pos="Phrase">bli presset</t>
+            <t pos="V">trykkes</t>
+            <t pos="Phrase">bli trykket</t>
+            <xg>
+	            <x>Hän oli niin vaipunu ette silmät painuthiin kiini.</x>
+	            <xt>Hen var så trøtt at øynene presset seg igjen.</xt>
+            </xg>
+            <xg>
+	            <x>Ovi painui kiini.</x>
+	            <xt>Døra gled igjen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">synke sammen</t>
+            <t pos="Phrase">presses sammen</t>
+            <t pos="Phrase">trykkes sammen</t>
+            <xg>
+	            <x>Koko viikon oli satanu vettä, ja lumi oli alkanu sulamhaan ja painuhaan.</x>
+	            <xt>Det hadde regnet hele uka, og snøet hadde begynt å smelte og synke sammen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bøyes</t>
+            <t pos="Phrase">bli bøyd</t>
+            <t pos="V">krøkes</t>
+            <t pos="Phrase">krøke seg</t>
+            <xg>
+	            <x>Puunoksat olthiin painunheet kaariksi.</x>
+	            <xt>Greinene hadde bøyd seg i en bue.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dra</t>
+            <t pos="V">stikke</t>
+            <xg>
+	            <x>Hän sanoi hyvästi ja painui tiehensä.</x>
+	            <xt>Hen sa farvel og dro av sted.</xt>
+            </xg>
+            <xg>
+	            <x>Painu tiehesti!</x>
+	            <xt>Dra til ...!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>billedlig</re>
+            <t pos="Phrase">feste seg</t>
+            <xg>
+	            <x>Sanat olthiin painunheet hänen mielheen ikuisesti.</x>
+	            <xt>Ordene hadde festet seg i minnet hans for alltid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
