@@ -21599,8 +21599,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">melkeringe</t>
             <t pos="N">rømmekolle</t>
+            <t pos="N">melkekolle</t>
+            <t pos="N">melkeringe</t>
+            <t pos="N">filbunke</t>
+            <t pos="N">bunke</t>
          </tg>
       </mg>
    </e>
@@ -21611,9 +21614,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">filbunke</t>
             <t pos="N">rømmekolle</t>
-            <t pos="N">bunk</t>
+            <t pos="N">melkekolle</t>
+            <t pos="N">melkeringe</t>
+            <t pos="N">filbunke</t>
+            <t pos="N">bunke</t>
          </tg>
       </mg>
    </e>
@@ -42605,6 +42610,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">stabel</t>
             <t pos="N">haug</t>
+            <t pos="N">dunge</t>
          </tg>
       </mg>
    </e>
@@ -52694,13 +52700,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">pino</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stabel</t>
+            <t pos="N">bunke</t>
          </tg>
       </mg>
    </e>
@@ -54932,14 +54939,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">punkki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bunke</t>
+            <t pos="N">rømmekolle</t>
             <t pos="N">melkekolle</t>
+            <t pos="N">melkeringe</t>
+            <t pos="N">filbunke</t>
+            <t pos="N">bunke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>trekar til å syrne melk eller fløte i</re>
+            <t pos="N">bunke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>stabel, haug</re>
+            <t pos="N">bunke</t>
          </tg>
       </mg>
    </e>
@@ -92153,8 +92175,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>brukes når man lager fiili/filbunke, et jogurtlignende produkt</re>
-            <t pos="N">starter for å lage ny filbunke</t>
+         <re>brukes når man lager fiili/filbunke</re>
+            <t pos="N">filbunkstarter</t>
          </tg>
       </mg>
    </e>
@@ -95762,8 +95784,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">melkeringe</t>
             <t pos="N">rømmekolle</t>
+            <t pos="N">melkekolle</t>
+            <t pos="N">melkeringe</t>
+            <t pos="N">filbunke</t>
+            <t pos="N">bunke</t>
          </tg>
       </mg>
    </e>
