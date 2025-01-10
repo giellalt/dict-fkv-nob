@@ -26754,16 +26754,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="anb;ai">
       <lg>
          <l pos="N">istuin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sete</t>
-            <t pos="N">oppholdssted</t>
+            <t pos="N">sitteplass</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sete</t>
+            <t pos="N">oppholdssted</t>
+<!--           <xg>
+	            <x>Uslu oon Kuninkhaan ja Isotingan istuin.<x>
+	            <xt>Oslo er sete for Kongen og Stortinget.</xt>
+            </xg> -->
+         </tg>
+      </mg> 
    </e>
    <e src="ta">
       <lg>
