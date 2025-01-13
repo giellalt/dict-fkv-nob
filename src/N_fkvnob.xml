@@ -4967,6 +4967,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">telefuuninumero</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">telefonnummer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">tervettely</l>
       </lg>
       <mg>
@@ -66662,6 +66672,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tietotelefuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opplysningstelefon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="yr">
       <lg>
          <l pos="N">tietulli</l>
@@ -75749,6 +75769,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">pressetelefooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pressetelefon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pressetelefuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -88885,6 +88915,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">smarttelefuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">smarttelefon</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">sneeseili</l>
@@ -89661,6 +89701,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">telefooninrööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">telefonrør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">telefuuninrööri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
