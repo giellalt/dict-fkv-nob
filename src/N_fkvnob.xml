@@ -14461,6 +14461,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trinn</t>
+            <t pos="N">steg</t>
             <syng>
                <syn>askelet</syn>
             </syng>
@@ -53882,6 +53883,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trinn</t>
+            <t pos="N">trappetrinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">porrasaskel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trinn</t>
+            <t pos="N">trappetrinn</t>
          </tg>
       </mg>
    </e>
