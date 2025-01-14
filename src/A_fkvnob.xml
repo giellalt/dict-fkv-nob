@@ -12025,6 +12025,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">underliggende</t>
+            <t pos="Phrase">som ligger under</t>
+            <t pos="Phrase">den underste</t>
+            <xg>
+	            <x>Teko oon rangaistuksen alainen.</x>
+	            <xt>Handlingen er underlagt straff.</xt>
+            </xg>
+            <xg>
+	            <x>Hän makkoili sölälänsä lattiila säkki pään alaisenna.</x>
+	            <xt>Han lå på rygg på gulvet med sekken under hodet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
