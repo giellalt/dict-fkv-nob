@@ -1315,12 +1315,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">alkhuun</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">i begynnelsen</t>
+            <t pos="Adv">til å begynne med</t>
             <t pos="Adv">fra først av</t>
          </tg>
       </mg>
@@ -1342,8 +1344,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">først</t>
-            <t pos="Adv">for å begynne med</t>
+            <t pos="Adv">i begynnelsen</t>
+            <t pos="Adv">til å begynne med</t>
+            <t pos="Adv">fra først av</t>
          </tg>
       </mg>
    </e>
@@ -1528,6 +1531,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">i begynnelsen</t>
+            <t pos="Adv">til å begynne med</t>
+            <t pos="Adv">fra først av</t>
          </tg>
       </mg>
    </e>
@@ -2996,9 +3001,14 @@ For the full license text, see the link above.</lic>
                <x>Kerran ko mie olin mettässä, se mie näjin karhuun.</x>
                <xt>En gang da jeg var i skogen, så jeg en bjørn der.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">først</t>
             <xg>
                <x>Ko sie nyt kerran olet täälä, se sie häyđyt pestä laattiit.</x>
-               <xt>Siden du nå er her nå, så må du vaske gulvene.</xt>
+               <xt>Siden du nå først er her må du vaske gulvene.</xt>
             </xg>
          </tg>
       </mg>
@@ -8857,7 +8867,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">fra begynnelsen</t>
+            <t pos="Adv">i begynnelsen</t>
+            <t pos="Adv">til å begynne med</t>
+            <t pos="Adv">fra først av</t>
             <xg>
                <x>Alusta saakka.</x>
                <xt>Fra begynnelsen av.</xt>
