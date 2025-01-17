@@ -3871,6 +3871,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai">
+      <lg>
+         <l pos="A">hyöđytön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">unyttig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;es">
       <lg>
          <l pos="A">häijy</l>
@@ -4228,7 +4238,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="A">joutilas</l>
          <stem>joutilhaa</stem>
@@ -4236,16 +4246,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">arbeidsløs</t>
+            <t pos="A">uvirksom</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lat</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">jouttaava</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">unødvendig</t>
+            <t pos="A">unyttig</t>
          </tg>
       </mg>
    </e>
@@ -10060,13 +10077,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">turha</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">unødvendig</t>
+            <t pos="A">unyttig</t>
          </tg>
       </mg>
    </e>
