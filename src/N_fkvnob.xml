@@ -37970,6 +37970,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+	         <re>korn som er sådd eller skal sås</re>
             <t pos="N">sæd</t>
          </tg>
       </mg>
@@ -39094,7 +39095,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">laita</l>
          <stem>laiđa</stem>
@@ -39104,12 +39105,30 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">perm</t>
             <t pos="N">side</t>
+            <xg>
+	            <x>Mie lujin kirjan laiđasta laithaan.</x>
+	            <xt>Jeg leste boken fra perm til perm.</xt>
+            </xg>
+            <xg>
+	            <x>Kirjassa oon 200 laittaa.</x>
+	            <xt>Det er 200 sider i boka.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">li</t>
             <t pos="N">skråning</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kant</t>
+            <t pos="N">side</t>
+            <xg>
+	            <x>Mie isuin sängyn laiđala ja hieroin silmii.</x>
+	            <xt>Jeg satt på sengekanten og gnidde meg i øynene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -55103,17 +55122,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">halvdel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">side</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">halv</t>
+            <t pos="N">halvdel</t>
          </tg>
       </mg>
    </e>
@@ -55123,9 +55138,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">middag omkring kl. tolv</t>
+	         <re>måltid</re>
+            <t pos="N">middag</t>
+            <xg>
+	            <x>Mitä saama puoliseksi tääpänä?</x>
+	            <xt>Hva får vi til middag idag?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">side</t>
             <t pos="N">halvdel</t>
+            <t pos="N">halvpart</t>
+            <xg>
+	            <x>Met kävelemmä alaspäin joven vestaisen puolista ranttaa.</x>
+	            <xt>Vi går ned langs vestre side av elvebredden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -55135,21 +55164,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">middag omkring kl. tolv</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">på formiddagen</t>
+	         <re>tidspunkt</re>
+            <t pos="N">middag</t>
             <xg>
             <x>ennen puoltapäivää</x>
             <xt>på formiddagen</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">på ettermiddagen</t>
             <xg>
             <x>jälkhiin puolenpäivän</x>
             <xt>på ettermiddagen</xt>
@@ -55164,6 +55184,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">halvdel</t>
+            <t pos="N">halvpart</t>
+            <t pos="N">helvt</t>
          </tg>
       </mg>
    </e>
