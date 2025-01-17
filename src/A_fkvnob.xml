@@ -4339,6 +4339,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="A">puolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">-sidig</t>
+            <xg>
+	            <x>Rakkhaus pittää olla molemanpuolista.</x>
+	            <xt>Kjærligheten burde være gjensidig.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som er på/fra en side av noe</t>
+            <xg>
+	            <x>Met olema nyt Norjan puolisella jovenrannala.</x>
+	            <xt>Nå er vi på den norske siden av elva.</xt>
+            </xg>
+            <xg>
+	            <x>Muorin suomenpuoliset sukulaiset tulleevat kylhään tänä pyhänä.</x>
+	            <xt>Mors slektninger fra finsk side kommer på besøk i helga.</xt>
+            </xg>
+            <xg>
+	            <x>Hyysikkä oon oikkeen puolisessa lomassa.</x>
+	            <xt>Toalettet er i rommet på høyre side.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="A">järkkeevä</l>
@@ -8229,16 +8260,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">puolilainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra side</t>
+            <t pos="Phrase">som er på/fra en side av noe</t>
             <xg>
-               <x>suomenpuolilainen</x>
-               <xt>fra finsk side</xt>
+	            <x>Met olema nyt Norjan puolilaisela jovenrannala.</x>
+	            <xt>Nå er vi på den norske siden av elva.</xt>
+            </xg>
+            <xg>
+	            <x>Muorin suomenpuolilaiset sukulaiset tulleevat kylhään tänä pyhänä.</x>
+	            <xt>Mors slektninger fra finsk side kommer på besøk i helga.</xt>
             </xg>
          </tg>
       </mg>
