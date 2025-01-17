@@ -4262,6 +4262,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">unødvendig</t>
+            <t pos="A">bortkastet</t>
             <t pos="A">unyttig</t>
          </tg>
       </mg>
@@ -5479,7 +5480,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">som slutter på</t>
+            <t pos="A">endende</t>
+            <t pos="Phrase">som slutter på</t>
          </tg>
       </mg>
    </e> -->
@@ -10084,6 +10086,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">unødvendig</t>
+            <t pos="A">bortkastet</t>
             <t pos="A">unyttig</t>
          </tg>
       </mg>
@@ -14688,6 +14691,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">unødvendig</t>
             <t pos="A">bortkastet</t>
+            <t pos="A">unyttig</t>
          </tg>
       </mg>
    </e>
@@ -20726,6 +20730,126 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">underjordisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">pruunimusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">brunsvart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">elegantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">elegant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">epärehelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uærlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">epätođelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uvirkelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">höyrytetty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">dampet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">maaginen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">magisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">meediumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">medium</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">maksettu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">betalt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">ovaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">oval</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">tummanpruuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkebrun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">yliluonolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">overnaturlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="na">
+      <lg>
+         <l pos="A">vaalehyksinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lyshåret</t>
          </tg>
       </mg>
    </e>
