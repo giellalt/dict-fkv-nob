@@ -47106,12 +47106,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="es;ki;ta;ai">
       <lg>
          <l pos="N">neuvo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">råd</t>
+            <xg>
+               <x>Hän antoi minule hyvän neuvon.</x>
+               <xt>Hen ga meg et godt råd.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">instruks</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utstyr</t>
+            <t pos="N">middel</t>
+            <t pos="N">redskap</t>
+            <t pos="N">tøy</t>
+            <xg>
+               <x>Miksi sinula ei ole pyyötneuvoi myötä?</x>
+               <xt>Hvorfor har du ikke med deg fiskereskapene?</xt>
+            </xg>
+            <xg>
+               <x>Het oon tehnheet kväänin kielen oppineuvoi.</x>
+               <xt>De har laget kvenske læremidler.</xt>
+            </xg>
+            <xg>
+               <x>Nuot ei ole soppeevat jalkaneuvot tähän säähän.</x>
+               <xt>Det der er ikke passende fottøy i dette været.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>raati</re>
             <t pos="N">ting</t>
             <t pos="N">råd</t>
          </tg>
