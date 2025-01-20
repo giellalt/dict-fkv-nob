@@ -11049,7 +11049,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">neuvotella</l>
          <stem>nevottele</stem>
@@ -11058,6 +11058,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">råde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">drøfte</t>
+            <t pos="V">konsultere</t>
+            <t pos="V">rådslå</t>
          </tg>
       </mg>
    </e>
