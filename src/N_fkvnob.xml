@@ -14944,11 +14944,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">tidsfordriv</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="N">tidsregning</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e src="mk">
       <lg>
@@ -77992,7 +77992,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">tidsregning</t>
             <xg>
-               <x>Ennen aijanräkningin alun.</x>
+               <x>Ennen aijanräkningin alkkuu.</x>
                <xt>Før vår tidsregning.</xt>
             </xg>
          </tg>
