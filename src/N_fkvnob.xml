@@ -14614,6 +14614,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="mk">
       <lg>
+         <l pos="N">asumabiilikohtaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bobiltreff</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk">
+      <lg>
          <l pos="N">kohtaaminen</l>
       </lg>
       <mg>
@@ -14706,6 +14716,17 @@ For the full license text, see the link above.</lic>
    <e src="mk">
       <lg>
          <l pos="N">asumapiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bobil</t>
+            <t pos="N">campingbil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">asumabiili</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -39785,6 +39806,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lastibiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lastebil</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">lastivenet</l>
@@ -43368,6 +43399,16 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="N">maitopiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">melkebil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">maitobiili</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -52299,9 +52340,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">biili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bil</t>
+            <syng>
+               <syn>piili</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">piilisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilist</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">biilisti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -59762,6 +59826,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
+         <l pos="N">ruuttabiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rutebil</t>
+            <t pos="N">buss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="N">ruutu</l>
       </lg>
       <mg>
@@ -62025,7 +62100,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">sted</t>
             <t pos="N">plass</t>
             <xg>
-               <x>Minula ei ole sijjaa piilile.</x>
+               <x>Minula ei ole sijjaa biilile.</x>
                <xt>Jeg har ikke plass til en bil.</xt>
             </xg>
          </tg>
@@ -79760,6 +79835,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">elbiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">elbil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">elämänarpa</l>
       </lg>
       <mg>
@@ -86430,6 +86515,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">persoonabiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personbil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N" hid="Hom1">peruslaki</l>
       </lg>
       <mg>
@@ -86520,7 +86615,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="N">biilimakso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilavgift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="N">piiliraito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilkø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">biiliraito</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -86820,6 +86935,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">pluukapiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brøytebil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pluukabiili</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -105684,6 +105809,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">biilikorteesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilkortesje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">ylöställäys</l>
       </lg>
       <mg>
@@ -105715,6 +105850,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">ryssepiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">russebil</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ryssebiili</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -108791,6 +108936,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">käytetyittenpiiliinmyyjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bruktbilselger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">käytetyittenbiiliinmyyjä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
