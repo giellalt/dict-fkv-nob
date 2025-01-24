@@ -14612,7 +14612,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="ki">
       <lg>
          <l pos="N">asumabiilikohtaaminen</l>
       </lg>
@@ -43406,7 +43406,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ki">
       <lg>
          <l pos="N">maitobiili</l>
       </lg>
@@ -59824,7 +59824,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki">
       <lg>
          <l pos="N">ruuttabiili</l>
       </lg>
@@ -71845,7 +71845,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">lån</t>
             <t pos="N">skyld</t>
             <xg>
-            <x>Pekka osti piilin velaksi.</x>
+            <x>Pekka osti biilin velaksi.</x>
             <xt>Pekka kjøpte seg bil på kreditt.</xt>
             </xg>
          </tg>
@@ -79833,7 +79833,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">elbiili</l>
       </lg>
@@ -86513,7 +86513,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">persoonabiili</l>
       </lg>
@@ -86613,7 +86613,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">biilimakso</l>
       </lg>
@@ -86633,7 +86633,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">biiliraito</l>
       </lg>
@@ -86942,7 +86942,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">pluukabiili</l>
       </lg>
@@ -108943,13 +108943,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="N">käytetyittenbiiliinmyyjä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bruktbilselger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">biiliinmyyjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilselger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">piiliinmyyjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bilselger</t>
          </tg>
       </mg>
    </e>
