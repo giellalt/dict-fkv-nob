@@ -21262,11 +21262,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">evakuering</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">under evakueringa</t>
-         </tg>
-      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -78010,6 +78005,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tidsforståelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aikaymmärys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tidsbegrep</t>
          </tg>
       </mg>
    </e>
