@@ -1182,7 +1182,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ae">
+   <e src="ai;ae;es">
       <lg>
          <l pos="Adv">aivan</l>
       </lg>
@@ -1191,11 +1191,28 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">helt</t>
             <t pos="Adv">aldeles</t>
             <t pos="Adv">fullstendig</t>
+            <xg>
+	            <x>Se oon aivan oikhein.</x>
+	            <xt>Det er helt rett.</xt>
+            </xg>
+            <xg>
+	            <x>Hän tiettää aivan hyvin, miksi met olema tulheet tänne.</x>
+	            <xt>Han vet aldeles godt hvorfor vi er kommet hit.</xt>
+            </xg>
+            <xg>
+	            <x>Tuo mies oon aivan vijaton.</x>
+	            <xt>Den mannen er helt uskyldig.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bare</t>
+            <t pos="Adv">utelukkende</t>
+            <xg>
+	            <x>Kotona met puhuima aivan suomee.</x>
+	            <xt>Vi snakket bare finsk hjemme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
