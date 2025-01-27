@@ -18404,7 +18404,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">akkanen</l>
          <stem>akkase</stem>
@@ -18413,6 +18413,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skammekrok</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håkjerring</t>
          </tg>
       </mg>
    </e>
