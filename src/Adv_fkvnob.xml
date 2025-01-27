@@ -1785,7 +1785,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">etheenkäsin</l>
       </lg>
@@ -1794,14 +1794,24 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">framover</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">videre</t>
+         </tg>
+      </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">etheenpäin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">framover</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">videre</t>
          </tg>
       </mg>
    </e>
@@ -2557,14 +2567,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;ki">
+   <e src="ki;ta;ai">
       <lg>
          <l pos="Adv">jatkuuvasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">fortsatt</t>
+            <t pos="Adv">hele tiden</t>
+            <t pos="Adv">konstant</t>
             <t pos="Adv">stadig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">uavbrutt</t>
+            <t pos="Adv">fortløpende</t>
+            <t pos="Adv">kontinuerlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fortsatt</t>
          </tg>
       </mg>
    </e>
