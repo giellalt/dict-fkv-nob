@@ -1603,7 +1603,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">aloittaat</l>
          <stem>aloita</stem>
@@ -1612,6 +1612,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">begynne</t>
+            <t pos="V">starte</t>
+            <t pos="Phrase">sette i gang</t>
          </tg>
       </mg>
    </e>
