@@ -27457,7 +27457,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">fornorskes</t>
             <t pos="Phrase">la seg fornorske</t>
-            <t pos="Phrase">bli fornorske</t>
          </tg>
       </mg>
    </e>
@@ -27467,14 +27466,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">vikle seg inn</t>
-            <t pos="Phrase">bli viklet inn</t>
-            <t pos="Phrase">bli rotet inn</t>
+            <t pos="Phrase">floke seg</t>
+            <t pos="Phrase">vikle seg</t>
+            <xg>
+	            <x>Verkko oon sotkeentunnu.</x>
+	            <xt>Garnet har floket seg.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">floke seg</t>
+            <t pos="V">innblandes</t>
+            <t pos="Phrase">bli innblandet</t>
+            <t pos="Phrase">bli involvert</t>
+            <xg>
+	            <x>Miksi tet oletta sotkeentunheet tähän sothaan?</x>
+	            <xt>Hvorfor har dere blitt innblandet i denne krigen?</xt>
+            </xg>
+            <xg>
+	            <x>Hänen porot oon sotkeentunheet minun porroin kans, eikä siihen saata tehđä mithään nyt.</x>
+	            <xt>Reinene hans har blandet seg med mine, og det kan man ikke gjøre noe med nå.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
