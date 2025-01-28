@@ -12914,7 +12914,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">paranttuut</l>
          <stem>paranu</stem>
@@ -12923,6 +12923,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli bedre</t>
+            <t pos="Phrase">bedre seg</t>
          </tg>
       </mg>
    </e>
@@ -21161,7 +21162,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">be om</t>
+            <t pos="Phrase">be om</t>
          </tg>
       </mg>
    </e>
