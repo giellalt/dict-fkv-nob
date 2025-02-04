@@ -18064,7 +18064,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">aihki</l>
+         <l pos="N">aikki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -18072,13 +18072,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es;ki">
       <lg>
          <l pos="N">käänös</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">oversettelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vending</t>
+            <t pos="N">sving</t>
          </tg>
       </mg>
    </e>
@@ -18089,10 +18095,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">solsnu</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
             <t pos="N">solverv</t>
          </tg>
       </mg>
