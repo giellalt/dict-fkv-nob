@@ -8096,16 +8096,41 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">ta en tur</t>
             <t pos="V">besøke</t>
-            <t pos="V">forfølge</t>
+            <t pos="V">gå</t>
             <xg>
-               <x>käyđä päin</x>
-               <xt>å gå an</xt>
+               <x>Mie kävin kaupala tääpänä.</x>
+               <xt>Jeg tok meg en handletur idag.</xt>
+            </xg>
+            <xg>
+               <x>Muistathan käyđä sinun muorin tykönä hänen syntymäpäivänä.</x>
+               <xt>Du husker vel å besøke mor på bursdagen hennes.</xt>
+            </xg>
+            <xg>
+               <x>Museeumissa oon käyny joukon paljon vierhaita tänä vuona.</x>
+               <xt>Museet har vært godt besøkt i år.</xt>
+            </xg>
+            <xg>
+               <x>Missä sinun lapset käyđhään kouluu?</x>
+               <xt>Hvor er det barna dine går på skole?</xt>
+            </xg>
+            <xg>
+               <x>Tämä ei käy laihiin.</x>
+               <xt>Dette går ikke an.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">gå og hente</t>
+            <xg>
+               <x>Käy minule vasaran.</x>
+               <xt>Gå og hent meg en hammer.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forfølge</t>
          </tg>
       </mg>
    </e>
@@ -8155,6 +8180,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">vende</t>
             <t pos="V">snu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">oversette</t>
          </tg>
       </mg>
