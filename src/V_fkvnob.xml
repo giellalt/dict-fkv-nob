@@ -4688,14 +4688,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bevege</t>
+            <t pos="V">ferdes</t>
+            <t pos="Phrase">bevege seg</t>
             <t pos="Phrase">flytte på seg</t>
-            <t pos="V">ferdes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">ferdes</t>
+            <t pos="Phrase">forflytte seg</t>
          </tg>
       </mg>
    </e>
@@ -8967,17 +8963,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="V">liikahtaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">røre på seg</t>
+            <t pos="V">rikke</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="V">liikkuut</l>
          <stem>liiku</stem>
@@ -8986,6 +8983,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bevege</t>
             <t pos="Phrase">røre på seg</t>
+            <t pos="Phrase">flytte seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">mosjonere</t>
          </tg>
       </mg>
    </e>
