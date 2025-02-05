@@ -40889,7 +40889,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">liikutus</l>
          <stem>liikutukse</stem>
@@ -40898,6 +40898,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">bevegelse</t>
             <t pos="N">rørelse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sinnsbevegelse</t>
          </tg>
       </mg>
    </e>
