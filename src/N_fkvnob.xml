@@ -12152,15 +12152,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;es">
       <lg>
          <l pos="N">lalva</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">ende</t>
             <t pos="N">topp</t>
+            <t pos="N">tretopp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">øvre løp av en elv</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ende</t>
             <t pos="Phrase">enden av en veg</t>
          </tg>
       </mg>
