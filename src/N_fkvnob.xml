@@ -41477,14 +41477,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ia">
+   <e src="ai;ia;es">
       <lg>
          <l pos="N">lohta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">loft</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">dal høgt oppe på fjellet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>i landskapet</re>
+            <t pos="N">terasse</t>
+            <t pos="N">hylle</t>
          </tg>
       </mg>
    </e>
