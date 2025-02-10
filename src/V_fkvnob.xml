@@ -7216,9 +7216,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">vandre</t>
             <t pos="V">gå</t>
+            <t pos="V">vandre</t>
             <t pos="V">ferdes</t>
+            <t pos="V">trå</t>
             <xg>
                <x>Kulje alassa varovaisesti!</x>
                <xt>Trå varsomt i området!</xt>
@@ -7226,7 +7227,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki">
+      <lg>
+         <l pos="V">astela</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gå</t>
+            <t pos="V">vandre</t>
+            <t pos="V">trå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;es">
       <lg>
          <l pos="V">kulkkuut</l>
       </lg>
@@ -7234,6 +7247,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">gå</t>
             <t pos="V">ferdes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">renne over</t>
+            <xg>
+               <x>Vesi kulkkuu ämpärin reunoin yli.</x>
+               <xt>Vannet rennet over kanten på bøtta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10667,9 +10689,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">sikksakke</t>
             <t pos="Phrase">gå i sikksakk</t>
-            <t pos="Phrase">være innviklet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">bukte seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være innviklet</t>
          </tg>
       </mg>
    </e>
@@ -16091,6 +16122,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">rekke til</t>
             <t pos="Phrase">duge til</t>
+            <t pos="Phrase">være nok</t>
+            <t pos="Phrase">være tilstrekkelig</t>
          </tg>
       </mg>
    </e>
