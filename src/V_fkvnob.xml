@@ -17951,7 +17951,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es;ki">
       <lg>
          <l pos="V">tarkastella</l>
          <stem>tarkastele</stem>
@@ -17960,6 +17960,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">undersøke</t>
+            <t pos="V">granske</t>
+            <t pos="V">studere</t>
+            <t pos="V">betrakte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">observere</t>
+            <t pos="V">iaktta</t>
          </tg>
       </mg>
    </e>
@@ -17985,6 +17994,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">festne</t>
             <t pos="V">hefte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">smitte</t>
          </tg>
       </mg>
@@ -18008,7 +18021,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">få napp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">feste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">smitte</t>
             <t pos="Phrase">overføre smitte</t>
          </tg>
       </mg>
