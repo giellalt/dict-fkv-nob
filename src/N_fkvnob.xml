@@ -4933,6 +4933,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">energi</t>
             <t pos="N">virkelyst</t>
+            <t pos="N">handlekraft</t>
          </tg>
       </mg>
       <mg>
@@ -4948,6 +4949,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">teddybjørn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">energia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">energi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">energii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">energi</t>
          </tg>
       </mg>
    </e>
