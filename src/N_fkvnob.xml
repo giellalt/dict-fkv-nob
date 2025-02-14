@@ -44574,7 +44574,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">meno</l>
          <stem>menno</stem>
@@ -44582,6 +44582,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gang</t>
+            <t pos="N">vei</t>
+            <xg>
+	            <x>Mie tehen sen nyt yhtä mennoo.</x>
+	            <xt>Jeg gjør det nå med en gang.</xt>
+            </xg>
+            <xg>
+	            <x>Mihin sie olet menossa?</x>
+	            <xt>Hvor er du på vei hen?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgift</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avreise</t>
+            <t pos="N">avgang</t>
          </tg>
       </mg>
    </e>
@@ -68293,7 +68313,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">tulo</l>
          <stem>tullo</stem>
@@ -68301,10 +68321,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ankomst</t>
-            <xg>
-               <x>olla tulossa</x>
-               <xt>være på vei hitover</xt>
-            </xg>
+<!--            <xg>
+               <x>Mie olen tulossa.</x>
+               <xt>Jeg er på vei.</xt>
+            </xg> -->
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">inntekt</t>
+            <t pos="N">innkomst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avling</t>
          </tg>
       </mg>
    </e>
