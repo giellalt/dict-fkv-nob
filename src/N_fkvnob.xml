@@ -68420,20 +68420,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">tunnustus</l>
          <stem>tunnustukse</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bekjennelse</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tilståelse</t>
             <t pos="N">innrømmelse</t>
+            <t pos="N">tilståelse</t>
+            <t pos="N">bekjennelse</t>
+            <t pos="N">erkjennelse</t>
          </tg>
       </mg>
    </e>
