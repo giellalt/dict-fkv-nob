@@ -5447,13 +5447,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="V">kauhistuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bli forskrekket</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli opprørt</t>
          </tg>
       </mg>
    </e>
@@ -5466,6 +5471,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kjøpe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">drive forretning</t>
          </tg>
       </mg>
@@ -19010,13 +19019,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="V">tyrmistyyt</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">besvime</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli forskrekket</t>
          </tg>
       </mg>
    </e>
