@@ -5977,7 +5977,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>den eller det som er ~</re>
+            <t pos="A">nærmere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">täkempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="A">nærmere</t>
          </tg>
       </mg>
@@ -6001,7 +6010,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">nærmest</t>
+            <t pos="A">nærmeste</t>
          </tg>
       </mg>
    </e>
@@ -6011,7 +6020,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">nærmest</t>
+            <t pos="A">nærmeste</t>
          </tg>
       </mg>
    </e>
@@ -6021,7 +6030,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">nærmest</t>
+            <t pos="A">nærmeste</t>
          </tg>
       </mg>
    </e>
@@ -10301,7 +10310,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">nærmest</t>
+            <t pos="A">nærmeste</t>
          </tg>
       </mg>
    </e>
