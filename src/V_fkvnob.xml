@@ -19523,13 +19523,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">gjøre tykkere</t>
             <t pos="V">forsterke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bekrefte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gjøre tykkere</t>
          </tg>
       </mg>
       <mg>
@@ -19622,7 +19626,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">mangle</t>
             <xg>
                <x>Lapselta vailuthaan kengät.</x>
-               <xt>Barn mangler skoene.</xt>
+               <xt>Barnet mangler skoene.</xt>
             </xg>
          </tg>
       </mg>
