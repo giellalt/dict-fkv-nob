@@ -16591,9 +16591,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">skildre</t>
-            <t pos="Phrase">tale om</t>
             <t pos="V">forklare</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skildre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tale om</t>
          </tg>
       </mg>
    </e>
