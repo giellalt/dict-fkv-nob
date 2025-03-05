@@ -727,6 +727,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">over ende</t>
+            <xg>
+               <x>Hän meni nurinniskoin.</x>
+               <xt>Han datt over ende.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3556,6 +3560,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">over ende</t>
             <t pos="Adv">om kull</t>
+            <xg>
+               <x>Hän meni kumhoon.</x>
+               <xt>Han datt over ende.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8765,10 +8773,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">over ende</t>
-            <t pos="Adv">over nakken</t>
+<!--            <t pos="Adv">over nakken</t> -->
             <xg>
-               <x>Se meni yliniskoin.</x>
-               <xt>Han/hun datt over enda/falt på rygg.</xt>
+               <x>Hän meni yliniskoin.</x>
+               <xt>Han datt over ende.</xt>
             </xg>
          </tg>
       </mg>
