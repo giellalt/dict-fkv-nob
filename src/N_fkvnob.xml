@@ -74193,17 +74193,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">fellesskap</t>
             <t pos="N">forbindelse</t>
             <t pos="N">tilknytning</t>
-         </tg>
-      </mg>
-       <mg>
-         <tg xml:lang="nob">
             <t pos="N">bånd</t>
          </tg>
       </mg>
-             <mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="N">kontakt</t>
               <xg>
@@ -74211,9 +74206,19 @@ For the full license text, see the link above.</lic>
                <xt>La oss holde kontakten!</xt>
             </xg>
              <xg>
-               <x>Met olema yhtheyđessä!</x>
-               <xt>Vi holder kontakten!</xt>
+               <x>Ota yhtheyđen meihin!</x>
+               <xt>Ta kontakt med oss!</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammenheng</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fellesskap</t>
          </tg>
       </mg>
    </e>
