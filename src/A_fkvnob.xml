@@ -11222,7 +11222,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">viekas</l>
          <stem>viekkhaa</stem>
@@ -11231,6 +11231,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">rar</t>
             <t pos="A">merkelig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lur</t>
+            <t pos="A">listig</t>
          </tg>
       </mg>
    </e>
