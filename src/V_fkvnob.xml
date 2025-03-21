@@ -17387,7 +17387,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">suođa</l>
          <stem>suo</stem>
@@ -17395,7 +17395,55 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">gi</t>
+            <t pos="V">ville</t>
+            <t pos="V">tillate</t>
+            <t pos="V">forunne</t>
+            <xg>
+	            <x>Elämä oon suonu meile kaksi tytärtä.</x>
+	            <xt>Livet har gitt oss to døtre.</xt>
+            </xg>
+            <xg>
+	            <x>Jos Jumala suopi.</x>
+	            <xt>Hvis Gud vil./Hvis det er Guds vilje.</xt>
+            </xg>
+            <xg>
+	            <x>Suokkaa antheeksi.</x>
+	            <xt>Tilgi meg.</xt>
+            </xg>
+            <xg>
+	            <x>Miksi heile oon suotu enämen vaphauksiita ko meile?</x>
+	            <xt>Hvorfor tillates de større friheter enn oss?</xt>
+            </xg>
+            <xg>
+	            <x>Met tulema jos sää suopi.</x>
+	            <xt>Vi kommer om bare været tillater det.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forære</t>
+            <t pos="V">skyldes</t>
+            <xg>
+	            <x>Mikä suopi meile tämän kunnian?</x>
+	            <xt>Hva skyldes denne æren?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">unne</t>
+            <t pos="V">ønske</t>
+            <t pos="V">ville</t>
+            <xg>
+	            <x>Mie soisin ette kaikki mennee hyvin.</x>
+	            <xt>Jeg ønsker at alt ender godt.</xt>
+            </xg>
+            <xg>
+	            <x>Mie suon hänele sen.</x>
+	            <xt>Jeg unner henne det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
