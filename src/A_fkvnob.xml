@@ -1040,9 +1040,29 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lys</t>
-            <syng>
-               <syn>näköinen</syn>
-            </syng>
+            <xg>
+	            <x>Yöt oon sama näköset ko päivät tähän vuođenaikhaan.</x>
+	            <xt>På denne tiden av året er nettene like lyse som dagene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lik</t>
+            <t pos="Phrase">ligne</t>
+            <t pos="Phrase">se ut som</t>
+            <xg>
+	            <x>Hän oon niin faarinsa näkönen.</x>
+	            <xt>Han er så lik faren sin.</xt>
+            </xg>
+            <xg>
+	            <x>Tuo oli raskhaan näköstä.</x>
+	            <xt>Det der så tungt ut.</xt>
+            </xg>
+            <xg>
+	            <x>Minkäkhöön näkönen hän nyt oon?</x>
+	            <xt>Tro hvordan hun ser ut nå?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7163,9 +7183,29 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lys</t>
-            <syng>
-               <syn>näkönen</syn>
-            </syng>
+            <xg>
+	            <x>Yöt oon sama näköiset ko päivät tähän vuođenaikhaan.</x>
+	            <xt>På denne tiden av året er nettene like lyse som dagene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lik</t>
+            <t pos="Phrase">ligne</t>
+            <t pos="Phrase">se ut som</t>
+            <xg>
+	            <x>Hän oon niin faarinsa näköinen.</x>
+	            <xt>Han er så lik faren sin.</xt>
+            </xg>
+            <xg>
+	            <x>Tuo oli raskhaan näköistä.</x>
+	            <xt>Det der så tungt ut.</xt>
+            </xg>
+            <xg>
+	            <x>Minkäkhöön näköinen hän nyt oon?</x>
+	            <xt>Tro hvordan hun ser ut nå?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
