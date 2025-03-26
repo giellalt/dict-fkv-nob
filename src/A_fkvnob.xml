@@ -11071,31 +11071,95 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ki;es">
       <lg>
          <l pos="A">vasittu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">egentlig</t>
+            <t pos="A">ordentlig</t>
             <t pos="A">virkelig</t>
+            <xg>
+            <x>Tämän tutkimuksen vasittu tarkoitus oli selvittäät kväänin kielen nykyiset haastheet.</x>
+            <xt>Det egentlige formålet med denne undersøkelsen var å utrede utfordringene det kvenske språket har i dag.</xt>
+            </xg>
+            <xg>
+            <x>Hänhän oon vasittu lääki, hänen sanhaan pittää luottaat.</x>
+            <xt>Hun er jo en ordentlig lege, man må stole på det hun sier.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">særskilt</t>
+            <t pos="A">spesiell</t>
+            <t pos="A">spesifikk</t>
+            <xg>
+            <x>Hänelä oon vasittu intressi venheitä kohthaan.</x>
+            <xt>Hun har en særskilt interesse for båter.</xt>
+            </xg>
+            <xg>
+            <x>Jos sinula oon nämät oirheet, sie piđät hakkeuttuut vasitthuin tervheyspalvelhuin.</x>
+            <xt>Hvis du har disse sympotomene burde du oppsøke spesialisthelsetjenesten.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">viss</t>
             <t pos="A">bestemt</t>
+            <t pos="A">uttrykkelig</t>
+            <xg>
+            <x>Mie laitan aina minun avvaimet vasitthuun paikkhaan niin etten mistana niitä.</x>
+            <xt>Jeg legger alltid nøklene mine på et bestemt sted så jeg ikke mister de.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;es">
       <lg>
          <l pos="A">vasituinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">uttrykkelig</t>
+            <t pos="A">egentlig</t>
+            <t pos="A">ordentlig</t>
+            <t pos="A">virkelig</t>
+            <xg>
+            <x>Tämän tutkimuksen vasituinen tarkoitus oli selvittäät kväänin kielen nykyiset haastheet.</x>
+            <xt>Det egentlige formålet med denne undersøkelsen var å utrede utfordringene det kvenske språket har i dag.</xt>
+            </xg>
+            <xg>
+            <x>Hänhän oon vasituinen lääki, hänen sanhaan pittää luottaat.</x>
+            <xt>Hun er jo en ordentlig lege, man må stole på det hun sier.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">særskilt</t>
+            <t pos="A">spesiell</t>
+            <t pos="A">spesifikk</t>
+            <xg>
+            <x>Hänelä oon vasituinen intressi venheitä kohthaan.</x>
+            <xt>Hun har en særskilt interesse for båter.</xt>
+            </xg>
+            <xg>
+            <x>Jos sinula oon nämät oirheet, sie piđät hakkeuttuut vasituisheen tervheyspalvelhuin.</x>
+            <xt>Hvis du har disse sympotomene burde du oppsøke spesialisthelsetjenesten.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">viss</t>
             <t pos="A">bestemt</t>
+            <t pos="A">uttrykkelig</t>
+            <xg>
+            <x>Mie laitan aina minun avvaimet vasituisheen paikkhaan niin etten mistana niitä.</x>
+            <xt>Jeg legger alltid nøklene mine på et bestemt sted så jeg ikke mister de.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
