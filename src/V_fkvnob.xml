@@ -11284,7 +11284,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="V">nojata</l>
          <stem>nojjaa</stem>
@@ -11292,13 +11292,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">lene seg mot</t>
-            <t pos="V">støtte</t>
+            <t pos="Phrase">lene seg</t>
+            <t pos="Phrase">støtte seg</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">lene mot</t>
+            <t pos="V">lene</t>
+            <t pos="V">støtte</t>
          </tg>
       </mg>
    </e>
