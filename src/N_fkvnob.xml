@@ -45773,6 +45773,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">tur</t>
             <t pos="N">reise</t>
+            <xg>
+	            <x>Menemäkö mukale?</x>
+	            <xt>Skal vi gå en tur?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -69123,14 +69127,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">tuuri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tur</t>
+            <xg>
+	            <x>Mie sain paljon uussii ystäviitä sillä tuurila.</x>
+	            <xt>Jeg fikk mange nye venner på den turen.</xt>
+            </xg>
+            <xg>
+	            <x>Se oon sinun tuuri valita missä met syömä.</x>
+	            <xt>Det er din tur å velge hvor vi skal spise.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flaks</t>
             <t pos="N">lykke</t>
+            <xg>
+	            <x>Hänelä oon aina niin hyvä tuuri.</x>
+	            <xt>Han har alltid så flaks.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
