@@ -27,7 +27,7 @@
 <!ELEMENT i (#PCDATA)>
 
 <!ELEMENT e ( lg, mg+ ) >
-<!ATTLIST e reverse NMTOKEN #IMPLIED >
+<!-- ATTLIST e reverse NMTOKEN #IMPLIED -->
 <!ATTLIST e src CDATA #REQUIRED >
 <!ATTLIST e dial (p|r|v|pv|rv|pr|prv) #IMPLIED
  id  CDATA #IMPLIED
