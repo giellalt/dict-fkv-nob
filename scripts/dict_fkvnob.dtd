@@ -48,6 +48,7 @@
 <!ATTLIST l outer_cases ( True | False ) #IMPLIED >
 <!ATTLIST l hid CDATA #IMPLIED >
 <!ATTLIST l re CDATA #IMPLIED >
+<!ATTLIST l context CDATA #IMPLIED >
 
 
 <!ELEMENT lg ( l, lemma_ref*, stem*, analysis*, mini_paradigm*, algu?) >
