@@ -91380,12 +91380,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">majoritet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">flertall</t>
+            <t pos="N">majoritet</t>
          </tg>
       </mg>
    </e>
@@ -111534,6 +111530,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trappetrinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">enämistö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">majoritet</t>
+            <t pos="N">flertall</t>
          </tg>
       </mg>
    </e>
