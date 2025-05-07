@@ -7484,18 +7484,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">vaanasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">knapt</t>
             <t pos="Adv">snaut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">snaut med penger</t>
+            <xg>
+	            <x>Hänelä oli vaanasti rahhaa silloin.</x>
+	            <xt>Han hadde knapt med penger den gang.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
