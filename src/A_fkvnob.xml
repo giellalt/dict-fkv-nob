@@ -2522,7 +2522,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">(stavelse) med hovedtrykk</t>
+	         <re>stavelse</re>
+            <t pos="Phrase">med hovedtrykk</t>
          </tg>
       </mg>
    </e>
@@ -5138,7 +5139,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">vakker</t>
-            <t pos="A">utilnærmelig</t>
+<!--            <t pos="A">utilnærmelig</t> -->
             <t pos="A">staselig</t>
             <t pos="A">prektig</t>
          </tg>
@@ -9463,15 +9464,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">isfri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">opptint</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="A">smeltet</t>
          </tg>
       </mg>
@@ -17021,11 +17014,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">nylig innsatt</t>
             <t pos="Phrase">nylig vedtatt</t>
+            <t pos="Phrase">nylig innsatt</t>
             <xg>
             <x>Lisäksi argumenteerathiin, ette pohjaisen raja-alat olthiin eriliikaisen haavoittuvat, ko sielä olthiin vasta-asetetut rajat.</x>
-            <xt>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine ferske grenser.</xt>
+            <xt>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine grenser som nylig er vedtatt.</xt>
             </xg>
          </tg>
       </mg>
