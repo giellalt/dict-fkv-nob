@@ -12761,15 +12761,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;taia">
+   <e src="ai;ta;ia">
       <lg>
          <l pos="N">harja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>på hest</re>
             <t pos="N">børste</t>
             <t pos="N">kost</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">man</t>
          </tg>
       </mg>
