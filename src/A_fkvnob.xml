@@ -16713,6 +16713,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="A">jatkuuvainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uavbrutt</t>
+            <t pos="A">kontinuerlig</t>
+            <t pos="A">fortløpende</t>
+            <t pos="Phrase">som fortsetter</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konstant</t>
+            <t pos="A">stadig</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="A">aktuelli</l>
@@ -21132,6 +21151,26 @@ For the full license text, see the link above.</lic>
             <t pos="A">godhjertet</t>
             <t pos="A">godmodig</t>
             <t pos="A">vennlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">jannoova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tørst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">jannoovainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tørst</t>
          </tg>
       </mg>
    </e>
