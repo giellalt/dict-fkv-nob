@@ -21107,4 +21107,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">hyväsäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">godværs-</t>
+            <xg>
+	            <x>Tämä kesä oon ollu yllättäävän hyväsäinen.</x>
+	            <xt>Det har vært overraskende godt vær i sommer.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">hyväntahtoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">velvillig</t>
+            <t pos="A">velmenende</t>
+            <t pos="A">godhjertet</t>
+            <t pos="A">godmodig</t>
+            <t pos="A">vennlig</t>
+         </tg>
+      </mg>
+   </e>
 </r>
