@@ -111680,11 +111680,51 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">antikki</l>
+         <l pos="N">jylinä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">antikk</t>
+            <t pos="N">dunder</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">jylinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bulder</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="N">jylinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drønn</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="anb">
+      <lg>
+         <l pos="N">jysket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dunk</t>
+         </tg>
+      </mg>
+   </e>
+               <e src="anb">
+      <lg>
+         <l pos="N">jysket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rumling</t>
          </tg>
       </mg>
    </e>
