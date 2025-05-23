@@ -21203,21 +21203,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">spinkel</t>
             </tg>
       </mg>
-   </e> 
-      <e src="anb">
-      <lg>
-         <l pos="A">heiveröinen</l>
-         </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">svak</t>
             </tg>
       </mg>
-   </e>   
-      <e src="anb">
-      <lg>
-         <l pos="A">heiveröinen</l>
-         </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">skrøpelig</t>
@@ -21243,11 +21233,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">isete</t>
             </tg>
       </mg>
-   </e> 
-            <e src="anb">
-      <lg>
-         <l pos="A">jäinen</l>
-         </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">frossen</t>
@@ -21263,14 +21248,29 @@ For the full license text, see the link above.</lic>
             <t pos="A">lavete</t>
             </tg>
       </mg>
-   </e> 
-               <e src="anb">
-      <lg>
-         <l pos="A">jäkäläinen</l>
-         </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lavbevokst</t>
+            </tg>
+      </mg>
+   </e> 
+     <e src="anb">
+      <lg>
+         <l pos="A">jäntteväinen</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">spenstig</t>
+            </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kraftfull</t>
+            </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="A">energisk</t>
             </tg>
       </mg>
    </e> 
