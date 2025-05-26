@@ -6680,13 +6680,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">komplisert</t>
+            <t pos="A">svingete</t>
+            <t pos="A">buktete</t>
+            <t pos="A">krokete</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">svinget</t>
-            <t pos="A">svingete</t>
+            <t pos="A">komplisert</t>
          </tg>
       </mg>
    </e>
@@ -6698,13 +6699,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">komplisert</t>
+            <t pos="A">svingete</t>
+            <t pos="A">buktete</t>
+            <t pos="A">krokete</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">svinget</t>
-            <t pos="A">svingete</t>
+            <t pos="A">komplisert</t>
          </tg>
       </mg>
    </e>
@@ -21355,21 +21357,6 @@ For the full license text, see the link above.</lic>
             </tg>
       </mg>
    </e>
-     <e src="anb">
-      <lg>
-         <l pos="A">mukkainen</l>
-         </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">svingete</t>
-            </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
-            <t pos="A">komplisert</t>
-            </tg>
-      </mg>
-   </e> 
         <e src="anb">
       <lg>
          <l pos="A">ođottamaton</l>
