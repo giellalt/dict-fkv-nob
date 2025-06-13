@@ -21383,8 +21383,145 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">som har hodet oppe</t>
+            <t pos="Phrase">som har hodet oppe</t>
             </tg>
       </mg>
    </e> 
+              <e src="anb">
+      <lg>
+         <l pos="A">päättävä</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bestemt</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">beslutsom</t>
+            </tg>
+      </mg>
+   </e> 
+     <e src="anb">
+      <lg>
+         <l pos="A">rauhainen</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fredfull</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rolig</t>
+            </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">rautainen</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av jerm</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">jernhard</t>
+            </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">rento</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avslappet</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avspent</t>
+            </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="A">samankaltainen</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lik</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">likedan</t>
+            </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="nob">
+            <t pos="A">jamførbar</t>
+            </tg>
+      </mg>
+      </e>
+              <e src="anb">
+      <lg>
+         <l pos="A">sammuttelematon</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uslokkelig</t>
+            </tg>
+      </mg>
+   </e>
+           <e src="anb">
+      <lg>
+         <l pos="A">sinerttäävä</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blåaktig</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blåskimrende</t>
+            </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blånende</t>
+            </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lyseblå</t>
+            </tg>
+      </mg>
+   </e>
+         </e>
+              <e src="anb">
+      <lg>
+         <l pos="A">sonorinen</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sonor</t>
+            </tg>
+      </mg>
+   </e>
+         </e>
+              <e src="anb">
+      <lg>
+         <l pos="A">suosittu</l>
+         </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">populær</t>
+            </tg>
+      </mg>
+   </e>
 </r>
