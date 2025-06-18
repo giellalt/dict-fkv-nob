@@ -27516,15 +27516,40 @@ For the full license text, see the link above.</lic>
    <e src="ta;ai">
       <lg>
          <l pos="N">joukhainen</l>
-         <stem>joukhaise</stem>
-         <stem>joukhais</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">svane</t>
-            <syng>
-               <syn>joukhanen</syn>             
-            </syng>
+         </tg>
+      </mg>
+   </e>
+      <e src="ta;ai">
+      <lg>
+         <l pos="N">joukhanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svane</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">joukhaislintu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svane</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">joukhaslintu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svane</t>
          </tg>
       </mg>
    </e>
@@ -112197,9 +112222,37 @@ For the full license text, see the link above.</lic>
       </mg>
             <mg>
          <tg xml:lang="nob">
-            <t pos="A">spedbarn</t>
-              <t pos="A">baby</t>
+            <t pos="N">spedbarn</t>
+              <t pos="N">baby</t>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">pienokainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">lite barn</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spedbarn</t>
+              <t pos="N">baby</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">aivinaheinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	        <re>høy som skal bli linfiber</re>
+            <t pos="N">høy</t>
+         </tg>
+      </mg>
+   </e>
+   
 </r>
