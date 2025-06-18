@@ -112261,8 +112261,33 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">elveløp</t>
-                 <t pos="N">elvefar</t>
+             <t pos="N">elvefar</t>
          </tg>
       </mg>
    </e> 
+    <e src="anb">
+      <lg>
+         <l pos="N">kalma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">død</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lik</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="N">karumaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">karrig jord</t>
+         </tg>
+      </mg>
+   </e>
 </r>
