@@ -112320,4 +112320,125 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kesäväry</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">sommerlig vinddrag</t>
+         </tg>
+      </mg>
+   </e>
+            <e src="anb">
+      <lg>
+         <l pos="N">keto</l>
+      </lg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tørr slått</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eng</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">kuilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kløft</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avgrunn</t>
+         </tg>
+      </mg>
+                  <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjakt</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">kurkkiinpauhu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bulder fra fossen</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="N">kurkkiinsoitto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fosseklang</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">kaajanlaita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaikant</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">lapsirukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">stakkars barn</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">lempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjærlighet</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">lemppeys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">godhet</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vennlighet</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">velvillighet</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	    <re>om været</re>
+            <t pos="N">mildhet</t>
+         </tg>
+      </mg>
+   </e>
 </r>
