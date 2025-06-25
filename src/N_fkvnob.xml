@@ -112523,4 +112523,81 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">rankkasađet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">striregn</t>
+                <t pos="N">høljeregn</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">seestaivas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">klar himmel</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">silmänisku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blink</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="nob">
+	    <re>med øye</re>
+            <t pos="N">flirt/t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">tyttöinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">liten jente</t>
+         </tg>
+      </mg>
+   </e>
+           <e src="anb">
+      <lg>
+         <l pos="N">juonipaula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">komplott</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konspirasjon</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sammensvergelse</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">maitojuusto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">melkeost</t>
+         </tg>
+      </mg>
+   </e>
 </r>
