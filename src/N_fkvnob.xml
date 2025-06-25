@@ -112320,6 +112320,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">kesätaivas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">sommerlig vinddrag</t>
+         </tg>
+      </mg>
+   </e>
    <e src="anb">
       <lg>
          <l pos="N">kesäväry</l>
@@ -112438,6 +112448,78 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	    <re>om været</re>
             <t pos="N">mildhet</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="anb">
+      <lg>
+         <l pos="N">merenkalvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">havflate</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">parjaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">baktaler</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">partaukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">mann med skjegg</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="anb">
+      <lg>
+         <l pos="N">pauhu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bulder</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dunder</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	     <re>rumlende lyd</re>
+            <t pos="N">rumling</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brak</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+	     <re>brusende lyd</re>
+            <t pos="N">brus</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">pikkupoika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">liten gutt</t>
          </tg>
       </mg>
    </e>
