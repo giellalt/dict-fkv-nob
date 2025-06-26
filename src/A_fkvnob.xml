@@ -14613,7 +14613,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;uit">
       <lg>
          <l pos="A">surkkee</l>
       </lg>
@@ -14622,6 +14622,11 @@ For the full license text, see the link above.</lic>
             <t pos="A">traurig</t>
             <t pos="A">trist</t>
             <t pos="A">elendig</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="A">stakkarslig</t>
          </tg>
       </mg>
    </e>
@@ -21295,7 +21300,7 @@ For the full license text, see the link above.</lic>
          </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">stakkars</t>
+            <t pos="A">stakkarslig</t>
             </tg>
       </mg>
    </e> 
