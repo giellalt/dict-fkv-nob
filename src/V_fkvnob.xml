@@ -1078,7 +1078,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">henge</t>
             <xg>
-               <x>Sie saatat hengastaat kuvan tuohon.</x>
+               <x>Sie saatat henkastaat kuvan tuohon.</x>
                <xt>Du kan henge bildet der.</xt>
             </xg>
          </tg>
@@ -3035,6 +3035,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">henge</t>
+               <xg>
+               <x>Mie hengastan handtuukin koukkhuun.</x>
+               <xt>Jeg henger håndkelet på knaggen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
