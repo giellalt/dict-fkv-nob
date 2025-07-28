@@ -26217,7 +26217,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">ihmisjoukko</l>
          <stem>ihmisjouko</stem>
@@ -26230,6 +26230,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">folkemengde</t>
+            <t pos="N">folkemasse</t>
          </tg>
       </mg>
       <mg>
@@ -73919,13 +73920,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">väkijoukko</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">folkemengde</t>
+            <t pos="N">folkemasse</t>
          </tg>
       </mg>
    </e>
