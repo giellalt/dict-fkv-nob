@@ -21678,4 +21678,116 @@ For the full license text, see the link above.</lic>
             </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="A">prinsipillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">prinsipiell</t>
+            </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pohjimainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">underst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nederst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innerst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ytterst</t>
+         </tg>
+      </mg>
+<!--     <mg>
+         <tg xml:lang="nob">
+            <t pos="A">underliggende</t>
+         </tg>
+      </mg> -->
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">keskinäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innbyrdes</t>
+            <t pos="A">gjensidig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mielipuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vanvittig</t>
+            <t pos="A">sinnsyk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">nävönarka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lyssjy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">skeptilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">spektisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">selvänäköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">klarsynt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paljonpuhhuuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">megetsigende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mystilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mystisk</t>
+         </tg>
+      </mg>
+   </e>
 </r>
