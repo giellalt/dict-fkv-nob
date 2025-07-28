@@ -10749,7 +10749,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">vaisto</l>
       </lg>
@@ -10759,18 +10759,19 @@ For the full license text, see the link above.</lic>
             <t pos="A">stille</t>
          </tg>
       </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l pos="A">vaiti</l>
-      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">taus</t>
-            <xg>
-               <x>Ole vaiti!</x>
-               <xt>Vær stille!</xt>
-            </xg>
+            <t pos="A">instinkt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">intuisjon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">magefølelse</t>
          </tg>
       </mg>
    </e>

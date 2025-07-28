@@ -7561,14 +7561,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ta;ai">
       <lg>
          <l pos="Adv">vaiti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">taus</t>
-            <t pos="Adv">stille</t>
+            <t pos="A">taus</t>
+            <t pos="A">stille</t>
+            <t pos="A">tyst</t>
+            <xg>
+               <x>Hän on vaiti.</x>
+               <xt>Han er taus.</xt>
+            </xg>
+            <xg>
+               <x>Ole vaiti!</x>
+               <xt>Vær stille!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
