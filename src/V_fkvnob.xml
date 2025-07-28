@@ -25954,7 +25954,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">være basert på</t>
+            <t pos="V">basere</t>
             <xg>
                <x>Muistelus perustuu tosiassiisseen.</x>
                <xt>Fortellingen er basert på fakta.</xt>
@@ -25970,12 +25970,30 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">tyde</t>
             <t pos="V">anta</t>
-            <t pos="Phrase">trekke slutninger</t>
             <xg>
                <x>Muista kalttiista saattaa kuitenki päätelä ette assii saattoi olla päinvastoin.</x>
                <xt>Andre kilder tyder heller på at det kunne ha vært motsatt.</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
+      <tg xml:lang="nob">
+         <t pos="V">konkludere</t>
+         <t pos="Phrase">trekke slutninger</t>
+         <xg>
+            <x>Hän päätteli ette se oli paras lähteet kothiin.</x>
+            <xt>Han konkluderte med at det var best å dra hjem.</xt>
+         </xg>
+      </tg>
+      </mg>
+      <mg>
+      <tg xml:lang="nob">
+         <t pos="Phrase">bestemme seg</t>
+         <xg>
+            <x>Jo ennen ko hän tuli, hän oli päätely tehđä ittensä parasta.</x>
+            <xt>Allerede før hun kom hadde hun bestemt seg for å gjøre sitt beste.</xt>
+         </xg>
+      </tg>
       </mg>
    </e>
    <e src="ki">
