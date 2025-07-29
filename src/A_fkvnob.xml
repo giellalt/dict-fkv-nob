@@ -386,13 +386,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="A">päälimäinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">øvre</t>
+            <t pos="A">øverst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ytterst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">viktig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hoved-</t>
          </tg>
       </mg>
    </e>
@@ -1939,7 +1955,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ks">
+      <e src="ks;ki">
       <lg>
          <l pos="A">kankkee</l>
       </lg>
@@ -1947,6 +1963,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">stiv</t>
             <t pos="A">støl</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rigid</t>
          </tg>
       </mg>
    </e>
@@ -16692,6 +16713,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">uavbrutt</t>
             <t pos="A">kontinuerlig</t>
+            <t pos="A">løpende</t>
             <t pos="A">fortløpende</t>
             <t pos="Phrase">som fortsetter</t>
          </tg>
@@ -16711,6 +16733,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">uavbrutt</t>
             <t pos="A">kontinuerlig</t>
+            <t pos="A">løpende</t>
             <t pos="A">fortløpende</t>
             <t pos="Phrase">som fortsetter</t>
          </tg>
@@ -21980,6 +22003,267 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">illevarslende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">raamistyyrätty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rammestyrt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">oikkeuđellinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rettslig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">innostaava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">inspirerende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">dynaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">dynamisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kunnioitettava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">respektabel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kriitilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kritisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">valintavapaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">valgfri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">vaihtoehtoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">alternativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ulkoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ytre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ekstern</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">terminoloogillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">terminologisk</t>
+         </tg>
+      </mg> 
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">systemaatillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">systematisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">struktureerattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">strukturert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">sentraalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">sentral</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">senaikhainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">daværende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">raamiohjattu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rammestyrt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pedagoogillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">pedagogisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">palkalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lønnet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">markantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">markant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kolmenvuotinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">treårig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kieliteknilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">språkteknisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kielifaakilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">språkfaglig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">individuelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">individuell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kokopäiväinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">heldags-</t>
+            <xg>
+               <x>Huomena meilä oon kokopäiväinen kokkous.</x>
+               <xt>I morgen har vi et heldagsmøte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">heltids-</t>
+            <t pos="A">fulltids-</t>
+            <xg>
+               <x>Mie aloin kokopäiväisheen työhön heti opinoitten jälkhiin.</x>
+               <xt>Jeg gikk rett ut i fulltidsjobb etter studiene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">tasapuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">jevnlik</t>
+            <t pos="A">jevnbyrdig</t>
+            <t pos="A">likeverdig</t>
          </tg>
       </mg>
    </e>
