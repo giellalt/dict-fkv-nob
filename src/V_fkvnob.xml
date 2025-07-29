@@ -18272,7 +18272,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">teroittaat</l>
          <stem>teroita</stem>
@@ -18281,6 +18281,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">slipe</t>
             <t pos="V">kvesse</t>
+            <t pos="V">spisse</t>
          </tg>
       </mg>
    </e>
@@ -27763,5 +27764,15 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">drive på og gnage</t>
          </tg>
       </mg>
-      </e>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">kärjistäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spissformulere</t>
+         </tg>
+      </mg>
+   </e>
 </r>
