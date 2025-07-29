@@ -21933,13 +21933,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">maksoton</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">gratis</t>
+            <t pos="A">kostnadsfri</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avgiftsfri</t>
          </tg>
       </mg>
    </e>
