@@ -22100,10 +22100,25 @@ For the full license text, see the link above.</lic>
             <t pos="A">ekstern</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utvendig</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
          <l pos="A">terminoloogillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">terminologisk</t>
+         </tg>
+      </mg> 
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">terminolooginen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
