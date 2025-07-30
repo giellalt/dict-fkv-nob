@@ -9575,7 +9575,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">med solen</t>
+            <t pos="Adv">medsols</t>
+            <t pos="Adv">med sola</t>
          </tg>
       </mg>
    </e>
@@ -12488,13 +12489,126 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="es">
       <lg>
          <l pos="Adv">kaikkialla</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">overalt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kunnolisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ordentlig</t>
+            <t pos="Adv">skikkelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">suunittheila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">under planlegging</t>
+            <t pos="Phrase">i planleggingsfasen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lengola</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vidåpen</t>
+            <xg>
+            <x>Ovi oli lengola.</x>
+            <xt>Døra var vidåpen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">diskreetisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">diskret</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">harthaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">inderlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vastapäivhään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">motsols</t>
+            <t pos="Adv">med sola</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">koholansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hevet</t>
+            <xg>
+            <x>Hän kattoi minnuu kulmakarvat koholansa.</x>
+            <xt>Han så på meg med hevede øyenbryn.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">raskhaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">tungt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kiivaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">oppfarende</t>
+            <t pos="Adv">hissig</t>
+            <t pos="Adv">flammende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">maksimaalisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">maksimalt</t>
          </tg>
       </mg>
    </e>
