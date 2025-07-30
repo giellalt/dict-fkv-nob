@@ -3703,15 +3703,45 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">for hånd</t>
+            <xg>
+              <x>Ämmi oon kutonu tämän käsin.</x>
+              <xt>Bestemor har strikket denne for hånd.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i retning av</t>
+            <t pos="Adv">fra</t>
             <xg>
-              <x>sinne käsin</x>
-              <xt>ditover</xt>
-	    </xg>
+              <x>Hän oon kulkenu tänne kiini Trondjamista käsin.</x>
+              <xt>Han har vandret hit helt fra Trondheim.</xt>
+            </xg>
+            <xg>
+              <x>Hän johtaa firmaa Uslusta käsin.</x>
+              <xt>Hun driver firmaet fra Oslo.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">over</t>
+            <t pos="Phrase">i retning av</t>
+            <xg>
+              <x>Hän lähti ithään käsin.</x>
+              <xt>Han dro østover.</xt>
+            </xg>
+            <xg>
+              <x>Monet oon siirtynheet etelhään käsin.</x>
+              <xt>Mange har flyttet sørover.</xt>
+            </xg>
+            <xg>
+              <x>Huonheen ovet aukkeevat sishäänkäsin.</x>
+              <xt>Dørene på huset vender innover.</xt>
+            </xg>
+            <xg>
+              <x>Oppiijoitten määrä oon viimi vuosina menny ylös käsin.</x>
+              <xt>Elevtallet har de siste årene gått opp.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12428,6 +12458,43 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">halvåpen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">kokopäivän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">heldags-</t>
+            <t pos="Adv">heltids-</t>
+            <t pos="Adv">fulltids-</t>
+            <xg>
+            <x>Hänelä oon kokopäivän työ.</x>
+            <xt>Hun har en heltidsjobb.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">pitkälti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hovedsakelig</t>
+            <t pos="Adv">i stor grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">kaikkialla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">overalt</t>
          </tg>
       </mg>
    </e>
