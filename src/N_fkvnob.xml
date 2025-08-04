@@ -4139,6 +4139,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pörämutuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påhengsmotor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">perämutuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påhengsmotor</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ks">
       <lg>
          <l pos="N">pieruhaiju</l>
@@ -28367,13 +28387,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">jälleenrakenus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gjenreising</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenoppbygging</t>
          </tg>
       </mg>
    </e>
@@ -34842,7 +34867,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ia">
+   <e src="ta;ia;es">
       <lg>
          <l pos="N">kontti</l>
          <stem>konti</stem>
@@ -34854,7 +34879,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">margbein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">skreppe av never</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ben</t>
+            <t pos="N">bein</t>
          </tg>
       </mg>
    </e>
@@ -86729,6 +86765,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pöräkonet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">påhengsmotor</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">perämies</l>
@@ -97187,6 +97233,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">gjenreisning</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenoppbygging</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -98297,6 +98348,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">jälleenrakentaminen</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenreisning</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gjenoppbygging</t>
@@ -113050,6 +113106,242 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hyttetur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">propelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">propell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tofte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">uuđestirakenus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenreisning</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenoppbygging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tilpehööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilbehør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">seilaasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seilas</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sääfferi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">schæfer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ristiaalokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krappsjø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pörätohta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">baktofte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pikkusaita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">småsei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mutuurinpää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motorhode</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mutuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">mullikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ungokse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kelviikkalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjelviking</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">käsiprämsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">håndbrems</t>
+            <t pos="N">håndbrekk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">karjunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brøling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">muurinsärkkiijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rambukk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ilkkeys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ondskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">meritie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjøvei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rantakallio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strandklippe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">etananfaarti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sneglefart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">sananlasku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordtak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kesäparatiisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommerparadis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">niskahyksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nakkehår</t>
          </tg>
       </mg>
    </e>
