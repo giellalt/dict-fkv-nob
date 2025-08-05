@@ -26809,7 +26809,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">stortinget</t>
+            <t pos="N">storting</t>
          </tg>
       </mg>
    </e>
@@ -113342,6 +113342,448 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nakkehår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vuosibudsetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">årsbudsjett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">raadioprogrami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">radioprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pääteema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedtema</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pääsyy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedårsak</t>
+            <t pos="N">hovedgrunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opintopoengi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiepoeng</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikheinkirjoitusnormi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettskrivningsnorm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">moninaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mangfold</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maasteriopinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">masterstudium</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lainanottaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">låntaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mentorioorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mentorordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mentoriprogrami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mentorprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielenoppimisprogrami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språklæringsprogram</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">järjestely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">organisering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">forankring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ankkurointi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stimuleerinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stimulering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">stimuleerinkioorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stimuleringsordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">päätöksentekkiijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">beslutningstaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">etukoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">førskole</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opetusmahđolisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opplæringsmulighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">koulufaaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skolefag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tietomateriaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">informasjonsmateriell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">verkkokokkous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettverkssamling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faakiala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagområde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nettiopinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettstudium</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opintotarjous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studietilbud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">takaisinantamisoorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studiehjelp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">prosektihakemus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prosjektsøknad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">suuntaplaana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">målplan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuurtoposti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskuddspost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">toimikuurto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tiltaksstøtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielenkanttaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkbærer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">programitarjous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">programtilbud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">plaana-aika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">planperiode</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">murret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dialekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">määrärahaoorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskuddsordning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">koulaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utdanning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ilmitulema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">uttrykk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">romaneesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">romanes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulepunkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kuulapunkti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nykytoimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">nåværende tiltak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nykytila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">nåværende situasjon</t>
+            <t pos="Phrase">nåværende tilstand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">taitotasannosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunnskapsløft</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">isotinkailmoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stortingsmelding</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jatkokoulaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">videreutdanning</t>
          </tg>
       </mg>
    </e>
