@@ -16788,6 +16788,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kjelekaffe</t>
+            <t pos="N">pannekaffe</t>
          </tg>
       </mg>
    </e>
@@ -28403,7 +28404,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">gjenreising</t>
+            <t pos="N">gjenreisning</t>
          </tg>
       </mg>
       <mg>
@@ -75692,7 +75693,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="oa">
+<!--   <e src="oa">
       <lg>
          <l pos="N">kattilakahvi</l>
       </lg>
@@ -75701,7 +75702,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">pannekaffe</t>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="oa">
       <lg>
          <l pos="N">kototalo</l>
@@ -82666,7 +82667,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kavel</t>
+            <t pos="N">kjevle</t>
          </tg>
       </mg>
    </e>
@@ -93562,6 +93563,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hovedformål</t>
+            <t pos="N">hovedmål</t>
          </tg>
       </mg>
    </e>
@@ -111876,17 +111878,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lenke</t>
-         </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
+            <t pos="N">håndjern</t>
             <t pos="N">jern</t>
          </tg>
       </mg>
             <mg>
          <tg xml:lang="nob">
-            <t pos="N">håndjern</t>
+            <t pos="N">lenke</t>
          </tg>
       </mg>
    </e>
@@ -111953,16 +111951,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sorg</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">globetrotter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mailmankierttääjä</t>
          </tg>
       </mg>
    </e>
@@ -112509,7 +112497,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">midlhet</t>
+            <t pos="N">mildhet</t>
          </tg>
       </mg>
         <mg>
@@ -112524,7 +112512,7 @@ For the full license text, see the link above.</lic>
       </mg>
             <mg>
          <tg xml:lang="nob">
-            <t pos="N">venlighet</t>
+            <t pos="N">vennlighet</t>
          </tg>
       </mg>
             <mg>
@@ -112685,11 +112673,11 @@ For the full license text, see the link above.</lic>
    </e>
        <e src="anb">
       <lg>
-         <l pos="N">nasareer</l>
+         <l pos="N">nasarealainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">nasarealainen</t>
+            <t pos="N">nasareer</t>
          </tg>
       </mg>
    </e>
@@ -112822,7 +112810,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">virkelighetsforståelse</t>
-            <t pos="N">virkelighetsoppfattelse</t>
+            <t pos="N">virkelighetsoppfatning</t>
          </tg>
       </mg>
    </e>
@@ -112843,7 +112831,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">alvor</t>
-            <t pos="N">arvolighet</t>
+            <t pos="N">alvorlighet</t>
          </tg>
       </mg>
    </e>
@@ -113020,13 +113008,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">ueninghet</t>
+            <t pos="N">uenighet</t>
          </tg>
       </mg>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">ennustuskunst</l>
+         <l pos="N">ennustustaito</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -113503,11 +113491,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">forankring</l>
+         <l pos="N">ankkurointi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">ankkurointi</t>
+            <t pos="N">forankring</t>
          </tg>
       </mg>
    </e>
@@ -113627,7 +113615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">studiehjelp</t>
+            <t pos="N">ettergivelsesordning</t>
          </tg>
       </mg>
    </e>
@@ -113829,6 +113817,96 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">allmennkunnskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tuliainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemkomstgave</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">maanjäristys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordskjelv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">taraskala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppdrettsfisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulttuurirevolusuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturrevolusjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kauppamaanpruuki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">handelsjordbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">merenpohja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">havbunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pohjavesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunnvann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kulttuurimaisema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kulturlandskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">dialektiala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dialektområde</t>
          </tg>
       </mg>
    </e>
