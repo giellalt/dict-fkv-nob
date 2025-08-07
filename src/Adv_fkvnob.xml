@@ -4179,6 +4179,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">mailman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">veldig</t>
+            <xg>
+            <x>Hän on mailman seppä kirjoittamhaan.</x>
+            <xt>Hun er veldig flink til å skrive.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Adv">makka</l>
@@ -10007,7 +10021,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">tahalans</l>
+         <l pos="Adv">tahalansa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -11188,6 +11202,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="Adv">varroovasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">forsiktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">varovasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -12610,6 +12634,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">maksimalt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tihheesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">tett</t>
+            <xg>
+            <x>Uslussa het assuuvat tihheesti.</x>
+            <xt>I Oslo bor de tett.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">jaksottain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">periodisk</t>
          </tg>
       </mg>
    </e>
