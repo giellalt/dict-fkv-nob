@@ -114995,6 +114995,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">holdning</t>
+            <t pos="N">tilnærming</t>
             <t pos="N">innstilling</t>
          </tg>
       </mg>
@@ -115012,6 +115013,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">revideeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">revidering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">revideerinki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
