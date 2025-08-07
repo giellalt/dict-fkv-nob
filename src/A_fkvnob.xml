@@ -22292,4 +22292,90 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="uit">
+      <lg>
+         <l pos="A">punahyksinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rødhåret</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="uit">
+      <lg>
+         <l pos="A">puinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av tre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="uit">
+      <lg>
+         <l pos="A">vähäsuolainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">saltfattig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kl">
+      <lg>
+         <l pos="A">kolesterooliilaskeeva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kolesterolsenkende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kl">
+      <lg>
+         <l pos="A">energiarikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">energirik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kl">
+      <lg>
+         <l pos="A">energiirikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">energirik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;kl">
+      <lg>
+         <l pos="A">vähärasvainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mager</t>
+            <t pos="Phrase">som har lav fettinnhold</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fettredusert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;kl">
+      <lg>
+         <l pos="A">kylläinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mett</t>
+         </tg>
+      </mg>
+   </e>
 </r>
