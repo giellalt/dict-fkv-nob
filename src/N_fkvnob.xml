@@ -39116,6 +39116,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vidde</t>
+            <t pos="N">bredde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omfang</t>
          </tg>
       </mg>
    </e>
@@ -67461,7 +67467,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">anledning</t>
             <xg>
             <x>Kyllä, minula oon tillaa siihen.</x>
-            <xt>Ja, jeg har tid til det.</xt>
+            <xt>Ja, jeg har anledning til det.</xt>
             </xg>
          </tg>
       </mg>
@@ -67469,6 +67475,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">tilstand</t>
             <t pos="N">situasjon</t>
+            <t pos="N">status</t>
          </tg>
       </mg>
    </e>
@@ -115388,6 +115395,371 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">intensjonsavtale</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">identiteettimarkkööri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">identitetsmarkør</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">flakutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flagging</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ensiosa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">første del</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">definisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">definisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">artikla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>stykke, paragraf i f.eks. en lov</re>
+            <t pos="N">artikkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">syvenys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fordypning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">proposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">proposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opiskelliijaverkosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studentnettverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">studenttiverkosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">studentnettverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">korona-aika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">koronatid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">määrärahaposti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilskuddspost</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">eksperttikomitee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ekspertkomitè</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielioikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">språklig rettighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikkeushomma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettsvesen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">alaparagraafi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">underparagraf</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vastahuomhautus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innvending</t>
+            <t pos="N">innsigelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nettipaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nettsted</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">nimiassii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">navnesak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lisätieto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilleggsopplysning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tutkimusraati</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningsråd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">lakimuutos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lovendring</t>
+         </tg>
+      </mg> 
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faakiuuđistus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagfornyelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">opetusdirektoraatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utdanningsforbund</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">uutislähätys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nyhetssending</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">yötyminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">overnatting</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">jutonäyttely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vandreutstilling</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ulosantaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgivelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">sisarorganisasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søsterorganisasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">toimituki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">driftsstøtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">vaatimustasa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">standard</t>
+            <t pos="N">nivå</t>
+            <t pos="Phrase">nivå på krav</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">etulinja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>f.eks. i en krigssituasjon</re>
+            <t pos="N">front</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">mielialatyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">holdningsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">joukkotyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gruppearbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kapinet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gjenstand</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">faakikysymys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fagspørsmål</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kielisauna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">språkbad</t>
          </tg>
       </mg>
    </e>
