@@ -67739,17 +67739,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">toimheentulo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utkomme</t>
+            <t pos="N">inntekt</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">livsopphold</t>
             <t pos="N">berging</t>
          </tg>
       </mg>
@@ -114869,6 +114871,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">universiteettilehtori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">universitetslektor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">universiteettilektori</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
