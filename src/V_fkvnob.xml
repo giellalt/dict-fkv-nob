@@ -4273,9 +4273,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">blunke</t>
-            <t pos="V">lyne</t>
             <t pos="V">slå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">blunke</t>
+            <t pos="V">blinke</t>
+            <t pos="V">lyne</t>
+            <xg>
+               <x>Eilin iski valkkeita.</x>
+               <xt>Det lynte i går.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -27803,6 +27812,46 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">stoppe</t>
             <t pos="V">stanse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l context="mie" pos="V">innostaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">inspirere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l context="mie" pos="V">kahđenkielistyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli tospråklig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l context="mie" pos="V">informeerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">informere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l context="mie" pos="V">desentraliseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">desentralisere</t>
          </tg>
       </mg>
    </e>

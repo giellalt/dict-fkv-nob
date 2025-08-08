@@ -53,13 +53,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">irti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">løs</t>
+            <t pos="Adv">fritt</t>
+            <xg>
+               <x>Mie en pääse irti, auta minnuu!</x>
+               <xt>Jeg kommer meg ikke løs, hjelp meg!</xt>
+            </xg>
+            <xg>
+               <x>Elläimet kulkkeevat irti täälä.</x>
+               <xt>Her går dyrene fritt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
