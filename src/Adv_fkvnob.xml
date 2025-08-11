@@ -847,16 +847,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
-      <lg>
-         <l pos="Adv">vähittäin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">i det minste</t>
-         </tg>
-      </mg>
-   </e>
    <e src="mk">
       <lg>
          <l pos="Adv">heti aikhoin</l>
@@ -1122,10 +1112,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">i det minste</t>
-            <xg>
-               <x>ei eđes</x>
-               <xt>ikke engang</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1468,13 +1454,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">enintä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">for det meste</t>
+            <t pos="Adv">mest</t>
+            <t pos="Adv">maksimum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">enimitten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">for det meste</t>
+            <t pos="Adv">mest</t>
+            <t pos="Adv">maksimum</t>
          </tg>
       </mg>
    </e>
@@ -8425,6 +8425,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vähhiintä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">minst</t>
+            <t pos="Adv">minimum</t>
+            <t pos="Adv">i det minste</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vähintä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">minst</t>
+            <t pos="Adv">minimum</t>
+            <t pos="Adv">i det minste</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="Adv">usheemin</l>
@@ -12351,6 +12375,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
+         <l pos="Adv">litt av hvert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">vähän mitäki</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
          <l pos="Adv">pukstaavillisesti</l>
       </lg>
       <mg>
@@ -12670,13 +12704,63 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="ki">
       <lg>
          <l pos="Adv">tarvittaissa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">ved behov</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">primääristi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">primært</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">likiaikana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i nærmeste fremtid</t>
+            <t pos="Adv">snart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">kaiken kaikkihaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">samlet sett</t>
+            <t pos="Adv">alt i alt</t>
+            <t pos="Adv">i det store og hele</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="Adv">vähittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i det minste</t>
+            <t pos="Adv">minst</t>
+            <t pos="Adv">minimum</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">gradvis</t>
          </tg>
       </mg>
    </e>
