@@ -852,13 +852,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l context="mie" pos="V">uuđistuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">fornye seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">revidere seg</t>
          </tg>
       </mg>
    </e>
@@ -13731,19 +13736,11 @@ For the full license text, see the link above.</lic>
                <xt>I gamle dager hadde de husdyr.</xt>
             </xg>
             <xg>
-               <x>Piđä sommaa! (til en)</x>
+               <x>Piđä sommaa!</x>
                <xt>Ha det moro!</xt>
             </xg>
             <xg>
-               <x>Piđäkkää sommaa! (til flere)</x>
-               <xt>Ha det moro!</xt>
-            </xg>
-            <xg>
-               <x>Piđä hyvvää! (til en)</x>
-               <xt>Ha det bra!</xt>
-            </xg>
-            <xg>
-               <x>Piđäkkää hyvvää! (til flere)</x>
+               <x>Piđä hyvvää!</x>
                <xt>Ha det bra!</xt>
             </xg>
             <xg>
@@ -19549,7 +19546,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">uuđistaat</l>
          <stem>uuđista</stem>
@@ -19557,6 +19554,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fornye</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">revidere</t>
          </tg>
       </mg>
    </e>
@@ -22020,13 +22022,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l context="mie" pos="V">julistaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">erklære</t>
+            <t pos="V">deklarere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utlyse</t>
          </tg>
       </mg>
    </e>
@@ -25448,14 +25456,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l context="mie" pos="V">painoittaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">vektlegge</t>
             <t pos="Phrase">legge vekt på</t>
-            <t pos="Phrase">vektlegge</t>
+            <t pos="V">poengtere</t>
+            <t pos="V">fremheve</t>
             <xg>
                <x>Dokumentissa oon pantu ylös paljon tärkkeitä punktii siitä mitä met häyđymä painoittaat.</x>
                <xt>Det er satt opp mange viktige punkter i dokumentet om hva vi må legge vekt på.</xt>
