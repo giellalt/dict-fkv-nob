@@ -68621,13 +68621,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">tulliijainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gave</t>
+            <t pos="N">hjemkomstgave</t>
             <t pos="Phrase">medbrakt ting</t>
          </tg>
       </mg>
@@ -113193,7 +113194,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hjemkostgave</t>
+            <t pos="N">gave</t>
+            <t pos="N">hjemkomstgave</t>
+            <t pos="Phrase">medbrakt ting</t>
          </tg>
       </mg>
    </e>
