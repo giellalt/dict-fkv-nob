@@ -2300,10 +2300,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="es;ks">
       <lg>
          <l pos="A">kirjalinen</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">litterær</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">skriftlig</t>
