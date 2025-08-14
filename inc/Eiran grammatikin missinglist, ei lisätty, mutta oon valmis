@@ -41,7 +41,10 @@ til dels  Adv  osittain, osaksi, osin
    tuplavokaali  N  dobbelvokal
    3 modus  N  modus
    3 hirmusti  Adv  veldig
-   3 harvotellen  Adv  sjeldent
+harvhaan  Adv  sjelden
+harvakseen  Adv  sjelden
+   3 harvotellen  Adv  sjelden
+harviimasti  Adv  sjeldnest
    3 graadivaihettelupari  N  stadievekslingspar
    3 etuvokaalinen  A  som har fremre vokal, med fremre vokal
      takavokaalinen  A  som har bakre vokal, med bakre vokal
@@ -89,7 +92,6 @@ yksilekseemi  N  simpleksord
    2 erisorttinen  A  annerledes, forskjellig, ulik (erilainen)
    2 epäreekelimäisesti  Adv  uregelmessig
    2 epägrammatikaalinen  A  ugrammatisk
-   2 ensiosa  N  første del
    2 elatiivihaamuinen, adessiivihaamuinen, genitiivihaamuinen haluammeko näitä omina lemmoina?
    2 distributiivinen  A  distributiv
    2 derivasuunimorfeemi  N  avledningsmorfem
@@ -186,8 +188,11 @@ erroomahaamu
    1 totaaliobjekti  N  totalobjekt
    1 totaaliobjektihaamu
    1 voi tontta  Interj  helsike
-   1 toivottavuus  N  det at noe er ønskelig
+   1 toivottavvuus  N  det at noe er ønskelig
 toivottelu  N  (lykke)ønskning
+vissimästi  Adv  sikkert
+ei varmastikhaan  Adv sikkert ikke
+ei vishiinkhään  Adv  sikkert ikke
    1 toisinhaan  Adv  av og til
    1 tieđolinen  A  kognitiv
    1 tervettelysana  N  hilsning(sord)
@@ -313,6 +318,9 @@ senki  Interj  for en/ei/et... Senki pöllöpää! For en tosk!
    1 nyky-yhtheiskunta  N  dagens samfunn
    1 nyky- liitet
    1 nyansi vain nuansi?
+yhtenhään  Adv  stadig
+tihheesti  Adv  hyppig, støtt
+tasan  Adv  alltid; fortsatt, enda
    1 nurinpäin  Adv  1. på vranga 2. opp ned, bakfrem
    1 norttospäin  Adv  nordover
    1 norttos  Adv  nordover
@@ -448,7 +456,6 @@ hööliys  N  høflighet
    1 hirmun  Adv  uhyre, veldig, meget
    1 hauttuut  V  svelle
    1 haukkumamielessä hmm i nedsettende forstand
-   1 harvemin  Adv  mer sjelden, sjeldnere
    1 hallussapito  N  innehavelse
    1 hallitteeva styrende
    1 halkaisu  N  kløyving
