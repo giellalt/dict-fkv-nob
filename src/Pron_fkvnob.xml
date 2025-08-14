@@ -496,7 +496,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="Pron">moni</l>
          <stem>mone</stem>
@@ -506,6 +506,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">mange</t>
             <t pos="Phrase">mang en</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">noen</t>
+            <t pos="Phrase">noen stykker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Pron">harva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">få</t>
+            <xg>
+               <x>Tyhä harva tiettää kuinka tämän tehđhään.</x>
+               <xt>Bare noen få vet hvordan man gjør dette.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
