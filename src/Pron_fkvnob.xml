@@ -305,13 +305,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Pron">kummoinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Det">hva slags</t>
+            <t pos="Phrase">hva slags</t>
+            <t pos="A">hvordan</t>
+            <t pos="A">hvilken</t>
          </tg>
       </mg>
    </e>
@@ -396,7 +398,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="Pron">mikä</l>
          <stem>mi</stem>
@@ -420,6 +422,23 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ei milhään tavala ~ laila</x>
                <xt>på ingen som helst måte</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">hvilken</t>
+            <xg>
+               <x>Minkä näistä kolmesta valittisit?</x>
+               <xt>Hvilken av disse tre ville du ha valgt?</xt>
+            </xg>
+            <xg>
+               <x>Mikä päivä!</x>
+               <xt>Hvilken dag!</xt>
+            </xg>
+            <xg>
+               <x>Mikä päivä tääpänä oon?</x>
+               <xt>Hvilken dag er det idag?</xt>
             </xg>
          </tg>
       </mg>
@@ -535,7 +554,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">hvilken</t>
+         <re>plass i en rekke</re>
+            <t pos="Det">hvilken</t>
+            <xg>
+               <x>Kuinka mones sie olit moolissa?</x>
+               <xt>Hvilken plass kom du på i mål?</xt>
+            </xg>
+            <xg>
+               <x>Kuinka monensinna tet oletta mestaruuđen yhtheispoengissa?</x>
+               <xt>Hvilken plass er dere på sammenlagt i mesterskapet?</xt>
+            </xg>
+            <xg>
+               <x>Monenenko kerran sie nyt olet muistelu tämän muisteluksen.</x>
+               <xt>Hvor mange ganger har du fortalt denne fortellingen nå?</xt>
+            </xg>
+            <xg>
+               <x>Monesko juulikuun päivä tääpänä oon?</x>
+               <xt>Hvilken dag i juli er vi på nå?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -545,7 +581,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Det">hvilken i ei rekke</t>
+            <t pos="Phrase">hvilken i ei rekke</t>
+            <xg>
+               <x>Monesko juulikuun päivä tääpänä oon?</x>
+               <xt>Hvilken dag i juli er vi på nå?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
