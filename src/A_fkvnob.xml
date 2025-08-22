@@ -6360,12 +6360,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">svak</t>
+            <t pos="A">sped</t>
+            <t pos="A">sprø</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">løs</t>
-            <t pos="A">sprø</t>
          </tg>
       </mg>
    </e>
@@ -8590,14 +8591,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">rappee</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">langdryg</t>
             <t pos="A">drøy</t>
+            <t pos="A">langdryg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rikelig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">god</t>
          </tg>
       </mg>
    </e>

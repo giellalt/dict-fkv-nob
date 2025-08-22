@@ -10002,6 +10002,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">løse</t>
+            <t pos="V">slakke</t>
+            <t pos="V">slippe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">løse</t>
+            <t pos="V">innløse</t>
+            <t pos="Phrase">løse inn</t>
             <t pos="Phrase">betale for</t>
          </tg>
       </mg>
@@ -15563,7 +15572,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">ratkaista</l>
          <stem>ratkaise</stem>
@@ -15571,8 +15580,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>en søm</re>
-            <t pos="Phrase">sprette opp</t>
+            <re>f.eks. en søm</re>
+            <t pos="V">sprette</t>
+            <t pos="V">løsne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>f.eks. en gåte</re>
             <t pos="V">løse</t>
          </tg>
       </mg>
