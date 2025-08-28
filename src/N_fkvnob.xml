@@ -45396,7 +45396,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">sinn</t>
             <t pos="N">tanke</t>
-            <t pos="N">mening</t>
+            <xg>
+               <x>Hänelä oon aina sota mielessä.</x>
+               <xt>Han har alltid krigen i tankene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">humør</t>
             <xg>
                <x>Minula oon huono mieli.</x>
@@ -45406,14 +45413,11 @@ For the full license text, see the link above.</lic>
                <x>Mie olen huonossa mielessä.</x>
                <xt>Jeg er i dårlig humør.</xt>
             </xg>
-            <xg>
-               <x>Hänelä oon aina sota mielessä.</x>
-               <xt>Han/hun har alltid krigen i minnet.</xt>
-            </xg>
-            <xg>
-               <x>Olemako yhtä mieltä siitä?</x>
-               <xt>Er vi enige om det?</xt>
-            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lyst</t>
             <xg>
                <x>Oonko sinula mieli kaffistella minun kans?</x>
                <xt>Har du lyst til å drikke kaffe med meg?</xt>
@@ -45422,10 +45426,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+         <re>syn, oppfatning</re>
             <t pos="N">mening</t>
             <xg>
                <x>Siitä oon monta mieltä.</x>
                <xt>Det er mange meninger om det.</xt>
+            </xg>
+            <xg>
+               <x>Olemako yhtä mieltä siitä?</x>
+               <xt>Har vi samme mening om det?</xt>
             </xg>
          </tg>
       </mg>
