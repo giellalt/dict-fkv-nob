@@ -17888,13 +17888,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="rk">
+   <e src="rk;es">
       <lg>
          <l pos="N">kunta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kommune</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om tallord</re>
+            <t pos="N">omtrent</t>
+            <xg>
+            <x>Het tulthiin tänne Raishiin kymmenkunta vuotta aikkaa.</x>
+            <xt>De kom hit til Reisa for omtrent ti år siden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
