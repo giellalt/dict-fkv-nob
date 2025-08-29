@@ -356,7 +356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Num">omtrent ti</t>
+            <t pos="N">titall</t>
          </tg>
       </mg>
    </e>
@@ -428,7 +428,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Num">omtrent tyve</t>
+         <re>omtrent tjue</re>
+            <t pos="N">tjuetall</t>
          </tg>
       </mg>
    </e>
@@ -439,6 +440,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Num">hundre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Num">satakunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>omtrent hundre</re>
+            <t pos="Num">hundretall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Num">tuhatkunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>omtrent tusen</re>
+            <t pos="Num">tusentall</t>
          </tg>
       </mg>
    </e>
