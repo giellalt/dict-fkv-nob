@@ -5160,8 +5160,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">røpe</t>
             <t pos="V">tyste</t>
             <xg>
-               <x>Minun paras ystävä kanteli minun pääle!</x>
-               <xt>Min beste venn sladret på meg!</xt>
+               <x>Hän kanteli minun pääle opettaajale.</x>
+               <xt>Han sladret på meg til læreren.</xt>
             </xg>
          </tg>
       </mg>
@@ -20079,7 +20079,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">varata</l>
          <stem>varraa</stem>
@@ -20094,6 +20094,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">advare</t>
+            <t pos="V">varsle</t>
          </tg>
       </mg>
       <mg>

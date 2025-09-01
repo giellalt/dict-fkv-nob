@@ -30601,7 +30601,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kantti</l>
          <stem>kanti</stem>
@@ -30609,6 +30609,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kant</t>
+            <t pos="N">hold</t>
+            <xg>
+               <xHän saapi kuurttoo joka kantilta.></x>
+               <xt>Hun fra støtte fra alle hold.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
