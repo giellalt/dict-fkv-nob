@@ -78884,24 +78884,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">asema</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>plass, posisjon</re>
             <t pos="N">stilling</t>
+            <t pos="N">posisjon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innstilling</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
 	         <re>måte som en holder kroppen på</re>
             <t pos="N">holdning</t>
+            <t pos="N">stilling</t>
             <xg>
             <x>Mie istuin niin huonossa asemassa, ette sölkä tuli kippeeksi.</x>
             <xt>Jeg satt i en så dårlig stilling, at jeg fikk vondt i ryggen.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stasjon</t>
          </tg>
       </mg>
    </e>
