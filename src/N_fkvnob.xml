@@ -50665,7 +50665,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pakke</t>
-            <t pos="Phrase">bakke (i sjøen)</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>i sjøen</re>
+            <t pos="Phrase">bakke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">fiskeplass</t>
          </tg>
       </mg>
