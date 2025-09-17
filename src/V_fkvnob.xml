@@ -7327,25 +7327,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l context="mie" pos="V">kuluttaat</l>
          <stem>kuluta</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fiske med garn</t>
+            <t pos="V">forbruke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+         <re>påføre slitasje, gjøre slitt</re>
             <t pos="V">slite</t>
             <t pos="Phrase">bruke opp</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+         <re>om tid</re>
+            <t pos="V">fordrive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">drive fiske med drivgarn</t>
+            <t pos="Phrase">fiske med garn</t>
          </tg>
       </mg>
    </e>
