@@ -37065,11 +37065,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es;ta">
       <lg>
          <l pos="N">kulutus</l>
          <stem>kulutukse</stem>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbruk</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">garnfiske</t>
