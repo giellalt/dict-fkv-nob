@@ -7317,13 +7317,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l context="mie" pos="V">kulluut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">slites</t>
+            <t pos="Phrase">bli slitt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om tid</re>
+            <t pos="V">gå</t>
          </tg>
       </mg>
    </e>
