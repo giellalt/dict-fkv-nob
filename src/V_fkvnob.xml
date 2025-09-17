@@ -7327,20 +7327,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;anb">
+   <e src="ta;ai;es;anb">
       <lg>
          <l context="mie" pos="V">kuluttaat</l>
          <stem>kuluta</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">forbruke</t>
+         <re>påføre slitasje, gjøre slitt</re>
+            <t pos="V">slite</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-         <re>påføre slitasje, gjøre slitt</re>
-            <t pos="V">slite</t>
+            <t pos="V">forbruke</t>
+            <t pos="V">konsumere</t>
             <t pos="Phrase">bruke opp</t>
          </tg>
       </mg>
@@ -22279,14 +22280,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l context="mie" pos="V">karkoittaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">jage bort</t>
+            <t pos="V">fordrive</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">forvise</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">utvise</t>
          </tg>
       </mg>
