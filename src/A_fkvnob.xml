@@ -1123,13 +1123,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="mk;es">
       <lg>
          <l pos="A">äkänen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">plutselig</t>
+            <t pos="A">snar</t>
             <syng>
                <syn>äkäinen</syn>
             </syng>
@@ -11388,16 +11389,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">illsint</t>
             <t pos="A">sint</t>
-            <syng>
-               <syn>vihanen</syn>
-            </syng>
+            <t pos="A">illsint</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+         <re>som det er gått betennelse i</re>
             <t pos="A">betent</t>
+            <t pos="A">irritert</t>
          </tg>
       </mg>
    </e>
