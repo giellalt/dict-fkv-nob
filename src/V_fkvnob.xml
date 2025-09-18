@@ -12435,7 +12435,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l context="mie" pos="V">pahoitella</l>
          <stem>pahoittele</stem>
@@ -12444,7 +12444,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">beklage</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">surmule</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">være sint og vanskelig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">gjøre harme</t>
+            <t pos="Phrase">gjøre skade</t>
          </tg>
       </mg>
    </e>
