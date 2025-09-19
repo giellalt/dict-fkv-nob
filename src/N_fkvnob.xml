@@ -37065,7 +37065,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es;ta">
+   <e src="es;ki;ta">
       <lg>
          <l pos="N">kulutus</l>
          <stem>kulutukse</stem>
@@ -37077,7 +37077,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">konsum</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">garnfiske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kuluttaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">konsum</t>
          </tg>
       </mg>
    </e>
@@ -39019,7 +39039,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">käyttö</l>
          <stem>käytö</stem>
@@ -39027,6 +39047,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">käyttäminen</l>
+         <stem>käytö</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbruk</t>
          </tg>
       </mg>
    </e>
@@ -53609,13 +53650,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">pito</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forbruk</t>
          </tg>
       </mg>
    </e>
