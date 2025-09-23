@@ -764,7 +764,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">bøye</t>
             <t pos="V">bøyes</t>
+            <t pos="Phrase">bøye seg</t>
+            <t pos="Phrase">bli bøyd</t>
          </tg>
       </mg>
    </e>
@@ -17349,8 +17352,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">bli bøyd</t>
+            <t pos="V">bøye</t>
+            <t pos="V">bøyes</t>
             <t pos="Phrase">bøye seg</t>
+            <t pos="Phrase">bli bøyd</t>
          </tg>
       </mg>
    </e>
@@ -21377,6 +21382,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bøye</t>
+            <t pos="V">bøyes</t>
+            <t pos="Phrase">bøye seg</t>
+            <t pos="Phrase">bli bøyd</t>
          </tg>
       </mg>
    </e>
