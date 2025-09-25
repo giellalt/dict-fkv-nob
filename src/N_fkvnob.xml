@@ -65084,14 +65084,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ia;ki">
       <lg>
          <l pos="N">sylilapsi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">baby</t>
+            <t pos="N">spedbarn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">småbarn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fangbarn</t>
          </tg>
       </mg>
    </e>
