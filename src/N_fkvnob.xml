@@ -4992,6 +4992,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">energi</t>
+            <t pos="N">ork</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">virkelyst</t>
             <t pos="N">handlekraft</t>
          </tg>
@@ -116265,6 +116270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">oppslagsbok</t>
             <t pos="N">oppslagsverk</t>
          </tg>
       </mg>
@@ -116272,6 +116278,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="N">hakemasanahaamu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppslagsform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hakemahaamu</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -116831,6 +116847,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">allmenngeminasjon</t>
             <t pos="N">allmenngeminering</t>
          </tg>
       </mg>
@@ -117182,6 +117199,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">spesialgeminasjon</t>
             <t pos="N">spesialgeminering</t>
          </tg>
       </mg>
@@ -117265,6 +117283,418 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tosk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">resiprookkisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">resiprotet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rehtori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rektor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">referentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">referent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">rajaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avgrensning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">puteli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">flaske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">puhetkorpus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">talekorpus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">prillit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">briller</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">prefiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">prefiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">preesenshaamu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presensform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">predikaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">predikat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pikkuvaara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ås</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pikkupukstaavi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">liten bokstav</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">persoonakongruensi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">personkongruens</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pensikkö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kratt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">paralellihaamu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">parallellform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">pääjoukko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hovedgruppe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">osakomponentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">delkomponent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ortografia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ortografi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ortografii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ortografi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nomenityyppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nomentype</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">neutraali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nøytral</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kollektiividerivasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kollektivavledning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kaffipööna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kaffebønne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">juurimorfeemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rotmorfem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">järjestys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rekkefølge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">jalkapallomatsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fotballkamp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">instruktiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">instruktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">interjeksuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">interjeksjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">imigranttipolvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">immigrantgenerasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hööliysfraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høflighetsfrase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hööliys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">høflighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">homogaanisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">homogenitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">hallussapito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innehavelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">halkaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kløyving</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">graadiadverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gradsadverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">genetiividefineeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">genitivsmodifikator</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">geminasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">geminasjon</t>
+            <t pos="N">geminering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">futuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">futurum</t>
+            <t pos="N">fremtid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">franskmann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">franskalainen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">fiikus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fikus</t>
          </tg>
       </mg>
    </e>
