@@ -21869,12 +21869,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">fiikus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">fikus</t>
             <t pos="N">gummifikus</t>
          </tg>
       </mg>
@@ -117665,16 +117666,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">franskalainen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l pos="N">fiikus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">fikus</t>
          </tg>
       </mg>
    </e>
