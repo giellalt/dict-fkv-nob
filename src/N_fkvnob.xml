@@ -13600,16 +13600,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">derivasuunisuffiksi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">avledningssuffiks</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">ilmoittaminen</l>
       </lg>
       <mg>
@@ -16809,16 +16799,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kommunikasjon</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="mk">
-      <lg>
-         <l pos="N">kommentti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kommentar</t>
          </tg>
       </mg>
    </e>
@@ -116311,16 +116291,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">derivasuunimorfeemi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">avledningsmorfem</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">denotasuuni</l>
       </lg>
       <mg>
@@ -117809,7 +117779,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">distanseverdi</t>
+            <t pos="N">avstandsverdi</t>
          </tg>
       </mg>
    </e>
