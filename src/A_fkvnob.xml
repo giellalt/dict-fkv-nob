@@ -22402,13 +22402,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="es">
+   <e src="es">
       <lg>
          <l pos="A">neutraali</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">nøytral</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">abstrakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">abstrakt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">originaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">original</t>
          </tg>
       </mg>
    </e>
