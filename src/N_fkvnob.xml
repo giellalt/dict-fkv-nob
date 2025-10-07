@@ -76121,13 +76121,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="oa">
+   <e src="oa;es">
       <lg>
          <l pos="N">tomppeli</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dumrian</t>
+            <t pos="N">tosk</t>
          </tg>
       </mg>
    </e>
@@ -88206,7 +88207,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">overnaturlig vesen</t>
+            <t pos="Phrase">overnaturlig vesen</t>
          </tg>
       </mg>
    </e>
@@ -88217,6 +88218,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dumrian</t>
+            <t pos="N">tosk</t>
          </tg>
       </mg>
    </e>
@@ -88227,6 +88229,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dumrian</t>
+            <t pos="N">tosk</t>
          </tg>
       </mg>
    </e>
@@ -117661,11 +117664,72 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">franskmann</l>
+         <l pos="N">franskalainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">franskalainen</t>
+            <t pos="N">franskmann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">omituisluonto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">særegenhet</t>
+            <t pos="N">egenart</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">opposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">opposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oornaamaluku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ordenstall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nyansi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nyanse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nyky-yhteiskunta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">dagens samfunn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">oppikirjastandardi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lærebokstandard</t>
          </tg>
       </mg>
    </e>
