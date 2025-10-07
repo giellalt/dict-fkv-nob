@@ -57259,7 +57259,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mj;ta">
+   <e src="mj;ta;es">
       <lg>
          <l pos="N">pöllö</l>
       </lg>
@@ -57271,6 +57271,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tulling</t>
+            <t pos="N">tosk</t>
             <t pos="N">dumrian</t>
          </tg>
       </mg>
@@ -117920,6 +117921,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">adjektivattributt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">attribuutti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">attributt</t>
          </tg>
       </mg>
    </e>
