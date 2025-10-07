@@ -117678,8 +117678,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">særegenhet</t>
-            <t pos="N">egenart</t>
+            <t pos="N">særtrekk</t>
+            <t pos="N">karaktertrekk</t>
          </tg>
       </mg>
    </e>
@@ -117730,6 +117730,346 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">lærebokstandard</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">evakueeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">evakuering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">etnonyymi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">etnonym</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">epiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">epitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">entiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">entitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ehtomodus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kondisjonalis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">eđesvastuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ansvar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">distansi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">distanse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">distansiarvo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">distanseverdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dialektikontinuumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dialektkontinuum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">dialekti-isoglossi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dialektisogloss</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">derivasuunimorfeemi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avledningsmorfem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">derivasuunisuffiksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avledningssuffiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">diminutiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">diminutiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aukaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">åpning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aspirasuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aspirasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">apposisuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">apposisjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">alisyntakti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">undersetning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">aksuneeraus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">aksjonering</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">akkusatiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">akkusativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">ajattelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tenkning</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">affektifraasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">affektfrase</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">adjektiiviattribuutti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">adjektivattributt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">abstraktisana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">abstrakt ord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">äänenvaihettuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lydendring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">vokaalinpitenemä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vokalforlengelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">tapattumaverbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hendelsesverb</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">standardi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">standard</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">nenetsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nenetser</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">modaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">modalitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">koivuhalko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bjørkeved</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kommentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kommentar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">faarao</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">farao</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">etelävarenkilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sør-varangerværing</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">originaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">original</t>
          </tg>
       </mg>
    </e>
