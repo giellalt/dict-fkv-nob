@@ -13913,14 +13913,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde</t>
-            <xg>
-               <x>piđätellä ittensä</x>
-               <xt>beherske seg</xt>
-            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="es">
+      <lg>
+         <l context="mie" pos="Phrase">piđätellä ittensä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">beherske seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">piđättäät</l>
          <stem>piđätä</stem>
@@ -13928,6 +13934,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">holde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">holde tilbake</t>
          </tg>
       </mg>
       <mg>
