@@ -10325,7 +10325,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">gjenta</t>
+<!--            <t pos="V">gjenta</t> -->
             <t pos="V">mase</t>
          </tg>
       </mg>
@@ -12706,7 +12706,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>av flo</re>
+            <re>om flovann</re>
             <t pos="V">stige</t>
          </tg>
       </mg>
@@ -28121,7 +28121,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hardne</t>
-            <t pos="V">forherde</t>
+            <t pos="Phrase">forherde seg</t>
          </tg>
       </mg>
       <mg>
@@ -28192,16 +28192,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">leksikaliseres</t>
             <t pos="Phrase">bli leksikalisert</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l context="mie" pos="V">kongrueerata</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">kongruere</t>
          </tg>
       </mg>
    </e>
