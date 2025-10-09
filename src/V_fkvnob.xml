@@ -7038,7 +7038,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l context="mie" pos="V">kovettuut</l>
          <stem>kovetu</stem>
@@ -7046,6 +7046,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">stivne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hardne</t>
          </tg>
       </mg>
    </e>
@@ -9543,13 +9548,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l context="mie" pos="V">lujetella</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">regne opp</t>
+            <t pos="Phrase">liste opp</t>
+            <t pos="Phrase">ramse opp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">dele inn</t>
+            <t pos="V">gruppere</t>
          </tg>
       </mg>
    </e>
@@ -11845,9 +11858,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>f.eks. bli strakere, bli rettere</re>
-            <t pos="Phrase">bli strak</t>
-            <t pos="Phrase">bli rett</t>
+            <t pos="Phrase">bli strakere</t>
+            <t pos="Phrase">bli rettere</t>
          </tg>
       </mg>
    </e>
@@ -25465,20 +25477,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+<!--   <e src="es">
       <lg>
          <l context="mie" pos="V">haaristella</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">gå rundt med vingene, armene utslått</t>
-            <xg>
-               <x>Harakka se haaristellee, pitkälä pyrstölä pyllystellee.</x>
-               <xt>Sjura den går rundt med vingene utslått, med sin lange stjert den viser sin bak.</xt>
-            </xg>
          </tg>
       </mg>
-   </e>
+   </e> -->
    <e src="es">
       <lg>
          <l context="mie" pos="V">haavoitella</l>
@@ -28020,6 +28028,309 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">prioritere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">viisata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">vise til</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">tarkenttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">presisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">suoristuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli rettere</t>
+            <t pos="Phrase">bli rakere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">suhista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">visle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">säästelä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">spare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">realiseeraanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">realiseres</t>
+            <t pos="Phrase">bli realisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">deriveerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">derivere</t>
+            <t pos="V">avlede</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">kursiveerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kursivere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">koveta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hardne</t>
+            <t pos="V">forherde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>bli sterkere, mer intens, virkningsfull</re>
+            <t pos="V">øke</t>
+            <xg>
+               <x>Ääni tyhä koveni ette koveni.</x>
+               <xt>Lyden bare økte og økte.</xt>
+            </xg>
+            <xg>
+               <x>Säävarrauksen jälkhiin tuuli kovenee illemalla.</x>
+               <xt>I følge værmeldinga blir vinden å øke på senere på ettermiddagen.</xt>
+            </xg>
+            <xg>
+               <x>Hän sannoo ette kipu kovenee ko hän hengittää ja liikkuu.</x>
+               <xt>Han sier at smerten øker når han puster og beveger seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">kivettyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forstenes</t>
+            <t pos="Phrase">bli forsteinet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">hardne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stivne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">naurattaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få til å le</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">manifestaanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">manifestere seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">leksikaalistuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">leksikaliseres</t>
+            <t pos="Phrase">bli leksikalisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">kongrueerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kongruere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;anb">
+      <lg>
+         <l context="mie" pos="V">kerrata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gjenta</t>
+            <t pos="V">repetere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gange</t>
+            <t pos="V">multiplisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">itkettäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">få til å gråte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">implikeerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">implisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">hyrräilä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">nynne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">hauttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">graadivaihetella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gradveksle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">gemineerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">geminere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">evakoita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">evakuere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">digitaliseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">digitalisere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">assimileeraanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">assimileres</t>
+            <t pos="Phrase">bli assimilert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">aktualiseeraanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">aktualiseres</t>
+            <t pos="Phrase">bli aktualisert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">modiseerata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">modisere</t>
          </tg>
       </mg>
    </e>
