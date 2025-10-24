@@ -40708,7 +40708,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">leikkaus</l>
          <stem>leikkaukse</stem>
@@ -40717,7 +40717,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">kutting</t>
             <t pos="N">skjæring</t>
+            <t pos="N">klipping</t>
             <t pos="N">snitt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">operasjon</t>
          </tg>
       </mg>

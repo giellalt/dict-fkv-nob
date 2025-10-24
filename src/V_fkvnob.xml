@@ -5809,18 +5809,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l hid="Hom2" pos="V">keritä</l>
-         <stem>keritte</stem>
-         <stem>keritte</stem>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">klippe sauer</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta;ai">
-      <lg>
          <l hid="Hom1" pos="V">keritä</l>
          <stem>kerkkii</stem>
          <stem>kerin</stem>
@@ -8863,7 +8851,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">leikata</l>
          <stem>leikkaa</stem>
