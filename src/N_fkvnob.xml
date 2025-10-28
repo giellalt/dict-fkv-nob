@@ -54150,11 +54150,61 @@ For the full license text, see the link above.</lic>
    </e>
      <e src="ki">
       <lg>
+         <l pos="N">porno</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">porno</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="ki">
+      <lg>
          <l pos="N">versuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">versjon</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="ki">
+      <lg>
+         <l pos="N">allergia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">allergi</t>
+         </tg>
+      </mg>
+   </e>
+       <e src="ki">
+      <lg>
+         <l pos="N">agentti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">agent</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">mandaatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mandat</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">öljyhinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oljepris</t>
          </tg>
       </mg>
    </e>
