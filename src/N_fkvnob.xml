@@ -54026,7 +54026,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">poika</l>
          <stem>poja</stem>
@@ -54040,6 +54040,36 @@ For the full license text, see the link above.</lic>
             <mg>
          <tg xml:lang="nob">
             <t pos="N">sønn</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="ki">
+      <lg>
+         <l pos="N">muslimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">muslim</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">versuuni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">versjon</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">profiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">profil</t>
          </tg>
       </mg>
    </e>
