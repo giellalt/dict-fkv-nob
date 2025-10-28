@@ -50132,7 +50132,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">ođotus</l>
          <stem>ođotukse</stem>
@@ -50140,6 +50140,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">venting</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forventning</t>
          </tg>
       </mg>
    </e>
@@ -54095,11 +54100,71 @@ For the full license text, see the link above.</lic>
    </e>
      <e src="ki">
       <lg>
+         <l pos="N">syntymäpäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bursdag</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">filosofia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">filosofi</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">semesteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">semester</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">seksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sex</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="ki">
+      <lg>
+         <l pos="N">euro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">euro</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="ki">
+      <lg>
          <l pos="N">versuuni</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">versjon</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">työelämä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsliv</t>
          </tg>
       </mg>
    </e>
@@ -62665,6 +62730,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sikte</t>
+             <t pos="N">sikt</t>
          </tg>
       </mg>
    </e>
@@ -68837,6 +68903,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">framtid</t>
+            <t pos="N">fremtid</t>
          </tg>
       </mg>
    </e>
@@ -96618,7 +96685,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">motiivi</l>
       </lg>
