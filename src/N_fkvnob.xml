@@ -43490,6 +43490,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e src="ki">
+      <lg>
+         <l pos="N">pensumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pensum</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">direktiivi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">direktiv</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">maanantai</l>
@@ -43507,6 +43527,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordmåler</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">narkotika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">narkotika</t>
          </tg>
       </mg>
    </e>
