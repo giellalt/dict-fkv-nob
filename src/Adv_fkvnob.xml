@@ -5913,11 +5913,6 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">fra</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">fra gammelt av</t>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -6249,19 +6244,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">såpass</t>
             <xg>
-            <x>Se on jo siksi vanhaa ette ymmärttää.</x>
-            <xt>Han/hun er såpass gammel at hen forstår.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">så lenge</t>
-            <t pos="Adv">frem til</t>
-            <t pos="CS">til</t>
-            <xg>
-            <x>Hän jäi sinne siksi ko kuoli.</x>
-            <xt>Han/hun ble der til hen døde.</xt>
+            <x>Hän on jo siksi vanhaa ette ymmärttää.</x>
+            <xt>Han er såpass gammel at han forstår.</xt>
             </xg>
          </tg>
       </mg>
