@@ -5528,7 +5528,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">päin</l>
       </lg>
@@ -5540,18 +5540,13 @@ For the full license text, see the link above.</lic>
                <xt>nordover</xt>
             </xg>
             <xg>
-               <x>vaarhaan päin</x>
-               <xt>i retning mot fjellet</xt>
+               <x>Het käveleevät vaarhaan päin</x>
+               <xt>De går mot fjellet</xt>
             </xg>
             <xg>
                <x>Se ei käy päin.</x>
                <xt>Det går ikke an.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">nordover</t>
          </tg>
       </mg>
    </e>
