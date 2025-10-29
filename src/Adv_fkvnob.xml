@@ -1382,7 +1382,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">arvatenki</l>
       </lg>
@@ -2314,13 +2314,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;es">
       <lg>
          <l pos="Adv">vaphaasti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">fritt</t>
+            <t pos="Adv">utvunget</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">rikelig</t>
          </tg>
       </mg>
    </e>
@@ -6104,7 +6110,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">nett</t>
             <t pos="Adv">vakkert</t>
          </tg>
       </mg>
@@ -11993,9 +11998,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">pent</t>
+            <t pos="Adv">ordentlig</t>
             <xg>
-            <x>Istu siivosti!</x>
-            <xt>Sitt stille!</xt>
+            <x>Istu siivosti toolila!</x>
+            <xt>Sitt pent på stolen!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">snill</t>
+            <xg>
+            <x>Nyt tuletta ja oletta siivosti!</x>
+            <xt>Nå kommer dere og er snille!</xt>
             </xg>
          </tg>
       </mg>
@@ -13088,6 +13103,442 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">av og til</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">halula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">gjerne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pejoratiivisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">pejorativt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">paritusten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">parvis</t>
+            <t pos="Adv">i par</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">öystäs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">østover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">öystäspäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">østover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">norttos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nordover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">norttospäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">nordover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nomenityypittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">etter nomentype</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">neljesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">fire ganger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">nelinkontin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">på alle fire</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">meetterittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">metervis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lyhykäisemmin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kortere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">lappheelensa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">på flatsida</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kotisalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hjemme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kolmittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tre og tre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kilomeetterittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kilometervis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">keskinäisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">seg imellom</t>
+            <t pos="Adv">innbyrdes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kauvaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>vanligvis i nektende setninger</re>
+            <t pos="Adv">lenge</t>
+            <xg>
+            <x>Mie olen asunu Suomessa, mutten kyllä kauaa aikkaa.</x>
+            <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kaksittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">to og to</t>
+            <t pos="Adv">parvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kaikisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bestandig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">jälemin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">senere</t>
+            <t pos="Adv">etterpå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hirmun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">uhyre</t>
+            <t pos="Adv">veldig</t>
+            <t pos="Adv">meget</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hituisen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ørlite</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">enämältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>i nektende setninger</re>
+            <t pos="Adv">mer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">enämästi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>i nektende setninger</re>
+            <t pos="Adv">mer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hurskhaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fromt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hauskasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hyggelig</t>
+            <t pos="Adv">koselig</t>
+            <t pos="Adv">trivelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pyhästi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hellig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hienosti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fint</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">liukkhaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">glatt</t>
+            <t pos="Adv">sleipt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">onnelisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lykkelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">rahalisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">økonomisk</t>
+            <t pos="A">pengemessig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">rumasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">stygt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">taitavasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">behendig</t>
+            <t pos="Adv">dyktig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">viekkhaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">rart</t>
+            <t pos="Adv">merkelig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ankarasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">strengt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ivrig</t>
+            <t pos="Adv">iherdig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">puhthaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">rent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">laiskasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lat</t>
+            <t pos="Adv">dovent</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">vijattomasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">uskyldig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">arvattavasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">formodentlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">ämpärittäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bøttevis</t>
          </tg>
       </mg>
    </e>
