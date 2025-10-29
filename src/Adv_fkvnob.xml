@@ -1656,6 +1656,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">enämän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">mer</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Adv">enämpi</l>
@@ -3054,6 +3064,16 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="Adv">kauvon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lenge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kauvan</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13287,7 +13307,22 @@ For the full license text, see the link above.</lic>
          <re>vanligvis i nektende setninger</re>
             <t pos="Adv">lenge</t>
             <xg>
-            <x>Mie olen asunu Suomessa, mutten kyllä kauaa aikkaa.</x>
+            <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
+            <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">kauaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>vanligvis i nektende setninger</re>
+            <t pos="Adv">lenge</t>
+            <xg>
+            <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
             <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
             </xg>
          </tg>
