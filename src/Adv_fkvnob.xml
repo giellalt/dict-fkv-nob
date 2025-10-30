@@ -11958,6 +11958,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">systemaatilisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">systematisk</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="Adv">ittenäisesti</l>
@@ -13574,6 +13584,57 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bøttevis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sölitysten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i fanget på hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sisätysten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">inni hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">selvemin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">klarere</t>
+            <t pos="Adv">tydeligere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">miljoonittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">millionvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">miljuunittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">millionvis</t>
          </tg>
       </mg>
    </e>
