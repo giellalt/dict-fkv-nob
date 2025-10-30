@@ -13728,7 +13728,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">pirskota</l>
          <stem>pirskoo</stem>
@@ -13737,6 +13737,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skvette</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sprute</t>
          </tg>
       </mg>
    </e>
@@ -13753,6 +13758,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sprøyte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">sprute</t>
          </tg>
       </mg>
@@ -18908,10 +18917,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sprute</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Phrase">sprute på</t>
          </tg>
       </mg>

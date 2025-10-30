@@ -53673,7 +53673,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">pistos</l>
          <stem>pistokse</stem>
@@ -53681,6 +53681,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">stikk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>innholdet i en sprøyte</re>
+            <t pos="N">sprøyte</t>
          </tg>
       </mg>
    </e>
