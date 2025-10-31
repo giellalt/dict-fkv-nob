@@ -35266,16 +35266,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="N">korju</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">sanking</t>
+            <t pos="N">høsting</t>
             <t pos="N">innberging</t>
-            <syng>
-               <syn>heinänkorju</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -118447,6 +118446,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nasal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">korjukulttuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sankekultur</t>
+            <t pos="N">høstekultur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">väärttiystävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+             <re>spesielt om forholdet mellom fastboende og reidriftsamer</re>
+            <t pos="N">gjestevenn</t>
          </tg>
       </mg>
    </e>
