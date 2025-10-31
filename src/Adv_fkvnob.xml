@@ -13028,6 +13028,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">mye</t>
+            <t pos="Adv">veldig</t>
          </tg>
       </mg>
    </e>
@@ -13037,7 +13038,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">bra mye</t>
+            <t pos="Adv">bra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">mye</t>
          </tg>
       </mg>
    </e>
@@ -13047,8 +13053,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">ufattelig mye</t>
-            <t pos="Adv">utrolig mye</t>
+         <re>ufattelig, utrolig</re>
+            <t pos="Adv">mye</t>
          </tg>
       </mg>
    </e>
@@ -13769,6 +13775,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">millionvis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">miiloittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">milevis</t>
          </tg>
       </mg>
    </e>
