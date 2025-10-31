@@ -6627,45 +6627,143 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="Adv">tallela</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">tatt vare på</t>
+            <t pos="Phrase">tatt vare på</t>
+            <t pos="Adv">bevart</t>
+            <xg>
+               <x>Hänelä oon kuvat tallela.</x>
+               <xt>Han han tatt vare på bildene.</xt>
+            </xg>
+            <xg>
+               <x>Muistot oon vielä tallela.</x>
+               <xt>Minnene er fortsatt bevart.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="Adv">tallessa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bevart</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="Adv">taltheen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">ta vare på</t>
+            <t pos="Adv">i behold</t>
+            <t pos="Adv">i forvaring</t>
             <xg>
-               <x>ottaat taltheen</x>
-               <xt>ta vare på</xt>
+               <x>Hänelä oon rahhaa tallessa.</x>
+               <xt>Han har penger i behold.</xt>
+            </xg>
+            <xg>
+               <x>Museumila oon maalaukset tallessa.</x>
+               <xt>Museumet har maleriene i forvaring.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">ta i bevaring</t>
+            <t pos="V">oppbevare</t>
             <xg>
-               <x>ottaat taltheen</x>
-               <xt>ta vare på</xt>
+               <x>Hän pittää kuvat tallessa lohđassa.</x>
+               <xt>Han oppbevarer bildene på loftet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">korjussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bevart</t>
+            <t pos="Adv">i behold</t>
+            <t pos="Adv">i forvaring</t>
+            <xg>
+               <x>Hänelä oon rahhaa korjussa.</x>
+               <xt>Han har penger i behold.</xt>
+            </xg>
+            <xg>
+               <x>Museumila oon maalaukset korjussa.</x>
+               <xt>Museumet har maleriene i forvaring.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppbevare</t>
+            <xg>
+               <x>Hän pittää kuvat korjussa lohđassa.</x>
+               <xt>Han oppbevarer bildene på loftet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;ki">
+      <lg>
+         <l pos="Adv">taltheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>Hän otti kuvat taltheen.</x>
+               <xt>Han tok vare på bildene</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta i bevaring</t>
+            <xg>
+               <x>Hän otti kuvat taltheen.</x>
+               <xt>Han tok bildene i bevaring.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forvaring</t>
+            <xg>
+               <x>Pulettija otti hänen taltheen.</x>
+               <xt>Politiet tok han i forvaring.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">korjhuun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta vare på</t>
+            <xg>
+               <x>Hän otti kuvat korjhuun.</x>
+               <xt>Han tok vare på bildene</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ta i bevaring</t>
+            <xg>
+               <x>Hän otti kuvat korjhuun.</x>
+               <xt>Han tok bildene i bevaring.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forvaring</t>
+            <xg>
+               <x>Pulettija otti hänen korjhuun.</x>
+               <xt>Politiet tok han i forvaring.</xt>
             </xg>
          </tg>
       </mg>
