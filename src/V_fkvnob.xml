@@ -12936,12 +12936,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">oppholde seg</t>
-            <t pos="Phrase">røre på seg på sommerbeite</t>
+         <re>om reinsdyr</re>
+            <t pos="Phrase">være på sommerbeite</t>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">pallaat</l>
          <stem>pala</stem>
@@ -12949,6 +12949,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">brenne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">svette</t>
          </tg>
       </mg>
    </e>
