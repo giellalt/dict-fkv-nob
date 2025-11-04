@@ -2459,12 +2459,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">invitere</t>
+            <t pos="V">utfordre</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">utfordre</t>
+            <t pos="V">invitere</t>
          </tg>
       </mg>
    </e>
@@ -7712,9 +7712,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">be</t>
-            <t pos="V">kalle</t>
             <t pos="V">invitere</t>
-            <t pos="Phrase">be om å komme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kalle</t>
+            <xg>
+               <x>Stiina kuttuu kväänin kieltä syđämen kieleksi.</x>
+               <xt>Stiina kaller kvensk for hjertespråket.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8081,11 +8088,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">kalle for</t>
+            <t pos="V">kalle</t>
             <xg>
                <x>Stiina käskee kväänin kieltä syđämen kieleksi.</x>
                <xt>Stiina kaller kvensk for hjertespråket.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">invitere</t>
          </tg>
       </mg>
    </e>
