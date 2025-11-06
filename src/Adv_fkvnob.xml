@@ -7059,11 +7059,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Adv">tođesti</l>
       </lg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bestemt</t>
          </tg>
-      </mg>
+      </mg> -->
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">virkelig</t>
@@ -7140,11 +7140,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob" re="~ bort">
 	         <re>f.eks. dit bort</re>
             <t pos="Adv">dit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">hit og dit</t>
          </tg>
       </mg>
    </e>
@@ -7225,6 +7220,16 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">hit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hit og dit</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuone tänne</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hit og dit</t>
@@ -10297,16 +10302,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">fra et annet sted</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="Adv">på den andre siden</t>
             <xg>
             <x>Toishaalta assii oon niin...</x>
             <xt>På den andre siden er saken slik...</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fra et annet sted</t>
          </tg>
       </mg>
    </e>
@@ -11178,8 +11183,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">fra et annet sted</t>
             <t pos="Adv">på den andre siden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">fra et annet sted</t>
          </tg>
       </mg>
    </e>
