@@ -4336,7 +4336,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l context="mie" pos="V">istuttaat</l>
          <stem>istuta</stem>
@@ -4344,7 +4344,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">få til å sitte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">plante</t>
+            <t pos="V">sette</t>
          </tg>
       </mg>
    </e>
@@ -10142,11 +10147,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ligge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">legge seg</t>
          </tg>
       </mg>
    </e>
