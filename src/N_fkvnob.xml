@@ -47587,7 +47587,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">nenä</l>
          <stem>nennä</stem>
@@ -47595,9 +47595,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nese</t>
-            <syng>
-               <syn>nokka</syn>
-            </syng>
+            <xg>
+               <x>Hänelä oon kiveränenä.</x>
+               <xt>Hun har oppstoppernese.</xt>
+            </xg>
+            <xg>
+               <x>Luuta hänelä oon nenässä.</x>
+               <xt>Hun har bein i nesa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">utløper fra et fjell</t>
+            <t pos="Phrase">framstikkende fjellfot</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">nenälehti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nesebor</t>
          </tg>
       </mg>
    </e>
@@ -48109,6 +48130,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nese</t>
+            <xg>
+               <x>Hänelä oon kippuranokka.</x>
+               <xt>Hun har oppstoppernese.</xt>
+            </xg>
+            <xg>
+               <x>Luuta hänelä oon nokassa.</x>
+               <xt>Hun har bein i nesa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -48119,6 +48148,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nebb</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tupp</t>
          </tg>
       </mg>
       <mg>
