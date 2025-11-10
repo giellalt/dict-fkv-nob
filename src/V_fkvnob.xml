@@ -7906,7 +7906,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">kylmettyyt</l>
          <stem>kylmety</stem>
@@ -7914,6 +7914,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fryse</t>
+            <t pos="V">kjølne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">fryse til</t>
          </tg>
       </mg>
    </e>
