@@ -9645,13 +9645,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">luoppuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">avstå</t>
+            <t pos="Phrase">gi fra seg</t>
             <t pos="Phrase">gi opp</t>
          </tg>
       </mg>
@@ -9673,7 +9674,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">stole</t>
             <t pos="Phrase">stole på</t>
+            <xg>
+               <x>Hän luottaa sinhuun.</x>
+               <xt>Han stoler på deg.</xt>
+            </xg>
+            <xg>
+               <x>Hän luottaa Jumalan sanan pääle.</x>
+               <xt>Han stoler på Guds ord.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9694,7 +9704,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">overgi</t>
+            <t pos="Phrase">gi fra seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">avstå</t>
+            <t pos="Phrase">gi opp</t>
          </tg>
       </mg>
    </e>
