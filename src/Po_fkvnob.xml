@@ -1371,4 +1371,50 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Po">aikana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">i løpet av</t>
+            <xg>
+               <x>Mie sain paljon tehđyksi päivän aikana.</x>
+               <xt>Jeg fikk gjort mye i løpet av dagen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Po">aikhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">i løpet av</t>
+            <xg>
+               <x>Mie sain paljon tehđyksi päivän aikhaan.</x>
+               <xt>Jeg fikk gjort mye i løpet av dagen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Po">kulluissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">i løpet av</t>
+              <xg>
+               <x>Oon tapattunnu paljon tämän vuođen kulluissa.</x>
+               <xt>Det har skjedd mye i løpet av dette året.</xt>
+            </xg>
+              <xg>
+               <x>Lumi sullaa kevväimen kulluissa.</x>
+               <xt>Snøen smelter i løpet av våren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
