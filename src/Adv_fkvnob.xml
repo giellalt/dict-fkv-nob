@@ -2062,6 +2062,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">sent</t>
+            <t pos="Adv">seint</t>
          </tg>
       </mg>
       <mg>
@@ -2144,6 +2145,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">hithaiten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">saktest</t>
+            <t pos="Adv">tregest</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="Adv">hithaamin</l>
@@ -2151,6 +2163,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">saktere</t>
+            <t pos="Adv">tregere</t>
          </tg>
       </mg>
    </e>
@@ -2160,8 +2173,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">langsomt</t>
             <t pos="Adv">sakte</t>
+            <t pos="Adv">tregt</t>
+            <t pos="Adv">langsomt</t>
          </tg>
       </mg>
    </e>
