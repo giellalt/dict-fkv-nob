@@ -3678,13 +3678,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es;ki">
       <lg>
          <l context="mie" pos="V">huonota</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Phrase">forverre seg</t>
             <t pos="Phrase">bli dårligere</t>
+            <t pos="Phrase">bli verre</t>
          </tg>
       </mg>
    </e>
@@ -21232,12 +21234,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">värretä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Phrase">forverre seg</t>
             <t pos="Phrase">bli dårligere</t>
             <t pos="Phrase">bli verre</t>
          </tg>
@@ -24682,13 +24685,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l context="mie" pos="V">talmaanttuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>fast</re>
+            <re>fast i noe</re>
+            <t pos="V">klistre seg</t>
             <t pos="V">klebe seg</t>
          </tg>
       </mg>
@@ -24700,6 +24704,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">klebe</t>
+            <t pos="V">klistre</t>
             <t pos="V">smøre</t>
          </tg>
       </mg>

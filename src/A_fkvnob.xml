@@ -4927,13 +4927,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l pos="A">kiinttee</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">stram</t>
+            <t pos="A">fast</t>
          </tg>
       </mg>
    </e>
@@ -7541,7 +7542,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="A">paha</l>
          <stem>pahha</stem>
@@ -7550,6 +7551,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">ondskapsfull</t>
             <t pos="A">ond</t>
+            <t pos="A">slem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">dårlig</t>
+            <t pos="A">ille</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">vanskelig</t>
          </tg>
       </mg>
    </e>
@@ -22949,6 +22962,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">eldst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kognitiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kognitiv</t>
          </tg>
       </mg>
    </e>
