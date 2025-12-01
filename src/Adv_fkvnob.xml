@@ -8360,6 +8360,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">litt</t>
+            <t pos="Adv">lite</t>
             <t pos="Adv">noe</t>
          </tg>
       </mg>
@@ -8372,10 +8373,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lite</t>
             <t pos="Adv">litt</t>
+            <t pos="Adv">noe</t>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Adv">vähäsen</l>
       </lg>
@@ -8383,6 +8385,27 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">litt</t>
             <t pos="Adv">lite</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bitte litt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;es">
+      <lg>
+         <l pos="Adv">vähäisen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">litt</t>
+            <t pos="Adv">lite</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bitte litt</t>
          </tg>
       </mg>
    </e>
@@ -11089,6 +11112,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">litt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bitte litt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pikkusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">litt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bitte litt</t>
          </tg>
       </mg>
    </e>
