@@ -9161,6 +9161,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">lik</t>
+            <t pos="A">likedan</t>
             <t pos="A">likens</t>
             <t pos="Phrase">samme slags</t>
          </tg>
@@ -15382,9 +15384,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">tilsvarende</t>
+            <t pos="A">lignende</t>
             <xg>
             <x>tahi vastaava</x>
-            <xt>eller tilsvarende/liknende</xt>
+            <xt>eller tilsvarende/lignende</xt>
             </xg>
          </tg>
       </mg>
@@ -21563,11 +21566,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lik</t>
+            <t pos="A">likedan</t>
+            <t pos="A">likens</t>
             </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">likedan</t>
+            <t pos="A">lignende</t>
             </tg>
       </mg>
          <mg>
