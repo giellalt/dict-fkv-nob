@@ -2467,13 +2467,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">soppiiva</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">passelig</t>
+            <t pos="A">passende</t>
          </tg>
       </mg>
    </e>
@@ -4286,6 +4287,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">slags</t>
             <t pos="Phrase">et slags</t>
          </tg>
       </mg>
@@ -6334,13 +6336,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">lykylinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">heldig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lykkelig</t>
          </tg>
       </mg>
    </e>
@@ -6849,13 +6856,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">myöntheinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">positiv</t>
+            <t pos="A">bekreftende</t>
          </tg>
       </mg>
    </e>
@@ -9294,13 +9302,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">seuraava</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">neste</t>
+            <t pos="A">følgende</t>
          </tg>
       </mg>
    </e>
@@ -9854,6 +9863,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">nøye</t>
             <t pos="A">nøyaktig</t>
+            <t pos="A">presis</t>
          </tg>
       </mg>
    </e>
@@ -10522,7 +10532,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="A">täyđelinen</l>
          <stem>täyđelise</stem>
@@ -10532,6 +10542,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">komplett</t>
             <t pos="A">fullstendig</t>
+            <t pos="A">fullkommen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">perfekt</t>
          </tg>
       </mg>
    </e>
@@ -22977,6 +22993,511 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">kognitiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">vajavaparadigmalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har mangelfullt bøyningsparadigma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">tynnyrillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">translatiivihaamuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har translativform</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">tämänsorttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av denne sort</t>
+            <t pos="Phrase">av dette slag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">suffiksillinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har suffiks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sorttinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">slags</t>
+            <t pos="Phrase">av en sort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">seuraavanlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">slik som følger</t>
+            <t pos="Phrase">av følgende type</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sekaparadigmalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har blandet bøyningsmønster</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">sananalkuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som er i begynnelsen av et ord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">samapersoonainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>gram.</re>
+            <t pos="Phrase">som har samme person</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">samanlajinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av samme sort</t>
+            <t pos="Phrase">av samme slag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">reekelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">regelmessig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">prinsipielli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">prinsipiell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">possessiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">possessiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pluraalinnäköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har flertallsliknende form</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">persoonasuffiksiton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som er uten personendelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">perifeerinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">periferisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pejoratiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">pejorativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">paralelli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">parallell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">nominaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nominell</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">neljenlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av fire typer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kolmenlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av tre typer</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">myönttäävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">positiv</t>
+            <t pos="A">bekreftende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">morfolooginen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">morfologisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">mitattava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">målelig</t>
+            <t pos="A">målbar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">maksimaalinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">maksimal</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">lingvistinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lingvistisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kvantitatiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kvantitativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">korkkeimangraadinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har høyeste grad</t>
+            <t pos="Phrase">som har sterkest grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">konsessiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">konsessiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kielipoliittinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">språkpolitisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kielihistoorialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">språkhistorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">irralinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">løs</t>
+            <t pos="A">separat</t>
+            <t pos="A">frittstående</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">imperatiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">imperativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">genuiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">genuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">franskalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fransk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">fastahaamuinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fastformet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">faktilinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">faktisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">eripitukainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som har ulik lengde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">erinäköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om utseende</re>
+            <t pos="A">annerledes</t>
+            <t pos="A">ulik</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">epätarkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">unøyaktig</t>
+            <t pos="A">upresis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">epäproduktiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uproduktiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">alempi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lavere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">alemangraadinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">av lavere grad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">agglutineeraava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">agglutinerende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">ablatiivinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ablativ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">subjektiton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">subjektløs</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">pörättäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som kommer rett etter det andre</t>
+            <t pos="Phrase">etter hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">perättäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">som kommer rett etter det andre</t>
+            <t pos="Phrase">etter hverandre</t>
          </tg>
       </mg>
    </e>

@@ -72547,7 +72547,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">vastaus</l>
          <stem>vastaukse</stem>
@@ -72555,6 +72555,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">svar</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">motstykke</t>
          </tg>
       </mg>
    </e>
