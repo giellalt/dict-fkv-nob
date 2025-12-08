@@ -11432,6 +11432,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">kalle</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">oppnevne</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -18008,7 +18013,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;mj">
+   <e src="ta;ai;mj;es">
       <lg>
          <l context="mie" pos="V">tahtoot</l>
          <stem>tahđo</stem>
@@ -18017,6 +18022,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">ville</t>
             <t pos="V">ønske</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">invitere</t>
          </tg>
       </mg>
    </e>
