@@ -551,11 +551,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pron">få</t>
+            <t pos="Det">få</t>
             <xg>
                <x>Tyhä harva tiettää kuinka tämän tehđhään.</x>
                <xt>Bare noen få vet hvordan man gjør dette.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Pron">vähä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">få</t>
+            <t pos="Det">litt</t>
          </tg>
       </mg>
    </e>
@@ -801,6 +812,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Det">ingen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Pron">paljo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mange</t>
+            <t pos="A">mye</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Pron">ussee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mange</t>
+            <t pos="A">mye</t>
          </tg>
       </mg>
    </e>
