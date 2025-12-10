@@ -224,7 +224,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="Interj">kyllä</l>
       </lg>
@@ -232,6 +232,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Interj">jo</t>
             <t pos="Interj">ja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">ja visst</t>
          </tg>
       </mg>
    </e>
