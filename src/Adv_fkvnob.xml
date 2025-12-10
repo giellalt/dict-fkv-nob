@@ -9252,7 +9252,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">først og fremst</t>
+            <t pos="Phrase">først og fremst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="Phrase">ennen kaikkee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">framfor alt</t>
+            <t pos="Phrase">først og fremst</t>
          </tg>
       </mg>
    </e>
