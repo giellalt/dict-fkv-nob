@@ -1806,6 +1806,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Spaania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Spania</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ki">
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Puola</l>
@@ -3034,13 +3044,53 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="anb">
+   <e src="anb">
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Seulaiset</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">Pleiadene</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Varenkinvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Varangerfjorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tronjami</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Trondheim</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sappi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Sappen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Raisinvuono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">Reisafjorden</t>
          </tg>
       </mg>
    </e>
