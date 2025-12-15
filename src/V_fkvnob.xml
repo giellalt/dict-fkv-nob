@@ -3181,7 +3181,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">skitne til</t>
+            <t pos="V">skitne</t>
          </tg>
       </mg>
    </e>
@@ -17035,6 +17035,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">siitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli avlet</t>
+            <t pos="Phrase">bli unnfanget</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l context="mie" pos="V" val="TV">siivittäät</l>
@@ -26633,6 +26644,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l context="mie" pos="V">ryötyttäät</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skitne</t>
+            <t pos="V">grise</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forurense</t>
