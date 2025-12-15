@@ -13716,13 +13716,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l context="mie" pos="V">piiskoot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">regne regndråper</t>
+            <t pos="V">småregne</t>
+            <t pos="V">duskregne</t>
+            <t pos="V">dryppe</t>
          </tg>
       </mg>
    </e>
