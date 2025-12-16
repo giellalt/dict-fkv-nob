@@ -117142,6 +117142,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">rauhanrakastaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fredselsker</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">aihet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">emne</t>
+          <t pos="N">tema</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">grunn</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="N">konnektiivisubjunksuuni</l>
