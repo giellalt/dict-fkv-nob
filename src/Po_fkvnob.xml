@@ -336,6 +336,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="Po">eđestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">foran</t>
+            <xg>
+               <x>Varas varasti väskyn aivan hänen nenän eđestä.</x>
+               <xt>Tyven stjal veska rett foran nesa på henne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">for</t>
+            <xg>
+               <x>Hän pakenee hengen eđestä.</x>
+               <xt>Han flykter for livet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="Po">sishäänpäin</l>
@@ -1173,7 +1196,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="Po">varten</l>
       </lg>
@@ -1185,6 +1208,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">for</t>
+            <xg>
+               <x>Du er som skapt for dette.</x>
+               <xt>Sie olet ko syntyny tätä varten.</xt>
+            </xg>
+            <xg>
+               <x>Hän sai kunnian sen eđestä ette hän oli luonu pohjan tätä prosektii varten.</x>
+               <xt>Hun fikk æren for at hun hadde skapt grunnlaget for dette prosjektet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
