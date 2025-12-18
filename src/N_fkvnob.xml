@@ -117524,7 +117524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-              <e src="anb">
+  <e src="anb">
       <lg>
          <l pos="N">ääri</l>
       </lg>
@@ -117556,6 +117556,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nattarbeid</t>
+         </tg>
+      </mg>
+   </e>
+     <e src="anb">
+      <lg>
+         <l pos="N">hääväki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">brudefølge</t>
+         </tg>
+      </mg>
+   </e>
+        <e src="anb">
+      <lg>
+         <l pos="N">hääkellot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bryllupsklokker</t>
          </tg>
       </mg>
    </e>
