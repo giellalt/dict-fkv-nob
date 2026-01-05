@@ -3980,13 +3980,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;anb">
       <lg>
          <l context="mie" pos="V">hävittäät</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ødelegge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utslette</t>
+            <t pos="V">utrydde</t>
          </tg>
       </mg>
       <mg>
@@ -17094,7 +17100,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l context="mie" pos="V">silittäät</l>
          <stem>silitä</stem>
@@ -17103,6 +17109,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">slette</t>
             <t pos="V">stryke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">utslette</t>
          </tg>
       </mg>
    </e>

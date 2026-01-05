@@ -52568,7 +52568,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">(fjord)botn</t>
+            <t pos="N">fjordbotn</t>
+            <t pos="N">botn</t>
          </tg>
       </mg>
       <mg>
@@ -57631,19 +57632,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ai;ia">
       <lg>
          <l pos="N">pörä</l>
          <stem>pörrä</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">akterstavn</t>
             <t pos="N">bakdel</t>
+            <t pos="N">bakende</t>
             <t pos="N">ende</t>
-            <syng>
-               <syn>perä</syn>
-            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fjordbotn</t>
+            <t pos="N">botn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kant</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">strøk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">akterstavn</t>
          </tg>
       </mg>
    </e>
