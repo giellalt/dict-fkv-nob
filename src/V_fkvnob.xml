@@ -14079,20 +14079,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">poiketa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
          <re>vike av fra en retning</re>
-            <t pos="V">svinge</t>
             <t pos="V">vike</t>
+            <t pos="V">svinge</t>
             <t pos="Phrase">ta av</t>
             <xg>
                <x>Tie poikkee siellä kirkon viereltä vasemalle.</x>
                <xt>Veien svinger av til venstre der ved kirka.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">avvike</t>
          </tg>
       </mg>
       <mg>
@@ -28466,6 +28471,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kontrastere</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" pos="V">väistäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vike</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">dukke unna</t>
          </tg>
       </mg>
    </e>
