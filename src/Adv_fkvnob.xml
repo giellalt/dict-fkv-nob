@@ -2039,7 +2039,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">med i livet i behold</t>
             <xg>
                <x>Hän oon hengissä.</x>
-               <xt>Han/hun har overlevd, er i livet.</xt>
+               <xt>Hen har overlevd, er i live.</xt>
             </xg>
          </tg>
       </mg>
@@ -2050,10 +2050,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i livet</t>
+            <t pos="Adv">i live</t>
             <xg>
                <x>Oonko net elämässä?</x>
-               <xt>Lever de?</xt>
+               <xt>Er de i live?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">elossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i live</t>
+            <xg>
+               <x>Oonko net elossa?</x>
+               <xt>Er de i live?</xt>
             </xg>
          </tg>
       </mg>

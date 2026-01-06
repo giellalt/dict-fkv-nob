@@ -2002,11 +2002,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">bo</t>
             <t pos="V">leve</t>
+            <xg>
+               <x>Anna minun elläät minun elämää!</x>
+               <xt>La meg leve livet mitt!</xt>
+            </xg>
             <xg>
                <x>elläät herroiksi</x>
                <xt>å leve som en konge, å leve godt</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bo</t>
+            <xg>
+               <x>Oravat elläävät mettässä.</x>
+               <xt>Ekorn bor i skogen.</xt>
             </xg>
          </tg>
       </mg>

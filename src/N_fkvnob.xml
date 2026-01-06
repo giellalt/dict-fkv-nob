@@ -20979,7 +20979,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">elo</l>
          <stem>ello</stem>
@@ -20992,6 +20992,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">reinflokk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">liv</t>
+            <t pos="N">tilværelse</t>
          </tg>
       </mg>
    </e>
@@ -21013,8 +21019,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">liv</t>
             <xg>
-               <x>Oonko net elämässä?</x>
-               <xt>Lever de?</xt>
+               <x>Elämä oon pitkä.</x>
+               <xt>Livet er langt.</xt>
+            </xg>
+            <xg>
+               <x>Kaupunki oon täynä elämää.</x>
+               <xt>Byen er full av liv.</xt>
             </xg>
          </tg>
       </mg>
