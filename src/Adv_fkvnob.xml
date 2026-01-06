@@ -7861,10 +7861,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">vari</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">gid</t>
+            <xg>
+               <x>Vari se mieki olisin sama hyvä maalaamhaan ko sie!</x>
+               <xt>Gid jeg var like flink til å male som deg!</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">forhåpningsvis</t>
