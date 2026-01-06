@@ -13196,7 +13196,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">forbedre</t>
+            <t pos="V">bedre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">helbrede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">reparere</t>
          </tg>
       </mg>
@@ -27378,13 +27387,13 @@ For the full license text, see the link above.</lic>
             <t pos="Phrase">glippe ut</t>
             <t pos="Phrase">dette ut</t>
             <xg>
-               <x>"En mie tarkoittannu", purskautti vasemanpuolinen kaksoisista.</x>
-               <xt>«Det va ikke meninga», datt det ut av tvillingen til venstre.</xt>
+               <x>"En mie tarkoittannu", purskautti Jussa.</x>
+               <xt>«Det va ikke meninga», datt det ut av Jussa.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l context="mie" pos="V">paranella</l>
       </lg>
@@ -27392,7 +27401,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>trinnvis, litt etter litt</re>
             <t pos="V">forbedre</t>
-            <t pos="Phrase">rette på</t>
+            <t pos="V">bedre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>trinnvis, litt etter litt</re>
+            <t pos="V">reparere</t>
          </tg>
       </mg>
    </e>
