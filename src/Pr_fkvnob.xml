@@ -292,8 +292,41 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">uten</t>
             <xg>
-               <x>Kello oon viis vaila seittemen.</x>
-               <xt>Klokken er fem på sju.</xt>
+               <x>Hän oon vastausta vaila.</x>
+               <xt>Han står uten svar.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i underkant av</t>
+            <xg>
+               <x>Het juosthiin vaila puolen miilan pitukaisen kilvan.</x>
+               <xt>De løp en konkurranse som var i underkant av en halv mil lang.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Pr">vaile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">uten</t>
+            <xg>
+               <x>Hän saapi jääđä vastausta vaile.</x>
+               <xt>Han får bli stående uten svar.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">i underkant av</t>
+            <t pos="Pr">på</t>
+            <xg>
+               <x>Kello oon viisi vaile kolme.</x>
+               <xt>Klokka er fem på tre.</xt>
             </xg>
          </tg>
       </mg>
