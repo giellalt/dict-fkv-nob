@@ -10806,13 +10806,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">vaatimaton</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">beskjeden</t>
+            <t pos="A">nøysom</t>
+            <t pos="A">enkel</t>
+            <t pos="A">fattigslig</t>
          </tg>
       </mg>
    </e>
@@ -10863,7 +10866,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="A">vaivainen</l>
       </lg>
@@ -10877,6 +10880,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">vanfør</t>
+            <t pos="A">handikappet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fattigslig</t>
+            <t pos="A">ynkelig</t>
+            <t pos="A">arm</t>
          </tg>
       </mg>
    </e>
