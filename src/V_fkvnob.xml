@@ -7227,12 +7227,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">krysse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">krysse av</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">krysse</t>
             <t pos="Phrase">bevege seg i kryss</t>
          </tg>
       </mg>
@@ -25627,7 +25631,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">overgå</t>
+            <xg>
+               <x>Se ylitti kaikki luppaukset.</x>
+               <xt>Det overgikk alle løfter.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">gå over</t>
+            <t pos="V">krysse</t>
+            <xg>
+               <x>Pekka gikk over gaten.</x>
+               <xt>Pekka ylitti kađun.</xt>
+            </xg>
             <xg>
                <x>Pekka ylitti rajan Kaaresuanon kohđala.</x>
                <xt>Pekka krysset grensa ved Karesuando.</xt>
