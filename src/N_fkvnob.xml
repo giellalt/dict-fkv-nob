@@ -19061,6 +19061,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">undertøy</t>
+            <t pos="N">underplagg</t>
          </tg>
       </mg>
    </e>
@@ -27389,7 +27390,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">jalkaneuvo</l>
+         <l pos="N">jalkaneuvot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -30289,7 +30290,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utstyr</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">klær</t>
+            <t pos="N">klesplagg</t>
          </tg>
       </mg>
    </e>
@@ -30306,6 +30312,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utstyr</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">klær</t>
          </tg>
       </mg>
@@ -32285,7 +32295,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="N">kenkäneuvo</l>
+         <l pos="N">kenkäneuvot</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -57390,13 +57400,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">overklær</t>
-            <t pos="N">ytterklær</t>
+            <t pos="N">ytterplagg</t>
+            <t pos="N">overplagg</t>
          </tg>
       </mg>
+   </e>
+   <e src="ta;ai;ki">
+      <lg>
+         <l pos="N">päälysvaattheet</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">ytterplagg</t>
+            <t pos="N">overklær</t>
+            <t pos="N">ytterklær</t>
          </tg>
       </mg>
    </e>
