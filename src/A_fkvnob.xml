@@ -18544,8 +18544,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">verdt</t>
             <xg>
-            <x>Nämät oppiijat tehđhään kovasti työtä ja het ajatelhaan kriittisesti. Se oon kullan väärti.</x>
-            <xt>Disse elevane jobbar hardt og dei har ein kritisk tenking som er gull verdt.</xt>
+            <x>Se oon kullan väärti.</x>
+            <xt>Det er gull verdt.</xt>
             </xg>
          </tg>
       </mg>
@@ -18963,6 +18963,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="A">työtelinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">arbeidsom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">työtyri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
