@@ -25226,6 +25226,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ta">
+      <lg>
+         <l pos="N">histuuria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">historie</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">hituinen</l>
@@ -37040,6 +37050,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ta">
+      <lg>
+         <l pos="N">kylttyyri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kultur</t>
+            <syng>
+               <syn>kulttuuri</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">kulttuuri-ihminen</l>
@@ -43595,7 +43618,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">narkotika</t>
+            <t pos="N">narkootika</t>
+             <t pos="N">narkuutika</t>
          </tg>
       </mg>
    </e>
@@ -54204,7 +54228,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">albumi</t>
+            <t pos="N">album</t>
          </tg>
       </mg>
    </e>
@@ -117553,7 +117577,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e src="anb">
       <lg>
-         <l pos="N">vakkarapoika</l>
+         <l pos="N">vaakkarapoika</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -117563,7 +117587,7 @@ For the full license text, see the link above.</lic>
    </e>
        <e src="anb">
       <lg>
-         <l pos="N">vakkaratytär</l>
+         <l pos="N">vaakkaratytär</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
