@@ -8538,11 +8538,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">senke</t>
+            <t pos="V">synke</t>
             <t pos="Phrase">senke ned</t>
             <t pos="V">fire</t>
             <xg>
                <x>Hinnat oon laskenheet kolmela prosentilla.</x>
                <xt>Prisene har sunket med tre prosent.</xt>
+            </xg>
+            <xg>
+               <x>Kauppa oon laskenu hinnat.</x>
+               <xt>Butikken har senket prisene.</xt>
             </xg>
             <xg>
                <x>Hänen laskethiin venheesseen kaijasta.</x>
