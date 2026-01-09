@@ -35618,7 +35618,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fem år gammel hannrein</t>
+         <re>fem år gammel</re>
+            <t pos="N">reinsbukk</t>
+            <t pos="N">hannrein</t>
          </tg>
       </mg>
    </e>
@@ -37329,7 +37331,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fire år gammel hannrein</t>
+         <re>fire år gammel</re>
+            <t pos="N">reinsbukk</t>
+            <t pos="N">hannrein</t>
          </tg>
       </mg>
    </e>
@@ -43469,7 +43473,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">seks år gammel hannrein</t>
+         <re>seks år gammel</re>
+            <t pos="N">reinsbukk</t>
+            <t pos="N">hannrein</t>
          </tg>
       </mg>
    </e>
@@ -71048,13 +71054,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="es;ai;anb">
       <lg>
          <l pos="N">urakka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">to år gammel hannrein</t>
+            <t pos="N">akkord</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>to år gammel</re>
+            <t pos="N">reinsbukk</t>
+            <t pos="N">hannrein</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>tungt arbeid, krevende oppdrag</re>
+            <t pos="N">slit</t>
          </tg>
       </mg>
    </e>
@@ -74554,7 +74573,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">tre år gammel hannrein</t>
+         <re>tre år gammel</re>
+            <t pos="N">reinsbukk</t>
+            <t pos="N">hannrein</t>
          </tg>
       </mg>
    </e>
