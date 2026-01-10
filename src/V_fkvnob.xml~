@@ -1705,7 +1705,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">gjette gåter</t>
+            <t pos="Phrase">spørre gåter</t>
          </tg>
       </mg>
    </e>
@@ -3971,10 +3971,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">måtte</t>
-            <xg>
-               <x>Hakkiija häättyy saattaat dokumenteerata ette hänelä oon kokemusta johtaajan työssä</x>
-               <xt>Søkeren må kunne dokumentere at han eller hun har ledererfaring.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -4515,7 +4511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">drikke alkohol regelmessig</t>
+            <t pos="V">drikke</t>
             <t pos="Phrase">være drikkfeldig</t>
          </tg>
       </mg>
@@ -4895,23 +4891,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">felle</t>
-            <xg>
-               <x>Kaaethiin tukkipuita taloja varten .</x>
-               <xt>De felte trær for å bygge hus.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">velte</t>
-            <xg>
-               <x>Hauđan etheen het kaađethaan ison kiven.</x>
-               <xt>Foran grava velter de en stor stein.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">helle</t>
          </tg>
       </mg>
@@ -5049,7 +5028,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>op når</re>
             <t pos="V">greie</t>
             <t pos="V">gre</t>
             <t pos="V">kamme</t>
@@ -6267,6 +6245,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">sverge</t>
             <t pos="V">banne</t>
          </tg>
       </mg>
@@ -6277,6 +6256,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">banne</t>
             <t pos="V">forbanne</t>
          </tg>
       </mg>
@@ -6452,10 +6432,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Muori kohteli faarii hyvin.</x>
                <xt>Mor var snill mot far.</xt>
-            </xg>
-            <xg>
-               <x>Demokratian tuntee siitä kunka se kohtelee omia minoriteettia .</x>
-               <xt>Et demokrati kjenner man i måten det behandler sine egne minoriteter på.</xt>
             </xg>
          </tg>
       </mg>
@@ -8562,16 +8538,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">senke</t>
-            <t pos="V">synke</t>
             <t pos="Phrase">senke ned</t>
             <t pos="V">fire</t>
             <xg>
                <x>Hinnat oon laskenheet kolmela prosentilla.</x>
                <xt>Prisene har sunket med tre prosent.</xt>
-            </xg>
-            <xg>
-               <x>Kauppa oon laskenu hinnat.</x>
-               <xt>Butikken har senket prisene.</xt>
             </xg>
             <xg>
                <x>Hänen laskethiin venheesseen kaijasta.</x>
