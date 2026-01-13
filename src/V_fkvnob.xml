@@ -14794,6 +14794,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">stange</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>i fotball</re>
+            <t pos="V">heade</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -28356,6 +28362,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">dukke unna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l context="mie" pos="V">temppuila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">trikse</t>
+            <xg>
+               <x>Het temppuilthiin pallola.</x>
+               <xt>De trikset med ballen.</xt>
+            </xg>
+            <xg>
+               <x>Het temppuilthiin pallon kans.</x>
+               <xt>De trikset med ballen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l context="mie" pos="V">triksata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">trikse</t>
+            <xg>
+               <x>Het triksathiin pallola.</x>
+               <xt>De trikset med ballen.</xt>
+            </xg>
+            <xg>
+               <x>Het triksathiin pallon kans.</x>
+               <xt>De trikset med ballen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="rh">
+      <lg>
+         <l context="mie" pos="V">tempata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">dempe</t>
+            <xg>
+               <x>Hän tempathiin pallon reiđelä.</x>
+               <xt>Hun dempet ballen med låret.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
