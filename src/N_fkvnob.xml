@@ -4692,6 +4692,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ks">
       <lg>
+         <l pos="N">sađetvaattheet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">regntøy</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ks">
+      <lg>
          <l pos="N">sekunti</l>
       </lg>
       <mg>
@@ -19055,13 +19065,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N" nr="Pl">underklær</t>
+            <t pos="N">underplagg</t>
+            <t pos="N">undertøy</t>
          </tg>
       </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N">alusvaattheet</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">undertøy</t>
-            <t pos="N">underplagg</t>
+            <t pos="N" nr="Pl">underklær</t>
+            <t pos="N" nr="Pl">undertøy</t>
          </tg>
       </mg>
    </e>
@@ -28966,15 +28982,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">iskappe</t>
             <t pos="N">isbre</t>
+            <t pos="N">iskappe</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg xml:lang="nob">
             <t pos="N">hålke</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e src="ai">
       <lg>
@@ -30024,6 +30040,24 @@ For the full license text, see the link above.</lic>
    <e src="ta;ai">
       <lg>
          <l pos="N">kaljamaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hålkeføre</t>
+            <syng>
+               <syn>kaljamaa</syn>             
+            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hålke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai;ki">
+      <lg>
+         <l pos="N">kaljama</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -56869,6 +56903,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N">pyhävaattheet</l>
+         <stem>pyhävathee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">finklær</t>
+            <t pos="N">søndagsklær</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">pykejäläinen</l>
@@ -70395,7 +70441,16 @@ For the full license text, see the link above.</lic>
    <e src="ta">
       <lg>
          <l pos="N">työvaatet</l>
-         <stem>työvaathee</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arbeidsklær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">työvaattheet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -109757,6 +109812,41 @@ For the full license text, see the link above.</lic>
             <t pos="N">vinterutstyr</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterklær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">talvikamppheet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterutstyr</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterklær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">talvivaattheet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vinterklær</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">talvivaatet</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vinterklær</t>
