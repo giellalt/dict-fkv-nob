@@ -25258,7 +25258,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">hoito</l>
          <stem>hoiđo</stem>
@@ -25268,6 +25268,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">pleie</t>
             <t pos="N">stell</t>
+            <t pos="N">behandling</t>
          </tg>
       </mg>
    </e>
@@ -34365,6 +34366,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">livmor</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kohtelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">behandling</t>
          </tg>
       </mg>
    </e>
