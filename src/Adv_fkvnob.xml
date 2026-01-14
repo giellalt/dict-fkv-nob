@@ -5595,11 +5595,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">loddrett</t>
-            <t pos="Adv">oppreist</t>
             <t pos="Adv">vertikalt</t>
             <xg>
                <x>Poika istui korvat pystössä.</x>
                <xt>Gutten satt med ørene på stilk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">stående</t>
+            <t pos="Adv">oppreist</t>
+            <t pos="Phrase">ikke falt</t>
+            <t pos="Phrase">fortsatt oppe</t>
+            <xg>
+               <x>Huonet oon vielä pystössä.</x>
+               <xt>Huset står fortsatt.</xt>
+            </xg>
+            <xg>
+               <x>Hän ei pysy pystössä ilman appuu.</x>
+               <xt>Han klarer ikke å holde seg på beina uten hjelp.</xt>
+            </xg>
+            <xg>
+               <x>Teltta pysyi pystössä vaikka oli kova tuuli.</x>
+               <xt>Teltet holdt seg oppe selv om det var mye vind.</xt>
             </xg>
          </tg>
       </mg>
