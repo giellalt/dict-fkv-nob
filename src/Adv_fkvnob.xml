@@ -4452,8 +4452,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">i enkelte perioder</t>
             <t pos="Adv">periodisk</t>
+            <t pos="Phrase">i enkelte perioder</t>
          </tg>
       </mg>
    </e>
@@ -12809,16 +12809,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Adv">tytyväisesti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">fornøyd</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
          <l pos="Adv">eriskumhaisesti</l>
       </lg>
       <mg>
@@ -13038,16 +13028,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">hyppig</t>
             <t pos="Adv">støtt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="Adv">jaksottain</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">periodisk</t>
          </tg>
       </mg>
    </e>
