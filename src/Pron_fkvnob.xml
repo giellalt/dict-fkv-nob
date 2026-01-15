@@ -186,6 +186,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ai;es">
+      <lg>
+         <l pos="Pron">itte kukanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pron">hver og en</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="Pron">joka</l>
@@ -236,6 +246,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pron">joku</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Det">noen</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Det">noen få</t>
@@ -370,6 +385,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">jeg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Pron">en av oss</t>
             <t pos="Pron">en som er som oss</t>
          </tg>
