@@ -460,7 +460,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">på noen måte</t>
+            <t pos="Pr">på en måte</t>
             <xg>
                <x>tällä laila</x>
                <xt>på denne måten</xt>
@@ -548,10 +548,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">opp til en</t>
+            <t pos="Phrase">opp til en</t>
             <xg>
-               <x>Se oon teiđän hallussa mitä päätättä tehđä.</x>
-               <xt>Det er opp til dere hva dere bestemmer å gjøre.</xt>
+               <x>Se oon teiđän hallussa mitä tet halluutta tehđä nyt.</x>
+               <xt>Det er opp til dere hva dere vil gjøre nå.</xt>
             </xg>
          </tg>
       </mg>
@@ -711,8 +711,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">på vegne av</t>
-            <t pos="Pr">for noens del</t>
+            <t pos="Phrase">på vegne av</t>
+            <t pos="Phrase">for noens del</t>
             <xg>
                <x>Hän teki sen minun puolesta.</x>
                <xt>Han gjorde det for min del.</xt>

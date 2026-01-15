@@ -234,7 +234,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">på den andre sida av</t>
+            <t pos="Phrase">på den andre sida av</t>
             <xg>
                <x>poikki jokkee</x>
                <xt>på andre sida av elva</xt>
@@ -243,12 +243,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">tvers over</t>
-            <t pos="Pr">gjennom</t>
+            <t pos="Phrase">tvers over</t>
             <xg>
                <x>Souđin poikki vuonon ämmin tykö.</x>
                <xt>Jeg rodde over fjorden til bestemor.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">gjennom</t>
          </tg>
       </mg>
    </e>
@@ -260,7 +264,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
 	         <re>om tid</re>
             <t pos="Pr">over</t>
-            <t pos="Pr">ever</t>
             <xg>
                <x>Kello oon siutte keskiyön.</x>
                <xt>Klokka er over midnatt.</xt>
