@@ -8448,6 +8448,11 @@ For the full license text, see the link above.</lic>
             <t pos="N">betrakter</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">seer</t>
+         </tg>
+      </mg>
    </e>
    <e src="ki">
       <lg>
@@ -117030,7 +117035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">samvær</t>
+            <t pos="N">samhandling</t>
             <t pos="N">samkvem</t>
             <t pos="N">omgang</t>
          </tg>
@@ -117042,7 +117047,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">samvær</t>
+            <t pos="N">samhandling</t>
             <t pos="N">samkvem</t>
             <t pos="N">omgang</t>
          </tg>
@@ -117189,7 +117194,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lumme</t>
+            <t pos="N">lomme</t>
          </tg>
       </mg>
    </e>
@@ -117384,11 +117389,6 @@ For the full license text, see the link above.</lic>
          </tg>
           <tg xml:lang="nob">
             <t pos="N">profet</t>
-         </tg>
-      </mg>
-         <mg>
-         <tg xml:lang="nob">
-            <t pos="N">grunn</t>
          </tg>
       </mg>
    </e>
@@ -118257,7 +118257,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">resiprotet</t>
+            <t pos="N">resiprositet</t>
          </tg>
       </mg>
    </e>
