@@ -4005,6 +4005,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">blåbærlyng</t>
             <t pos="N">blåbærris</t>
          </tg>
       </mg>
@@ -72495,14 +72496,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">bjørkeris</t>
-            <t pos="N">bladstilk</t>
+            <t pos="N">lyng</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lyng</t>
+            <t pos="N">bjørkeris</t>
             <t pos="N">ris</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bladstilk</t>
          </tg>
       </mg>
    </e>
