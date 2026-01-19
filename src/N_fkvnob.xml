@@ -48146,10 +48146,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">noita</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">heks</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trollmann</t>
@@ -48157,10 +48162,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ki;ai">
       <lg>
          <l pos="N">noitakonsti</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">heksekunst</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">trollkunst</t>
