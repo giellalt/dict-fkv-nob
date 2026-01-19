@@ -1363,8 +1363,17 @@ For the full license text, see the link above.</lic>
             <t pos="V">akte</t>
             <t pos="Phrase">ha til hensikt</t>
             <xg>
-               <x>Het aijothaan dokumenteerata ja nostaa esile kväänikulttuuria Tromssassa</x>
+               <x>Het aijothaan dokumenteerata ja nostaat esile kväänikulttuurii Tromssassa.</x>
                <xt>De har til hensikt å dokumentere og løfte fram kvenkulturen i Tromsø.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ville</t>
+            <xg>
+               <x>Aijotko kaffii?</x>
+               <xt>Vil du ha kaffe?</xt>
             </xg>
          </tg>
       </mg>
