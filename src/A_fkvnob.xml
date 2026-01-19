@@ -3797,6 +3797,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">histuurialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">historisk</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="A">hiđas</l>
@@ -18427,7 +18437,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">esihistorialinen</l>
+         <l pos="A">esihistoorialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forhistorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">esihistuurialinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -19580,7 +19600,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="A">kulttuurihistorialinen</l>
+         <l pos="A">kulttuurihistoorialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kulturhistorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">kulttuurihistuurialinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -23354,6 +23384,16 @@ For the full license text, see the link above.</lic>
    <e src="es">
       <lg>
          <l pos="A">kielihistoorialinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">språkhistorisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="A">kielihistuurialinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
