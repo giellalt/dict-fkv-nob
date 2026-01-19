@@ -43660,12 +43660,21 @@ For the full license text, see the link above.</lic>
    </e>
       <e src="ki">
       <lg>
-         <l pos="N">narkotika</l>
+         <l pos="N">narkuutika</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">narkootika</t>
-             <t pos="N">narkuutika</t>
+            <t pos="N">narkotika</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">narkootika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+             <t pos="N">narkotika</t>
          </tg>
       </mg>
    </e>
