@@ -118552,11 +118552,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">imigranttipolvi</l>
+         <l pos="N">immigranttipolvi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">immigrantgenerasjon</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">immigrantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">immigrant</t>
          </tg>
       </mg>
    </e>
