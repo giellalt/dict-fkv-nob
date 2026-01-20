@@ -13986,6 +13986,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">heđelmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">frukt</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">hetelmä</l>
@@ -16429,6 +16439,16 @@ For the full license text, see the link above.</lic>
             <syng>
                <syn>petakokikki</syn>
             </syng>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">bataljooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bataljon</t>
          </tg>
       </mg>
    </e>
@@ -37362,6 +37382,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">æresdiplom</t>
+         </tg>
+      </mg>
+   </e>
+         <e src="anb">
+      <lg>
+         <l pos="N">pohjalainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nording</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">kunderi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunde</t>
          </tg>
       </mg>
    </e>
@@ -64511,6 +64551,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">spiooni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spion</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="N">spiuni</l>
@@ -64591,6 +64641,19 @@ For the full license text, see the link above.</lic>
             <t pos="N">tare</t>
             <syng>
                <syn>teppu</syn>
+            </syng>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">pääministeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">statsminister</t>
+            <syng>
+               <syn>staatinministeri</syn>
             </syng>
          </tg>
       </mg>
