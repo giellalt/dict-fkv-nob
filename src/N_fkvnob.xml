@@ -45158,18 +45158,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">bråk</t>
          </tg>
       </mg>
-   </e>
-      <e src="anb">
-      <lg>
-         <l pos="N">tappo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">tap</t>
-             <t pos="N">nederlag</t>
-         </tg>
-      </mg>
-   </e>
    <e src="ta">
       <lg>
          <l pos="N">menetys</l>
@@ -46615,7 +46603,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mord</t>
-                <t pos="N">drap</t>
+            <t pos="N">drap</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tap</t>
+            <t pos="N">nederlag</t>
          </tg>
       </mg>
    </e>
