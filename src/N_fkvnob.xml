@@ -61845,6 +61845,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">tyskälainen</l>
+         <stem>tyskälaise</stem>
+         <stem>tyskälais</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tysker</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">saksalainen</l>
@@ -70869,6 +70881,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">ukkoinen</l>
+         <stem>ukkoise</stem>
+         <stem>ukkois</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">torden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tordenvær</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">ukkonen</l>
@@ -70886,6 +70915,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="ki">
+      <lg>
+         <l pos="N">ukkoisilma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tordenvær</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">ukkosilma</l>
@@ -70893,6 +70932,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tordenvær</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">ukonkluova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tordenbyge</t>
          </tg>
       </mg>
    </e>
@@ -72057,6 +72106,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">valg</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">venetvalkama</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">båtstø</t>
+            <syng>
+               <syn>venheensija</syn>
+            </syng>
          </tg>
       </mg>
    </e>
