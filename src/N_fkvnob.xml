@@ -45144,6 +45144,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">tappo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tap</t>
+             <t pos="N">nederlag</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="N">menetys</l>
@@ -46582,6 +46593,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">tappo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mord</t>
+                <t pos="N">drap</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">murha</l>
@@ -46589,6 +46611,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mord</t>
+                <t pos="N">drap</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="N">tappaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">morder</t>
+              <t pos="N">drapsperson</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t pos="N">taper</t>
          </tg>
       </mg>
    </e>
@@ -46599,6 +46638,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">morder</t>
+              <t pos="N">drapsperson</t>
          </tg>
       </mg>
    </e>
