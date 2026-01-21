@@ -31459,7 +31459,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">kastet</l>
          <stem>kasthee</stem>
@@ -31472,6 +31472,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">dugg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">saus</t>
          </tg>
       </mg>
    </e>

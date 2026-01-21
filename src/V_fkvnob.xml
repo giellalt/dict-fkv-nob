@@ -5295,7 +5295,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">kassuuttaat</l>
          <stem>kassuuta</stem>
@@ -5304,6 +5304,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppfostre</t>
+            <t pos="V">avle</t>
          </tg>
       </mg>
    </e>
@@ -5322,7 +5323,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">kastela</l>
          <stem>kastele</stem>
@@ -5332,6 +5333,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">væte</t>
             <t pos="V">fukte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">vanne</t>
          </tg>
       </mg>
    </e>
@@ -7362,13 +7368,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es">
       <lg>
          <l context="mie" pos="V">kuohiit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kastrere</t>
+            <t pos="V">gjelde</t>
          </tg>
       </mg>
    </e>
