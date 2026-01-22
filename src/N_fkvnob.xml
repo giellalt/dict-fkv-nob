@@ -1624,11 +1624,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="kl">
       <lg>
+         <l pos="N">puolakräämi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trollkrem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kl">
+      <lg>
          <l pos="N">hillakreemi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">gele</t>
+            <t pos="N">multekrem</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="kl">
+      <lg>
+         <l pos="N">hillakräämi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">multekrem</t>
          </tg>
       </mg>
    </e>
@@ -27920,6 +27940,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">julegave</t>
+            <t pos="N">julepresang</t>
             <syng>
                <syn>joululahja</syn>
             </syng>
@@ -27933,6 +27954,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">julegave</t>
+            <t pos="N">julepresang</t>
             <syng>
                <syn>joulukenkki</syn>
             </syng>
@@ -28005,6 +28027,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">julegave</t>
+            <t pos="N">julepresang</t>
          </tg>
       </mg>
    </e>
@@ -39564,6 +39587,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">gave</t>
+            <t pos="N">presang</t>
          </tg>
       </mg>
    </e>
