@@ -11977,8 +11977,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">på det meste</t>
             <xg>
-            <x>Aikkaa myöten tuli kans vävvyi ja minniitä, ja talossa oon asunu enniinthään yhđeksän ihmistä.</x>
-            <xt>Etterhvert kom også svigerbarn og barnebarn til, og på det meste bodde det ni personer i huset.</xt>
+            <x>Talossa asui enniinthään yhđeksän ihmistä.</x>
+            <xt>På det meste bodde det ni personer i huset.</xt>
             </xg>
          </tg>
       </mg>
@@ -13927,6 +13927,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">milevis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Phrase">kynsin hamphain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">med nebb og klør</t>
          </tg>
       </mg>
    </e>
