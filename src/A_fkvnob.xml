@@ -323,6 +323,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">ylömpi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">øvre</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ia">
       <lg>
          <l pos="A">vähä(-)</l>
@@ -3544,6 +3554,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">sjelden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="A">uvanlig</t>
          </tg>
       </mg>
@@ -6731,11 +6745,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hyggelig</t>
+            <t pos="A">trivelig</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">trivelig</t>
             <t pos="A">artig</t>
          </tg>
       </mg>
@@ -8823,13 +8837,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki;anb">
       <lg>
          <l pos="A">rohkee</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">modig</t>
+            <t pos="A">tøff</t>
+            <t pos="A">freidig</t>
          </tg>
       </mg>
    </e>
@@ -18613,7 +18629,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">bakerst</t>
             <xg>
             <x>Met takimaiset emmä vastanheet oikhein opettaajan kysymyksheen.</x>
-            <xt>Vi i bakerste klarte ikke svare rett på det læreren spurte om.</xt>
+            <xt>Vi bakerste klarte ikke svare rett på det læreren spurte om.</xt>
             </xg>
          </tg>
       </mg>
@@ -20364,10 +20380,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">ubuden</t>
             <t pos="A">uinvitert</t>
-            <xg>
-            <x>Sillä säästyimä kuttumattomista vierhaista ja pahemansorttisilta järjestysrikkomisilta.</x>
-            <xt>Da slapp vi ubedt besøk og stygge overtramp på ordensreglementet.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -21870,17 +21882,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">dødstrøtt</t>
-            </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
-            <t pos="A">utkjørt</t>
-            </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
-            <t pos="A">utmattet</t>
-            </tg>
+            <t pos="A">dødstrett</t>
+         </tg>
       </mg>
    </e>
      <e src="anb">
@@ -23615,6 +23618,165 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">forelsket</t>
             <t pos="A">forelska</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">harmaajansininen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gråblå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">läpivaipunu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">dødstrøtt</t>
+            <t pos="A">dødstrett</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">pitkänlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">avlang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">pörimäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">bakerst</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">sinisilmäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">blåøyd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">suuremmoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">storslagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">suurenmoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">storslagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">tavaton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">usedvanlig</t>
+            <t pos="A">uvanlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">tummanruskee</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkebrun</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">vierhaanvarainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">gjestfri</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">vaaleeharmaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lysegrå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">elämääkokenu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">livserfaren</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">äsköinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nylig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">yölinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nattlig</t>
+            <xg>
+            <x>Hän heräs yölisheen äänheen jota hän ei saattanu selittäät.</x>
+            <xt>Hun våknet til en nattlig lyd hun ikke kunne forklare.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">fra natten før</t>
+            <xg>
+            <x>Mie muistan yölisen unen niin elävästi.</x>
+            <xt>Jeg husker drømmen fra i natt så billedlig.</xt>
+            </xg>
+            <xg>
+            <x>Yölinen sađet oon pilanu sađon.</x>
+            <xt>Regnet i natt har ødelagt avlingen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
