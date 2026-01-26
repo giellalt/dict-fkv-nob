@@ -68521,20 +68521,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="ai;ki;anb">
       <lg>
          <l pos="N">toimheentulo</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">utkomme</t>
-            <t pos="N">inntekt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">livsopphold</t>
+            <t pos="N">utkomme</t>
             <t pos="N">berging</t>
+            <t pos="N">inntekt</t>
          </tg>
       </mg>
    </e>
