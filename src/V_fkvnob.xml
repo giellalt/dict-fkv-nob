@@ -20209,13 +20209,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l context="mie" pos="V" val="IV">valmistuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">forberede seg</t>
+            <t pos="Phrase">gjør seg klar</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli ferdig</t>
          </tg>
       </mg>
    </e>
