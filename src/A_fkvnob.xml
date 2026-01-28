@@ -21836,21 +21836,6 @@ For the full license text, see the link above.</lic>
             </tg>
       </mg>
    </e>
-         <e src="anb">
-      <lg>
-         <l pos="A">ylhäinen</l>
-         </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">æreverdig</t>
-            </tg>
-      </mg>
-            <mg>
-         <tg xml:lang="nob">
-            <t pos="A">høyverdig</t>
-            </tg>
-      </mg>
-   </e>
     <e src="anb">
       <lg>
          <l pos="A">yötön</l>
@@ -23846,6 +23831,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">fornem</t>
             <t pos="A">høyverdig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">æreverdig</t>
          </tg>
       </mg>
       <mg>
