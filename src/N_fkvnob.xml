@@ -78685,9 +78685,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">press</t>
             <t pos="N">trykk</t>
+            <t pos="N">klem</t>
             <xg>
-            <x>Mutta eteläsaamelainen poronhoito joutui jo paljon aijemin puristukshiin, ennen kaikkee ko väki lissääntyi kovasti puunakylissä.</x>
-            <xt>Men den sørsamiske reindriften kom langt tidligere under press, først og fremst som resultat av en sterk befolkningsøkning i bondebygdene.</xt>
+            <x>Firma joutui ökonoomishiin puristukshiin.</x>
+            <xt>Firmaet havnet i en økonomisk klemme.</xt>
             </xg>
          </tg>
       </mg>
@@ -95668,6 +95669,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">press</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">presse</t>
          </tg>
       </mg>
    </e>
