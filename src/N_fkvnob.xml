@@ -23697,7 +23697,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">oppstandelse</t>
+<!--            <t pos="N">oppstandelse</t> -->
             <t pos="N">gjenfødelse</t>
             <t pos="N">reinkarnasjon</t>
          </tg>
@@ -75591,6 +75591,16 @@ For the full license text, see the link above.</lic>
    <e src="ai">
       <lg>
          <l pos="N">ylösnouseminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">oppstandelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="N">ylösnousemus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
