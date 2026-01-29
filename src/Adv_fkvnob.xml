@@ -766,6 +766,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">ødelagt</t>
+            <xg>
+               <x>Se oon pilassa.</x>
+               <xt>Den er ødelagt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">pilhaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ødelagt</t>
+            <xg>
+               <x>Se meni pilhaan.</x>
+               <xt>Den ble ødelagt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
