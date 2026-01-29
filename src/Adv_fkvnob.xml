@@ -89,6 +89,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på</t>
+            <xg>
+               <x>TV oon päälä.</x>
+               <xt>Tv-en er på.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5779,6 +5783,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">på</t>
+            <xg>
+               <x>Panisitko valot pääle?</x>
+               <xt>Kan du slå på lyset?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">päältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">av</t>
+            <xg>
+               <x>Panisitko valot pois päältä?</x>
+               <xt>Kan du slå av lyset?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
