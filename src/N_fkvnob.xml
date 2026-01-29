@@ -69801,8 +69801,33 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hus</t>
+            <t pos="N">hjem</t>
+              <xg>
+               <x>Tuvan korsteinissä oon harakan pesä.</x>
+               <xt>På husets skorstein er et skjærereir.</xt>
+            </xg>
+               <xg>
+               <x>Lähđemäkö Hansin tuvale?</x>
+               <xt>Skal vi dra hjem til Hans?</xt>
+            </xg>
+              <xg>
+               <x>Mie olen tuvassa.</x>
+               <xt>Jeg er inne i huset.</xt>
+            </xg>
+               <xg>
+               <x>Mie olen tuvala.</x>
+               <xt>Jeg er hjemme.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
             <t pos="N">stue</t>
             <t pos="N">hytte</t>
+              <xg>
+               <x>Miehet jääthiin yöksi Skuuvanvaaran tuvale.</x>
+               <xt>Mennene ble natten over i Skoganvarre-hytta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -69812,6 +69837,14 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Se ei kyllä pääse tallista tuphaan.</x>
                <xt>Han kommer seg sikkert ikke fra stallen til stua (idiomatisk uttrykk som beskriver en treg person, som ikke får gjort noe).</xt>
+            </xg>
+               <xg>
+               <x>Mie panin lämpöpumpan pääle ja tupa lämpis.</x>
+               <xt>Jeg sate på varmepumpen og stua ble varmt.</xt>
+            </xg>
+               <xg>
+               <x>Varovaisila askelheila het astuthiin tuphaan.</x>
+               <xt>Med forsiktige steg tredde de inn i stua.</xt>
             </xg>
          </tg>
       </mg>
