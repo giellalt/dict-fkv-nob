@@ -35148,12 +35148,26 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">middel</t>
+            <t pos="N">virkemiddel</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>måte å løse noe på</re>
             <t pos="N">utvei</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+         <re>som forledd i kunstige sammensetninger</re>
             <t pos="N">kunst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>botemiddel</re>
+            <t pos="N">råd</t>
          </tg>
       </mg>
    </e>
@@ -66675,7 +66689,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">taito</l>
          <stem>taiđo</stem>
@@ -66684,6 +66698,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ferdighet</t>
+            <t pos="N">dyktighet</t>
+            <t pos="N">evne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunst</t>
          </tg>
       </mg>
    </e>
@@ -72575,7 +72596,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">vara</l>
          <stem>varra</stem>
@@ -72583,14 +72604,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">råd</t>
+            <t pos="N">middel</t>
             <xg>
                <x>Minula oon vara.</x>
                <xt>Jeg har råd.</xt>
             </xg>
-            <xg>
-               <x>Hänelä oon vara.</x>
-               <xt>Han har råd.</xt>
-            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forsiktighet</t>
+            <t pos="N">aktsomhet</t>
          </tg>
       </mg>
       <mg>
