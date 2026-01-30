@@ -242,6 +242,11 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">foran</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">for</t>
+         </tg>
+      </mg>
    </e>
    <e src="mk">
       <lg>
@@ -735,13 +740,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Po">päältä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">ned fra</t>
+            <xg>
+               <x>Het tulleevat alas vaaran päältä huomena.</x>
+               <xt>De kommer ned fra fjellet i morgen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">for</t>
+            <t pos="Pr">om</t>
+            <t pos="Pr">over</t>
+            <xg>
+               <x>Älkkää nyt riiđelkkää kauko-ohjaajan päältä.</x>
+               <xt>Krangl nå ikke om fjernkontrollen.</xt>
+            </xg>
+            <xg>
+               <x>Ei ihminen tarvitte hävetä oman dialektin päältä.</x>
+               <xt>Man trenger ikke å skjemmes over sin egen dialekt.</xt>
+            </xg>
+            <xg>
+               <x>Het taistelthiin kovasti sen päältä.</x>
+               <xt>De kjempa hardt for det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
