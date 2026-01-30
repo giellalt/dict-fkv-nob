@@ -3200,13 +3200,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">epätavalinen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">uvanlig</t>
+            <t pos="A">usedvanlig</t>
          </tg>
       </mg>
    </e>
@@ -23704,8 +23705,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">usedvanlig</t>
-            <t pos="A">uvanlig</t>
+            <t pos="A">ualminnelig</t>
+            <t pos="A">umåtelig</t>
          </tg>
       </mg>
    </e>
