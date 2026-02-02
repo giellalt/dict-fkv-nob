@@ -18209,7 +18209,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">aavistus</l>
          <stem>aavistukse</stem>
@@ -18217,6 +18217,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">anelse</t>
+            <t pos="N">aning</t>
          </tg>
       </mg>
    </e>
@@ -85880,6 +85881,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kjerringemne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">emäntäaunas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">koneemne</t>
          </tg>
       </mg>
    </e>
