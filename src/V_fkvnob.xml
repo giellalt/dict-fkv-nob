@@ -2053,6 +2053,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">skilles</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="Phrase">skille seg</t>
             <t pos="Phrase">bli skilt</t>
          </tg>
@@ -16175,6 +16180,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Phrase">bygge på</t>
+            <t pos="Phrase">gå ut fra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bygge</t>
          </tg>
       </mg>
@@ -28470,6 +28480,74 @@ For the full license text, see the link above.</lic>
                <x>Hän tempathiin pallon reiđelä.</x>
                <xt>Hun dempet ballen med låret.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">viherttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">grønnes</t>
+            <t pos="V">grønskes</t>
+            <t pos="Phrase">ha et grønnskjær</t>
+            <t pos="Phrase">være grønn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">vietelä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">forføre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l context="mie" pos="V">erota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">skilles</t>
+            <t pos="Phrase">skille seg</t>
+            <t pos="Phrase">skille lag</t>
+            <t pos="Phrase">gå fra hverandre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">varustella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">ruste seg</t>
+            <t pos="Phrase">forberede seg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">valistaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">opplyse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">valaista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">opplyse</t>
+            <t pos="V">belyse</t>
          </tg>
       </mg>
    </e>
