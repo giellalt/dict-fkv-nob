@@ -8496,10 +8496,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="A">pystö</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">oppreist</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">loddrett</t>
@@ -8515,6 +8520,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="A">pysty</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">oppreist</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">loddrett</t>
