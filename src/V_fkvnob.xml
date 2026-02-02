@@ -14855,7 +14855,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">dovne</t>
             <xg>
-               <x>Minun jalka oon puutunu.</x>
+               <x>Minun jalka oon puuttunu.</x>
                <xt>Foten min dovnet av.</xt>
             </xg>
          </tg>
@@ -14864,8 +14864,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Phrase">legge seg opp i</t>
             <xg>
-               <x>Hän puuttuu minun assiissiin.</x>
-               <xt>Han legger seg opp i mine saker.</xt>
+               <x>Hän puuttuu aina minun assiissiin.</x>
+               <xt>Han legger seg alltid opp i mine saker.</xt>
             </xg>
          </tg>
       </mg>
@@ -14873,8 +14873,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">mangle</t>
             <xg>
-               <x>Lapselta puututhaan kengät.</x>
-               <xt>Barn mangler skoene.</xt>
+               <x>Häneltä puuttuu kokemusta.</x>
+               <xt>Han mangler erfaring.</xt>
+            </xg>
+            <xg>
+               <x>Häneltä puuttuu sađetvaattheet.</x>
+               <xt>Han mangler regntøy.</xt>
             </xg>
          </tg>
       </mg>
