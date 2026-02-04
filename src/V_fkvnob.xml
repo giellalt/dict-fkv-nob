@@ -18612,17 +18612,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">tinge</t>
             <t pos="V">krangle</t>
+            <t pos="V">trette</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">tinge</t>
             <t pos="V">forhandle</t>
-            <xg>
-               <x>Mie freistasin tingata palkan päältä ette saisin sen ylös.</x>
-               <xt>Jeg forsøkte å forhandle om lønna, slik at jeg skulle få mer.</xt>
-            </xg>
+<!--            <xg>
+               <x>Mie freistasin tingata palkan päältä.</x>
+               <xt>Jeg forsøkte å forhandle om lønna.</xt>
+            </xg> -->
          </tg>
       </mg>
    </e>
