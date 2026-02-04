@@ -53655,6 +53655,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vapaapiletti</l>
+         <stem>pileti</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fribillett</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ia;kt">
       <lg>
          <l pos="N">pilkka</l>
@@ -119806,6 +119817,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">nektingsord</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">varhaissyksy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">tidlig høst</t>
          </tg>
       </mg>
    </e>
