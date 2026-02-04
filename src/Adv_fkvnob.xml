@@ -9178,13 +9178,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">ylhäältä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">opp i fra</t>
+            <t pos="Adv">ovenfra</t>
+            <t pos="Adv">ovafra</t>
+            <t pos="Adv">ovenifra</t>
          </tg>
       </mg>
    </e>
