@@ -12153,16 +12153,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;es">
       <lg>
          <l pos="N">paju</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">selje</t>
-            <syng>
-               <syn>paivu</syn>
-            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vier</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pil</t>
          </tg>
       </mg>
    </e>
@@ -50816,13 +50823,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="t">
+   <e src="ta;es">
       <lg>
          <l pos="N">paiju</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">gåsunge</t>
+            <t pos="N">selje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vier</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pil</t>
          </tg>
       </mg>
    </e>
@@ -51058,9 +51075,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">selje</t>
-            <syng>
-               <syn>paju</syn>
-            </syng>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vier</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">pil</t>
          </tg>
       </mg>
    </e>
@@ -119742,6 +119766,46 @@ For the full license text, see the link above.</lic>
 <!--            <t pos="N">landstryker</t> -->
 <!--            <t pos="N">loffer</t> -->
 <!--            <t pos="N">vagabond</t> -->
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vesiklasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vannglass</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kotiapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hjemmehjelp</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vesiheinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vassarve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kieltosana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nektingsord</t>
          </tg>
       </mg>
    </e>
