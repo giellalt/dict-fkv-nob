@@ -12078,6 +12078,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">likegyldig</t>
+            <t pos="A">likeglad</t>
+            <t pos="A">uvesentlig</t>
             <xg>
                <x>Se oon yhđentekkeevä mitä hän ajattellee.</x>
                <xt>Det er likegyldig hva hun tenker.</xt>
@@ -12091,10 +12093,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">likegyldig</t>
             <t pos="A">likeglad</t>
+            <t pos="A">uvesentlig</t>
             <xg>
                <x>Heile oli kaikki samantekkeevää.</x>
-               <xt>De var likeglad med alt.</xt>
+               <xt>De var likegyldig med alt.</xt>
             </xg>
          </tg>
       </mg>
