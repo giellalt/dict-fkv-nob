@@ -12080,7 +12080,21 @@ For the full license text, see the link above.</lic>
             <t pos="A">likegyldig</t>
             <xg>
                <x>Se oon yhđentekkeevä mitä hän ajattellee.</x>
-               <xt>Det er likegyldig hva han/hun tenker.</xt>
+               <xt>Det er likegyldig hva hun tenker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">samantekkeevä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">likeglad</t>
+            <xg>
+               <x>Heile oli kaikki samantekkeevää.</x>
+               <xt>De var likeglad med alt.</xt>
             </xg>
          </tg>
       </mg>
@@ -14330,13 +14344,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="A">perustamaton</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">likegyldig</t>
+            <t pos="A">likeglad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="A">välinpitämätön</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">likegyldig</t>
+            <t pos="A">likeglad</t>
          </tg>
       </mg>
    </e>
