@@ -73742,6 +73742,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vann</t>
+            <t pos="N">vatn</t>
          </tg>
       </mg>
    </e>
@@ -119879,6 +119880,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">løgner</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lauvantaipeso</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lørdagsvask</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">pesoämpäri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaskebøtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">pesopäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaskedag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">pesovesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaskevann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">vaatetmuoti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">klesmote</t>
          </tg>
       </mg>
    </e>
