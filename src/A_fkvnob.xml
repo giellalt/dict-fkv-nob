@@ -422,6 +422,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">pää-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">hoved-</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="A">kymmenes</l>
@@ -943,6 +953,16 @@ For the full license text, see the link above.</lic>
    <e src="grom">
       <lg>
          <l pos="A">fantasiirikas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">fantasifull</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="grom">
+      <lg>
+         <l pos="A">fantasiarikas</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -3838,6 +3858,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">sen</t>
             <t pos="A">langsom</t>
             <t pos="A">treg</t>
+            <t pos="A">treig</t>
          </tg>
       </mg>
    </e>
@@ -11562,6 +11583,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">grønn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">äärtyny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">irritert</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ärtyny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">irritert</t>
          </tg>
       </mg>
    </e>

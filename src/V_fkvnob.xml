@@ -21583,7 +21583,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">ärryttäät</l>
          <stem>ärrytä</stem>
@@ -21593,6 +21593,20 @@ For the full license text, see the link above.</lic>
             <t pos="V">terge</t>
             <t pos="V">tirre</t>
             <t pos="V">irritere</t>
+            <t pos="V">erge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">ääryttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">terge</t>
+            <t pos="V">tirre</t>
+            <t pos="V">irritere</t>
+            <t pos="V">erge</t>
          </tg>
       </mg>
    </e>
@@ -21601,6 +21615,17 @@ For the full license text, see the link above.</lic>
          <l context="mie" pos="V">ärttyyt</l>
          <stem>ärry</stem>
          <stem>ärty</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">bli irritert</t>
+            <t pos="Phrase">bli terga</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">äärttyyt</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
