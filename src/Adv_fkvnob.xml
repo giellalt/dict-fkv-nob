@@ -14073,11 +14073,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="Adv">aukkein sylin</l>
+         <l pos="Phrase">aukkein sylin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">med åpne armer</t>
+            <t pos="Phrase">med åpne armer</t>
          <xg>
             <x>Hän otti minun vasthaan aukkein mielin.</x>
             <xt>Han tok meg i mot med åpne armer.</xt>
@@ -14087,11 +14087,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="Adv">aukkein mielin</l>
+         <l pos="Phrase">aukkein mielin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">med åpent sinn</t>
+            <t pos="Phrase">med åpent sinn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">voimakkhaasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">kraftfullt</t>
+            <t pos="Adv">kraftig</t>
+            <t pos="Adv">sterkt</t>
          </tg>
       </mg>
    </e>
