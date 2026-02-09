@@ -38,9 +38,10 @@
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
 <!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
-                  N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase ) #REQUIRED >
+                  N | Num | Pcle | Po | Pr | Pron | Qu | V ) #IMPLIED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
+<!ATTLIST l t_type ( Phrase ) #IMPLIED >
 <!ATTLIST l type NMTOKEN #IMPLIED >
 <!ATTLIST l val ( IV | TV ) #IMPLIED >
 <!ATTLIST l dial (p|j|v|pv|jv|pj) #IMPLIED >
@@ -82,8 +83,8 @@
 <!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
 <!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
-                  N | Num | Po | Pr | Pron | V | Phrase) #REQUIRED >
-<!ATTLIST t t_type NMTOKEN #IMPLIED >
+                  N | Num | Po | Pr | Pron | V ) #IMPLIED >
+<!ATTLIST t t_type ( expl | Phrase )  #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
 
 <!ELEMENT tg ( re? | t | syng? | xg? )* >
