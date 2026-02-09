@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hvordan</t>
-            <t pos="Phrase">hva slags</t>
+            <t t_type="Phrase">hva slags</t>
          </tg>
       </mg>
    </e>
@@ -212,7 +212,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">hvordan</t>
             <t pos="A">hvorledes</t>
-            <t pos="Phrase">hva slags</t>
+            <t t_type="Phrase">hva slags</t>
          </tg>
       </mg>
    </e>
@@ -351,7 +351,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">tilstøtende</t>
             <t pos="A">neste</t>
-            <t pos="Phrase">ved siden av</t>
+            <t t_type="Phrase">ved siden av</t>
          </tg>
       </mg>
    </e>
@@ -499,7 +499,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
 	         <re>svakt</re>
-            <t pos="Phrase">hellende</t>
+            <t t_type="Phrase">hellende</t>
          </tg>
       </mg>
    </e>
@@ -740,7 +740,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">konsonantstammet</t>
-            <t pos="Phrase">med konsonantstamme</t>
+            <t t_type="Phrase">med konsonantstamme</t>
          </tg>
       </mg>
    </e>
@@ -761,7 +761,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">tostammet</t>
-            <t pos="Phrase">med to stammer</t>
+            <t t_type="Phrase">med to stammer</t>
          </tg>
       </mg>
    </e>
@@ -772,7 +772,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">enstammet</t>
-            <t pos="Phrase">med en stamme</t>
+            <t t_type="Phrase">med en stamme</t>
          </tg>
       </mg>
    </e>
@@ -1095,8 +1095,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lik</t>
-            <t pos="Phrase">ligne</t>
-            <t pos="Phrase">se ut som</t>
+            <t t_type="Phrase">ligne</t>
+            <t t_type="Phrase">se ut som</t>
             <xg>
 	            <x>Hän oon niin faarinsa näkönen.</x>
 	            <xt>Han er så lik faren sin.</xt>
@@ -1913,7 +1913,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">frisk</t>
             <t pos="A">opplagt</t>
-            <t pos="Phrase">i form</t>
+            <t t_type="Phrase">i form</t>
          </tg>
       </mg>
    </e>
@@ -1987,7 +1987,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er lik noe</t>
+            <t t_type="Phrase">som er lik noe</t>
          </tg>
       </mg>
    </e>
@@ -2087,7 +2087,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som ser snill ut</t>
+            <t t_type="Phrase">som ser snill ut</t>
          </tg>
       </mg>
    </e>
@@ -2591,7 +2591,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
 	         <re>stavelse</re>
-            <t pos="Phrase">med hovedtrykk</t>
+            <t t_type="Phrase">med hovedtrykk</t>
          </tg>
       </mg>
    </e>
@@ -3989,7 +3989,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med god hukommelse</t>
+            <t t_type="Phrase">med god hukommelse</t>
          </tg>
       </mg>
    </e>
@@ -4082,7 +4082,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">litt tullete</t>
+            <t t_type="Phrase">litt tullete</t>
          </tg>
       </mg>
    </e>
@@ -4335,7 +4335,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">all slags</t>
+            <t t_type="Phrase">all slags</t>
          </tg>
       </mg>
    </e>
@@ -4346,7 +4346,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">slags</t>
-            <t pos="Phrase">et slags</t>
+            <t t_type="Phrase">et slags</t>
          </tg>
       </mg>
    </e>
@@ -4356,7 +4356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har familie</t>
+            <t t_type="Phrase">som har familie</t>
          </tg>
       </mg>
    </e>
@@ -4447,7 +4447,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">det siste</t>
+            <t t_type="Phrase">det siste</t>
          </tg>
       </mg>
    </e>
@@ -4487,7 +4487,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er på/fra en side av noe</t>
+            <t t_type="Phrase">som er på/fra en side av noe</t>
             <xg>
 	            <x>Met olema nyt Norjan puolisella jovenrannala.</x>
 	            <xt>Nå er vi på den norske siden av elva.</xt>
@@ -4582,7 +4582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">to slags</t>
+            <t t_type="Phrase">to slags</t>
          </tg>
       </mg>
    </e>
@@ -4595,7 +4595,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">allslags</t>
-            <t pos="Phrase">alt mulig</t>
+            <t t_type="Phrase">alt mulig</t>
          </tg>
       </mg>
    </e>
@@ -4672,7 +4672,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
 	         <re>i nektende setninger</re>
-            <t pos="Phrase">særlig bra</t>
+            <t t_type="Phrase">særlig bra</t>
             <syng>
 	            <syn>kakkonen</syn>
 	            </syng>
@@ -5664,7 +5664,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">endende</t>
-            <t pos="Phrase">som slutter på</t>
+            <t t_type="Phrase">som slutter på</t>
          </tg>
       </mg>
    </e> -->
@@ -6038,7 +6038,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fint sommervær</t>
+            <t t_type="Phrase">fint sommervær</t>
          </tg>
       </mg>
    </e>
@@ -6209,7 +6209,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">slak</t>
-            <t pos="Phrase">svakt hellende</t>
+            <t t_type="Phrase">svakt hellende</t>
          </tg>
       </mg>
    </e>
@@ -6498,7 +6498,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra et land</t>
+            <t t_type="Phrase">fra et land</t>
             <xg>
                <x>Minkä maalainen sie olet? Mie olen ruijalainen.</x>
                <xt>Hvor er du fra? Jeg er norsk.</xt>
@@ -6894,7 +6894,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">en slags</t>
+            <t t_type="Phrase">en slags</t>
          </tg>
       </mg>
    </e>
@@ -7083,7 +7083,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med fire hjørner</t>
+            <t t_type="Phrase">med fire hjørner</t>
          </tg>
       </mg>
    </e>
@@ -7222,7 +7222,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob" comment="trans ungdommelig">
-            <t pos="Phrase">temmelig ung</t>
+            <t t_type="Phrase">temmelig ung</t>
          </tg>
       </mg>
    </e>
@@ -7327,8 +7327,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lik</t>
-            <t pos="Phrase">ligne</t>
-            <t pos="Phrase">se ut som</t>
+            <t t_type="Phrase">ligne</t>
+            <t t_type="Phrase">se ut som</t>
             <xg>
 	            <x>Hän oon niin faarinsa näköinen.</x>
 	            <xt>Han er så lik faren sin.</xt>
@@ -7711,7 +7711,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med dårlig vær</t>
+            <t t_type="Phrase">med dårlig vær</t>
          </tg>
       </mg>
    </e>
@@ -7886,7 +7886,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">temmelig liten</t>
+            <t t_type="Phrase">temmelig liten</t>
          </tg>
       </mg>
    </e>
@@ -8468,7 +8468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er på/fra en side av noe</t>
+            <t t_type="Phrase">som er på/fra en side av noe</t>
             <xg>
 	            <x>Met olema nyt Norjan puolilaisela jovenrannala.</x>
 	            <xt>Nå er vi på den norske siden av elva.</xt>
@@ -9278,7 +9278,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">lik</t>
             <t pos="A">likedan</t>
             <t pos="A">likens</t>
-            <t pos="Phrase">samme slags</t>
+            <t t_type="Phrase">samme slags</t>
          </tg>
       </mg>
    </e>
@@ -10161,7 +10161,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">andre</t>
-            <t pos="Phrase">den andre</t>
+            <t t_type="Phrase">den andre</t>
             <xg>
                <x>toinen ja toinen</x>
                <xt>den ene og den andre</xt>
@@ -10195,7 +10195,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra Torneå</t>
+            <t t_type="Phrase">fra Torneå</t>
          </tg>
       </mg>
       <mg>
@@ -10210,7 +10210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra Tornedalen</t>
+            <t t_type="Phrase">fra Tornedalen</t>
          </tg>
       </mg>
    </e>
@@ -10356,7 +10356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">sånn der</t>
+            <t t_type="Phrase">sånn der</t>
          </tg>
       </mg>
    </e>
@@ -10368,7 +10368,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">sånn der</t>
+            <t t_type="Phrase">sånn der</t>
          </tg>
       </mg>
    </e>
@@ -10564,7 +10564,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">slik</t>
-            <t pos="Phrase">som denne</t>
+            <t t_type="Phrase">som denne</t>
          </tg>
       </mg>
    </e>
@@ -10587,8 +10587,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">slik som denne</t>
-            <t pos="Phrase">sånn her</t>
+            <t t_type="Phrase">slik som denne</t>
+            <t t_type="Phrase">sånn her</t>
          </tg>
       </mg>
    </e>
@@ -10600,7 +10600,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">sånn her</t>
+            <t t_type="Phrase">sånn her</t>
             <t pos="A">sånn</t>
          </tg>
       </mg>
@@ -10715,7 +10715,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ytterst</t>
-            <t pos="Phrase">lengst ute</t>
+            <t t_type="Phrase">lengst ute</t>
          </tg>
       </mg>
    </e>
@@ -10829,7 +10829,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mange</t>
-            <t pos="Phrase">mang en</t>
+            <t t_type="Phrase">mang en</t>
          </tg>
       </mg>
    </e>
@@ -11473,7 +11473,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra Vadsø</t>
+            <t t_type="Phrase">fra Vadsø</t>
          </tg>
       </mg>
    </e>
@@ -11721,7 +11721,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av ull</t>
+            <t t_type="Phrase">av ull</t>
          </tg>
       </mg>
    </e>
@@ -11895,7 +11895,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">år gammel</t>
+            <t t_type="Phrase">år gammel</t>
             <xg>
                <x>kymmenenvuotinen</x>
                <xt>ti år gammel</xt>
@@ -12004,7 +12004,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er imellom</t>
+            <t t_type="Phrase">som er imellom</t>
          </tg>
       </mg>
    </e>
@@ -12103,12 +12103,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">en slags</t>
+            <t t_type="Phrase">en slags</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">samme slags</t>
+            <t t_type="Phrase">samme slags</t>
             <t pos="A">likens</t>
          </tg>
       </mg>
@@ -12119,7 +12119,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">en slags</t>
+            <t t_type="Phrase">en slags</t>
          </tg>
       </mg>
    </e>
@@ -12292,8 +12292,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">enspråklig person</t>
-            <t pos="Phrase">en som ikke forstår stedets språk</t>
+            <t t_type="Phrase">enspråklig person</t>
+            <t t_type="Phrase">en som ikke forstår stedets språk</t>
          </tg>
       </mg>
    </e>
@@ -12360,7 +12360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra Lyngen</t>
+            <t t_type="Phrase">fra Lyngen</t>
          </tg>
       </mg>
    </e>
@@ -12424,7 +12424,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er lengere mot øst</t>
+            <t t_type="Phrase">som er lengere mot øst</t>
             <t pos="A">østligere</t>
          </tg>
       </mg>
@@ -12466,8 +12466,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">underliggende</t>
-            <t pos="Phrase">som ligger under</t>
-            <t pos="Phrase">den underste</t>
+            <t t_type="Phrase">som ligger under</t>
+            <t t_type="Phrase">den underste</t>
             <xg>
 	            <x>Teko oon rangaistuksen alainen.</x>
 	            <xt>Handlingen er underlagt straff.</xt>
@@ -12946,7 +12946,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">vanskelig til sinns</t>
+            <t t_type="Phrase">vanskelig til sinns</t>
             <xg>
             <x>Se oon niin huonoluontoinen ihminen.</x>
             <xt>Han/hun er så vanskelig til sinns.</xt>
@@ -13155,7 +13155,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">på eller fra østsiden</t>
+            <t t_type="Phrase">på eller fra østsiden</t>
          </tg>
       </mg>
    </e>
@@ -13237,7 +13237,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">en med smalt ansikt</t>
+            <t t_type="Phrase">en med smalt ansikt</t>
          </tg>
       </mg>
    </e>
@@ -13570,7 +13570,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av høy kvalitet</t>
+            <t t_type="Phrase">av høy kvalitet</t>
          </tg>
       </mg>
    </e>
@@ -13742,7 +13742,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">om et sted der det vokser ortrær</t>
+            <t t_type="Phrase">om et sted der det vokser ortrær</t>
          </tg>
       </mg>
    </e>
@@ -13828,7 +13828,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">dårlig terreng</t>
+            <t t_type="Phrase">dårlig terreng</t>
             <xg>
             <x>Yöpimmeessä oli huono kävelä maisematonta maata.</x>
             <xt>Det var vanskelig å gå i det dårlige terrenget i nattmørket.</xt>
@@ -13843,7 +13843,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>om terreng</re>
-            <t pos="Phrase">lettvint terreng</t>
+            <t t_type="Phrase">lettvint terreng</t>
          </tg>
       </mg>
    </e>
@@ -13858,7 +13858,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">mer velsmakende</t>
+            <t t_type="Phrase">mer velsmakende</t>
          </tg>
       </mg>
    </e>
@@ -13873,7 +13873,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">mest velsmakende</t>
+            <t t_type="Phrase">mest velsmakende</t>
          </tg>
       </mg>
    </e>
@@ -13883,7 +13883,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ganske lang</t>
+            <t t_type="Phrase">ganske lang</t>
          </tg>
       </mg>
       <mg>
@@ -14115,7 +14115,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">å være for en sak</t>
+            <t t_type="Phrase">å være for en sak</t>
          </tg>
       </mg>
    </e>
@@ -14155,7 +14155,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fire uker lang</t>
+            <t t_type="Phrase">fire uker lang</t>
             <xg>
             <x>Kesälä minula oon neliviikkoinen feeriä.</x>
             <xt>Jeg har fire uker ferie på sommeren.</xt>
@@ -14181,7 +14181,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">eksplisitt</t>
             <t pos="A">aktuell</t>
-            <t pos="Phrase">den/det det er snakk/spørsmål</t>
+            <t t_type="Phrase">den/det det er snakk/spørsmål</t>
             <xg>
             <x>Tässä nimenomhaisessa kysymyksessä mie en ole seppäihminen.</x>
             <xt>I akkurat dette tilfellet er jeg ikke dyktig.</xt>
@@ -14206,7 +14206,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ved sine fulle fem</t>
+            <t t_type="Phrase">ved sine fulle fem</t>
          </tg>
       </mg>
    </e>
@@ -14549,7 +14549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med masse trær</t>
+            <t t_type="Phrase">med masse trær</t>
          </tg>
       </mg>
    </e>
@@ -15622,7 +15622,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">motvillig</t>
-            <t pos="Phrase">være mot noe</t>
+            <t t_type="Phrase">være mot noe</t>
          </tg>
       </mg>
    </e>
@@ -15716,7 +15716,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">vill i blikket</t>
+            <t t_type="Phrase">vill i blikket</t>
          </tg>
       </mg>
    </e>
@@ -15778,7 +15778,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">noen/noe som gjør noe</t>
+            <t t_type="Phrase">noen/noe som gjør noe</t>
             <xg>
             <x>Jokhaisella työtä tekkeevällä oon oikkeus feerihään.</x>
             <xt>Enhver som arbeider har rett på ferie.</xt>
@@ -15788,7 +15788,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">ylimäärätön pito</l>
+         <l t_type="Phrase">ylimäärätön pito</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -15954,7 +15954,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">annen</t>
             <t pos="A">annerledes</t>
             <t pos="A">annenslags</t>
-            <t pos="Phrase">en annen form for</t>
+            <t t_type="Phrase">en annen form for</t>
             <xg>
             <x>Jos oon tarvet niin saat muunlaisen suojan.</x>
             <xt>Hvis det er nødvendig får du en annen form for beskyttelse.</xt>
@@ -15971,7 +15971,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">annen</t>
             <t pos="A">annerledes</t>
             <t pos="A">annenslags</t>
-            <t pos="Phrase">en annen form for</t>
+            <t t_type="Phrase">en annen form for</t>
             <xg>
             <x>Jos oon tarvet niin saat muulaisen suojan.</x>
             <xt>Hvis det er nødvendig får du en annen form for beskyttelse.</xt>
@@ -15988,7 +15988,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">annen</t>
             <t pos="A">annerledes</t>
             <t pos="A">annenslags</t>
-            <t pos="Phrase">også en annen form for</t>
+            <t t_type="Phrase">også en annen form for</t>
             <xg>
             <x>Jos oon tarvet niin saat muunkilaisen suojan.</x>
             <xt>Hvis det er nødvendig får du også en annen form for beskyttelse.</xt>
@@ -16163,9 +16163,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ingen slangs</t>
-            <t pos="Phrase">ikke av noe slag</t>
-            <t pos="Phrase">ingen form for</t>
+            <t t_type="Phrase">ingen slangs</t>
+            <t t_type="Phrase">ikke av noe slag</t>
+            <t t_type="Phrase">ingen form for</t>
             <xg>
             <x>Hän ei antanu minule minkhäänlaista vastausta.</x>
             <xt>Han/hun ga meg ikke noe svar.</xt>
@@ -16567,7 +16567,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av flere typer</t>
+            <t t_type="Phrase">av flere typer</t>
             <xg>
             <x>Teltta-asumapaikat saatethaan olla monentyyppiset.</x>
             <xt>Teltboplassene kan være av flere typer.</xt>
@@ -16820,8 +16820,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">aktuell</t>
-            <t pos="Phrase">den/det det er spørsmål om</t>
-            <t pos="Phrase">den/det det er gjelder</t>
+            <t t_type="Phrase">den/det det er spørsmål om</t>
+            <t t_type="Phrase">den/det det er gjelder</t>
          </tg>
       </mg>
    </e>
@@ -17305,8 +17305,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">nylig vedtatt</t>
-            <t pos="Phrase">nylig innsatt</t>
+            <t t_type="Phrase">nylig vedtatt</t>
+            <t t_type="Phrase">nylig innsatt</t>
             <xg>
             <x>Lisäksi argumenteerathiin, ette pohjaisen raja-alat olthiin eriliikaisen haavoittuvat, ko sielä olthiin vasta-asetetut rajat.</x>
             <xt>I tillegg ble det argumentert med at grenseområdene i nord var særlig sårbare og utsatte med sine grenser som nylig er vedtatt.</xt>
@@ -17669,7 +17669,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">en med finsk kulturbakgrunn</t>
+            <t t_type="Phrase">en med finsk kulturbakgrunn</t>
             <xg>
                <x>Kväänit ja norjansuomalaiset oon suomenkielisten ja suomenkulttuuristen jälkeläissii.</x>
                <xt>Kvener og norskfinner er etterkommere etter folk med finsk språk og kulturbakgrunn.</xt>
@@ -18022,7 +18022,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">veltet over ende</t>
+            <t t_type="Phrase">veltet over ende</t>
          </tg>
       </mg>
    </e>
@@ -18153,7 +18153,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">mest truet</t>
+            <t t_type="Phrase">mest truet</t>
          </tg>
       </mg>
    </e>
@@ -19059,7 +19059,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">på forhånd</t>
+            <t t_type="Phrase">på forhånd</t>
             <t pos="A">forhånds-</t>
             <xg>
             <x>Takaisinmellingin ja siihen kuuluuvan opastuksen annethaan tyhä jos etukätheinen estäminen tahi hoito oon mahđolista.</x>
@@ -19155,8 +19155,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hittil</t>
-            <t pos="Phrase">fram til nå</t>
-            <t pos="Phrase">inntil nå</t>
+            <t t_type="Phrase">fram til nå</t>
+            <t t_type="Phrase">inntil nå</t>
             <xg>
             <x>Nyt toivothaan ette tämä saattaa jatkuut ja eđistyyt, niin ette kaikki tähänastinen työ ei ole ollu turhaa.</x>
             <xt>Nå er håpet at dette kan bestå og videreutvikles, slik at ikke alt arbeidet frem til nå har vært forgjeves.</xt>
@@ -19541,7 +19541,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av alle aldre</t>
+            <t t_type="Phrase">av alle aldre</t>
             <xg>
             <x>Krokelvdalen IL-klubissa kaikenikhäiset pellaajat häyđythään saađa kokkeet illoo jalkapallopelistä ja idretistä toisten kans.</x>
             <xt>Krokelvdalen IL skal spillerne ha glede av fotballen gjennom hele aldersløpet, og oppleve idrettsglede sammen med andre.</xt>
@@ -19695,7 +19695,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av en annen farge</t>
+            <t t_type="Phrase">av en annen farge</t>
             <xg>
             <x>Kuđo (11) – (13) silmää muunfärisellä langala.</x>
             <xt>Strikk (11) – (13) masker på en tråd i en annen farge.</xt>
@@ -19709,13 +19709,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av forskjellig type</t>
+            <t t_type="Phrase">av forskjellig type</t>
          </tg>
       </mg>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">kuivin kengin</l>
+         <l t_type="Phrase">kuivin kengin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -20225,7 +20225,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">minner om</t>
+            <t t_type="Phrase">minner om</t>
             <xg>
             <x>Vaattheen takkaa kuului tomhaus ko sinne putos jotaki. Sitte kuului ukkoista muistuttaavaa jyrinää.</x>
             <xt>Bak forhenget lød det et dunk som om noe datt ned. Fulgt av ille brumming som minnet om lyn.</xt>
@@ -20240,7 +20240,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">matroskledd</t>
-            <t pos="Phrase">kledd som matros</t>
+            <t t_type="Phrase">kledd som matros</t>
          </tg>
       </mg>
    </e>
@@ -20364,8 +20364,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">flunkende ny</t>
-            <t pos="Phrase">splitter ny</t>
+            <t t_type="Phrase">flunkende ny</t>
+            <t t_type="Phrase">splitter ny</t>
          </tg>
       </mg>
    </e>
@@ -20436,7 +20436,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av verre sort</t>
+            <t t_type="Phrase">av verre sort</t>
          </tg>
       </mg>
    </e>
@@ -20466,13 +20466,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av modell</t>
+            <t t_type="Phrase">av modell</t>
             <t pos="A">modell</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av form</t>
+            <t t_type="Phrase">av form</t>
             <t pos="A">form</t>
             <xg>
             <x>Maantasala olleeviitten lumiluoliin ovenreijät piti laittaat kaaren malliset. Net olthiin kaikkiin kaunhiimat.</x>
@@ -20512,7 +20512,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">første spadetak</t>
+            <t t_type="Phrase">første spadetak</t>
          </tg>
       </mg>
    </e>
@@ -21718,7 +21718,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har hodet oppe</t>
+            <t t_type="Phrase">som har hodet oppe</t>
             </tg>
       </mg>
    </e> 
@@ -21758,7 +21758,7 @@ For the full license text, see the link above.</lic>
          </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av jerm</t>
+            <t t_type="Phrase">av jerm</t>
             </tg>
       </mg>
       <mg>
@@ -21885,7 +21885,7 @@ For the full license text, see the link above.</lic>
          </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">helt tom</t>
+            <t t_type="Phrase">helt tom</t>
             </tg>
       </mg>
             <mg>
@@ -21900,12 +21900,12 @@ For the full license text, see the link above.</lic>
          </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">slik som denne</t>
+            <t t_type="Phrase">slik som denne</t>
             </tg>
       </mg>
             <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">sånn her</t>
+            <t t_type="Phrase">sånn her</t>
             </tg>
       </mg>
    </e>
@@ -21945,7 +21945,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">hvit som nysnø</t>
+            <t t_type="Phrase">hvit som nysnø</t>
             </tg>
       </mg>
    </e>
@@ -22160,8 +22160,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">ganske svak</t>
-            <t pos="Phrase">ganske dårlig</t>
+            <t t_type="Phrase">ganske svak</t>
+            <t t_type="Phrase">ganske dårlig</t>
          </tg>
       </mg>
    </e>
@@ -22279,7 +22279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra ens tid</t>
+            <t t_type="Phrase">fra ens tid</t>
          <xg>
             <x>Tämä oon uuđestirakenuksen aikhainen pytinki.</x>
             <xt>Dette er en bygning fra gjenreisningstiden.</xt>
@@ -22289,7 +22289,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Phrase">pahhaa varraava</l>
+         <l t_type="Phrase">pahhaa varraava</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -22575,7 +22575,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Phrase">olemassa olleeva</l>
+         <l t_type="Phrase">olemassa olleeva</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -22599,7 +22599,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av tre</t>
+            <t t_type="Phrase">av tre</t>
          </tg>
       </mg>
    </e>
@@ -22650,7 +22650,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mager</t>
-            <t pos="Phrase">som har lav fettinnhold</t>
+            <t t_type="Phrase">som har lav fettinnhold</t>
          </tg>
       </mg>
       <mg>
@@ -22765,7 +22765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har fremre vokal</t>
+            <t t_type="Phrase">som har fremre vokal</t>
          </tg>
       </mg>
    </e>
@@ -22775,7 +22775,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har bakre vokal</t>
+            <t t_type="Phrase">som har bakre vokal</t>
          </tg>
       </mg>
    </e>
@@ -22868,7 +22868,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">annerledes</t>
             <t pos="A">forskjellig</t>
             <t pos="A">ulik</t>
-            <t pos="Phrase">av annen sort/art</t>
+            <t t_type="Phrase">av annen sort/art</t>
          </tg>
       </mg>
    </e>
@@ -23145,7 +23145,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har tilsvarende funksjon</t>
+            <t t_type="Phrase">som har tilsvarende funksjon</t>
          </tg>
       </mg>
    </e>
@@ -23186,7 +23186,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har mangelfullt bøyningsparadigma</t>
+            <t t_type="Phrase">som har mangelfullt bøyningsparadigma</t>
          </tg>
       </mg>
    </e>
@@ -23196,7 +23196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har translativform</t>
+            <t t_type="Phrase">som har translativform</t>
          </tg>
       </mg>
    </e>
@@ -23206,8 +23206,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av denne sort</t>
-            <t pos="Phrase">av dette slag</t>
+            <t t_type="Phrase">av denne sort</t>
+            <t t_type="Phrase">av dette slag</t>
          </tg>
       </mg>
    </e>
@@ -23217,7 +23217,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har suffiks</t>
+            <t t_type="Phrase">som har suffiks</t>
          </tg>
       </mg>
    </e>
@@ -23228,7 +23228,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">slags</t>
-            <t pos="Phrase">av en sort</t>
+            <t t_type="Phrase">av en sort</t>
          </tg>
       </mg>
    </e>
@@ -23238,8 +23238,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">slik som følger</t>
-            <t pos="Phrase">av følgende type</t>
+            <t t_type="Phrase">slik som følger</t>
+            <t t_type="Phrase">av følgende type</t>
          </tg>
       </mg>
    </e>
@@ -23249,7 +23249,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har blandet bøyningsmønster</t>
+            <t t_type="Phrase">som har blandet bøyningsmønster</t>
          </tg>
       </mg>
    </e>
@@ -23259,7 +23259,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er i begynnelsen av et ord</t>
+            <t t_type="Phrase">som er i begynnelsen av et ord</t>
          </tg>
       </mg>
    </e>
@@ -23270,7 +23270,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>gram.</re>
-            <t pos="Phrase">som har samme person</t>
+            <t t_type="Phrase">som har samme person</t>
          </tg>
       </mg>
    </e>
@@ -23280,8 +23280,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av samme sort</t>
-            <t pos="Phrase">av samme slag</t>
+            <t t_type="Phrase">av samme sort</t>
+            <t t_type="Phrase">av samme slag</t>
          </tg>
       </mg>
    </e>
@@ -23321,7 +23321,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har flertallsliknende form</t>
+            <t t_type="Phrase">som har flertallsliknende form</t>
          </tg>
       </mg>
    </e>
@@ -23331,7 +23331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som er uten personendelse</t>
+            <t t_type="Phrase">som er uten personendelse</t>
          </tg>
       </mg>
    </e>
@@ -23381,7 +23381,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av fire typer</t>
+            <t t_type="Phrase">av fire typer</t>
          </tg>
       </mg>
    </e>
@@ -23391,7 +23391,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av tre typer</t>
+            <t t_type="Phrase">av tre typer</t>
          </tg>
       </mg>
    </e>
@@ -23463,8 +23463,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har høyeste grad</t>
-            <t pos="Phrase">som har sterkest grad</t>
+            <t t_type="Phrase">som har høyeste grad</t>
+            <t t_type="Phrase">som har sterkest grad</t>
          </tg>
       </mg>
    </e>
@@ -23576,7 +23576,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som har ulik lengde</t>
+            <t t_type="Phrase">som har ulik lengde</t>
          </tg>
       </mg>
    </e>
@@ -23629,7 +23629,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">av lavere grad</t>
+            <t t_type="Phrase">av lavere grad</t>
          </tg>
       </mg>
    </e>
@@ -23669,8 +23669,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som kommer rett etter det andre</t>
-            <t pos="Phrase">etter hverandre</t>
+            <t t_type="Phrase">som kommer rett etter det andre</t>
+            <t t_type="Phrase">etter hverandre</t>
          </tg>
       </mg>
    </e>
@@ -23680,8 +23680,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">som kommer rett etter det andre</t>
-            <t pos="Phrase">etter hverandre</t>
+            <t t_type="Phrase">som kommer rett etter det andre</t>
+            <t t_type="Phrase">etter hverandre</t>
          </tg>
       </mg>
    </e>
@@ -23872,7 +23872,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">fra natten før</t>
+            <t t_type="Phrase">fra natten før</t>
             <xg>
             <x>Mie muistan yölisen unen niin elävästi.</x>
             <xt>Jeg husker drømmen fra i natt så billedlig.</xt>

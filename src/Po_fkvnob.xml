@@ -553,7 +553,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">opp til en</t>
+            <t t_type="Phrase">opp til en</t>
             <xg>
                <x>Se oon teiđän hallussa mitä tet halluutta tehđä nyt.</x>
                <xt>Det er opp til dere hva dere vil gjøre nå.</xt>
@@ -716,8 +716,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">på vegne av</t>
-            <t pos="Phrase">for noens del</t>
+            <t t_type="Phrase">på vegne av</t>
+            <t t_type="Phrase">for noens del</t>
             <xg>
                <x>Hän teki sen minun puolesta.</x>
                <xt>Han gjorde det for min del.</xt>
@@ -1412,7 +1412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med hjelp av</t>
+            <t t_type="Phrase">med hjelp av</t>
          </tg>
       </mg>
    </e>
@@ -1422,7 +1422,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med hjelp av</t>
+            <t t_type="Phrase">med hjelp av</t>
          </tg>
       </mg>
    </e>

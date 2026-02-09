@@ -234,7 +234,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">på den andre sida av</t>
+            <t t_type="Phrase">på den andre sida av</t>
             <xg>
                <x>poikki jokkee</x>
                <xt>på andre sida av elva</xt>
@@ -243,7 +243,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">tvers over</t>
+            <t t_type="Phrase">tvers over</t>
             <xg>
                <x>Souđin poikki vuonon ämmin tykö.</x>
                <xt>Jeg rodde over fjorden til bestemor.</xt>
@@ -302,7 +302,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">i underkant av</t>
+            <t t_type="Phrase">i underkant av</t>
             <xg>
                <x>Het juosthiin vaila puolen miilan pitukaisen kilvan.</x>
                <xt>De løp en konkurranse som var i underkant av en halv mil lang.</xt>
@@ -325,7 +325,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">i underkant av</t>
+            <t t_type="Phrase">i underkant av</t>
             <t pos="Pr">på</t>
             <xg>
                <x>Kello oon viisi vaile kolme.</x>

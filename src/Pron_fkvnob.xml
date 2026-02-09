@@ -290,7 +290,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pron">alle</t>
-            <t pos="Phrase">alle sammen</t>
+            <t t_type="Phrase">alle sammen</t>
          </tg>
       </mg>
    </e>
@@ -337,7 +337,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">hva slags</t>
+            <t t_type="Phrase">hva slags</t>
             <t pos="A">hvordan</t>
             <t pos="A">hvilken</t>
          </tg>
@@ -554,13 +554,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mange</t>
-            <t pos="Phrase">mang en</t>
+            <t t_type="Phrase">mang en</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">noen</t>
-            <t pos="Phrase">noen stykker</t>
+            <t t_type="Phrase">noen stykker</t>
          </tg>
       </mg>
    </e>
@@ -622,7 +622,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">hvilken i ei rekke</t>
+            <t t_type="Phrase">hvilken i ei rekke</t>
             <xg>
                <x>Monesko juulikuun päivä tääpänä oon?</x>
                <xt>Hvilken dag i juli er vi på nå?</xt>
