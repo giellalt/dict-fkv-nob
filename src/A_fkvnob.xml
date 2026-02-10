@@ -10681,6 +10681,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="A">ytre</t>
             <t pos="A">utvendig</t>
          </tg>
       </mg>
@@ -10692,6 +10693,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ytre</t>
+            <t pos="A">utvendig</t>
+            <xg>
+               <x>Huonet oon ulkkoo käsin musta.</x>
+               <xt>Huset er svart på utsiden.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="A">ulko-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ytter-</t>
+            <t pos="A">ute-</t>
          </tg>
       </mg>
    </e>
