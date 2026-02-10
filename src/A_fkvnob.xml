@@ -10675,7 +10675,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+      <e src="anb">
       <lg>
          <l pos="A">ulkonainen</l>
       </lg>
@@ -10708,7 +10708,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">ytter-</t>
-            <t pos="A">ute-</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">uten-</t>
          </tg>
       </mg>
    </e>
@@ -10721,7 +10725,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">utenlandsk</t>
-            <t pos="A">utlending</t>
+               <t pos="A">utlendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">ulkomainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utenlandsk</t>
+            <t pos="A">utlendig</t>
          </tg>
       </mg>
    </e>

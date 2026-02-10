@@ -44103,15 +44103,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">verden</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">veldig</t>
-            <xg>
-               <x>Se oli mailman hyvä kirjoittamhaan.</x>
-               <xt>Hun var veldig flink til å skrive.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e src="ai">
       <lg>
@@ -120044,6 +120035,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">yttervegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">ulkomailma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">omverden</t>
          </tg>
       </mg>
    </e>
