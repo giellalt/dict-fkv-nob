@@ -71254,13 +71254,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">ulkomuoto</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utseende</t>
+            <t pos="N">ytre</t>
          </tg>
       </mg>
    </e>
@@ -119971,6 +119972,66 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kjærlighetserklæring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">universumi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">univers</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">unhoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">glemsel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">unelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drøm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">uloskulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">utgift</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">ulkosyrjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ytterkant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">ulkoseinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">yttervegg</t>
          </tg>
       </mg>
    </e>

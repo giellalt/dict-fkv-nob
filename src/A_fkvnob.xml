@@ -24074,13 +24074,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="anb;ki">
+      <e src="anb">
       <lg>
          <l pos="A">viinapäistyny</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">vinberuset</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="A">vaaleekeltainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lysegul</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="anb">
+      <lg>
+         <l pos="A">vaaleeihoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">lyshudet</t>
          </tg>
       </mg>
    </e>
