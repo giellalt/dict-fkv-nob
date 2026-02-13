@@ -14077,7 +14077,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med åpne armer</t>
+            <t t_type="Phrase">med åpne armer</t>
          <xg>
             <x>Hän otti minun vasthaan aukkein mielin.</x>
             <xt>Han tok meg i mot med åpne armer.</xt>
@@ -14091,7 +14091,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">med åpent sinn</t>
+            <t t_type="Phrase">med åpent sinn</t>
          </tg>
       </mg>
    </e>
