@@ -18077,12 +18077,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="anb;es;ta">
       <lg>
          <l context="mie" pos="V">takkoot</l>
-         <stem>tao</stem>
-         <stem>tako</stem>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">smi</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">banke</t>
