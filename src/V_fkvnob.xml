@@ -18344,18 +18344,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">smitte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t t_type="Phrase">klebe seg</t>
             <t t_type="Phrase">sette seg fast</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">smitte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">gripe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bite</t>
+            <xg>
+               <x>Kala ei tartu tääpänä.</x>
+               <xt>Fisker biter ikke idag.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
