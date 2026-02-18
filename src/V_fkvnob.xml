@@ -2535,20 +2535,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">hogge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">hugge</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">slå</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="V">banke</t>
          </tg>
       </mg>
@@ -4206,6 +4198,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">slå</t>
+            <xg>
+               <x>Ajatus iski minun päähän ette piian mie häyđyn tehđä tämän eri laila.</x>
+               <xt>En tanke slo meg at kanskje jeg må gjøre dette på en annen måte.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4216,6 +4212,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Eilin iski valkkeita.</x>
                <xt>Det lynte i går.</xt>
+            </xg>
+            <xg>
+               <x>Hän iski silmää minule.</x>
+               <xt>Han blunket til meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -16366,6 +16366,30 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">blinke</t>
             <t pos="V">blunke</t>
+            <xg>
+               <x>Tähđet räpyttelleevät taivhaala.</x>
+               <xt>Stjernene blunker på himmelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">flakse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l context="mie" pos="V">räpsytellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">blinke</t>
+            <t pos="V">blunke</t>
+            <xg>
+               <x>Tähđet räpsyttelleevät taivhaala.</x>
+               <xt>Stjernene blinker på himmelen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -18090,6 +18114,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">banke</t>
             <t pos="V">slå</t>
+            <xg>
+               <x>Syđän takkoo.</x>
+               <xt>Hjertet slår.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
