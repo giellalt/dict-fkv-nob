@@ -10302,7 +10302,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">matkiit</l>
       </lg>
@@ -10310,6 +10310,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">drive gjøn</t>
             <t pos="V">etterape</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">imitere</t>
          </tg>
       </mg>
       <mg>

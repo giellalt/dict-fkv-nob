@@ -4373,6 +4373,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">med</t>
+            <xg>
+               <x>Hänelä ei ole sauvoi matkassa.</x>
+               <xt>Han har ikke staver med seg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4384,6 +4388,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">i vei</t>
             <t pos="Adv">av gårde</t>
+            <xg>
+               <x>Hän sai miehet matkhaan.</x>
+               <xt>Hun sendte mennene av gårde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">matkasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ikke med</t>
+            <t pos="Adv">bort fra</t>
+            <xg>
+               <x>Nyt mie putosin matkasta, saattaisitko selittäät uuđesti?</x>
+               <xt>Nå datt jeg av lasset, kan du forklare på nytt?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
