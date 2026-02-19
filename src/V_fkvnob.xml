@@ -14929,6 +14929,14 @@ For the full license text, see the link above.</lic>
             <t pos="V">dette</t>
             <t pos="V">ramle</t>
             <t pos="V">falle</t>
+            <xg>
+               <x>Mie putosin puusta.</x>
+               <xt>Jeg falt ned fra treet.</xt>
+            </xg>
+            <xg>
+               <x>Nyt mie putosin matkasta, saattaisitko selittäät uuđesti?</x>
+               <xt>Nå falt jeg av lasset, kan du forklare på nytt?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15471,6 +15479,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">komme i gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l context="mie" t_type="Phrase">puđota matkasta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">falle av lasset</t>
+            <t t_type="Phrase">dette av lasset</t>
+            <t t_type="Phrase">ramle av lasset</t>
+            <t t_type="Phrase">miste tråden</t>
+            <xg>
+               <x>Nyt mie putosin matkasta, saattaisitko selittäät uuđesti?</x>
+               <xt>Nå falt jeg av lasset, kan du forklare på nytt?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
