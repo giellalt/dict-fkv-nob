@@ -5387,6 +5387,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">gå av</t>
+            <t pos="V">ryke</t>
          </tg>
       </mg>
       <mg>
@@ -10501,7 +10502,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;mj">
+   <e src="ta;ai;mj;ki">
       <lg>
          <l context="mie" pos="V">mennä</l>
          <stem>mene</stem>
@@ -10510,6 +10511,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dra</t>
+            <xg>
+               <x>Menemäkö?</x>
+               <xt>Skal vi dra?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -10520,26 +10525,22 @@ For the full license text, see the link above.</lic>
                <xt>Går det bra?</xt>
             </xg>
             <xg>
-               <x>mennä kylhään</x>
-               <xt>gå på besøk</xt>
+               <x>Met menemä ämmin kylhään.</x>
+               <xt>Vi går på besøk til bestemor.</xt>
             </xg>
             <xg>
-               <x>mennä poikki</x>
-               <xt>gå i stykker</xt>
+               <x>Käypikö se laihiin?</x>
+               <xt>Går det an?</xt>
             </xg>
             <xg>
-               <x>Minulta meni jalka poikki.</x>
-               <xt>Jeg brakk benet.</xt>
-            </xg>
-            <xg>
-               <x>Se voi mennä poikki.</x>
-               <xt>Den kan gå i stykker, brekke.</xt>
+               <x>Se saattaa mennä poikki.</x>
+               <xt>Den kan gå i stykker.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <re>+ illativ</re>
+         <tg xml:lang="nob">
+         <re>+ illativ</re>
             <t t_type="Phrase">gå inn i en tilstand av</t>
             <xg>
                <x>mennä tyrmhiin</x>
@@ -10556,6 +10557,21 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>mennä pilhaan, mennä pilale</x>
                <xt>bli ødelagt</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ryke</t>
+            <t pos="V">forsvinne</t>
+            <t t_type="Phrase">gå tapt</t>
+            <xg>
+               <x>Siinä meni se mahđolisuus.</x>
+               <xt>Der røk den muligheten.</xt>
+            </xg>
+            <xg>
+               <x>Rahat menneevät räkinkhiin.</x>
+               <xt>Pengene ryker i regninger.</xt>
             </xg>
          </tg>
       </mg>
@@ -16803,6 +16819,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ryke</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -18230,6 +18251,19 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Se tappas sitte kaikki rahat.</x>
                <xt>Han tapte så alle pengene.</xt>
+            </xg>
+            <xg>
+               <x>Tyskä tappas sođan.</x>
+               <xt>Tyskland tapte krigen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ryke</t>
+            <xg>
+               <x>Het tapathiin kampin 1-2.</x>
+               <xt>De røk 1-2 i fotballkampen.</xt>
             </xg>
          </tg>
       </mg>
