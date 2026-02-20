@@ -14991,13 +14991,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="A">syđäntäsärkkeevä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">hjerteskjærende</t>
+            <t pos="A">hjerteknusende</t>
          </tg>
       </mg>
    </e>
@@ -24134,16 +24135,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">lyshudet</t>
-         </tg>
-      </mg>
-   </e>
-      <e src="anb">
-      <lg>
-         <l pos="A">syđäntäsärkkeevä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="A">hjerteknusende</t>
          </tg>
       </mg>
    </e>
