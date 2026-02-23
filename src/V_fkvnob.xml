@@ -5498,17 +5498,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">kjøpe</t>
+            <t pos="V">handle</t>
+             <t t_type="Phrase">drive handel</t>
+               <xg>
+               <x>Da jeg var ferdig med å handle var ranselen full.</x>
+               <xt>Ko mie olin valmis kauppaamasta niin minun ransseli oli täynä.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="nob">
+            <t t_type="V">selge</t>
+                <xg>
+               <x>Mennene dro til torget for å selge fisk.</x>
+               <xt>Miehet menthiin torile kauppaamhaan kalloi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">drive forretning</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="Phrase">drive handel</t>
+                <xg>
+               <x>Det var fint å gjøre foretninger med deg.</x>
+               <xt>Se oli hyvä tehđä kauppaamahommat sinun kans.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
