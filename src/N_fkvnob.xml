@@ -47481,7 +47481,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">naama</l>
       </lg>
@@ -47489,6 +47489,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">ansikt</t>
             <t pos="N">fjes</t>
+            <t pos="N">tryne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">kjeft</t>
             <xg>
                <x>Hänelä oon kyllä iso naama.</x>
@@ -70028,16 +70033,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">pels</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ai">
-      <lg>
-         <l pos="N">turpa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mule</t>
          </tg>
       </mg>
    </e>
@@ -120215,6 +120210,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">arbeidsmenneske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;anb">
+      <lg>
+         <l pos="N">turpa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mule</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tryne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kjeft</t>
+            <t pos="N">trut</t>
          </tg>
       </mg>
    </e>

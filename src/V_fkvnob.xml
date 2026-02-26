@@ -28730,4 +28730,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" t_type="Phrase">pittäät turpansa kiini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">holde kjeft</t>
+            <xg>
+               <x>Hän pittäät turpansa kiini.</x>
+               <xt>Han holder kjeft.</xt>
+            </xg>
+            <xg>
+               <x>Turpa kiini!</x>
+               <xt>Hold kjeft!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
