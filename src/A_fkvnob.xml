@@ -10318,6 +10318,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">tummaihoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkhudet</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta">
       <lg>
          <l pos="A">tunnettu</l>
@@ -24190,6 +24200,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">trygghetsgivende</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">tummasilmäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkøyd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">tummahyksinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">mørkhåret</t>
          </tg>
       </mg>
    </e>
