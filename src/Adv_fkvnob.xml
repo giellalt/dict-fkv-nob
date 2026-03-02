@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere ut</t>
+            <t pos="Adv">lengre ut</t>
          </tg>
       </mg>
    </e>
@@ -1328,7 +1328,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere ned</t>
+            <t pos="Adv">lengre ned</t>
          </tg>
       </mg>
    </e>
@@ -1611,8 +1611,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lenger</t>
             <xg>
-               <x>ei ennää</x>
-               <xt>ikke lenger</xt>
+            <x>Mie en jaksa ennää.</x>
+            <xt>Jeg orker ikke lenger.</xt>
             </xg>
          </tg>
       </mg>
@@ -3099,7 +3099,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bort</t>
+            <t pos="Adv">lengre bort</t>
          </tg>
       </mg>
    </e>
@@ -3109,7 +3109,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere borte</t>
+            <t pos="Adv">lengre borte</t>
          </tg>
       </mg>
    </e>
@@ -3119,7 +3119,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bortefra</t>
+            <t pos="Adv">lengre bortefra</t>
          </tg>
       </mg>
    </e>
@@ -3130,7 +3130,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
 	         <re>om tid</re>
-            <t pos="Adv">lengere</t>
+            <t pos="Adv">lenger</t>
          </tg>
       </mg>
    </e>
@@ -6400,10 +6400,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bort</t>
+            <t pos="Adv">lengre bort</t>
             <xg>
             <x>sikemäksi pohjaisheen</x>
-            <xt>lengere mot nord</xt>
+            <xt>lengre mot nord</xt>
             </xg>
          </tg>
       </mg>
@@ -7287,7 +7287,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bort</t>
+            <t pos="Adv">lengre bort</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l pos="Adv">tuokemppaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">lengre bortefra</t>
          </tg>
       </mg>
    </e>
@@ -7297,7 +7307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere borte</t>
+            <t pos="Adv">lengre borte</t>
          </tg>
       </mg>
    </e>
@@ -7665,7 +7675,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere ut</t>
+            <t pos="Adv">lengre ut</t>
          </tg>
       </mg>
    </e>
@@ -9770,7 +9780,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere borte</t>
+            <t pos="Adv">lengre borte</t>
          </tg>
       </mg>
    </e>
@@ -11161,7 +11171,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bort</t>
+            <t pos="Adv">lengre bort</t>
          </tg>
       </mg>
    </e>
@@ -11171,7 +11181,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">lengere bort</t>
+            <t pos="Adv">lengre bort</t>
          </tg>
       </mg>
    </e>
@@ -14137,6 +14147,98 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">utenlands</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tännepäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hitover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tännekäsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">hitover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sinnepäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ditover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sinnekäsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">ditover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuonepäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>bortover dit</re>
+            <t pos="Adv">ditover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tuonekäsin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>bortover dit</re>
+            <t pos="Adv">ditover</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sieläpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">der omkring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">sieltäpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">derfra et sted</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">tääläpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">her omkring</t>
          </tg>
       </mg>
    </e>
