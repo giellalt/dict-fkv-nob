@@ -14804,6 +14804,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">auringonratas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">solhjul</t>
+         </tg>
+      </mg>
+   </e>
    <e src="mk">
       <lg>
          <l pos="N">asuransi</l>
@@ -120298,6 +120308,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">travhest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">pesoastii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">vaskekar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">biilinlyhty</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">billykt</t>
          </tg>
       </mg>
    </e>
