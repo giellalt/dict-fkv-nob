@@ -118540,14 +118540,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">stode</t>
-            <t pos="N">stilling</t>
+            <t pos="N">sak</t>
+            <t t_type="Phrase">sakens tilstand</t>
          </tg>
       </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">asianlaita</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>det egentlige, sanne forholdet</re>
             <t pos="N">sak</t>
+            <t t_type="Phrase">sakens tilstand</t>
          </tg>
       </mg>
    </e>
