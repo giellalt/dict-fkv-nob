@@ -5500,7 +5500,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">handle</t>
              <t t_type="Phrase">drive handel</t>
-               <xg>
+            <xg>
                <x>Da jeg var ferdig med å handle var ranselen full.</x>
                <xt>Ko mie olin valmis kauppaamasta niin minun ransseli oli täynä.</xt>
             </xg>
@@ -5509,7 +5509,7 @@ For the full license text, see the link above.</lic>
             <mg>
          <tg xml:lang="nob">
             <t pos="V">selge</t>
-                <xg>
+            <xg>
                <x>Mennene dro til torget for å selge fisk.</x>
                <xt>Miehet menthiin torile kauppaamhaan kalloi.</xt>
             </xg>
@@ -5518,7 +5518,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">drive forretning</t>
-                <xg>
+            <xg>
                <x>Det var fint å gjøre foretninger med deg.</x>
                <xt>Se oli hyvä tehđä kauppaamahommat sinun kans.</xt>
             </xg>
@@ -18855,7 +18855,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">toimiit</l>
       </lg>
@@ -18863,6 +18863,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">virke</t>
             <t pos="V">fungere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">handle</t>
+            <t pos="V">agere</t>
          </tg>
       </mg>
    </e>
