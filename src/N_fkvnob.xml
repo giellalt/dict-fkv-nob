@@ -59963,13 +59963,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ta;ki">
       <lg>
          <l pos="N">rikka</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">ugress</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avfall</t>
          </tg>
       </mg>
    </e>
@@ -83423,7 +83428,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">jätös</l>
       </lg>
@@ -83431,6 +83436,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>f.eks matrest</re>
             <t pos="N">rest</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">avfall</t>
          </tg>
       </mg>
    </e>
@@ -90224,11 +90234,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">ruokarästit</l>
+         <l pos="N">ruokarästi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">matrester</t>
+            <t pos="N">matrest</t>
          </tg>
       </mg>
    </e>
@@ -120333,6 +120343,37 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">billykt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">ruovanjätös</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matavfall</t>
+            <t pos="N">matrest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">ruokarikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matavfall</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l pos="N">rästirikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">matavfall</t>
          </tg>
       </mg>
    </e>
