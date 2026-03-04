@@ -68311,6 +68311,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">murstein</t>
+            <t pos="N">teglstein</t>
          </tg>
       </mg>
    </e>
@@ -120395,6 +120396,27 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">avfallshaug</t>
             <t pos="N">bosshaug</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">harakanvarvas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om skrift</re>
+            <t pos="N">kråketå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">tiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tegl</t>
          </tg>
       </mg>
    </e>
