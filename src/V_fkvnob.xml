@@ -7320,6 +7320,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>påføre slitasje, gjøre slitt</re>
             <t pos="V">slite</t>
+            <t pos="V">tære</t>
          </tg>
       </mg>
       <mg>
@@ -28785,6 +28786,42 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">forgylle</t>
             <t pos="V">gylle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">kalvaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gnage</t>
+            <t pos="V">nage</t>
+            <t pos="V">tære</t>
+            <xg>
+               <x>Ajatus kalvaa hänen mieltä.</x>
+               <xt>Tanken tærer på ham.</xt>
+            </xg>
+            <xg>
+               <x>Kenkä kalvaa jalkkaa.</x>
+               <xt>Skoen gnager på foten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">kalvaila</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">gnage</t>
+            <t pos="V">nage</t>
+            <t pos="V">tære</t>
+            <xg>
+               <x>Hän tunsi ette nälkä kalvailee vattassa.</x>
+               <xt>Han kjente sulten gnage i magen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
