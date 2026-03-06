@@ -15070,6 +15070,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">bli</t>
             <t t_type="Phrase">bli værende</t>
          </tg>
       </mg>
@@ -18572,7 +18573,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l context="mie" pos="V">tehđä</l>
       </lg>
@@ -18581,8 +18582,30 @@ For the full license text, see the link above.</lic>
             <t pos="V">gjøre</t>
             <t pos="V">lage</t>
             <xg>
+               <x>Tekisitkö sen minun puolesta?</x>
+               <xt>Kan du gjøre det for meg?</xt>
+            </xg>
+            <xg>
+               <x>Se tekkee kippeetä.</x>
+               <xt>Det gjør vondt.</xt>
+            </xg>
+            <xg>
                <x>tehđä plaanaa</x>
                <xt>planlegge</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bli</t>
+            <t pos="V">koste</t>
+            <xg>
+               <x>Yksi ja kaksi tekkee kolme.</x>
+               <xt>En pluss to blir tre.</xt>
+            </xg>
+            <xg>
+               <x>"Se tekkee 100 kruunuu, kiitos." sanoi kassatyöteliijä.</x>
+               <xt>"Det blir 100 kroner, takk.", sa kassebetjenten.</xt>
             </xg>
          </tg>
       </mg>

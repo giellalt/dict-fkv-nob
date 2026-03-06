@@ -114128,6 +114128,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">baktaler</t>
+            <t pos="N">baksnakker</t>
+            <t pos="N">bakvasker</t>
          </tg>
       </mg>
    </e>
@@ -120417,6 +120419,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tegl</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">parjaaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedrakking</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">baksnakking</t>
+            <t pos="N">baktaling</t>
+            <t pos="N">bakvasking</t>
+            <t pos="N">bakvaskelse</t>
          </tg>
       </mg>
    </e>
