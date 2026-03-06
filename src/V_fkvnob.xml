@@ -28849,7 +28849,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>   <e src="anb">
+   <e src="anb">
       <lg>
          <l context="mie" pos="V">sanela</l>
       </lg>
@@ -28859,4 +28859,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+</r>   
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">ryhtyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">begynne</t>
+            <t t_type="Phrase">ta fatt på</t>
+            <xg>
+               <x>Nyt oon aika ryhtyyt töihin.</x>
+               <xt>Nå er det til å ta fatt på arbeidet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>   
 
