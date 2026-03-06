@@ -25204,7 +25204,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>om bevegelse, bevege seg meg sterk fart</re>
+            <t pos="V">storme</t>
             <t pos="V">ruse</t>
          </tg>
       </mg>
@@ -28920,6 +28920,39 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Heitä nyt parjaamasta häntä minun kuulten.</x>
                <xt>Slutt nå å baksnakke henne foran meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">rienttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ile</t>
+            <t pos="V">fare</t>
+            <xg>
+               <x>Het rienethiin aphuun.</x>
+               <xt>De ilte til unnstetning.</xt>
+            </xg>
+          <xg>
+	          <x>Tammukka riensi ylösjokkee.</x>
+		       <xt>Ørreten for oppover elva.</xt>
+		    </xg>
+            <xg>
+               <x>Hänen ajatukset rienethiin muuvale.</x>
+               <xt>Tankene hans for av sted.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>billedlig om tid</re>
+            <t pos="V">fly</t>
+            <xg>
+               <x>Aika rienttää.</x>
+               <xt>Tiden flyr.</xt>
             </xg>
          </tg>
       </mg>
