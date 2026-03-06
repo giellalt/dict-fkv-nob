@@ -28859,7 +28859,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-</r>   
    <e src="anb">
       <lg>
          <l context="mie" pos="V">ryhtyyt</l>
@@ -28871,6 +28870,33 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Nyt oon aika ryhtyyt töihin.</x>
                <xt>Nå er det til å ta fatt på arbeidet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">parjata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">rakke ned på</t>
+            <t t_type="Phrase">snakke stygt om</t>
+            <t t_type="Phrase">kritisere kraftig</t>
+            <xg>
+               <x>Het aina vain parjaavat meitä, niin ko met olisimma alaihmiset.</x>
+               <xt>De rakker alltid ned på oss, som om vi var undermennesker.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">baksnakke</t>
+            <t pos="V">baktale</t>
+            <t pos="V">bakvaske</t>
+            <xg>
+               <x>Heitä nyt parjaamasta häntä minun kuulten.</x>
+               <xt>Slutt nå å baksnakke henne foran meg.</xt>
             </xg>
          </tg>
       </mg>
