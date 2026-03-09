@@ -28798,10 +28798,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">grønnes</t>
-            <t pos="V">grønskes</t>
             <t t_type="Phrase">ha et grønnskjær</t>
             <t t_type="Phrase">være grønn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">grønnes</t>
+            <t pos="V">grønkes</t>
          </tg>
       </mg>
    </e>
@@ -29093,6 +29097,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kvitre</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">viherttyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">grønnes</t>
+            <t pos="V">grønkes</t>
          </tg>
       </mg>
    </e>
