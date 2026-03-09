@@ -28867,6 +28867,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">bli sterkere</t>
+            <t t_type="Phrase">styrke seg</t>
+            <t pos="V">styrkes</t>
          </tg>
       </mg>
    </e>
@@ -29081,6 +29083,16 @@ For the full license text, see the link above.</lic>
                <x>Oli hiljaista, niin ääni kanttaantui kauvas.</x>
                <xt>Det var stille, så lyden bar langt.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">viserellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kvitre</t>
          </tg>
       </mg>
    </e>
