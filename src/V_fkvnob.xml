@@ -7453,7 +7453,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>helst i konkret betydning</re>
+            <t pos="V">følge</t>
             <t t_type="Phrase">følge etter</t>
+            <t t_type="Phrase">følge opp</t>
+            <xg>
+               <x>Het kuoraavat jalanjälkkii.</x>
+               <xt>De følger fotsporene.</xt>
+            </xg>
+            <xg>
+               <x>Met häyđymä kuorata päätöksiitä.</x>
+               <xt>Vi må følge opp vedtektene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7754,9 +7764,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">adlyde</t>
-            <t t_type="Phrase">høre på</t>
             <t pos="V">lytte</t>
+            <t t_type="Phrase">høre på</t>
+            <xg>
+               <x>Mie kuuntelen sinnuu.</x>
+               <xt>Jeg lytter til deg.</xt>
+            </xg>
+            <xg>
+               <x>Mie kuuntelen musikkii.</x>
+               <xt>Jeg hører på musikk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">adlyde</t>
+            <xg>
+               <x>Kuuntele sinun äittii!</x>
+               <xt>Adlyd moren din!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19023,6 +19049,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">adlyde</t>
+            <t pos="V">lyde</t>
+            <xg>
+               <x>Hän tottelee ittensä vanhiimiita.</x>
+               <xt>Han adlyder foreldrene sine.</xt>
+            </xg>
+            <xg>
+               <x>Hän totteli vastustamatta.</x>
+               <xt>Han adlød uten å protestere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23966,8 +24001,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>f.eks regler</re>
+            <re>f.eks regler, ordre</re>
             <t pos="V">følge</t>
+            <t pos="V">adlyde</t>
+            <xg>
+               <x>Hän nouđatti käskyy.</x>
+               <xt>Han adlød ordren.</xt>
+            </xg>
+            <xg>
+               <x>Mie nouđatin sinun neuvoo.</x>
+               <xt>Jeg følgte rådet ditt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
