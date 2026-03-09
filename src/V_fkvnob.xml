@@ -1968,6 +1968,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">rekke</t>
+            <t pos="V">nå</t>
          </tg>
       </mg>
    </e>
@@ -7701,9 +7702,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">høres</t>
+            <t pos="V">lyde</t>
             <xg>
                <x>Kuulostaa hyvältä.</x>
                <xt>Det høres bra ut.</xt>
+            </xg>
+            <xg>
+            <x>Se väitet kuulostaa eriskummaliselta.</x>
+            <xt>Den påstanden lyder merkelig.</xt>
             </xg>
          </tg>
       </mg>
@@ -29017,6 +29023,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">bli rik</t>
             <t t_type="Phrase">bli velstående</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">kanttaanttuut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bære</t>
+            <t t_type="Phrase">kunne høres</t>
+            <xg>
+               <x>Merilaivoin ääni kanttaantui maale saakka.</x>
+               <xt>Lyden fra skipene kunne høres helt inn til land.</xt>
+            </xg>
+            <xg>
+               <x>Oli hiljaista, niin ääni kanttaantui kauvas.</x>
+               <xt>Det var stille, så lyden bar langt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
