@@ -21799,7 +21799,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;es">
       <lg>
          <l context="mie" pos="V">ääryttäät</l>
       </lg>
@@ -22042,17 +22042,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">grine</t>
             <t t_type="Phrase">gjøre grimaser</t>
             <t t_type="Phrase">skjære ansikt</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l context="mie" pos="V">ääryttäät</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">irritere</t>
-            <t pos="V">terge</t>
          </tg>
       </mg>
    </e>
