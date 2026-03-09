@@ -25341,6 +25341,38 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">tyventtyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om vær og vind</re>
+            <t pos="V">stilne</t>
+            <t pos="V">løye</t>
+            <t t_type="Phrase">legge seg</t>
+            <xg>
+               <x>Meri tyventyi illala.</x>
+               <xt>Havet la seg på kvelden.</xt>
+            </xg>
+            <xg>
+               <x>Tuuli tyventyi.</x>
+               <xt>Vinden løyet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om tilstand</re>
+            <t t_type="Phrase">roe seg</t>
+            <t t_type="Phrase">falle til ro</t>
+            <xg>
+               <x>Mie tulen ko kaikki tyventtyy.</x>
+               <xt>Jeg kommer når alt har roet seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l context="mie" pos="V">tyđyttäät</l>
