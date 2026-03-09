@@ -90,7 +90,7 @@
 <!ELEMENT tg ( re? | t | syng? | xg? )* >
 <!ATTLIST tg comment CDATA #IMPLIED >
 <!ATTLIST tg re CDATA #IMPLIED >
-<!ATTLIST tg xml:lang ( nob ) #IMPLIED >
+<!ATTLIST tg xml:lang ( nob ) #REQUIRED >
 <!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
