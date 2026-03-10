@@ -1938,7 +1938,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;anb">
       <lg>
          <l context="mie" pos="V">elättäät</l>
       </lg>
@@ -1948,6 +1948,7 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">holde liv i</t>
             <t pos="V">livberge</t>
             <t pos="V">forsørge</t>
+            <t pos="V">underholde</t>
          </tg>
       </mg>
    </e>
@@ -1958,6 +1959,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">spå</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
+         <l context="mie" pos="V">viihđyttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">underholde</t>
          </tg>
       </mg>
    </e>
