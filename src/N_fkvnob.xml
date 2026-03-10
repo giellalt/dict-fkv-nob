@@ -52916,6 +52916,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">akterstavn</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sannhetsgehalt</t>
+            <t pos="N">hold</t>
+            <xg>
+               <x>En tieđä, oonko siinä väittheessä perrää.</x>
+               <xt>Jeg vet ikke om det hold i den påstanden.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta">
       <lg>
@@ -54142,11 +54152,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bruk</t>
+            <t pos="N">forbruk</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">forbruk</t>
+            <t pos="N">hold</t>
          </tg>
       </mg>
    </e>
@@ -58022,6 +58033,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">akterstavn</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sannhetsgehalt</t>
+            <t pos="N">hold</t>
+            <xg>
+               <x>En tieđä, oonko siinä väittheessä pörrää.</x>
+               <xt>Jeg vet ikke om det hold i den påstanden.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
