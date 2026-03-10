@@ -17841,12 +17841,18 @@ For the full license text, see the link above.</lic>
             <t pos="V">rette</t>
             <t t_type="Phrase">ta sikte på</t>
             <t t_type="Phrase">legge kursen til</t>
+            <t pos="V">dra</t>
          </tg>
       </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">kohđistaat</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">dra</t>
-            <t t_type="Phrase">legge kursen til</t>
+            <t pos="V">rette</t>
+            <t pos="V">målrette</t>
          </tg>
       </mg>
    </e>
