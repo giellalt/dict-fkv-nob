@@ -29056,6 +29056,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t t_type="Phrase">ha et blått skjær</t>
+            <t t_type="Phrase">være blå</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">blåne</t>
          </tg>
       </mg>
@@ -29118,6 +29124,22 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">blinde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">punerttaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">ha et rødskjær</t>
+            <t t_type="Phrase">være rød</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">rødne</t>
          </tg>
       </mg>
    </e>
