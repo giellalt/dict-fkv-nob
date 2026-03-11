@@ -399,7 +399,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ks;ki">
       <lg>
          <l context="mie" pos="V">johtaat</l>
       </lg>
@@ -407,6 +407,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">lede</t>
             <t pos="V">lede til</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">styre</t>
          </tg>
       </mg>
    </e>
@@ -10309,7 +10314,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
          <l context="mie" pos="V">malttaat</l>
          <stem>malta</stem>
@@ -10318,6 +10323,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">ha tålmodighet</t>
             <t t_type="Phrase">besinne seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">klare la være</t>
          </tg>
       </mg>
    </e>
@@ -11875,7 +11885,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l context="mie" pos="V">ohjata</l>
          <stem>ohjaa</stem>
@@ -11890,6 +11900,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">styre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">regissere</t>
          </tg>
       </mg>
    </e>
@@ -19088,7 +19103,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">touhuut</l>
       </lg>
@@ -19097,6 +19112,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">kave</t>
             <t pos="V">ståke</t>
             <t t_type="Phrase">drive med noe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">drive med noe</t>
+            <t t_type="Phrase">styre på med noe</t>
          </tg>
       </mg>
    </e>
