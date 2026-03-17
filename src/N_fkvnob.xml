@@ -43650,15 +43650,45 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;yr">
+   <e src="ta;ai;yr;ki">
       <lg>
          <l pos="N">maa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jord</t>
-            <t pos="N">land</t>
             <t pos="N">eiendom</t>
+            <xg>
+               <x>Het ei saathiin omistaat maata.</x>
+               <xt>De fikk ikke eie jord.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">land</t>
+            <xg>
+            <x>Finland er et vakkert land.</x>
+            <xt>Suomi oon kaunis maa.</xt>
+            </xg>
+            <xg>
+            <x>De eier mange landområder.</x>
+            <xt>Het omistaavat paljon maa-alloi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mark</t>
+            <t pos="N">bakke</t>
+            <xg>
+            <x>Maassa oon vielä kirttä.</x>
+            <xt>Det er fortsatt tele i marka.</xt>
+            </xg>
+            <xg>
+            <x>Met isuima maahan.</x>
+            <xt>Vi satt oss på bakken.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -46541,6 +46571,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">mold</t>
+            <t pos="N">jord</t>
          </tg>
       </mg>
    </e>
@@ -49759,7 +49790,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">omaisuus</l>
          <stem>omaisuuđe</stem>
@@ -49767,14 +49798,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">eiendel</t>
             <t pos="N">eiendom</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-         <re>også om jord</re>
             <t pos="N">formue</t>
-            <t pos="N">eiendom</t>
          </tg>
       </mg>
    </e>
@@ -120490,6 +120520,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">luftstrøm</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">oikkeusoorninki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rettsorden</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">omistusoikkeus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">eiendomsrett</t>
          </tg>
       </mg>
    </e>
