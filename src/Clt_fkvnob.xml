@@ -28,13 +28,53 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="Clt">-ki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">også</t>
+            <xg>
+            <x>Mieki halluun myötä!</x>
+            <xt>Jeg vil også være med!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">enda</t>
+            <t pos="Adv">til og med</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Clt">-khään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ved nekting</re>
+            <t pos="Adv">heller</t>
+            <xg>
+               <x>Mie en halluu sitä. - En miekhään.</x>
+               <xt>Jeg vil ikke ha den. - Ikke jeg heller.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Clt">-khaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>ved nekting</re>
+            <t pos="Adv">heller</t>
+            <xg>
+               <x>Mulla ei ole ruokkaa myötä. - Ei minulakhaan.</x>
+               <xt>Jeg har ikke mat meg meg. - Ikke jeg heller.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

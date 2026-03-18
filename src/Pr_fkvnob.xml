@@ -44,11 +44,23 @@ For the full license text, see the link above.</lic>
             <x>Ajattele vähäsen ennen ko puhut.</x>
             <xt>Tenk deg litt om før du sier noe.</xt>
             </xg>
+            <xg>
+            <x>Het olthiin lähtenheet monta viikkoo ennen.</x>
+            <xt>De hadde dratt noen uker tidligere.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Pr">heller</t>
+            <t pos="Adv">heller</t>
+            <xg>
+               <x>Ennen mie kuolisin, ennen ko antaisin ylön.</x>
+               <xt>Jeg vil heller dø enn å gi opp.</xt>
+            </xg>
+            <xg>
+               <x>Hän olis ennen halunu jääđä tänne.</x>
+               <xt>Hun hadde heller hatt lyst til å bli igjen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
