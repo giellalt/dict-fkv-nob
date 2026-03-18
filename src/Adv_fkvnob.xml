@@ -2846,11 +2846,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">igjen</t>
          </tg>
       </mg>
-<!--      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">bli igjen</t>
-         </tg>
-      </mg> -->
    </e>
    <e src="ai">
       <lg>
@@ -2870,9 +2865,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">etter</t>
             <t pos="Adv">etterpå</t>
             <t pos="Adv">seinere</t>
-            <t pos="Adv">etter</t>
          </tg>
       </mg>
    </e>

@@ -182,16 +182,48 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="mk">
+   <e src="anb;es">
+      <lg>
+         <l pos="Po">jälkheen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Pr">ifølge</t>
+            <t pos="Pr">etter</t>
+            <xg>
+               <x>Het vaatitteevat ittensä muutin jälkheen.</x>
+               <xt>De kler seg etter moten.</xt>
+            </xg>
+            <xg>
+               <x>Lajin jälkheen se oon rangaistava.</x>
+               <xt>Det er straffbart ifølge loven.</xt>
+            </xg>
+            <xg>
+               <x>Het leppäävät juoksun jälkheen.</x>
+               <xt>De hviler seg etter løpet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="mk;es">
       <lg>
          <l pos="Po">jälkhiin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">ifølge</t>
+            <t pos="Pr">etter</t>
             <xg>
                <x>Assiintunttiijoitten jälkhiin se kannattaa ajatella miljöötä.</x>
                <xt>Ifølge ekspertene lønner det seg å tenke på miljøet.</xt>
+            </xg>
+            <xg>
+               <x>Lajin jälkhiin se oon rangaistava.</x>
+               <xt>Det er straffbart ifølge loven.</xt>
+            </xg>
+            <xg>
+               <x>Mie siiryin tänne eron jälkhiin.</x>
+               <xt>Jeg flyttet hit etter bruddet.</xt>
             </xg>
          </tg>
       </mg>
