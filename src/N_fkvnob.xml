@@ -5155,12 +5155,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks">
+   <e src="ki;ks">
       <lg>
          <l pos="N">tervheyđenhoittaaja</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">helsesykepleier</t>
             <t pos="N">helsesøster</t>
          </tg>
       </mg>
@@ -5168,6 +5169,16 @@ For the full license text, see the link above.</lic>
    <e src="ks">
       <lg>
          <l pos="N">tierauskaveri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lekekamerat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tieraamakaveri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -120570,6 +120581,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">ung mann</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">tieraamabiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lekebil</t>
          </tg>
       </mg>
    </e>

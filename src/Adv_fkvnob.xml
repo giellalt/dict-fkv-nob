@@ -14094,7 +14094,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">med åpne armer</t>
          <xg>
-            <x>Hän otti minun vasthaan aukkein mielin.</x>
+            <x>Hän otti minun vasthaan aukkein sylin.</x>
             <xt>Han tok meg i mot med åpne armer.</xt>
          </xg>
          </tg>
@@ -14221,6 +14221,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">her omkring</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">maisin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">landverts</t>
+            <t pos="Adv">over land</t>
+            <xg>
+               <x>Met reissaama maisin Norjasta Eesthiin.</x>
+               <xt>Vi reiser landverts fra Norge til Estland.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
