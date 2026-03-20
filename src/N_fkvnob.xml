@@ -37327,11 +37327,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forbruk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
             <t pos="N">konsum</t>
+            <t pos="N">tæring</t>
          </tg>
       </mg>
       <mg>
@@ -120717,6 +120714,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">viljestyrke</t>
             <t pos="N">viljekraft</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">täärinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tæring</t>
          </tg>
       </mg>
    </e>
