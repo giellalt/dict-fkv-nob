@@ -5865,7 +5865,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="rh">
       <lg>
-         <l pos="N">laakinjohtaajan penkki</l>
+         <l pos="N">laakinjohtaajan penkki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78348,7 +78348,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kieliväkkeevyys</l>
+         <l pos="N">kieliväkkeevyys</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78408,7 +78408,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">kynstnäri</l>
+         <l pos="N">kynstnäri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78428,7 +78428,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">taiđettyö</l>
+         <l pos="N">taiđettyö</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78438,7 +78438,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">taiđetnäyttely</l>
+         <l pos="N">taiđetnäyttely</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78478,7 +78478,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">vastoinkäyminen</l>
+         <l pos="N">vastoinkäyminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78498,7 +78498,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">työmetoodi</l>
+         <l pos="N">työmetoodi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78773,7 +78773,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">täystuki</l>
+         <l pos="N">täystuki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78803,7 +78803,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">puunakylä</l>
+         <l pos="N">puunakylä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78813,7 +78813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">puunaväki</l>
+         <l pos="N">puunaväki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78833,7 +78833,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">ittesthäänselvyys</l>
+         <l pos="N">ittesthäänselvyys</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78959,7 +78959,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">postinkäyminen</l>
+         <l pos="N">postinkäyminen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -78979,7 +78979,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="N">misuunityö</l>
+         <l pos="N">misuunityö</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -111466,7 +111466,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">redaksjonskomité</t>
+            <t pos="N">redaksjonskomité</t>
          </tg>
       </mg>
    </e>
@@ -111476,7 +111476,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">redaksjonskomité</t>
+            <t pos="N">redaksjonskomité</t>
          </tg>
       </mg>
    </e>
@@ -120699,13 +120699,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;es">
       <lg>
          <l pos="N">varipata</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jerngryte</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">tahtovoima</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">viljestyrke</t>
+            <t pos="N">viljekraft</t>
          </tg>
       </mg>
    </e>
