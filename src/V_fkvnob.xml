@@ -18167,7 +18167,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;mj;es">
+   <e src="ta;ai;mj;es;anb">
       <lg>
          <l context="mie" pos="V">tahtoot</l>
          <stem>tahđo</stem>
@@ -18176,11 +18176,71 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">ville</t>
             <t pos="V">ønske</t>
+            <xg>
+               <x>Tahđotko tämän miehen sinun aviokumppaniksi?</x>
+               <xt>Vil du ha denne mannen til din ektefelle?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">invitere</t>
+            <t pos="V">be</t>
+            <xg>
+               <x>Hän tahtoi minun tanssaamhaan.</x>
+               <xt>Hun bød meg opp til dans.</xt>
+            </xg>
+            <xg>
+               <x>Hän tahtoi minunki myötä.</x>
+               <xt>Han inviterte meg også med.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">bruke</t>
+            <t t_type="Phrase">ha en tendens til</t>
+            <xg>
+               <x>Het tahđothiin ylönkattela minnuu kouluaikoina.</x>
+               <xt>De brukte å se ned på meg på skolen.</xt>
+            </xg>
+            <xg>
+               <x>Kippeenä tahtoo olla huono ruvanhalu.</x>
+               <xt>Man har gjerne dårlig matlyst når man er syk.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">nesten så</t>
+            <t t_type="Phrase">være nær ved å</t>
+            <xg>
+               <x>Itku tahtoi tulla ko hän ajatteli äijivainajaa.</x>
+               <xt>Han ble nesten på gråten da han tenkte på hans avdøde bestefar.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om noe ikke vil la seg gjøre</re>
+            <t t_type="Phrase">ville ikke</t>
+            <t t_type="Phrase">går ikke</t>
+            <xg>
+               <x>Velli ei tahđo kiehuut.</x>
+               <xt>Suppa vil ikke koke.</xt>
+            </xg>
+            <xg>
+               <x>Mie veđän ovesta, mutta se ei tahđo aueta.</x>
+               <xt>Jeg drar i døra, men den vil ikke opp.</xt>
+            </xg>
+            <xg>
+               <x>Han halus toimiit oikhein, mutta se ei aina tahtonu onnisuut häneltä.</x>
+               <xt>Han ville gjøre det rette, men ville seg ikke alltid for ham.</xt>
+            </xg>
+            <xg>
+               <x>Kippeenä ruoka ei tahđo maistuut.</x>
+               <xt>Når man er syk smaker ikke maten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26365,7 +26425,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l context="mie" pos="V">vähenttyyt</l>
+         <l context="mie" pos="V">vähenttyyt</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
