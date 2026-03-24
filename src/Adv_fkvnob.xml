@@ -142,7 +142,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i stor grad</t>
+            <t t_type="Phrase">i stor grad</t>
          </tg>
       </mg>
    </e>
@@ -11653,7 +11653,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">i stor grad</t>
+            <t t_type="Phrase">i stor grad</t>
          </tg>
       </mg>
    </e>
@@ -13007,7 +13007,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">hovedsakelig</t>
-            <t pos="Adv">i stor grad</t>
+            <t t_type="Phrase">i stor grad</t>
          </tg>
       </mg>
    </e>
@@ -13287,14 +13287,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki;anb">
       <lg>
          <l pos="Adv">suuresti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">mye</t>
+            <t pos="Adv">meget</t>
             <t pos="Adv">veldig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">storlig</t>
+            <t t_type="Phrase">i høy grad</t>
          </tg>
       </mg>
    </e>
