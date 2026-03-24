@@ -1977,21 +1977,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">ja niin eđespäin</l>
+         <l t_type="Phrase">ja niin eđespäin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">og så videre</t>
+            <t t_type="Phrase">og så videre</t>
          </tg>
       </mg>
    </e>
    <e src="es">
       <lg>
-         <l pos="Adv">ja niin poispäin</l>
+         <l t_type="Phrase">ja niin poispäin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Adv">og så videre</t>
+            <t t_type="Phrase">og så videre</t>
          </tg>
       </mg>
    </e>
@@ -5559,11 +5559,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">bort</t>
             <t pos="Adv">bortover</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Adv">og så videre</t>
          </tg>
       </mg>
    </e>
