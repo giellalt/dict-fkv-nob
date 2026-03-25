@@ -36931,6 +36931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">blomst</t>
             <t t_type="Phrase">liten blomst</t>
          </tg>
       </mg>
@@ -84959,6 +84960,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">blomst</t>
+            <t t_type="Phrase">liten blomst</t>
          </tg>
       </mg>
    </e>
@@ -120942,6 +120944,46 @@ For the full license text, see the link above.</lic>
             <t pos="N">omfavnelse</t>
             <t pos="N">omfavning</t>
             <t pos="N">favntak</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kukanvarsi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">blomsterstilk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kesätuuli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sommervind</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">suurvaltasota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">stormaktskrig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">suurteko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storverk</t>
          </tg>
       </mg>
    </e>
