@@ -43029,7 +43029,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">mageinnhold hos sau</t>
+            <t t_type="Phrase">mageinnhold hos sau</t>
          </tg>
       </mg>
    </e>
@@ -111049,8 +111049,37 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>alt levende på jorda</re>
             <t pos="N">skaperverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">luomatyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skapelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">luomistyö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skapelse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">luominen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skapelse</t>
          </tg>
       </mg>
    </e>
@@ -120830,6 +120859,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">undermenneske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">syönti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spising</t>
          </tg>
       </mg>
    </e>
