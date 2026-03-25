@@ -16486,7 +16486,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l context="mie" pos="V">räpytellä</l>
          <stem>räpyttele</stem>
@@ -16496,9 +16496,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">blinke</t>
             <t pos="V">blunke</t>
+            <t pos="V">tindre</t>
+            <t pos="V">funkle</t>
             <xg>
                <x>Tähđet räpyttelleevät taivhaala.</x>
-               <xt>Stjernene blunker på himmelen.</xt>
+               <xt>Stjernene tindrer og funkler på himmelen.</xt>
             </xg>
          </tg>
       </mg>
@@ -16516,6 +16518,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">blinke</t>
             <t pos="V">blunke</t>
+            <xg>
+               <x>Ensin hän räpsytteli minule ja sitten hän viristi.</x>
+               <xt>Først blunket han til meg, og så gliste han.</xt>
+            </xg>
             <xg>
                <x>Tähđet räpsyttelleevät taivhaala.</x>
                <xt>Stjernene blinker på himmelen.</xt>
