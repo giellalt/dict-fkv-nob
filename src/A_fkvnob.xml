@@ -1529,6 +1529,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">urein</t>
             <t pos="A">skitten</t>
+            <t pos="A">tilsølt</t>
             <syng>
                <syn>lokainen</syn>
             </syng>
@@ -6109,13 +6110,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="A">likainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">skitten</t>
+            <t pos="A">tilsølt</t>
          </tg>
       </mg>
    </e>
@@ -6225,6 +6227,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">urein</t>
             <t pos="A">skitten</t>
+            <t pos="A">tilsølt</t>
             <syng>
                <syn>lokanen</syn>
             </syng>
@@ -9131,9 +9134,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">skitten</t>
             <t pos="A">snusket</t>
-            <t pos="A">grisete</t>
+            <t pos="A">rotete</t>
             <t pos="A">sølete</t>
             <t pos="A">møkkete</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forusenset</t>
          </tg>
       </mg>
    </e>
