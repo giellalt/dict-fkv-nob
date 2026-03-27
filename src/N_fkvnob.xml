@@ -32152,6 +32152,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">kokefisk</t>
             <t pos="N">kokfisk</t>
          </tg>
       </mg>
@@ -120976,6 +120977,56 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">storverk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">suurpolitikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storpolitikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">välipäivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mellomdag</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">suursota</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">storkrig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">meriväylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sjølei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">luomakausi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">skapende periode</t>
          </tg>
       </mg>
    </e>
