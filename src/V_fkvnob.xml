@@ -2509,12 +2509,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">spre</t>
+            <t pos="V">splitte</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">oppløse</t>
-            <t pos="V">splitte</t>
          </tg>
       </mg>
       <mg>
@@ -2605,13 +2605,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">halkaista</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">kløyve</t>
+            <t pos="V">splitte</t>
             <t t_type="Phrase">dele i to</t>
             <t t_type="Phrase">dele på langs</t>
          </tg>
@@ -9009,7 +9010,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta">
       <lg>
-         <l context="mie" pos="V">a ellä</l>
+         <l context="mie" pos="V">levitellä</l>
          <stem>levittele</stem>
          <stem>levitel</stem>
       </lg>
@@ -22331,6 +22332,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">spre</t>
+            <t pos="V">splitte</t>
          </tg>
       </mg>
       <mg>
