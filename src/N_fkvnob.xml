@@ -49205,11 +49205,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">hunger</t>
             <t pos="N">sult</t>
+            <t pos="N">hunger</t>
             <xg>
                <x>Minula oon nälkä.</x>
                <xt>Jeg er sulten.</xt>
+            </xg>
+            <xg>
+               <x>Folket lider av sult.</x>
+               <xt>Kansa kärssii nälkkää.</xt>
             </xg>
          </tg>
       </mg>
