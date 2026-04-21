@@ -16970,6 +16970,29 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">bli forvirret</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">blande seg inn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ta">
+      <lg>
+         <l context="mie" pos="V">sekkaanttuut</l>
+         <stem>sekkainu</stem>
+         <stem>sekkaintu</stem>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">blande sammen</t>
+            <t t_type="Phrase">bli forvirret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">blande seg inn</t>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -26226,13 +26249,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;anb">
       <lg>
          <l context="mie" pos="V">sekhaanttuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">bli blandet</t>
+            <t t_type="Phrase">blande seg</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">blande seg inn</t>
          </tg>
       </mg>
    </e>
