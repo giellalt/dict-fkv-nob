@@ -34484,18 +34484,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="es;ta">
       <lg>
          <l pos="N">knuppi</l>
          <stem>knupi</stem>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">knapp</t>
+            <t pos="N">knott</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">knopp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">topp</t>
-            <syng>
-               <syn>nuppi</syn>
-            </syng>
          </tg>
       </mg>
    </e>
@@ -48978,11 +48985,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">knapp</t>
+            <t pos="N">knott</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">knopp</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">topp</t>
-            <syng>
-               <syn>knuppi</syn>
-            </syng>
          </tg>
       </mg>
    </e>
