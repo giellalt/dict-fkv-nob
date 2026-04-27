@@ -43942,14 +43942,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;yr">
+   <e src="ai;yr;ki">
       <lg>
          <l pos="N">maanpruuki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jordbruk</t>
+            <t pos="N">gårdsbruk</t>
+            <t pos="N">landbruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">gård</t>
+            <t pos="N">gods</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai;yr;ki">
+      <lg>
+         <l pos="N">maapruuki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbruk</t>
+            <t pos="N">gårdsbruk</t>
+            <t pos="N">landbruk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gård</t>
+            <t pos="N">gods</t>
          </tg>
       </mg>
    </e>
@@ -43959,8 +43984,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">gods</t>
-            <t pos="N">gårdsbruk</t>
+            <t pos="N">landbrukskoloni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">maapruuki-ala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">landbrukskoloni</t>
          </tg>
       </mg>
@@ -43977,7 +44010,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="yr">
       <lg>
+         <l pos="N">maapruukikoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">landbruksskole</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
          <l pos="N">maanpruukirakenus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbruksanlegg</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="yr">
+      <lg>
+         <l pos="N">maapruukirakenus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -95926,6 +95979,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">polttomaapruuki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">svijordbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">kaskenpoltto</l>
       </lg>
       <mg>
@@ -98468,7 +98531,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">maapruukilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbruker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">maanpruukikulttuuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbrukskultur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maapruukikulttuuri</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -98908,6 +98991,17 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">pienmaanpruukilainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>jordbruk</re>
+            <t pos="N">småbruker</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">pienmaapruukilainen</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -99903,6 +99997,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">maanpruukikylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbruksbygd</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maapruukikylä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -105953,6 +106057,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">maapruukimaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">landbrukseiendom</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">investori</l>
       </lg>
       <mg>
@@ -108074,6 +108188,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">maapruukityö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gårdsarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">maanpruukimiljöö</l>
       </lg>
       <mg>
@@ -108084,7 +108208,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
+         <l pos="N">maapruukimiljöö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">jordbruksmiljø</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
          <l pos="N">maanpruukimaisema</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">gårdslandskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">maapruukimaisema</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -115585,6 +115729,16 @@ For the full license text, see the link above.</lic>
    <e src="ki">
       <lg>
          <l pos="N">kauppamaanpruuki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">handelsjordbruk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kauppamaapruuki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
