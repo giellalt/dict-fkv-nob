@@ -57482,13 +57482,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">pytinki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bygning</t>
+            <t pos="N">bygg</t>
+            <t pos="N">byggverk</t>
          </tg>
       </mg>
    </e>
@@ -58770,7 +58772,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;es">
+   <e src="ta;ai;es;ki">
       <lg>
          <l pos="N">rakenus</l>
          <stem>rakenukse</stem>
@@ -58778,6 +58780,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bygning</t>
+            <t pos="N">byggverk</t>
+            <t pos="N">bygg</t>
               <xg>
                <x>työtelä rakenuksila</x>
                <xt>jobbe som bygningsarbeider</xt>
