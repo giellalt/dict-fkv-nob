@@ -4621,13 +4621,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki;es">
       <lg>
          <l context="mie" pos="V">juovattaat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">følge etter</t>
+            <t t_type="Phrase">følge opp</t>
          </tg>
       </mg>
    </e>
@@ -7465,7 +7466,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V">kuorata</l>
       </lg>
