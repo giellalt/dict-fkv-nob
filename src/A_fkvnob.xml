@@ -8547,6 +8547,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">oppreist</t>
+            <t pos="A">opprett</t>
          </tg>
       </mg>
       <mg>
@@ -8567,6 +8568,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">oppreist</t>
+            <t pos="A">opprett</t>
          </tg>
       </mg>
       <mg>
@@ -21785,13 +21787,13 @@ For the full license text, see the link above.</lic>
          </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">rakrygget</t>
-            </tg>
+            <t pos="A">rank</t>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">som har hodet oppe</t>
-            </tg>
+         </tg>
       </mg>
    </e> 
               <e src="anb">
@@ -24407,6 +24409,18 @@ For the full license text, see the link above.</lic>
                <x>Ruoka teki hyvvää nälkäiselle ruumhiile.</x>
                <xt>Maten gjorde godt for en sulten kropp.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">suorasölkäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">rakrygget</t>
+            <t pos="A">rakrygga</t>
+            <t pos="A">rettrygget</t>
          </tg>
       </mg>
    </e>
