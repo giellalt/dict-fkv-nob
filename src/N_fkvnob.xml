@@ -44443,13 +44443,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="N">makkaukset</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">sengklær</t>
+            <t pos="N">sengeklær</t>
+            <t pos="N">sengetøy</t>
             <syng>
                <syn>sänkyvaattheet</syn>
             </syng>
@@ -66646,13 +66648,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N" nr="Pl">sänkyvaattheet</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">sengklær</t>
             <t pos="N">sengeklær</t>
+            <t pos="N">sengetøy</t>
          </tg>
       </mg>
    </e>
