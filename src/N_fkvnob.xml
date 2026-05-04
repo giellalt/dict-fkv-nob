@@ -77787,6 +77787,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">kunstner</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">bærer</t>
          </tg>
       </mg>
@@ -77808,16 +77813,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">utstilling</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ki">
-      <lg>
-         <l pos="N">kulttuurinmuisto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">kulturminne</t>
          </tg>
       </mg>
    </e>
@@ -113244,6 +113239,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kunstnerlønn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="N">kunstneri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">kunstner</t>
          </tg>
       </mg>
    </e>
