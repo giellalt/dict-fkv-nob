@@ -29057,7 +29057,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">dufte</t>
-            <t pos="V">ange</t>
             <t pos="V">lukte</t>
          </tg>
       </mg>
@@ -29572,6 +29571,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">omfavne</t>
             <t pos="V">favne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">suoliit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">sløye</t>
          </tg>
       </mg>
    </e>
