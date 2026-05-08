@@ -51028,18 +51028,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">lapp</t>
             <t pos="N">plass</t>
             <t pos="N">sted</t>
+            <xg>
+               <x>Mikä paikka tämä oon?</x>
+               <xt>Hva slags plass er dette?</xt>
+            </xg>
+            <xg>
+               <x>Kaikin oon paikala.</x>
+               <xt>Alle er til stede.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">sant</t>
-            <xg>
-               <x>Se ei piđä paikkaa.</x>
-               <xt>Det er ikke sant.</xt>
-            </xg>
+            <t pos="N">lapp</t>
          </tg>
       </mg>
    </e>

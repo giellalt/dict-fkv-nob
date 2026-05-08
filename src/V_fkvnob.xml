@@ -906,6 +906,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>eks. ved valg</re>
             <t pos="V">stemme</t>
+            <xg>
+               <x>Ketä äänestit vaalissa?</x>
+               <xt>Hvem stemte du på i valget?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14014,6 +14018,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Emmäkö saa pittäät kissanpenikkää?</x>
                <xt>Kan vi ikke få beholde kattungen?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>være sant, korrekt</re>
+            <t pos="V">stemme</t>
+            <xg>
+               <x>Tuo ei piđä paikkaa.</x>
+               <xt>Det der stemmer ikke.</xt>
             </xg>
          </tg>
       </mg>
