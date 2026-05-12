@@ -14261,4 +14261,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">miesmuisthiin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">i manns minne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">yhtä mennoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">med en gang</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="es">
+      <lg>
+         <l pos="Adv">moittheettomasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">uklanderlig</t>
+            <t pos="Adv">upåklagelig</t>
+         </tg>
+      </mg>
+   </e>
 </r>

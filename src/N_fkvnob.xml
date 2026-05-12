@@ -121408,4 +121408,99 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">sottiinvälinen vuosi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mellomkrigsår</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">sottiinvälinen aika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mellomkrigstid</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sormenpää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">fingerspiss</t>
+             <xg>
+               <x>Hän oon sormenpäihin saakka ammatillinen.</x>
+               <xt>Hun her profesjonell til fingerspissene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sotataktikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krigstaktikk</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sotaretki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">felttog</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">sotajumala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">krigsgud</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">aaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">arie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">moitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bebreidelse</t>
+            <t pos="N">klander</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">muistokuva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">minnebilde</t>
+         </tg>
+      </mg>
+   </e>
 </r>

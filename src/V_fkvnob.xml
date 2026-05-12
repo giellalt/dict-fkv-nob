@@ -15756,7 +15756,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="ai;es;ki">
       <lg>
          <l context="mie" pos="V">raattaat</l>
       </lg>
@@ -15764,6 +15764,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>arbeide hardt</re>
             <t pos="V">streve</t>
+            <t pos="V">sjaue</t>
             <t pos="V">slite</t>
          </tg>
       </mg>
@@ -16025,6 +16026,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">støye</t>
             <t pos="V">bråke</t>
+            <t pos="V">sjaue</t>
          </tg>
       </mg>
    </e>
@@ -29590,6 +29592,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">sløye</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">meluta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">støye</t>
+            <t pos="V">bråke</t>
          </tg>
       </mg>
    </e>
