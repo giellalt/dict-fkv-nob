@@ -4849,21 +4849,15 @@ For the full license text, see the link above.</lic>
                <x>Ja siihen se jäi.</x>
                <xt>Og han ble igjen der.</xt>
             </xg>
+            <xg>
+               <x>Tapattuma jäi mielheen.</x>
+               <xt>Hendelsen satte seg i minnet.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">forbli uferdig</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <re>jääđä mielheen</re>
-            <t pos="V">huske</t>
-            <xg>
-               <x>Mie halluun tyhä jääđä muitten mielheen.</x>
-               <xt>Jeg vil bare bli husket.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
