@@ -3779,7 +3779,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V" val="TV">hyöđyttäät</l>
       </lg>
@@ -3787,6 +3787,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">nytte</t>
             <t pos="V">gagne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">benytte</t>
          </tg>
       </mg>
    </e>
@@ -8221,13 +8226,22 @@ For the full license text, see the link above.</lic>
             <t pos="V">bruke</t>
             <t pos="V">anvende</t>
             <t pos="V">benytte</t>
-            <xg>
-               <x>käyttäät ittensä</x>
-               <xt>oppføre seg</xt>
+            <t pos="V">utnytte</t>
+             <xg>
+               <x>Hän halluu käyttäät sitä.</x>
+               <xt>Han vil bruke den.</xt>
             </xg>
             <xg>
-               <x>käyttäät hyväksi</x>
-               <xt>benytte seg av</xt>
+               <x>Käytä ittesti siivosti.</x>
+               <xt>Oppfør deg pent.</xt>
+            </xg>
+            <xg>
+               <x>Se oli hyvä tipsi, sitä saattaa käyttäät hyväksi hiljemin.</x>
+               <xt>Det var et godt tips, det kan man benytte seg av senere.</xt>
+            </xg>
+            <xg>
+               <x>Het käytethiin meitä hyväksi.</x>
+               <xt>De utnyttet oss.</xt>
             </xg>
          </tg>
       </mg>
@@ -13972,6 +13986,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">bruke</t>
+            <t pos="V">anvende</t>
+            <t pos="V">benytte</t>
             <xg>
                <x>Se kannattaa pittäät karttaa ja kompassii.</x>
                <xt>Det lønner seg å bruke kart og kompass.</xt>
