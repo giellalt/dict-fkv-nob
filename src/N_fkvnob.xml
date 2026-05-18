@@ -62568,6 +62568,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">teig</t>
             <t pos="N">vedteig</t>
          </tg>
       </mg>
@@ -121412,26 +121413,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l t_type="Phrase">sottiinvälinen vuosi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mellomkrigsår</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l t_type="Phrase">sottiinvälinen aika</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">mellomkrigstid</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
          <l pos="N">sormenpää</l>
       </lg>
       <mg>
@@ -121512,6 +121493,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">minnebilde</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">suolapijo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">en neve salt</t>
          </tg>
       </mg>
    </e>
