@@ -64005,13 +64005,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;anb">
       <lg>
-         <l pos="N">sisarukset</l>
+         <l pos="N">sisarus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">søsken</t>
+            <xg>
+               <x>Jeg har tre søsken.</x>
+               <xt>Minula oon kolme sisarusta.</xt>
+            </xg>
+            <xg>
+               <x>Vi er søsken.</x>
+               <xt>Met olema sisarukset.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
