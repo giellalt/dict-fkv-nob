@@ -26692,6 +26692,28 @@ For the full license text, see the link above.</lic>
             <t pos="V">hjelpe</t>
             <t pos="V">bistå</t>
             <t pos="V">støtte</t>
+			 <t pos="Phrase">være behjelpelig</t>
+			 	 <t pos="Phrase">yte hjelp</t>
+	             <xg>
+	                <x>Pluukabiili avusti kolonna-ajamisessa.</x>
+	                <xt>Brøytebilen hjalp til i kolonnekjøringen.</xt>
+	             </xg>
+	             <xg>
+	                <x>Mie avustan sinnuu tässä assiissa hyvilä neuvoila.</x>
+	                <xt>Jeg bistår deg i denne saken med gode råd.</xt>
+	             </xg>
+                 <xg>
+                <x>Faakiliitto avustaa työntekkiijöitä.</x>
+                <xt>Fagforeningen støtter arbeidstakerne.</xt>
+             </xg>
+                <xg>
+               <x>Se oon ilo avustaat kunteriita.</x>
+               <xt>Det er en glede å være behjelpelig for kundene.</xt>
+            </xg>
+            <xg>
+               <x>Se oon hoittajiitten työ avustaat potilhaita.</x>
+               <xt>Det er pleiernes jobb å yte hjelp til pasientene.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
