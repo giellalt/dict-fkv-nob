@@ -7823,7 +7823,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">støtte</t>
             <xg>
-               <x>Mie kuuron sinnuu.</x>
+               <x>Mie kuurttoon sinnuu.</x>
                <xt>Jeg støtter deg.</xt>
             </xg>
          </tg>
@@ -26692,8 +26692,8 @@ For the full license text, see the link above.</lic>
             <t pos="V">hjelpe</t>
             <t pos="V">bistå</t>
             <t pos="V">støtte</t>
-			 <t pos="Phrase">være behjelpelig</t>
-			 	 <t pos="Phrase">yte hjelp</t>
+            <t t_type="Phrase">være behjelpelig</t>
+            <t t_type="Phrase">yte hjelp</t>
 	             <xg>
 	                <x>Pluukabiili avusti kolonna-ajamisessa.</x>
 	                <xt>Brøytebilen hjalp til i kolonnekjøringen.</xt>
