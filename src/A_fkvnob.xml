@@ -12464,18 +12464,37 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="A">sanaton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ordløs</t>
+            <t pos="A">ordlaus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">målløs</t>
+            <t pos="A">mållaus</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ai">
       <lg>
          <l pos="A">äänetön</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">målløs</t>
+            <t pos="A">lydløs</t>
+            <t pos="A">lydlaus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">lydløs</t>
+            <t pos="A">målløs</t>
+            <t pos="A">mållaus</t>
          </tg>
       </mg>
    </e>
@@ -22765,7 +22784,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">kompitabel</t>
+            <t pos="A">kompatibel</t>
          </tg>
       </mg>
    </e>
