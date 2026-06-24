@@ -112,6 +112,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
+         <l pos="Interj">appuu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Interj">hjelp</t>
+            <xg>
+            <x>Appuu, mie olen lukutettu sisäle!</x>
+            <xt>Hjelp, jeg er er låst inne!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ai">
+      <lg>
          <l pos="Interj">aamen</l>
       </lg>
       <mg>
