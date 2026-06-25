@@ -91735,13 +91735,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">takapää</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bakende</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bakhode</t>
          </tg>
       </mg>
    </e>
