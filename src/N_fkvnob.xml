@@ -45346,12 +45346,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">mening</t>
             <t pos="N">meining</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hensikt</t>
+            <t pos="N">formål</t>
          </tg>
       </mg>
       <mg>
@@ -45376,7 +45378,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">mening</t>
             <t pos="N">oppsikt</t>
             <t pos="N">syn</t>
          </tg>
@@ -46412,6 +46413,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
          <re>f.eks. i spill</re>
             <t pos="N">mål</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">formål</t>
          </tg>
       </mg>
    </e>
@@ -121564,6 +121570,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">jeksel</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb;es">
+      <lg>
+         <l pos="N">päämäärä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">formål</t>
+            <t pos="N">mål</t>
          </tg>
       </mg>
    </e>
