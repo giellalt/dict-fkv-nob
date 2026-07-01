@@ -9373,7 +9373,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="Adv">ääneti</l>
       </lg>
@@ -9381,6 +9381,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lydløst</t>
             <t pos="Adv">stille</t>
+            <t pos="Adv">tyst</t>
          </tg>
       </mg>
    </e>
@@ -9554,6 +9555,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">stille</t>
             <t pos="Adv">lydløst</t>
+            <t pos="Adv">tyst</t>
          </tg>
       </mg>
       <mg>
@@ -13363,6 +13365,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
          <re>ufattelig, utrolig</re>
+            <t pos="Adv">utrolig</t>
+            <t pos="Adv">veldig</t>
             <t pos="Adv">mye</t>
          </tg>
       </mg>
