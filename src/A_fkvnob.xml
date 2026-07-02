@@ -7348,6 +7348,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">lik</t>
             <t t_type="Phrase">ligne</t>
             <t t_type="Phrase">se ut som</t>
+            <t pos="A">oppsyn</t>
             <xg>
 	            <x>Hän oon niin faarinsa näköinen.</x>
 	            <xt>Han er så lik faren sin.</xt>
@@ -7359,6 +7360,10 @@ For the full license text, see the link above.</lic>
             <xg>
 	            <x>Minkäkhöön näköinen hän nyt oon?</x>
 	            <xt>Tro hvordan hun ser ut nå?</xt>
+            </xg>
+            <xg>
+	            <x>Poika oli surulisen näköinen.</x>
+	            <xt>Gutten hadde et sørgelig oppsyn.</xt>
             </xg>
          </tg>
       </mg>

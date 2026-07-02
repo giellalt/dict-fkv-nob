@@ -100513,13 +100513,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ki">
+   <e src="ki;es">
       <lg>
          <l pos="N">valvonta</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">forvaltning</t>
+            <t pos="N">oppsyn</t>
+            <t pos="N">overvåking</t>
             <xg>
             <x>kalapyyđön valvonta</x>
             <xt>forvaltning av fiske</xt>
@@ -114939,7 +114941,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">ilmet</l>
       </lg>
@@ -114947,6 +114949,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">mine</t>
             <t pos="N">ansiktsuttrykk</t>
+            <t pos="N">oppsyn</t>
          </tg>
       </mg>
    </e>
