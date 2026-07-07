@@ -61260,6 +61260,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">morgenrøde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">høstfarge</t>
          </tg>
       </mg>
@@ -61286,21 +61290,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">skog</t>
             <t pos="N">småskog</t>
             <t t_type="Phrase">tett småskog</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="Phrase">tett småskog</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="ta">
-      <lg>
-         <l t_type="Phrase">rutto suvi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="Phrase">rask sommer</t>
          </tg>
       </mg>
    </e>
