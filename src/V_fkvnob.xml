@@ -4868,11 +4868,10 @@ For the full license text, see the link above.</lic>
                <x>Tapattuma jäi mielheen.</x>
                <xt>Hendelsen satte seg i minnet.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="Phrase">forbli uferdig</t>
+            <xg>
+               <x>Se jäi kesken.</x>
+               <xt>Det forble uferdig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8021,7 +8020,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l context="mie" pos="V">kypsyyt</l>
       </lg>
@@ -8029,7 +8028,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">modnes</t>
             <t t_type="Phrase">bli moden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>om mat, bli ferdigkokt, -stekt</re>
             <t t_type="Phrase">bli ferdig</t>
+            <t t_type="Phrase">bli kokt</t>
+            <t t_type="Phrase">bli stekt</t>
          </tg>
       </mg>
    </e>
