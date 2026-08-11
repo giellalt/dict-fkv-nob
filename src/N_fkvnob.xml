@@ -121651,4 +121651,56 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb;ki">
+      <lg>
+         <l pos="N">lasku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedstigning</t>
+            <xg>
+               <x>Lasku alas vaarankylkkee oli vaaralinen.</x>
+               <xt>Nedstigningen av fjellsiden var farlig.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">nedgang</t>
+            <xg>
+               <x>Myynissä oon tapattunnu laskuu.</x>
+               <xt>Det har vært en nedgang i salget.</xt>
+            </xg>
+            <xg>
+               <x>Het kattoskelthiin auringon laskuu.</x>
+               <xt>De satt og så på solnedgangen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>reduksjon, f.eks. i verdi</re>
+            <t pos="N">fall</t>
+            <xg>
+               <x>Hinttoin lasku oli iloinen yllätys.</x>
+               <xt>Prisfallet var en gledelig overraskelse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="N">kaatuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>det å falle</re>
+            <t pos="N">fall</t>
+            <xg>
+               <x>Hän joutui sairashuonheesseen kaatumisen jälkhiin.</x>
+               <xt>Han havnet på sykehuset etter fallet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>
