@@ -15678,7 +15678,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;es;anb">
       <lg>
          <l hid="Hom1" pos="V">päättyyt</l>
          <stem>pääty</stem>
@@ -15687,6 +15687,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">avsluttes</t>
             <t t_type="Phrase">ta slutt</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ende</t>
          </tg>
       </mg>
    </e>
