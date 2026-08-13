@@ -4852,16 +4852,22 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;es">
+   <e src="ai;es;ki">
       <lg>
          <l context="mie" pos="V">jääđä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="Phrase">bli igjen</t>
+            <t pos="V">bli</t>
             <t pos="V">forbli</t>
+            <t t_type="Phrase">bli igjen</t>
+            <t t_type="Phrase">bli værende</t>
             <xg>
-               <x>Ja siihen se jäi.</x>
+               <x>Mie en saata jääđä pitemäksi aikkaa.</x>
+               <xt>Jeg kan ikke bli lenger.</xt>
+            </xg>
+            <xg>
+               <x>Ja siihen hän jäi.</x>
                <xt>Og han ble igjen der.</xt>
             </xg>
             <xg>
@@ -4871,6 +4877,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Se jäi kesken.</x>
                <xt>Det forble uferdig.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>falle utenfor</re>
+            <t pos="V">falle</t>
+            <xg>
+               <x>Het oon jäänheet ytheiskunnan ulkopuolele.</x>
+               <xt>De har falt på utsiden av samfunnet.</xt>
             </xg>
          </tg>
       </mg>
@@ -4884,7 +4900,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">skite</t>
-            <t pos="V">bærsje</t>
+            <t pos="V">bæsje</t>
          </tg>
       </mg>
    </e>
@@ -8716,10 +8732,6 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">senke ned</t>
             <t pos="V">fire</t>
             <xg>
-               <x>Hinnat oon laskenheet kolmela prosentilla.</x>
-               <xt>Prisene har sunket med tre prosent.</xt>
-            </xg>
-            <xg>
                <x>Kauppa oon laskenu hinnat.</x>
                <xt>Butikken har senket prisene.</xt>
             </xg>
@@ -8735,6 +8747,7 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">gå ned</t>
             <t pos="V">synke</t>
             <t pos="V">lande</t>
+            <t pos="V">falle</t>
             <xg>
                <x>Aurinko laskee.</x>
                <xt>Sola går ned.</xt>
@@ -8746,6 +8759,14 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Vesi laskee, ja silloin tullee fiervavesi.</x>
                <xt>Sjøen synker, og da blir det fjære.</xt>
+            </xg>
+            <xg>
+               <x>Hinnat oon laskenheet kolmela prosentilla.</x>
+               <xt>Prisene har sunket med tre prosent.</xt>
+            </xg>
+            <xg>
+               <x>Verenpaino laskee.</x>
+               <xt>Blodtrykket faller.</xt>
             </xg>
          </tg>
       </mg>
@@ -13339,6 +13360,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">ha avføring</t>
             <t pos="V">skite</t>
+            <t pos="V">bæskje</t>
          </tg>
       </mg>
    </e>
@@ -15199,6 +15221,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">bli</t>
             <t t_type="Phrase">bli værende</t>
+            <t t_type="Phrase">holde seg</t>
+            <xg>
+               <x>Mie pysyn kotona tääpänä.</x>
+               <xt>Jeg blir værende hjemme i dag.</xt>
+            </xg>
+            <xg>
+               <x>Hän pysyi kotona koko päivän.</x>
+               <xt>Han holdt seg hjemme hele dagen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
