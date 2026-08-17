@@ -10434,25 +10434,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;es">
+   <e src="ta;ai;es;ki">
       <lg>
          <l context="mie" pos="V">matkiit</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t t_type="Phrase">drive gjøn</t>
             <t pos="V">etterape</t>
+            <t t_type="Phrase">drive gjøn</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">imitere</t>
+            <t pos="V">herme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <!--            <t pos="V">gjenta</t> -->
-            <t pos="V">mase</t>
+            <t pos="V">gjenta</t>
+<!---            <t pos="V">mase</t> -->
          </tg>
       </mg>
    </e>
