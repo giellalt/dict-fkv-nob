@@ -7188,6 +7188,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kasvihuonet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drivhus</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kasvihuonetvaikutus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">drivhuseffekt</t>
+         </tg>
+      </mg>
+   </e>
    <e src="bildetema">
       <lg>
          <l pos="N">kattotiili</l>
@@ -72379,10 +72399,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai;ki">
+   <e src="anb;ai;ki">
       <lg>
          <l pos="N">vaikutus</l>
       </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">virkning</t>
+            <t pos="N">effekt</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">påvirkning</t>
