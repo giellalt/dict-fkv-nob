@@ -3681,11 +3681,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">sterkt</t>
+            <xg>
+               <x>Hän on kovin sitä vastaan.</x>
+               <xt>Han er sterkt imot det.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">svært</t>
+            <xg>
+               <x>Het olthiin kovin hermostunheet.</x>
+               <xt>De var svært bekymret.</xt>
+            </xg>
+            <xg>
+               <x>Oppiijoita oon kovin vähän koulussa.</x>
+               <xt>Det er svært få elever på skolen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
