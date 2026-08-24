@@ -27471,6 +27471,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">øst</t>
+            <t pos="N">aust</t>
          </tg>
       </mg>
    </e>
@@ -117902,6 +117903,16 @@ For the full license text, see the link above.</lic>
    <e src="anb">
       <lg>
          <l pos="N">frontti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">front</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">itäfrontti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
