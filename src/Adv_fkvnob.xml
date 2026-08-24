@@ -2879,6 +2879,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">jälkhiinpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">i ettertid</t>
+            <t pos="Adv">etterpå</t>
+            <t pos="Adv">seinere</t>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="Adv">jälkheen</l>
@@ -12636,13 +12648,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="Adv">pörästäpäin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">i ettertid</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bakfra</t>
          </tg>
       </mg>
    </e>
