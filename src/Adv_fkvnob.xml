@@ -13381,12 +13381,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="anb">
+   <e src="anb;es">
       <lg>
          <l pos="Adv">sylitysten</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t t_type="Phrase">i fanget på hverandre</t>
             <t t_type="Phrase">i hverandres armer</t>
             <xg>
                <x>Ystävät seisothiin sylitysten.</x>
@@ -14172,13 +14173,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="Adv">sölitysten</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">i fanget på hverandre</t>
+            <t t_type="Phrase">i hverandres armer</t>
+            <xg>
+               <x>Ystävät seisothiin sölitysten.</x>
+               <xt>Vennene sto og holdt rundt hverandre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
