@@ -13332,6 +13332,111 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">perhäänpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bakover</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bakvendt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">pörhäänpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bakover</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">bakvendt</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">parhailansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+         <re>for øyeblikket, på det tidspunktet</re>
+            <t pos="Adv">akkurat</t>
+            <xg>
+               <x>Het syövät parhailansa aamuruokkaa.</x>
+               <xt>De spiser frokost akkurat nå.</xt>
+            </xg>
+            <xg>
+               <x>Syksy teki parhailansa tulloo.</x>
+               <xt>Høsten var på vei.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">sylitysten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">i hverandres armer</t>
+            <xg>
+               <x>Ystävät seisothiin sylitysten.</x>
+               <xt>Vennene sto og holdt rundt hverandre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">sölin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">med ryggen mot</t>
+            <xg>
+               <x>Het istuthiin sölin ovheen.</x>
+               <xt>De satt med ryggen mot døra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">sölälensä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">på rygg</t>
+            <xg>
+               <x>Hän lasketti sölälensä.</x>
+               <xt>Han la seg ned på rygg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="Adv">sölälänsä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">på rygg</t>
+            <xg>
+               <x>Hän makkaa sölälänsä.</x>
+               <xt>Han ligger på rygg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="es">
       <lg>
          <l pos="Adv">hirmusti</l>
