@@ -33061,6 +33061,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fot</t>
+            <t pos="N">bein</t>
             <xg>
                <x>ketarat taivhaala</x>
                <xt>beina i været</xt>
@@ -34646,6 +34647,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">lamphaankoipi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lammeskank</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l pos="N">koipi</l>
@@ -35474,6 +35485,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kontorist</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">kinttu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">ben</t>
+            <t pos="N">bein</t>
          </tg>
       </mg>
    </e>
