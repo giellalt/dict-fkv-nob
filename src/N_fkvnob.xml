@@ -47865,7 +47865,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;es">
       <lg>
          <l pos="N">nahka</l>
          <stem>naha</stem>
@@ -47873,6 +47873,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">skinn</t>
+            <t pos="N">hud</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lær</t>
          </tg>
       </mg>
    </e>
