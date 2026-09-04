@@ -15367,14 +15367,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">snu</t>
+            <t t_type="Phrase">snu om</t>
             <t t_type="Phrase">vende om</t>
+            <t t_type="Phrase">vende tilbake</t>
             <t pos="V">returnere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="V">vende</t>
          </tg>
       </mg>
    </e>
