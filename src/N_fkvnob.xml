@@ -73415,13 +73415,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ta;ai">
       <lg>
-         <l pos="N">vaski</l>
+         <l pos="N" hid="Hom1">vaski</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">vask</t>
          </tg>
       </mg>
+   </e>
+   <e src="ta;ai">
+      <lg>
+         <l pos="N" hid="Hom2">vaski</l>
+      </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">kopper</t>
