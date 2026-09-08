@@ -1,10 +1,9 @@
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
-    xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv | sms | myv | mhr | sjd | rus | smj ) #IMPLIED
+    xml:lang ( nob | eng | fkv ) #IMPLIED
 >
 <!ATTLIST r
-      id ( smenob | nobsme | smnfin | finsmn | finsme | fkvnob | smnsme | smjsme | smesmn | smesmj | smesma | smefin | smasme | smanob | nobsma | smafin | swesma | smeeng |
-      nobsmj ) #IMPLIED >
+      id ( fkvnob ) #IMPLIED >
 
 <!--
 <!ELEMENT r (lics?, e+, xhtml:script?) >
