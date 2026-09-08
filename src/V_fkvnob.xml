@@ -825,11 +825,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">erobre</t>
+            <t pos="V">innta</t>
+            <xg>
+               <x>Het vallathiin koko kaupungin.</x>
+               <xt>De erobret hele byen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">overta</t>
+         <re>om følelser, tilstander o.l.</re>
+            <t pos="V">gripe</t>
+            <t t_type="Phrase">ta overhånd</t>
+            <xg>
+               <x>Suru oon vallanu hänen.</x>
+               <xt>Han er sterkt grepet av sorg.</xt>
+            </xg>
+            <xg>
+               <x>Epätoivo valtas hänen mielen.</x>
+               <xt>Fortvilensen tok overhånd hos ham.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">valloittaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">erobre</t>
          </tg>
       </mg>
    </e>
@@ -12464,6 +12489,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>ottaat korttelin</x>
                <xt>innlosjere seg</xt>
+            </xg>
+            <xg>
+               <x>ottaat valthaansa</x>
+               <xt>ta overhånd</xt>
             </xg>
             <xg>
                <x>Vi må ta vare på det kvenske språket og lære det til barna.</x>
