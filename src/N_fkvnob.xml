@@ -2538,6 +2538,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="grom">
+      <lg>
+         <l pos="N">kolmiskantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">trekant</t>
+         </tg>
+      </mg>
+   </e>
    <e src="grom;me">
       <lg>
          <l pos="N">paneeli</l>
@@ -9973,7 +9983,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="bildetema">
       <lg>
-         <l pos="N">varoituskolmikantti</l>
+         <l pos="N">varoituskolmiskantti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -28659,13 +28669,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki;anb">
       <lg>
          <l pos="N">juurikasvi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">bete</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rotfrukt</t>
+            <t pos="N">rotvekst</t>
          </tg>
       </mg>
    </e>
