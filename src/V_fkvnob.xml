@@ -29766,5 +29766,44 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">pitkästyttäät</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kjede</t>
+            <t pos="V">trette</t>
+            <t pos="V">trøtte</t>
+            <xg>
+               <x>Lujento pitkästyttää studenttiita.</x>
+               <xt>Forelesningen kjeder studentene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">pitkästyyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">kjede</t>
+            <t t_type="Phrase">bli lei av</t>
+            <xg>
+               <x>Hän pitkästyy ushein yksin kotona.</x>
+               <xt>Hun kjeder seg ofte hjemme alene.</xt>
+            </xg>
+            <xg>
+               <x>Konsertti loppui ennen ko kukhaan keriny pitkäsymhään sitä.</x>
+               <xt>Konserten tok slutt før noen rakk å begynne å kjede seg.</xt>
+            </xg>
+            <xg>
+               <x>Het lähđethiin ko het pitkästythiin lujenosta.</x>
+               <xt>De dro da de gikk lei av forelesningen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 </r>   
 
