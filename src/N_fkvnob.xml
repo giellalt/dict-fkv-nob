@@ -17789,6 +17789,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tilfelle</t>
+            <t pos="N">hendelse</t>
          </tg>
       </mg>
    </e>
@@ -67649,6 +67650,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">arrangement</t>
+            <t pos="N">begivelse</t>
          </tg>
       </mg>
    </e>
@@ -67683,13 +67685,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;es">
       <lg>
          <l pos="N">taphaus</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">hendelse</t>
+            <t pos="N">tilfelle</t>
          </tg>
       </mg>
    </e>
@@ -111728,7 +111731,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">anledning</t>
-            <t pos="N">begivenhet</t>
+            <t pos="N">mulighet</t>
          </tg>
       </mg>
    </e>
