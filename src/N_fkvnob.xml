@@ -5916,7 +5916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="rh">
       <lg>
-         <l pos="N">laakinjohtaajan penkki</l>
+         <l t_type="Phrase">laakinjohtaajan penkki</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -121995,6 +121995,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">matrosdress</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="N">slattaiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">sluddbyge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l t_type="Phrase">skummattu maito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">skummetmelk</t>
+            <t pos="N">skummamelk</t>
          </tg>
       </mg>
    </e>
