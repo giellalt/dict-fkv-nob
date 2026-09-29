@@ -36,7 +36,7 @@
 <!ELEMENT l ( #PCDATA ) >
 <!ATTLIST l comment CDATA #IMPLIED >
 <!ATTLIST l nr ( Pl ) #IMPLIED >
-<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
+<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
                   N | Num | Pcle | Po | Pr | Pron | Qu | V ) #IMPLIED >
 <!ATTLIST l src NMTOKEN #IMPLIED >
 <!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
@@ -66,36 +66,35 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
-<!ELEMENT mg ( tg+ | xg* ) >
+<!ELEMENT mg ( re?, tg+ ) >
 
 
 <!ELEMENT stem ( #PCDATA ) >
 
-<!ELEMENT syn ( #PCDATA ) >
-
-<!ELEMENT syng ( syn+ ) >
-
 <!ELEMENT re ( #PCDATA ) >
+
+<!ELEMENT tg ( re?, t+,  xg*, syng* ) >
+<!ATTLIST tg comment CDATA #IMPLIED >
+<!ATTLIST tg re CDATA #IMPLIED >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "nob" >
+<!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT t ( #PCDATA ) >
 <!ATTLIST t comment CDATA #IMPLIED >
 <!ATTLIST t gen ( f | m | n ) #IMPLIED >
 <!ATTLIST t nr ( Pl ) #IMPLIED >
-<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
+<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj |
                   N | Num | Po | Pr | Pron | V ) #IMPLIED >
 <!ATTLIST t t_type ( expl | Phrase )  #IMPLIED >
 <!ATTLIST t type ( Prop ) #IMPLIED >
-
-<!ELEMENT tg ( re? | t | syng? | xg? )* >
-<!ATTLIST tg comment CDATA #IMPLIED >
-<!ATTLIST tg re CDATA #IMPLIED >
-<!ATTLIST tg xml:lang ( nob ) #REQUIRED >
-<!ATTLIST tg dial (p|j|v|pv|jv|pj) #IMPLIED >
 
 <!ELEMENT xg ( x, xt ) >
 <!ATTLIST xg re CDATA #IMPLIED >
 <!ELEMENT x ( #PCDATA ) >
 <!ELEMENT xt ( #PCDATA ) >
+
+<!ELEMENT syng ( syn+ ) >
+<!ELEMENT syn ( #PCDATA ) >
 
 <!ELEMENT xhtml:script EMPTY >
 <!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
