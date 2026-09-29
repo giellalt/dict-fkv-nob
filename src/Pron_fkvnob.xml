@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -100,7 +100,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ai">
       <lg>
-         <l pos="Pron" nr="Pl">enimät</l>
+         <l nr="Pl" pos="Pron">enimät</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -110,7 +110,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="Pron" nr="Pl">enniimät</l>
+         <l nr="Pl" pos="Pron">enniimät</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -120,7 +120,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l pos="Pron" nr="Pl">usheimat</l>
+         <l nr="Pl" pos="Pron">usheimat</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -362,8 +362,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Det">begge</t>
             <xg>
-            <x>Het oon kumpiki ~ kummakki opettaajat.</x>
-            <xt>De er begge to lærere.</xt>
+               <x>Het oon kumpiki ~ kummakki opettaajat.</x>
+               <xt>De er begge to lærere.</xt>
             </xg>
          </tg>
       </mg>
@@ -595,7 +595,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>plass i en rekke</re>
+            <re>plass i en rekke</re>
             <t pos="Det">hvilken</t>
             <xg>
                <x>Kuinka mones sie olit moolissa?</x>

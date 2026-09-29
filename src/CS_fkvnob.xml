@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -122,8 +122,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="CS">enn</t>
             <xg>
-            <x>Entä sie?</x>
-            <xt>Enn du?</xt>
+               <x>Entä sie?</x>
+               <xt>Enn du?</xt>
             </xg>
          </tg>
       </mg>
@@ -136,8 +136,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="CS">enn</t>
             <xg>
-            <x>Napa sie?</x>
-            <xt>Enn du?</xt>
+               <x>Napa sie?</x>
+               <xt>Enn du?</xt>
             </xg>
          </tg>
       </mg>
@@ -156,8 +156,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="CS">til</t>
             <xg>
-            <x>Hän asui sielä siksi ko kuoli.</x>
-            <xt>Hun bodde der til hun døde.</xt>
+               <x>Hän asui sielä siksi ko kuoli.</x>
+               <xt>Hun bodde der til hun døde.</xt>
             </xg>
          </tg>
       </mg>

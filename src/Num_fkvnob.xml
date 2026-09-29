@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -428,7 +428,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>omtrent tjue</re>
+            <re>omtrent tjue</re>
             <t pos="N">tjuetall</t>
          </tg>
       </mg>
@@ -449,7 +449,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>omtrent hundre</re>
+            <re>omtrent hundre</re>
             <t pos="Num">hundretall</t>
          </tg>
       </mg>
@@ -460,7 +460,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>omtrent tusen</re>
+            <re>omtrent tusen</re>
             <t pos="Num">tusentall</t>
          </tg>
       </mg>

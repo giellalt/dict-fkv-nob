@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -36,8 +36,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">også</t>
             <xg>
-            <x>Mieki halluun myötä!</x>
-            <xt>Jeg vil også være med!</xt>
+               <x>Mieki halluun myötä!</x>
+               <xt>Jeg vil også være med!</xt>
             </xg>
          </tg>
       </mg>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>ved nekting</re>
+            <re>ved nekting</re>
             <t pos="Adv">heller</t>
             <xg>
                <x>Mie en halluu sitä. - En miekhään.</x>
@@ -69,7 +69,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>ved nekting</re>
+            <re>ved nekting</re>
             <t pos="Adv">heller</t>
             <xg>
                <x>Mulla ei ole ruokkaa myötä. - Ei minulakhaan.</x>

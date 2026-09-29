@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -91,13 +91,13 @@ For the full license text, see the link above.</lic>
                <x>Meilä oli voita omasta takkaa.</x>
                <xt>Vi var selvberget når det gjaldt smør.</xt>
             </xg>
-<!--            <xg>
+            <!--            <xg>
                <x>Hän lähti minun takkaa.</x>
                <xt>Hun dro fra meg.</xt>
             </xg>-->
          </tg>
       </mg>
-<!--      <mg>
+      <!--      <mg>
          <tg xml:lang="nob">
             <t pos="Pr">hos</t>
            <xg>
@@ -737,9 +737,9 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">igjennom</t>
             <t pos="Pr">via</t>
             <xg>
-            	<x>Het kävelthiin tunnelii läpi.</x> 
-	            <xt>De gikk gjennom tunnelen.</xt>  
-	        </xg>          
+               <x>Het kävelthiin tunnelii läpi.</x>
+               <xt>De gikk gjennom tunnelen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -771,7 +771,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Po">myöđen</l>
       </lg>
-<!--      <mg>
+      <!--      <mg>
          <tg xml:lang="nob">
             <t pos="Pr">langs med</t>
          </tg>
@@ -872,16 +872,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Se pani sanan niitten pörhään.</x>
-            <xt>Han/hun sendte bud etter dem.</xt>
+               <x>Se pani sanan niitten pörhään.</x>
+               <xt>Han/hun sendte bud etter dem.</xt>
             </xg>
             <xg>
-            <x>Poika lähti miehen pörhään.</x>
-            <xt>Gutten for etter mannen.</xt>
+               <x>Poika lähti miehen pörhään.</x>
+               <xt>Gutten for etter mannen.</xt>
             </xg>
             <xg>
-            <x>Katto vauvan pörhään ko mie olen kaupassa.</x>
-            <xt>Se etter(pass på) babyen mens jeg er på butikken.</xt>
+               <x>Katto vauvan pörhään ko mie olen kaupassa.</x>
+               <xt>Se etter(pass på) babyen mens jeg er på butikken.</xt>
             </xg>
          </tg>
       </mg>
@@ -894,8 +894,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Maija kulki minun pörässä.</x>
-            <xt>Maija gikk etter meg.</xt>
+               <x>Maija kulki minun pörässä.</x>
+               <xt>Maija gikk etter meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -908,12 +908,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Vähän aijan pörästä.</x>
-            <xt>Etter en stund.</xt>
+               <x>Vähän aijan pörästä.</x>
+               <xt>Etter en stund.</xt>
             </xg>
             <xg>
-            <x>Yksi toisensa pörästä.</x>
-            <xt>Den ene etter den andre.</xt>
+               <x>Yksi toisensa pörästä.</x>
+               <xt>Den ene etter den andre.</xt>
             </xg>
          </tg>
       </mg>
@@ -926,16 +926,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Se pani sanan niitten perhään.</x>
-            <xt>Han/hun sendte bud etter dem.</xt>
+               <x>Se pani sanan niitten perhään.</x>
+               <xt>Han/hun sendte bud etter dem.</xt>
             </xg>
             <xg>
-            <x>Poika lähti miehen perhään.</x>
-            <xt>Gutten for etter mannen.</xt>
+               <x>Poika lähti miehen perhään.</x>
+               <xt>Gutten for etter mannen.</xt>
             </xg>
             <xg>
-            <x>Katto vauvan perhään ko mie olen kaupassa.</x>
-            <xt>Se etter (pass på) babyen mens jeg er på butikken.</xt>
+               <x>Katto vauvan perhään ko mie olen kaupassa.</x>
+               <xt>Se etter (pass på) babyen mens jeg er på butikken.</xt>
             </xg>
          </tg>
       </mg>
@@ -948,8 +948,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Maija kulki minun perässä.</x>
-            <xt>Maija gikk etter meg.</xt>
+               <x>Maija kulki minun perässä.</x>
+               <xt>Maija gikk etter meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -962,12 +962,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">etter</t>
             <xg>
-            <x>Vähän aijan perästä.</x>
-            <xt>Etter en stund.</xt>
+               <x>Vähän aijan perästä.</x>
+               <xt>Etter en stund.</xt>
             </xg>
             <xg>
-            <x>Yksi toisensa perästä.</x>
-            <xt>Den ene etter den andre.</xt>
+               <x>Yksi toisensa perästä.</x>
+               <xt>Den ene etter den andre.</xt>
             </xg>
          </tg>
       </mg>
@@ -980,8 +980,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">ved siden av</t>
             <xg>
-            <x>Maija käveli Matin rinnala.</x>
-            <xt>Maija gikk ved siden av Matti.</xt>
+               <x>Maija käveli Matin rinnala.</x>
+               <xt>Maija gikk ved siden av Matti.</xt>
             </xg>
          </tg>
       </mg>
@@ -1020,8 +1020,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">blant</t>
             <xg>
-            <x>Nouki toukat pois jauhoin sejasta.</x>
-            <xt>Plukk ut larvene fra melet.</xt>
+               <x>Nouki toukat pois jauhoin sejasta.</x>
+               <xt>Plukk ut larvene fra melet.</xt>
             </xg>
          </tg>
       </mg>
@@ -1227,7 +1227,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>fra</re>
+            <re>fra</re>
             <t pos="Pr">hos</t>
             <xg>
                <x>Hän lähti minun tykköö.</x>
@@ -1343,8 +1343,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">mot</t>
             <t pos="Pr">imot</t>
             <xg>
-            	<x>Heilä ei ole mithään sitä vasthaan, ette soffassa oon kissakarvoi.</x>
-            	<xt>De har ikke noe imot kattehår i sofaen.</xt>
+               <x>Heilä ei ole mithään sitä vasthaan, ette soffassa oon kissakarvoi.</x>
+               <xt>De har ikke noe imot kattehår i sofaen.</xt>
             </xg>
          </tg>
       </mg>
@@ -1456,7 +1456,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Pr">mellom</t>
             <t pos="Pr">imellom</t>
-               <xg>
+            <xg>
                <x>Pekan ja Liisan välilä oon suuri rakkhaus.</x>
                <xt>Kjærligheten mellom Pekka og Lisa er stor.</xt>
             </xg>
@@ -1536,7 +1536,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>for et mulig fremtidig behov</re>
+            <re>for et mulig fremtidig behov</re>
             <t pos="Pr">for</t>
             <t pos="Pr">til</t>
             <xg>
@@ -1557,11 +1557,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Pr">i løpet av</t>
-              <xg>
+            <xg>
                <x>Oon tapattunnu paljon tämän vuođen kulluissa.</x>
                <xt>Det har skjedd mye i løpet av dette året.</xt>
             </xg>
-              <xg>
+            <xg>
                <x>Lumi sullaa kevväimen kulluissa.</x>
                <xt>Snøen smelter i løpet av våren.</xt>
             </xg>

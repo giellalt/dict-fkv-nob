@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-         <e src="bildetema">
+   <e src="bildetema">
       <lg>
          <l pos="Adv">sisäpuolisesti</l>
       </lg>
@@ -38,7 +38,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="bildetema;ki">
+   <e src="bildetema;ki">
       <lg>
          <l pos="Adv">ulkopuolisesti</l>
       </lg>
@@ -174,8 +174,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">i samsvar med</t>
             <xg>
-            <x>Se kyllä oon myötäsukhaan reekeliitten kans.</x>
-            <xt>Det er i samsvar med reglene, ja.</xt>
+               <x>Se kyllä oon myötäsukhaan reekeliitten kans.</x>
+               <xt>Det er i samsvar med reglene, ja.</xt>
             </xg>
          </tg>
       </mg>
@@ -267,12 +267,12 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">før</t>
             <t pos="Adv">tidligere</t>
             <xg>
-            <x>Hän oli lähteny monta päivää ennen.</x>
-            <xt>Han/hun hadde dratt for noen dager siden.</xt>
+               <x>Hän oli lähteny monta päivää ennen.</x>
+               <xt>Han/hun hadde dratt for noen dager siden.</xt>
             </xg>
             <xg>
-            <x>ennen mailmassa</x>
-            <xt>før i verden, tidligere</xt>
+               <x>ennen mailmassa</x>
+               <xt>før i verden, tidligere</xt>
             </xg>
          </tg>
       </mg>
@@ -488,8 +488,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lenger nede</t>
             <xg>
-            <x>Alempanna tekstissä oon tehtävän ohjheet.</x>
-            <xt>Du finner instruksene til oppgaven lengre ned i teksten</xt>
+               <x>Alempanna tekstissä oon tehtävän ohjheet.</x>
+               <xt>Du finner instruksene til oppgaven lengre ned i teksten</xt>
             </xg>
          </tg>
       </mg>
@@ -1090,8 +1090,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">midtveis</t>
             <t pos="Adv">halvveis</t>
             <xg>
-            <x>puolivälissä maikuuta.</x>
-            <xt>i midten av mai.</xt>
+               <x>puolivälissä maikuuta.</x>
+               <xt>i midten av mai.</xt>
             </xg>
          </tg>
       </mg>
@@ -1257,16 +1257,16 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">aldeles</t>
             <t pos="Adv">fullstendig</t>
             <xg>
-	            <x>Se oon aivan oikhein.</x>
-	            <xt>Det er helt rett.</xt>
+               <x>Se oon aivan oikhein.</x>
+               <xt>Det er helt rett.</xt>
             </xg>
             <xg>
-	            <x>Hän tiettää aivan hyvin, miksi met olema tulheet tänne.</x>
-	            <xt>Han vet aldeles godt hvorfor vi er kommet hit.</xt>
+               <x>Hän tiettää aivan hyvin, miksi met olema tulheet tänne.</x>
+               <xt>Han vet aldeles godt hvorfor vi er kommet hit.</xt>
             </xg>
             <xg>
-	            <x>Tuo mies oon aivan vijaton.</x>
-	            <xt>Den mannen er helt uskyldig.</xt>
+               <x>Tuo mies oon aivan vijaton.</x>
+               <xt>Den mannen er helt uskyldig.</xt>
             </xg>
          </tg>
       </mg>
@@ -1275,8 +1275,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">bare</t>
             <t pos="Adv">utelukkende</t>
             <xg>
-	            <x>Kotona met puhuima aivan suomee.</x>
-	            <xt>Vi snakket bare finsk hjemme.</xt>
+               <x>Kotona met puhuima aivan suomee.</x>
+               <xt>Vi snakket bare finsk hjemme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1415,7 +1415,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tid</re>
+            <re>om tid</re>
             <t pos="Adv">i begynnelsen</t>
          </tg>
       </mg>
@@ -1474,8 +1474,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">åpent</t>
             <xg>
-            <x>Mökki oon auki septemberikuusta kiini maikuuhun saakka.</x>
-            <xt>Hytta er åpen/holdes åpen fra september til mai.</xt>
+               <x>Mökki oon auki septemberikuusta kiini maikuuhun saakka.</x>
+               <xt>Hytta er åpen/holdes åpen fra september til mai.</xt>
             </xg>
          </tg>
       </mg>
@@ -1614,8 +1614,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lenger</t>
             <xg>
-            <x>Mie en jaksa ennää.</x>
-            <xt>Jeg orker ikke lenger.</xt>
+               <x>Mie en jaksa ennää.</x>
+               <xt>Jeg orker ikke lenger.</xt>
             </xg>
          </tg>
       </mg>
@@ -1690,8 +1690,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fra før</t>
             <xg>
-            <x>Se oon minule entiseltä opas mies.</x>
-            <xt>Han kjenner jeg fra før.</xt>
+               <x>Se oon minule entiseltä opas mies.</x>
+               <xt>Han kjenner jeg fra før.</xt>
             </xg>
          </tg>
       </mg>
@@ -1714,22 +1714,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">mer</t>
             <xg>
-                <x>Oma tervheys ko enämen väärtti ko raha.</x>
-                <xt>Ens egen helse er verdt mer enn penger.</xt>
-             </xg>
+               <x>Oma tervheys ko enämen väärtti ko raha.</x>
+               <xt>Ens egen helse er verdt mer enn penger.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">flere</t>
             <xg>
-                <x>Tromssassa assuu enämen ihmissii ko Lemmijovessa.</x>
-                <xt>I Tromsø bor det flere folk enn i Lakselv.</xt>
-             </xg>
-             <xg>
-                 <x>Hänelä oon enämen korttii ko minula.</x>
-                 <xt>Han har flere kort enn meg.</xt>
-              </xg>
+               <x>Tromssassa assuu enämen ihmissii ko Lemmijovessa.</x>
+               <xt>I Tromsø bor det flere folk enn i Lakselv.</xt>
+            </xg>
+            <xg>
+               <x>Hänelä oon enämen korttii ko minula.</x>
+               <xt>Han har flere kort enn meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1769,7 +1769,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>i nektende setninger</re>
+            <re>i nektende setninger</re>
             <t pos="Adv">mer</t>
             <xg>
                <x>Mie en saata sannoot enämppää.</x>
@@ -1989,8 +1989,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fremover</t>
             <xg>
-            <x>ja niin eespäin</x>
-            <xt>og så videre</xt>
+               <x>ja niin eespäin</x>
+               <xt>og så videre</xt>
             </xg>
          </tg>
       </mg>
@@ -2366,7 +2366,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>forsterkende ord</re>
+            <re>forsterkende ord</re>
             <t pos="Adv">skal si...</t>
          </tg>
       </mg>
@@ -2674,7 +2674,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!--   <e src="ta">
+   <!--   <e src="ta">
       <lg>
          <l pos="Adv">itä</l>
          <stem>iđä</stem>
@@ -3157,7 +3157,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tid</re>
+            <re>om tid</re>
             <t pos="Adv">lenger</t>
          </tg>
       </mg>
@@ -3178,7 +3178,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tid</re>
+            <re>om tid</re>
             <t pos="Adv">lengre</t>
          </tg>
       </mg>
@@ -3373,18 +3373,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fast</t>
             <xg>
-            <x>Kala jäi kiini koukkhuun.</x>
-            <xt>Fisken satt seg fast på kroken.</xt>
+               <x>Kala jäi kiini koukkhuun.</x>
+               <xt>Fisken satt seg fast på kroken.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-         <re>lukket</re>
+            <re>lukket</re>
             <t pos="Adv">igjen</t>
             <xg>
-            <x>Pane klasin kiini!</x>
-            <xt>Lukk igjen vinduet!</xt>
+               <x>Pane klasin kiini!</x>
+               <xt>Lukk igjen vinduet!</xt>
             </xg>
          </tg>
       </mg>
@@ -3392,12 +3392,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">helt</t>
             <xg>
-            <x>Mie olen asunu täälä kiini lapsuuđesta saakka.</x>
-            <xt>Jeg har bodd her helt siden barndommen.</xt>
+               <x>Mie olen asunu täälä kiini lapsuuđesta saakka.</x>
+               <xt>Jeg har bodd her helt siden barndommen.</xt>
             </xg>
             <xg>
-            <x>Kväänin kieltä oon kiini tähän päivhään saakka puhuttu Pohjais-Norjassa.</x>
-            <xt>Kvensk er blitt snakket i Nord-Norge helt frem til i dag.</xt>
+               <x>Kväänin kieltä oon kiini tähän päivhään saakka puhuttu Pohjais-Norjassa.</x>
+               <xt>Kvensk er blitt snakket i Nord-Norge helt frem til i dag.</xt>
             </xg>
          </tg>
       </mg>
@@ -3405,8 +3405,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">avhengig</t>
             <xg>
-            <x>Hinta oon kiini juđosta.</x>
-            <xt>Prisen avhenger av etterspørselen.</xt>
+               <x>Hinta oon kiini juđosta.</x>
+               <xt>Prisen avhenger av etterspørselen.</xt>
             </xg>
          </tg>
       </mg>
@@ -3471,12 +3471,12 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">i hop</t>
             <t pos="Adv">sammen</t>
             <xg>
-            <x>Vaatet meni kokhoon.</x>
-            <xt>Klesplagget krympet sammen.</xt>
+               <x>Vaatet meni kokhoon.</x>
+               <xt>Klesplagget krympet sammen.</xt>
             </xg>
             <xg>
-            <x>Pekka sai paljon rahhaa kokhoon.</x>
-            <xt>Pekka fikk samlet inn mye penger.</xt>
+               <x>Pekka sai paljon rahhaa kokhoon.</x>
+               <xt>Pekka fikk samlet inn mye penger.</xt>
             </xg>
          </tg>
       </mg>
@@ -3520,8 +3520,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">ikke engang</t>
             <xg>
-            <x>Ei se koko tothiskhaan tulla.</x>
-            <xt>Han ville ikke turt å komme en gang.</xt>
+               <x>Ei se koko tothiskhaan tulla.</x>
+               <xt>Han ville ikke turt å komme en gang.</xt>
             </xg>
          </tg>
       </mg>
@@ -3707,7 +3707,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>på et sted</re>
+            <re>på et sted</re>
             <t pos="Adv">samlet</t>
          </tg>
       </mg>
@@ -3903,8 +3903,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">for hånd</t>
             <xg>
-              <x>Ämmi oon kutonu tämän käsin.</x>
-              <xt>Bestemor har strikket denne for hånd.</xt>
+               <x>Ämmi oon kutonu tämän käsin.</x>
+               <xt>Bestemor har strikket denne for hånd.</xt>
             </xg>
          </tg>
       </mg>
@@ -3912,12 +3912,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fra</t>
             <xg>
-              <x>Hän oon kulkenu tänne kiini Trondjamista käsin.</x>
-              <xt>Han har vandret hit helt fra Trondheim.</xt>
+               <x>Hän oon kulkenu tänne kiini Trondjamista käsin.</x>
+               <xt>Han har vandret hit helt fra Trondheim.</xt>
             </xg>
             <xg>
-              <x>Hän johtaa firmaa Uslusta käsin.</x>
-              <xt>Hun driver firmaet fra Oslo.</xt>
+               <x>Hän johtaa firmaa Uslusta käsin.</x>
+               <xt>Hun driver firmaet fra Oslo.</xt>
             </xg>
          </tg>
       </mg>
@@ -3926,20 +3926,20 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">over</t>
             <t t_type="Phrase">i retning av</t>
             <xg>
-              <x>Hän lähti ithään käsin.</x>
-              <xt>Han dro østover.</xt>
+               <x>Hän lähti ithään käsin.</x>
+               <xt>Han dro østover.</xt>
             </xg>
             <xg>
-              <x>Monet oon siirtynheet etelhään käsin.</x>
-              <xt>Mange har flyttet sørover.</xt>
+               <x>Monet oon siirtynheet etelhään käsin.</x>
+               <xt>Mange har flyttet sørover.</xt>
             </xg>
             <xg>
-              <x>Huonheen ovet aukkeevat sishäänkäsin.</x>
-              <xt>Dørene på huset vender innover.</xt>
+               <x>Huonheen ovet aukkeevat sishäänkäsin.</x>
+               <xt>Dørene på huset vender innover.</xt>
             </xg>
             <xg>
-              <x>Oppiijoitten määrä oon viimi vuosina menny ylös käsin.</x>
-              <xt>Elevtallet har de siste årene gått opp.</xt>
+               <x>Oppiijoitten määrä oon viimi vuosina menny ylös käsin.</x>
+               <xt>Elevtallet har de siste årene gått opp.</xt>
             </xg>
          </tg>
       </mg>
@@ -4400,8 +4400,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">veldig</t>
             <xg>
-            <x>Hän on mailman seppä kirjoittamhaan.</x>
-            <xt>Hun er veldig flink til å skrive.</xt>
+               <x>Hän on mailman seppä kirjoittamhaan.</x>
+               <xt>Hun er veldig flink til å skrive.</xt>
             </xg>
          </tg>
       </mg>
@@ -4412,7 +4412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>når en tviler på det som blir sagt</re>
+            <re>når en tviler på det som blir sagt</re>
             <t pos="Adv">liksom</t>
          </tg>
       </mg>
@@ -4539,8 +4539,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">hvordan</t>
             <t pos="Adv">på hvilken måte</t>
             <xg>
-            <x>Millä laila sie aijot matkustaat Alattihoon?</x>
-            <xt>Hvordan tenkter du å reise til Alta?</xt>
+               <x>Millä laila sie aijot matkustaat Alattihoon?</x>
+               <xt>Hvordan tenkter du å reise til Alta?</xt>
             </xg>
          </tg>
       </mg>
@@ -4599,8 +4599,8 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">i flere faser</t>
             <t pos="Adv">trinnvis</t>
             <xg>
-            <x>Siirto vapaakaupphaan meni faasittain.</x>
-            <xt>Overgangen til frihandel gikk i flere faser.</xt>
+               <x>Siirto vapaakaupphaan meni faasittain.</x>
+               <xt>Overgangen til frihandel gikk i flere faser.</xt>
             </xg>
          </tg>
       </mg>
@@ -4623,8 +4623,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">dagens</t>
             <xg>
-            <x>Tämänpäivän ihmiset oon osa globaalia kauppaverkkoo.</x>
-            <xt>Dagens mennesker er en del av et globalt handelsnettverk.</xt>
+               <x>Tämänpäivän ihmiset oon osa globaalia kauppaverkkoo.</x>
+               <xt>Dagens mennesker er en del av et globalt handelsnettverk.</xt>
             </xg>
          </tg>
       </mg>
@@ -4734,7 +4734,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om to</re>
+            <re>om to</re>
             <t pos="Adv">sammen</t>
          </tg>
       </mg>
@@ -4757,7 +4757,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>når en ikke tror på det som blir sagt</re>
+            <re>når en ikke tror på det som blir sagt</re>
             <t pos="Adv">liksom</t>
          </tg>
       </mg>
@@ -5568,8 +5568,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">av</t>
             <t pos="Adv">i to</t>
             <xg>
-        <x>Lauta meni poikki.</x>
-        <xt>Planken brakk.</xt>
+               <x>Lauta meni poikki.</x>
+               <xt>Planken brakk.</xt>
             </xg>
          </tg>
       </mg>
@@ -6018,12 +6018,12 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">i ustand</t>
             <t pos="Adv">sønder</t>
             <xg>
-            <x>Klasi oon rikki.</x>
-            <xt>Glasset er i stykker.</xt>
+               <x>Klasi oon rikki.</x>
+               <xt>Glasset er i stykker.</xt>
             </xg>
             <xg>
-            <x>Klasi meni rikki.</x>
-            <xt>Glasset gikk i stykker.</xt>
+               <x>Klasi meni rikki.</x>
+               <xt>Glasset gikk i stykker.</xt>
             </xg>
          </tg>
       </mg>
@@ -6410,8 +6410,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">på plass</t>
             <xg>
-            <x>Palaiset menthiin sijalensa.</x>
-            <xt>Brikkene falt på plass.</xt>
+               <x>Palaiset menthiin sijalensa.</x>
+               <xt>Brikkene falt på plass.</xt>
             </xg>
          </tg>
       </mg>
@@ -6424,8 +6424,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">lengre bort</t>
             <xg>
-            <x>sikemäksi pohjaisheen</x>
-            <xt>lengre mot nord</xt>
+               <x>sikemäksi pohjaisheen</x>
+               <xt>lengre mot nord</xt>
             </xg>
          </tg>
       </mg>
@@ -6476,8 +6476,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">såpass</t>
             <xg>
-            <x>Hän on jo siksi vanhaa ette ymmärttää.</x>
-            <xt>Han er såpass gammel at han forstår.</xt>
+               <x>Hän on jo siksi vanhaa ette ymmärttää.</x>
+               <xt>Han er såpass gammel at han forstår.</xt>
             </xg>
          </tg>
       </mg>
@@ -6684,7 +6684,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>fortvilet, rasende</re>
+            <re>fortvilet, rasende</re>
             <t t_type="Phrase">fra seg</t>
             <xg>
                <x>Mikko oli suunilta.</x>
@@ -6717,8 +6717,10 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">sideveis</t>
             <t pos="Adv">til side</t>
             <xg>
-               <x>Silloin se piiskas mertä mastola, meni syrjälensä ja läiskytti mertä sekä paapuurin ette styyrpuurin puolelta.</x>
-               <xt>Da pisket hun sjøen med masta si, la seg sideveis over og smakket til sjøen både på babord og styrbord side.</xt>
+               <x>Silloin se piiskas mertä mastola, meni syrjälensä ja läiskytti mertä sekä paapuurin ette styyrpuurin
+               puolelta.</x>
+               <xt>Da pisket hun sjøen med masta si, la seg sideveis over og smakket til sjøen både på babord og
+               styrbord side.</xt>
             </xg>
          </tg>
       </mg>
@@ -7044,8 +7046,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">likegyldig</t>
             <xg>
-            <x>Se tekkee mulle tasan mitä ihmiset ajatelhaan minusta.</x>
-            <xt>Det er meg likegyldig hva folk tenker om meg.</xt> 
+               <x>Se tekkee mulle tasan mitä ihmiset ajatelhaan minusta.</x>
+               <xt>Det er meg likegyldig hva folk tenker om meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -7270,7 +7272,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Adv">tođesti</l>
       </lg>
-<!--      <mg>
+      <!--      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">bestemt</t>
          </tg>
@@ -7349,7 +7351,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>der borte fra</re>
+            <re>der borte fra</re>
             <t pos="Adv">derfra</t>
          </tg>
       </mg>
@@ -7359,8 +7361,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">tuone</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="~ bort">
-	         <re>bort dit</re>
+         <tg re="~ bort" xml:lang="nob">
+            <re>bort dit</re>
             <t pos="Adv">dit</t>
          </tg>
       </mg>
@@ -7370,8 +7372,8 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">tuossa</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" re="~ borte">
-	         <re>der borte</re>
+         <tg re="~ borte" xml:lang="nob">
+            <re>der borte</re>
             <t pos="Adv">der</t>
          </tg>
       </mg>
@@ -7537,7 +7539,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">helpomin</l>
       </lg>
@@ -7547,7 +7549,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">eppäilyttäävästi</l>
       </lg>
@@ -7557,7 +7559,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">epätasaisesti</l>
       </lg>
@@ -7567,7 +7569,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-         <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">lähtökohtaisesti</l>
       </lg>
@@ -7577,7 +7579,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">lujemin</l>
       </lg>
@@ -7587,7 +7589,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-               <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">fonologisesti</l>
       </lg>
@@ -7597,7 +7599,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-            <e src="aili">
+   <e src="aili">
       <lg>
          <l pos="Adv">lyhykäisemin</l>
       </lg>
@@ -7759,7 +7761,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tidsfrist</re>
+            <re>om tidsfrist</re>
             <t pos="Adv">ut</t>
             <xg>
                <x>Hakema-aika oon jo ummessa.</x>
@@ -7786,7 +7788,7 @@ For the full license text, see the link above.</lic>
                <x>Sluuka meni umpheen.</x>
                <xt>Sluken ble tett.</xt>
             </xg>
-<!--            <xg>
+            <!--            <xg>
                <x>Polku oon menny umpheen.</x>
                <xt>Stien har grodd igjen.</xt>
             </xg> -->
@@ -7794,7 +7796,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tidsfrist</re>
+            <re>om tidsfrist</re>
             <t pos="Adv">ut</t>
             <xg>
                <x>Hakema-aika mennee umpheen huomena.</x>
@@ -7809,7 +7811,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-<!--	         <re>også om hel fisk</re>-->
+            <!--	         <re>også om hel fisk</re>-->
             <t pos="Adv">lukket</t>
             <t pos="Adv">tildekket</t>
             <t pos="Adv">uåpnet</t>
@@ -7931,13 +7933,13 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">knapt</t>
             <t pos="Adv">snaut</t>
             <xg>
-	            <x>Hänelä oli vaanasti rahhaa silloin.</x>
-	            <xt>Han hadde knapt med penger den gang.</xt>
+               <x>Hänelä oli vaanasti rahhaa silloin.</x>
+               <xt>Han hadde knapt med penger den gang.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-<!--   <e src="ai">
+   <!--   <e src="ai">
       <lg>
          <l pos="Adv">vaarin</l>
       </lg>
@@ -7956,7 +7958,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">om så</t>
          </tg>
       </mg>
-<!--      <mg>
+      <!--      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">om så hvorhen</t>
          </tg>
@@ -8140,8 +8142,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">for sikkerhets skyld</t>
             <xg>
-            <x>Saama varoiksi jo panna pääle raation vähän ennen.</x>
-            <xt>Vi får skru på radioen litt før for å väre på den sikre siden.</xt>
+               <x>Saama varoiksi jo panna pääle raation vähän ennen.</x>
+               <xt>Vi får skru på radioen litt før for å väre på den sikre siden.</xt>
             </xg>
          </tg>
       </mg>
@@ -8231,12 +8233,12 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">ikke før</t>
             <t pos="Adv">bare</t>
             <xg>
-	            <x>Vasta nyt se tuli kothiin.</x>
-	            <xt>Først nå kom han hjem.</xt>
+               <x>Vasta nyt se tuli kothiin.</x>
+               <xt>Først nå kom han hjem.</xt>
             </xg>
             <xg>
-	            <x>Se oon vasta poikainen.</x>
-	            <xt>Han er bare guttungen.</xt>
+               <x>Se oon vasta poikainen.</x>
+               <xt>Han er bare guttungen.</xt>
             </xg>
          </tg>
       </mg>
@@ -8244,8 +8246,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">nylig</t>
             <xg>
-	            <x>Vasta se kävi kotona, mutta se oon lähteny jo.</x>
-	            <xt>Hen var nylig hjemme, men hen er dratt allerede.</xt>
+               <x>Vasta se kävi kotona, mutta se oon lähteny jo.</x>
+               <xt>Hen var nylig hjemme, men hen er dratt allerede.</xt>
             </xg>
          </tg>
       </mg>
@@ -8343,8 +8345,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">ved siden av hverandre</t>
             <xg>
-            <x>Het istuthaan vieritysten.</x>
-            <xt>De sitter side om side.</xt>
+               <x>Het istuthaan vieritysten.</x>
+               <xt>De sitter side om side.</xt>
             </xg>
          </tg>
       </mg>
@@ -8901,8 +8903,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">sammenlignet med</t>
             <xg>
-            <x>Kväänin kielessä oon indoeurooppalishiin kielhiin verrattunna paljon kaasuksii.</x>
-            <xt>Kvensk har mange kasuser sammenlignet med indoeuropeiske språk.</xt>
+               <x>Kväänin kielessä oon indoeurooppalishiin kielhiin verrattunna paljon kaasuksii.</x>
+               <xt>Kvensk har mange kasuser sammenlignet med indoeuropeiske språk.</xt>
             </xg>
          </tg>
       </mg>
@@ -8964,15 +8966,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>brukes i setninger som ~så _noe_ som mulig~</re>
+            <re>brukes i setninger som ~så _noe_ som mulig~</re>
             <t pos="Adv">som mulig</t>
             <xg>
-            <x>Lukekkaa kväänii mahđolissiiman ushein niin ette tet opitta noppeemin!</x>
-            <xt>Les kvensk så ofte som mulig sånn at dere lærer fortere!</xt>
+               <x>Lukekkaa kväänii mahđolissiiman ushein niin ette tet opitta noppeemin!</x>
+               <xt>Les kvensk så ofte som mulig sånn at dere lærer fortere!</xt>
             </xg>
             <xg>
-            <x>mahđolissiiman paljon</x>
-            <xt>så mye som mulig</xt>
+               <x>mahđolissiiman paljon</x>
+               <xt>så mye som mulig</xt>
             </xg>
          </tg>
       </mg>
@@ -9006,8 +9008,10 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">på sitt mest utbredte</t>
             <t pos="Adv">på sitt største</t>
             <xg>
-            <x>Finmarkun pötäjämettä oon vajeltannu tänne varhain viimi jääkauđen jälkhiin ja oli laajimilhaan nuoin 8000 vuotta aikkaa.</x>
-            <xt>Furuskogen i Finnmark innvandret tidlig etter siste istid og hadde sin største utbredelse for ca. 8000 år siden.</xt>
+               <x>Finmarkun pötäjämettä oon vajeltannu tänne varhain viimi jääkauđen jälkhiin ja oli laajimilhaan nuoin
+               8000 vuotta aikkaa.</x>
+               <xt>Furuskogen i Finnmark innvandret tidlig etter siste istid og hadde sin største utbredelse for ca.
+               8000 år siden.</xt>
             </xg>
          </tg>
       </mg>
@@ -9297,7 +9301,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">over ende</t>
-<!--            <t pos="Adv">over nakken</t> -->
+            <!--            <t pos="Adv">over nakken</t> -->
             <xg>
                <x>Hän meni yliniskoin.</x>
                <xt>Han datt over ende.</xt>
@@ -9538,8 +9542,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fram</t>
             <xg>
-            <x>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</x>
-            <xt>Dette er en automatisk bekreftelse på at e-posten er kommet fram.</xt>
+               <x>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile.</x>
+               <xt>Dette er en automatisk bekreftelse på at e-posten er kommet fram.</xt>
             </xg>
          </tg>
       </mg>
@@ -9550,11 +9554,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>å ha</re>
+            <re>å ha</re>
             <t t_type="Phrase">i besittelse</t>
             <xg>
-            <x>Kyllä meilä vielä joskus oon paljonki hyvvää helmassa.</x>
-            <xt>Vi kommer nok en gang til å ha mye godt.</xt>
+               <x>Kyllä meilä vielä joskus oon paljonki hyvvää helmassa.</x>
+               <xt>Vi kommer nok en gang til å ha mye godt.</xt>
             </xg>
          </tg>
       </mg>
@@ -9677,8 +9681,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">forsvunnet</t>
             <xg>
-            <x>Mulla oon avvaimet hukassa.</x>
-            <xt>Jeg har mistet nøklene mine.</xt>
+               <x>Mulla oon avvaimet hukassa.</x>
+               <xt>Jeg har mistet nøklene mine.</xt>
             </xg>
          </tg>
       </mg>
@@ -9692,8 +9696,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">på tross av</t>
             <t pos="Adv">til tross for</t>
             <xg>
-            <x>Mie olen oppinu elämhään onnelista elämää tauđista huolimatta.</x>
-            <xt>Jeg har lært meg å leve et lykkelig liv på tross av sykdommen.</xt>
+               <x>Mie olen oppinu elämhään onnelista elämää tauđista huolimatta.</x>
+               <xt>Jeg har lært meg å leve et lykkelig liv på tross av sykdommen.</xt>
             </xg>
          </tg>
       </mg>
@@ -9922,8 +9926,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">til enhver tid</t>
             <xg>
-            <x>Het ei saatais ottaat enämppää, ko het aina koskaki tarvittais.</x>
-            <xt>De måtte ikke ta mer enn de til enhver tid hadde behov for.</xt>
+               <x>Het ei saatais ottaat enämppää, ko het aina koskaki tarvittais.</x>
+               <xt>De måtte ikke ta mer enn de til enhver tid hadde behov for.</xt>
             </xg>
          </tg>
       </mg>
@@ -10005,8 +10009,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">slutt</t>
             <xg>
-            <x>Raha oli lopussa.</x>
-            <xt>Det var slutt på pengene.</xt>
+               <x>Raha oli lopussa.</x>
+               <xt>Det var slutt på pengene.</xt>
             </xg>
          </tg>
       </mg>
@@ -10050,8 +10054,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">hvordan</t>
             <t pos="Adv">på hvilken måte</t>
             <xg>
-            <x>Millälaila sie aijot matkustaat Alattihoon?</x>
-            <xt>Hvordan tenkter du å reise til Alta?</xt>
+               <x>Millälaila sie aijot matkustaat Alattihoon?</x>
+               <xt>Hvordan tenkter du å reise til Alta?</xt>
             </xg>
          </tg>
       </mg>
@@ -10480,8 +10484,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">roende</t>
             <xg>
-            <x>Met lähđimä soutoisin saarheen.</x>
-            <xt>Vi dro til øya med båt.</xt>
+               <x>Met lähđimä soutoisin saarheen.</x>
+               <xt>Vi dro til øya med båt.</xt>
             </xg>
          </tg>
       </mg>
@@ -10625,8 +10629,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">på den andre siden</t>
             <xg>
-            <x>Toishaalta assii oon niin...</x>
-            <xt>På den andre siden er saken slik...</xt>
+               <x>Toishaalta assii oon niin...</x>
+               <xt>På den andre siden er saken slik...</xt>
             </xg>
          </tg>
       </mg>
@@ -10919,7 +10923,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">rundt omkring</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e src="es">
       <lg>
          <l pos="Adv">vanhaasseen aikhaan</l>
@@ -11042,8 +11046,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fremover</t>
             <xg>
-            <x>ja niin eespäin</x>
-            <xt>og så videre</xt>
+               <x>ja niin eespäin</x>
+               <xt>og så videre</xt>
             </xg>
          </tg>
       </mg>
@@ -11104,7 +11108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>i nektende sentninger</re>
+            <re>i nektende sentninger</re>
             <t pos="Adv">mer</t>
          </tg>
       </mg>
@@ -11149,8 +11153,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">veldig</t>
             <t pos="Adv">forferdelig</t>
             <xg>
-            <x>hirmusen paljon</x>
-            <xt>forferdelig mye</xt>
+               <x>hirmusen paljon</x>
+               <xt>forferdelig mye</xt>
             </xg>
          </tg>
       </mg>
@@ -11174,8 +11178,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">fryktelig</t>
             <xg>
-            <x>hirveen paljon</x>
-            <xt>fryktelig mye</xt>
+               <x>hirveen paljon</x>
+               <xt>fryktelig mye</xt>
             </xg>
          </tg>
       </mg>
@@ -11359,11 +11363,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>mens andre ser deg</re>
+            <re>mens andre ser deg</re>
             <t pos="Adv">påsyn</t>
             <xg>
-            <x>Älähän tehe semmoista toisten nähđen!</x>
-            <xt>Gjør nå ikke slikt i andres påsyn!</xt>
+               <x>Älähän tehe semmoista toisten nähđen!</x>
+               <xt>Gjør nå ikke slikt i andres påsyn!</xt>
             </xg>
          </tg>
       </mg>
@@ -11677,8 +11681,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">dekket på alle sider</t>
             <xg>
-            <x>Leipä oli yltä alta hieđassa.</x>
-            <xt>Brødet var dekket fullstendig av sand.</xt>
+               <x>Leipä oli yltä alta hieđassa.</x>
+               <xt>Brødet var dekket fullstendig av sand.</xt>
             </xg>
          </tg>
       </mg>
@@ -11946,8 +11950,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">åpent</t>
             <xg>
-            <x>Esivalta oli lisäksi avvoimesti argumenteerannu ette saamelaispolitikki oli etusijassa.</x>
-            <xt>Dessuten ble det åpent argumentert fra myndighetshold at samepolitikken hadde forrang.</xt>
+               <x>Esivalta oli lisäksi avvoimesti argumenteerannu ette saamelaispolitikki oli etusijassa.</x>
+               <xt>Dessuten ble det åpent argumentert fra myndighetshold at samepolitikken hadde forrang.</xt>
             </xg>
          </tg>
       </mg>
@@ -11961,8 +11965,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">i gang</t>
             <t pos="Adv">pågående</t>
             <xg>
-            <x>Tääpänä oon käynissä prosessiita kväänin ja saamen kielten revitaliseeraamista varten.</x>
-            <xt>I dag pågår det prosesser for å revitalisere kvensk og samiske språk.</xt>
+               <x>Tääpänä oon käynissä prosessiita kväänin ja saamen kielten revitaliseeraamista varten.</x>
+               <xt>I dag pågår det prosesser for å revitalisere kvensk og samiske språk.</xt>
             </xg>
          </tg>
       </mg>
@@ -11975,8 +11979,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">oppe</t>
             <xg>
-            <x>pittäät yllä</x>
-            <xt>å opprettholde</xt>
+               <x>pittäät yllä</x>
+               <xt>å opprettholde</xt>
             </xg>
          </tg>
       </mg>
@@ -11998,7 +12002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>med vilje</re>
+            <re>med vilje</re>
             <t pos="Adv">bevisst</t>
          </tg>
       </mg>
@@ -12013,7 +12017,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+   <e src="ki">
       <lg>
          <l pos="Adv">ylhäisesti</l>
       </lg>
@@ -12023,7 +12027,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+   <e src="ki">
       <lg>
          <l pos="Adv">kanssoinvälisesti</l>
       </lg>
@@ -12061,8 +12065,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">tilbake</t>
             <xg>
-            <x>Kauppa Ryssän kans mennee monta sattaa vuotta aijassa takaisinkäsin.</x>
-            <xt>Handelen med Russland går flere hundre år tilbake i tid.</xt>
+               <x>Kauppa Ryssän kans mennee monta sattaa vuotta aijassa takaisinkäsin.</x>
+               <xt>Handelen med Russland går flere hundre år tilbake i tid.</xt>
             </xg>
          </tg>
       </mg>
@@ -12173,8 +12177,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">opptil</t>
             <xg>
-            <x>Ko esivallat neuvothaan ette ottaat tabletit, niin het ushein kans samala neuvothaan ette ihmiset piđethään olla sisälä eninthään 2 janturii.</x>
-            <xt>Råd om å ta tablettene vil ofte bli gitt sammen med et råd om å oppholde seg innendørs i opptil 2 døgn.</xt>
+               <x>Ko esivallat neuvothaan ette ottaat tabletit, niin het ushein kans samala neuvothaan ette ihmiset
+               piđethään olla sisälä eninthään 2 janturii.</x>
+               <xt>Råd om å ta tablettene vil ofte bli gitt sammen med et råd om å oppholde seg innendørs i opptil 2
+               døgn.</xt>
             </xg>
          </tg>
       </mg>
@@ -12187,8 +12193,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">på det meste</t>
             <xg>
-            <x>Talossa asui enniinthään yhđeksän ihmistä.</x>
-            <xt>På det meste bodde det ni personer i huset.</xt>
+               <x>Talossa asui enniinthään yhđeksän ihmistä.</x>
+               <xt>På det meste bodde det ni personer i huset.</xt>
             </xg>
          </tg>
       </mg>
@@ -12219,11 +12225,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>i negative setninger</re>
+            <re>i negative setninger</re>
             <t pos="Adv">nødvendigvis</t>
             <xg>
-            <x>Mie halluisin tulla opettaajaksi ko mie havaittin, ette opettaajan tottuuđet ei välttämättä olheet tottuuđet.</x>
-            <xt>Jeg ville bli lærer når jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</xt>
+               <x>Mie halluisin tulla opettaajaksi ko mie havaittin, ette opettaajan tottuuđet ei välttämättä olheet
+               tottuuđet.</x>
+               <xt>Jeg ville bli lærer når jeg oppdaget at lærerens sannheter ikke nødvendigvis var sannheter.</xt>
             </xg>
          </tg>
       </mg>
@@ -12236,8 +12243,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">nedbøyd</t>
             <xg>
-            <x>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</x>
-            <xt>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</xt>
+               <x>Mie istuin klassihuonheessa ko munkki, aivan hiljaa ja pää kumarassa kirjaa vasten.</x>
+               <xt>Jeg satt som en munk i klasserommet, helt stille og med hodet bøyd ned mot boka.</xt>
             </xg>
          </tg>
       </mg>
@@ -12250,8 +12257,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">i gang</t>
             <xg>
-            <x>Tutkimussenterillä oon menossa kolmas tutkimusprosekti.</x>
-            <xt>Forskningssenteret er i gang med sitt tredje forskningsprosjekt.</xt>
+               <x>Tutkimussenterillä oon menossa kolmas tutkimusprosekti.</x>
+               <xt>Forskningssenteret er i gang med sitt tredje forskningsprosjekt.</xt>
             </xg>
          </tg>
       </mg>
@@ -12264,8 +12271,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">grovt</t>
             <xg>
-            <x>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana öystässä.</x>
-            <xt>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</xt>
+               <x>Krouvisti kattottunna se oon kväänit kekkä asuthaan vestassa, ko karjalaiset asuthaan kaukana
+               öystässä.</x>
+               <xt>Grovt sett er kvenene de som bor lengst vest, mens karelerne er de som bor lengst øst.</xt>
             </xg>
          </tg>
       </mg>
@@ -12278,8 +12286,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">nøye</t>
             <xg>
-            <x>Mutta silloin hän oli nuorempi, eikä kuunelu niin tarkkhaan.</x>
-            <xt>Men da var hun yngre, og hørte ikke så nøye etter.</xt>
+               <x>Mutta silloin hän oli nuorempi, eikä kuunelu niin tarkkhaan.</x>
+               <xt>Men da var hun yngre, og hørte ikke så nøye etter.</xt>
             </xg>
          </tg>
       </mg>
@@ -12323,8 +12331,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">dumt</t>
             <xg>
-            <x>Hän ei tehny sitä, ja se oli tollosti tehty.</x>
-            <xt>Hen gjorde det ikke, og det var dumt gjort.</xt>
+               <x>Hän ei tehny sitä, ja se oli tollosti tehty.</x>
+               <xt>Hen gjorde det ikke, og det var dumt gjort.</xt>
             </xg>
          </tg>
       </mg>
@@ -12338,8 +12346,8 @@ For the full license text, see the link above.</lic>
             <t pos="A">skamfull</t>
             <t pos="A">flau</t>
             <xg>
-            <x>Hän oon häppeissä siitä mitä hän teki.</x>
-            <xt>Han er flau over det han gjorde.</xt>
+               <x>Hän oon häppeissä siitä mitä hän teki.</x>
+               <xt>Han er flau over det han gjorde.</xt>
             </xg>
          </tg>
       </mg>
@@ -12480,7 +12488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>for alltid</re>
+            <re>for alltid</re>
             <t pos="Adv">for godt</t>
          </tg>
       </mg>
@@ -12506,8 +12514,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">pent</t>
             <t pos="Adv">ordentlig</t>
             <xg>
-            <x>Istu siivosti toolila!</x>
-            <xt>Sitt pent på stolen!</xt>
+               <x>Istu siivosti toolila!</x>
+               <xt>Sitt pent på stolen!</xt>
             </xg>
          </tg>
       </mg>
@@ -12515,8 +12523,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">snill</t>
             <xg>
-            <x>Nyt tuletta ja oletta siivosti!</x>
-            <xt>Nå kommer dere og er snille!</xt>
+               <x>Nyt tuletta ja oletta siivosti!</x>
+               <xt>Nå kommer dere og er snille!</xt>
             </xg>
          </tg>
       </mg>
@@ -12533,7 +12541,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-	         <re>forsterkende adverb</re>
+            <re>forsterkende adverb</re>
             <t pos="Adv">skikkelig</t>
             <t pos="Adv">virkelig</t>
             <t pos="Adv">kraftig</t>
@@ -12614,8 +12622,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">fra sin plass</t>
             <xg>
-            <x>Minun äänetön rukkoileminen ei ollu auttanu, hyttä oli lennättänny irti krunnista ja kauvas sijaltansa.</x>
-            <xt>Min stille bønn hadde lite hjulpet, hytta var revet av grunnmuren og skjøvet langt av lei.</xt>
+               <x>Minun äänetön rukkoileminen ei ollu auttanu, hyttä oli lennättänny irti krunnista ja kauvas
+               sijaltansa.</x>
+               <xt>Min stille bønn hadde lite hjulpet, hytta var revet av grunnmuren og skjøvet langt av lei.</xt>
             </xg>
          </tg>
       </mg>
@@ -12667,7 +12676,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>forsterkningsord</re>
+            <re>forsterkningsord</re>
             <t pos="Adv">veldig</t>
             <t pos="Adv">mye</t>
          </tg>
@@ -12771,8 +12780,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">galt</t>
             <xg>
-            <x>käyđä hullusti</x>
-            <xt>å gå galt</xt>
+               <x>käyđä hullusti</x>
+               <xt>å gå galt</xt>
             </xg>
          </tg>
       </mg>
@@ -12796,8 +12805,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t t_type="Phrase">ha på lur</t>
             <xg>
-            <x>Isälä pruukas olla varala semmoissii vähä riiđanalaissii sananparssii.</x>
-            <xt>Pappa brukte å ha sånne smådiskutable ordtak på lur.</xt>
+               <x>Isälä pruukas olla varala semmoissii vähä riiđanalaissii sananparssii.</x>
+               <xt>Pappa brukte å ha sånne smådiskutable ordtak på lur.</xt>
             </xg>
          </tg>
       </mg>
@@ -12818,11 +12827,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>medregnet</re>
+            <re>medregnet</re>
             <t pos="Adv">inkludert</t>
             <xg>
-            <x>Niin ko met sen näjemä, vastaus oon – tottuuskommisuunin ja raportin myötälukkiin – ette ruijalaistaminen tiettäin ja tahtoin aina oon toimessa.</x>
-            <xt>Etter vår oppfatning er svaret – sannhetskommisjonen og rapporten inkludert – at fornorskningen med viten og vilje pågår.</xt>
+               <x>Niin ko met sen näjemä, vastaus oon – tottuuskommisuunin ja raportin myötälukkiin – ette
+               ruijalaistaminen tiettäin ja tahtoin aina oon toimessa.</x>
+               <xt>Etter vår oppfatning er svaret – sannhetskommisjonen og rapporten inkludert – at fornorskningen med
+               viten og vilje pågår.</xt>
             </xg>
          </tg>
       </mg>
@@ -12855,8 +12866,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">jævla</t>
             <xg>
-            <x>Se minun pirun kranni ei koskhaan jätä minnuu rauhaan.</x>
-            <xt>Den jævla naboen min lar meg aldri være i fred.</xt>
+               <x>Se minun pirun kranni ei koskhaan jätä minnuu rauhaan.</x>
+               <xt>Den jævla naboen min lar meg aldri være i fred.</xt>
             </xg>
          </tg>
       </mg>
@@ -12869,8 +12880,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">jævla</t>
             <xg>
-            <x>Se minun näyrän kranni ei koskhaan jätä minnuu rauhaan.</x>
-            <xt>Den jævla naboen min lar meg aldri være i fred.</xt>
+               <x>Se minun näyrän kranni ei koskhaan jätä minnuu rauhaan.</x>
+               <xt>Den jævla naboen min lar meg aldri være i fred.</xt>
             </xg>
          </tg>
       </mg>
@@ -13007,12 +13018,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">tett</t>
             <xg>
-            <x>Minula oon nenä tukossa.</x>
-            <xt>Jeg er tett i nesen.</xt>
+               <x>Minula oon nenä tukossa.</x>
+               <xt>Jeg er tett i nesen.</xt>
             </xg>
             <xg>
-            <x>Vaski oon tukossa.</x>
-            <xt>Vasken er tett.</xt>
+               <x>Vaski oon tukossa.</x>
+               <xt>Vasken er tett.</xt>
             </xg>
          </tg>
       </mg>
@@ -13025,8 +13036,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">rasjonert</t>
             <xg>
-            <x>Kaffi oli kortila.</x>
-            <xt>Kaffen ble rasjonert.</xt>
+               <x>Kaffi oli kortila.</x>
+               <xt>Kaffen ble rasjonert.</xt>
             </xg>
          </tg>
       </mg>
@@ -13043,28 +13054,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="anb">
+   <e src="anb">
       <lg>
          <l pos="Adv">tuonoin</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">for litt siden</t>
-              <t pos="Adv">nylig</t>
+            <t pos="Adv">nylig</t>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">tidligere</t>
          </tg>
       </mg>
-        <mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="Adv">før</t>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+   <e src="ki">
       <lg>
          <l pos="Adv">tyyhin käsin</l>
       </lg>
@@ -13094,8 +13105,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">heltids-</t>
             <t pos="Adv">fulltids-</t>
             <xg>
-            <x>Hänelä oon kokopäivän työ.</x>
-            <xt>Hun har en heltidsjobb.</xt>
+               <x>Hänelä oon kokopäivän työ.</x>
+               <xt>Hun har en heltidsjobb.</xt>
             </xg>
          </tg>
       </mg>
@@ -13151,8 +13162,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">vidåpen</t>
             <xg>
-            <x>Ovi oli lengola.</x>
-            <xt>Døra var vidåpen.</xt>
+               <x>Ovi oli lengola.</x>
+               <xt>Døra var vidåpen.</xt>
             </xg>
          </tg>
       </mg>
@@ -13196,8 +13207,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">hevet</t>
             <xg>
-            <x>Hän kattoi minnuu kulmakarvat koholansa.</x>
-            <xt>Han så på meg med hevede øyenbryn.</xt>
+               <x>Hän kattoi minnuu kulmakarvat koholansa.</x>
+               <xt>Han så på meg med hevede øyenbryn.</xt>
             </xg>
          </tg>
       </mg>
@@ -13243,8 +13254,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">tett</t>
             <xg>
-            <x>Uslussa het assuuvat tihheesti.</x>
-            <xt>I Oslo bor de tett.</xt>
+               <x>Uslussa het assuuvat tihheesti.</x>
+               <xt>I Oslo bor de tett.</xt>
             </xg>
          </tg>
       </mg>
@@ -13393,7 +13404,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>for øyeblikket, på det tidspunktet</re>
+            <re>for øyeblikket, på det tidspunktet</re>
             <t pos="Adv">akkurat</t>
             <xg>
                <x>Het syövät parhailansa aamuruokkaa.</x>
@@ -13532,7 +13543,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>ufattelig, utrolig</re>
+            <re>ufattelig, utrolig</re>
             <t pos="Adv">utrolig</t>
             <t pos="Adv">veldig</t>
             <t pos="Adv">mye</t>
@@ -13925,11 +13936,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>vanligvis i nektende setninger</re>
+            <re>vanligvis i nektende setninger</re>
             <t pos="Adv">lenge</t>
             <xg>
-            <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
-            <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
+               <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
+               <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
             </xg>
          </tg>
       </mg>
@@ -13940,11 +13951,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>vanligvis i nektende setninger</re>
+            <re>vanligvis i nektende setninger</re>
             <t pos="Adv">lenge</t>
             <xg>
-            <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
-            <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
+               <x>Mie olen asunu Suomessa, mutten kyllä kauvaa aikkaa.</x>
+               <xt>Jeg har bodd i Finland, men dog ikke så lenge.</xt>
             </xg>
          </tg>
       </mg>
@@ -14009,7 +14020,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>i nektende setninger</re>
+            <re>i nektende setninger</re>
             <t pos="Adv">mer</t>
          </tg>
       </mg>
@@ -14020,7 +14031,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>i nektende setninger</re>
+            <re>i nektende setninger</re>
             <t pos="Adv">mer</t>
          </tg>
       </mg>
@@ -14281,10 +14292,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">påhør</t>
-         <xg>
-            <x>Hän ei halunu sannoot sitä toisten kuulten.</x>
-            <xt>Han ville ikke si det i andres påhør.</xt>
-         </xg>
+            <xg>
+               <x>Hän ei halunu sannoot sitä toisten kuulten.</x>
+               <xt>Han ville ikke si det i andres påhør.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14295,14 +14306,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">høyt</t>
-         <xg>
-            <x>Het lukkeevat äänheen.</x>
-            <xt>De leser høyt.</xt>
-         </xg>
-         <xg>
-            <x>Sitä ei saata sannoot äänheen.</x>
-            <xt>Det kan man ikke si høyt.</xt>
-         </xg>
+            <xg>
+               <x>Het lukkeevat äänheen.</x>
+               <xt>De leser høyt.</xt>
+            </xg>
+            <xg>
+               <x>Sitä ei saata sannoot äänheen.</x>
+               <xt>Det kan man ikke si høyt.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14313,10 +14324,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">med åpne armer</t>
-         <xg>
-            <x>Hän otti minun vasthaan aukkein sylin.</x>
-            <xt>Han tok meg i mot med åpne armer.</xt>
-         </xg>
+            <xg>
+               <x>Hän otti minun vasthaan aukkein sylin.</x>
+               <xt>Han tok meg i mot med åpne armer.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14398,7 +14409,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>bortover dit</re>
+            <re>bortover dit</re>
             <t pos="Adv">ditover</t>
          </tg>
       </mg>
@@ -14409,7 +14420,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-         <re>bortover dit</re>
+            <re>bortover dit</re>
             <t pos="Adv">ditover</t>
          </tg>
       </mg>
@@ -14499,8 +14510,8 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">såpass</t>
             <t pos="Adv">så pass</t>
             <xg>
-            <x>Sen verta paljon vettä oli siinä ette joutui kaalamhaan.</x>
-            <xt>Det var så pass mye vann der at man måtte vasse.</xt>
+               <x>Sen verta paljon vettä oli siinä ette joutui kaalamhaan.</x>
+               <xt>Det var så pass mye vann der at man måtte vasse.</xt>
             </xg>
          </tg>
       </mg>
@@ -14514,12 +14525,12 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">såpass</t>
             <t pos="Adv">så pass</t>
             <xg>
-            <x>Mie saatan sen verran kväänin kieltä ette pystyn lukemhaan lyhykäissii tekstii.</x>
-            <xt>Jeg kan såpass mye kvensk at jeg klarer å lese korte tekster.</xt>
+               <x>Mie saatan sen verran kväänin kieltä ette pystyn lukemhaan lyhykäissii tekstii.</x>
+               <xt>Jeg kan såpass mye kvensk at jeg klarer å lese korte tekster.</xt>
             </xg>
             <xg>
-            <x>Sen verran ihmissii tuli ette sali täyttyi.</x>
-            <xt>Det kom så pass med folk at salen ble full.</xt>
+               <x>Sen verran ihmissii tuli ette sali täyttyi.</x>
+               <xt>Det kom så pass med folk at salen ble full.</xt>
             </xg>
          </tg>
       </mg>

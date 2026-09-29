@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/fkvnob.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/fkvnob.dtd">
 <r id="fkvnob" xml:lang="fkv">
    <lics>
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
+      <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
@@ -37,16 +37,16 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">før</t>
             <t pos="Pr">tidligere</t>
             <xg>
-            <x>Mie en jaksa puhhuut kenenkhään kans ennen aamukaffii.</x>
-            <xt>Jeg orker ikke å snakke med noen før morgenkaffen.</xt>
+               <x>Mie en jaksa puhhuut kenenkhään kans ennen aamukaffii.</x>
+               <xt>Jeg orker ikke å snakke med noen før morgenkaffen.</xt>
             </xg>
             <xg>
-            <x>Ajattele vähäsen ennen ko puhut.</x>
-            <xt>Tenk deg litt om før du sier noe.</xt>
+               <x>Ajattele vähäsen ennen ko puhut.</x>
+               <xt>Tenk deg litt om før du sier noe.</xt>
             </xg>
             <xg>
-            <x>Het olthiin lähtenheet monta viikkoo ennen.</x>
-            <xt>De hadde dratt noen uker tidligere.</xt>
+               <x>Het olthiin lähtenheet monta viikkoo ennen.</x>
+               <xt>De hadde dratt noen uker tidligere.</xt>
             </xg>
          </tg>
       </mg>
@@ -64,25 +64,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="ki">
+   <e src="ki">
       <lg>
          <l pos="Pr">päästä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	       <re>Om tid og sted</re>
+            <re>Om tid og sted</re>
             <t pos="Pr">om</t>
             <xg>
-            <x>Mie tulen tiiman päästä.</x>
-            <xt>Jeg kommer om en time.</xt>
-            </xg>  
-            <xg>
-            <x>Kafea oon neljen kilometrin päästä.</x>
-            <xt>Det er fire kilometer til kafeen.</xt>
+               <x>Mie tulen tiiman päästä.</x>
+               <xt>Jeg kommer om en time.</xt>
             </xg>
-            </tg>
+            <xg>
+               <x>Kafea oon neljen kilometrin päästä.</x>
+               <xt>Det er fire kilometer til kafeen.</xt>
+            </xg>
+         </tg>
       </mg>
-   </e>   
+   </e>
    <e src="ai">
       <lg>
          <l pos="Pr">eđeltä</l>
@@ -235,8 +235,8 @@ For the full license text, see the link above.</lic>
             <t pos="Pr">langs</t>
             <t pos="Pr">bortover</t>
             <xg>
-            <x>Siinä mennee tie pitkin Tenojokivartta.</x>
-            <xt>Det går en vei der langs Tanaelvstranden.</xt>
+               <x>Siinä mennee tie pitkin Tenojokivartta.</x>
+               <xt>Det går en vei der langs Tanaelvstranden.</xt>
             </xg>
          </tg>
       </mg>
@@ -275,7 +275,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tid</re>
+            <re>om tid</re>
             <t pos="Pr">over</t>
             <xg>
                <x>Kello oon siutte keskiyön.</x>
@@ -290,7 +290,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tid</re>
+            <re>om tid</re>
             <t pos="Pr">over</t>
             <t pos="Pr">etter</t>
             <xg>
