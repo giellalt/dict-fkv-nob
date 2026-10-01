@@ -113018,7 +113018,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;anb">
       <lg>
          <l pos="N">sisus</l>
       </lg>
@@ -113026,10 +113026,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">indre</t>
             <xg>
-               <x>Se meinaa sitä, ette meilä oon sisuksessa kaalomppii paikkoi, semmoissii assiita minkä eđestä emmä
-               pala, mistä emmä perusta.</x>
-               <xt>Det betyr at vi har områder med lavere temperatur i vårt indre, saker vi ikke brenner, som vi er
-               uengasjerte i.</xt>
+               <x>Meilä oon sisuksessa kaalomppii paikkoi, semmoissii assiita minkä eđestä emmä
+               pala.</x>
+               <xt>Vi har områder med lavere temperatur i vårt indre, saker vi ikke brenner for.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">innmat</t>
+            <xg>
+               <x>Het puhđistethiin lihat ja sisukset.</x>
+               <xt>De renset kjøttet og innmaten.</xt>
             </xg>
          </tg>
       </mg>
