@@ -3452,8 +3452,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">flyte</t>
             <re>spes. på ski, bil o.l.</re>
+            <t pos="V">flyte</t>
             <t pos="V">renne</t>
          </tg>
       </mg>
@@ -4850,11 +4850,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fryse</t>
+            <t pos="V">ise</t>
             <xg>
                <x>Lampi jäättyy talvela.</x>
                <xt>Vatnet fryser på vinteren.</xt>
             </xg>
-            <t pos="V">ise</t>
             <xg>
                <x>Sivakat jääđythiin.</x>
                <xt>Skiene iset.</xt>
@@ -10007,9 +10007,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">gjemme seg</t>
-            <syng>
-               <syn>lymmyilä</syn>
-            </syng>
             <xg>
                <x>Pojat lymmythiin sängyn alle.</x>
                <xt>Guttene gjemte seg under senga.</xt>
@@ -11745,15 +11742,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">få til å sove</t>
+            <t pos="V">svæve</t>
             <xg>
                <x>Äiti nukutti lapset.</x>
                <xt>Mor fikk ungene til å sove.</xt>
             </xg>
-            <t pos="V">svæve</t>
             <xg>
                <x>Faari nukutti lapset.</x>
                <xt>Far svævde ungene.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">bedøve</t>
             <xg>
                <x>Lääki nukuttaa pasientin ennen leikkausta.</x>
@@ -27385,7 +27386,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg/>
    </e>
    <e src="es">
       <lg>
