@@ -17077,6 +17077,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">seisattaat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">stoppe opp</t>
+         </tg>
+      </mg>
+   </e>
    <e src="ta;ai">
       <lg>
          <l context="mie" pos="V">seissoot</l>
@@ -17202,6 +17212,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">klarne</t>
             <t t_type="Phrase">klarne opp</t>
+            <t t_type="Phrase">bli klar</t>
             <xg>
                <x>Taivas selvis.</x>
                <xt>Himmelen klarnet.</xt>
@@ -29852,6 +29863,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Sota turmelee sielun.</x>
                <xt>Krig forderver sjelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l context="mie" pos="V">selvetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">bli klar</t>
+            <xg>
+               <x>Nyt se alkoi selvenemhään heileki, mitä oli tapattunnu.</x>
+               <xt>Nå begynte det å bli klart for dem også hva som hadde skjedd.</xt>
             </xg>
          </tg>
       </mg>
