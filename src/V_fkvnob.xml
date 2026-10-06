@@ -13595,6 +13595,23 @@ For the full license text, see the link above.</lic>
             <t pos="V">arve</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">ta</t>
+            <xg>
+               <x>Piru perikhöön teiđät!</x>
+               <xt>Fanden ta dere!</xt>
+            </xg>
+            <xg>
+               <x>Pitäkkää nyt hoppuu, eli viholinen perrii teiđät.</x>
+               <xt>Skynd dere nå, ellers tar fienden dere.</xt>
+            </xg>
+            <xg>
+               <x>Minun laaki peri voiton turnauksessa.</x>
+               <xt>Laget mitt tok hjem seieren i turneringen.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="ta;ai">
       <lg>
@@ -21253,9 +21270,14 @@ For the full license text, see the link above.</lic>
             <t pos="V">bringe</t>
             <t pos="V">føre</t>
             <t pos="V">lede</t>
+            <t pos="V">ta</t>
             <xg>
                <x>Hän viepi hevosen navethaan.</x>
                <xt>Hun fører hesten til stallen.</xt>
+            </xg>
+            <xg>
+               <x>Hän vei lapset koulhuun.</x>
+               <xt>Han tok barna til skolen.</xt>
             </xg>
             <xg>
                <x>vieđä ulos</x>
