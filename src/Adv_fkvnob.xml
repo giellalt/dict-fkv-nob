@@ -9245,13 +9245,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="Adv">ylheisesti</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="Adv">allment</t>
+            <t pos="Adv">generelt</t>
          </tg>
       </mg>
    </e>
@@ -10891,12 +10892,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">ylipään</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">generelt</t>
+            <t pos="Adv">overhodet</t>
             <t pos="Adv">i det hele tatt</t>
          </tg>
       </mg>
