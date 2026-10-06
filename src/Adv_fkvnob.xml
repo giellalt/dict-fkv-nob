@@ -14560,8 +14560,42 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="Adv">særskilt</t>
             <xg>
-               <x>De vil jobbe særskilt for at situasjonen skal bedre seg.</x>
-               <xt>Het halluuvat työtelä vasituisesti sen kans ette tila parentuis.</xt>
+               <x>Het halluuvat työtelä vasituisesti sen kans ette tila parentuis.</x>
+               <xt>De vil jobbe særskilt for at situasjonen skal bedre seg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">päivemällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">senere på dagen</t>
+            <t t_type="Phrase">utpå dagen</t>
+            <xg>
+               <x>Puhuma siitä päivemällä.</x>
+               <xt>La oss snakke om det senere i dag.</xt>
+            </xg>
+            <xg>
+               <x>Päivemällä sää parani.</x>
+               <xt>Været ble bedre utpå dagen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l pos="Adv">päivän pääle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">utover dagen</t>
+            <t t_type="Phrase">utpå dagen</t>
+            <xg>
+               <x>Sää paranee päivän pääle.</x>
+               <xt>Været blir bedre utover dagen.</xt>
             </xg>
          </tg>
       </mg>
