@@ -803,18 +803,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ks;ki">
+   <e src="ks;ki;ai">
       <lg>
          <l context="mie" pos="V">uuđistuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">fornye seg</t>
+            <t t_type="Phrase">bli fornyet</t>
+            <t t_type="Phrase">gjenta seg</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">revidere seg</t>
+            <t t_type="Phrase">bli revidert</t>
          </tg>
       </mg>
    </e>
@@ -25828,17 +25831,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">lekke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
-         <l context="mie" pos="V">uudistuut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t t_type="Phrase">bli fornyet</t>
-            <t t_type="Phrase">fornye seg</t>
          </tg>
       </mg>
    </e>
