@@ -368,13 +368,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ia">
+   <e src="ia;ki">
       <lg>
          <l pos="A">sisä-</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">indre</t>
+            <t pos="A">innvendig</t>
          </tg>
       </mg>
    </e>
@@ -9620,7 +9621,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta">
+   <e src="ta;ki">
       <lg>
          <l pos="A">sisäinen</l>
          <stem>sisäise</stem>
@@ -9629,6 +9630,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">indre</t>
+            <t pos="A">innvendig</t>
             <t pos="A">intern</t>
             <syng>
                <syn>sisänen</syn>
@@ -24819,6 +24821,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="A">okergul</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">ulkonainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">utvendig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="anb">
+      <lg>
+         <l pos="A">sisäpuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">innvendig</t>
          </tg>
       </mg>
    </e>
