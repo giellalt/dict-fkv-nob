@@ -10638,13 +10638,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="Adv">tosiassiissa</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">egentlig</t>
             <t pos="Adv">faktisk</t>
+            <t t_type="Phrase">i realiteten</t>
+            <t t_type="Phrase">de facto</t>
+            <xg>
+               <x>Se oon tosiassiissa het jokka päättäävät.</x>
+               <xt>I realiteten er det de som bestemmer.</xt>
+            </xg>
+            <xg>
+               <x>Tosiassiissa se ei ole niin vaikkee.</x>
+               <xt>Sånn egentlig er det ikke så vanskelig.</xt>
+            </xg>
+            <xg>
+               <x>Tosiassiissa hän oon siivo ihminen.</x>
+               <xt>Han er faktisk en snill person.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="es;ki">
+      <lg>
+         <l pos="Adv">itte assiissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Adv">faktisk</t>
+            <t pos="Adv">egentlig</t>
+            <xg>
+               <x>Mie en itte assiissa tieđä.</x>
+               <xt>Jeg vet faktisk ikke.</xt>
+            </xg>
+            <xg>
+               <x>Itte assiissa, mie en tykkää kaffista.</x>
+               <xt>Jeg liker egentlig ikke kaffe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
