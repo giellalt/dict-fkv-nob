@@ -10446,7 +10446,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai;ki">
+   <e src="ta;ai;ki;anb">
       <lg>
          <l context="mie" pos="V" val="TV">maksaat</l>
       </lg>
@@ -10462,6 +10462,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Mitä paita maksaa?</x>
                <xt>Hva koster en skjorte?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">koste</t>
+            <xg>
+               <x>Mitä sana maksaa?</x>
+               <xt>Hva betyr ordet?</xt>
             </xg>
          </tg>
       </mg>
