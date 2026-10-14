@@ -1460,8 +1460,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="A">beboelig</t>
             <xg>
-               <x>Huonet ei vielä ole asumalaila.</x>
-               <xt>Huset er foreløpig ikke beboelig.</xt>
+               <x>Huonet ei ole asumalaila.</x>
+               <xt>Huset er ikke beboelig.</xt>
             </xg>
          </tg>
       </mg>
@@ -7207,6 +7207,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="Adv">foreløpig</t>
             <t pos="Adv">inntil videre</t>
          </tg>
       </mg>
