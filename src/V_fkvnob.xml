@@ -4804,6 +4804,49 @@ For the full license text, see the link above.</lic>
             <t t_type="Phrase">bli avkjølt</t>
             <t t_type="Phrase">bli kald</t>
             <t pos="V">kjølne</t>
+            <xg>
+               <x>Tule, ennen ko ruoka jähtyy!</x>
+               <xt>Kom, før maten blir kaldt!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;anb">
+      <lg>
+         <l context="mie" pos="Phrase">mennä kylmäksi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">bli kald</t>
+            <xg>
+               <x>Velli meni kylmäksi.</x>
+               <xt>Suppen ble kald.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">besvime</t>
+		    <t pos="V">falle om</t>
+            <xg>
+               <x>Häntä lyöthiin ja meni kylmäksi.</x>
+               <xt>Han ble slått og besvimte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki">
+      <lg>
+         <l context="mie" pos="Phrase">olla kylmä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">fryse</t>
+			  <t pos="Phrase">bli kald</t>
+              <xg>
+                 <x>Oonko sinula kylmä?</x>
+                 <xt>Fryser du?</xt>
+              </xg>
          </tg>
       </mg>
    </e>
@@ -8043,6 +8086,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="V">fryse</t>
             <t pos="V">kjølne</t>
+            <xg>
+               <x>Mie panen marjat kylmettymhää. Mahtuuvatko net fryyshiin?</x>
+               <xt>Jeg legger bærene til frysing.Får de plass i fryseren?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
