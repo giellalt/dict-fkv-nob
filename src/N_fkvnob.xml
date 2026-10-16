@@ -59184,11 +59184,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">strand</t>
+            <xg>
+               <x>Mie halluun uiđa tääpänä. Menemäkö rannale?</x>
+               <xt>Jeg har lyst til å svømme idag. Skal vi dra til stranden?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rand</t>
+			  <t pos="N">utkant</t>
+              <xg>
+                 <x>Pötäjä seissoo koivumettän rannassa.</x>
+                 <xt>Furua står ved utkanten av bjørkeskogen.</xt>
+              </xg>
+            <xg>
+               <x>Aurinkkoo ei kohta näkyny yli horisontin ranttaa.</x>
+               <xt>Solen kunne nesten ikke sees over horisontens rand.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
