@@ -59175,7 +59175,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;anb">
       <lg>
          <l pos="N">ranta</l>
          <stem>ranna</stem>
@@ -59184,6 +59184,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">strand</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">rand</t>
          </tg>
       </mg>
    </e>
