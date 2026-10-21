@@ -7291,16 +7291,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>     -->
-   <!--   <e src="bildetema">
-      <lg>
-         <l pos="N">keukkosäkki</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">lungesekk</t>
-         </tg>
-      </mg>
-   </e>   -->
    <e src="bildetema">
       <lg>
          <l pos="N">kioski</l>
@@ -83289,16 +83279,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="es">
       <lg>
-         <l pos="N">iđänpuoli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">østside</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="es">
-      <lg>
          <l pos="N">ihmissuhđet</l>
       </lg>
       <mg>
@@ -122089,16 +122069,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">slattaiili</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sluddbyge</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
          <l t_type="Phrase">skummattu maito</l>
       </lg>
       <mg>
@@ -122413,16 +122383,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">trässi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">dress</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
          <l pos="N">virhet</l>
       </lg>
       <mg>
@@ -122613,16 +122573,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="anb">
       <lg>
-         <l pos="N">matruusiträssi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">matrosdress</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
          <l pos="N">maitoproduksuuni</l>
       </lg>
       <mg>
@@ -122758,26 +122708,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">rundskriv</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">siviilivaatet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">sivile_klær</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="anb">
-      <lg>
-         <l pos="N">sivakkakeli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="N">skiføre</t>
          </tg>
       </mg>
    </e>
