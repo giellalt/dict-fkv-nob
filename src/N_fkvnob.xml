@@ -23090,7 +23090,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l pos="N">haku</l>
       </lg>
@@ -23098,6 +23098,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <re>f.eks. av furu</re>
             <t pos="N">bar</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">søk</t>
          </tg>
       </mg>
    </e>
