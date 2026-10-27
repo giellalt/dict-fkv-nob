@@ -4813,7 +4813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki;anb">
       <lg>
-         <l context="mie" pos="Phrase">mennä kylmäksi</l>
+         <l context="mie" t_type="Phrase">mennä kylmäksi</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -4827,7 +4827,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">besvime</t>
-		    <t pos="Phrase">falle om</t>
+		    <t t_type="Phrase">falle om</t>
             <xg>
                <x>Häntä lyöthiin ja meni kylmäksi.</x>
                <xt>Han ble slått og besvimte.</xt>
@@ -4837,12 +4837,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="ki">
       <lg>
-         <l context="mie" pos="Phrase">olla kylmä</l>
+         <l context="mie" t_type="Phrase">olla kylmä</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="V">fryse</t>
-			  <t pos="Phrase">bli kald</t>
+			  <t t_type="Phrase">bli kald</t>
               <xg>
                  <x>Oonko sinula kylmä?</x>
                  <xt>Fryser du?</xt>
