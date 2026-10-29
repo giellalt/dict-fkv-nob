@@ -68654,7 +68654,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l pos="N">tieto</l>
          <stem>tieđo</stem>
@@ -68663,8 +68663,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">opplysning</t>
+            <t pos="N">informasjon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">viten</t>
             <t pos="N">kunnskap</t>
+            <t pos="N">kjennskap</t>
          </tg>
       </mg>
    </e>
