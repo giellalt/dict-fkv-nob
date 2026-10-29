@@ -3365,7 +3365,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ta;ai">
+   <e src="ta;ai;ki">
       <lg>
          <l context="mie" pos="V">hoittaat</l>
          <stem>hoiđa</stem>
@@ -3376,6 +3376,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">pleie</t>
             <t pos="V">stelle</t>
             <t pos="V">passe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t t_type="Phrase">ta seg av</t>
+            <t t_type="Phrase">ta hånd om</t>
          </tg>
       </mg>
    </e>
