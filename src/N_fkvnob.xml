@@ -90180,13 +90180,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="es">
+   <e src="es;ki">
       <lg>
          <l pos="N">pyyntö</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">fangst</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forespørsel</t>
          </tg>
       </mg>
    </e>
@@ -122989,6 +122994,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">varighet</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="ki;es">
+      <lg>
+         <l pos="N">antheeksipyytö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">unnskyldning</t>
          </tg>
       </mg>
    </e>
