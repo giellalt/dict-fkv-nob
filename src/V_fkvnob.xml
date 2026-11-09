@@ -8499,6 +8499,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
+            <t pos="V">gjære</t>
+            <t pos="V">heve</t>
+            <xg>
+               <x>Jästi käypi.</x>
+               <xt>Deigen gjærer.</xt>
+            </xg>
+            <xg>
+               <x>Nisuleipätaikina oon käymässä.</x>
+               <xt>Hvetebrødsdeigen står til heving.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="V">forfølge</t>
          </tg>
       </mg>
@@ -17600,13 +17614,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="ai">
+   <e src="ai;ki">
       <lg>
          <l context="mie" pos="V" val="IV">sittoonttuut</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t t_type="Phrase">binde seg</t>
+            <t t_type="Phrase">knytte seg</t>
             <t t_type="Phrase">bli bundet</t>
          </tg>
       </mg>
@@ -28361,14 +28376,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>raskt, uvørent</re>
             <t pos="V">sope</t>
             <t pos="V">feie</t>
             <t pos="V">subbe</t>
             <xg>
-               <x>Se rakasti ko pääsi nostattamhaan tunnelmaa, siinä ko vahingoniloisesti pyhkäisi yli Makrean.</x>
-               <xt>Han elsket å piske opp stemningen der han i stor skadefryd kom subbende over Magerøya.</xt>
+               <x>Tuuli pyhkäisi yli Makrean.</x>
+               <xt>Vinden feide over Magerøya.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">stryke</t>
+            <t pos="V">tørke</t>
          </tg>
       </mg>
    </e>
@@ -28406,12 +28426,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <re>f.eks. stemning</re>
+            <re>få til å stige</re>
             <t pos="V">heve</t>
-            <xg>
-               <x>Se rakasti ko pääsi nostattamhaan tunnelmaa, siinä ko vahingoniloisesti pyhkäisi yli Makrean.</x>
-               <xt>Han elsket å piske opp stemningen der han i stor skadefryd kom subbende over Magerøya.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
