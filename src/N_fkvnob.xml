@@ -41676,8 +41676,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="N">kjøttkraft</t>
+            <t pos="N">kraft</t>
             <t pos="N">buljong</t>
+            <t pos="N">lake</t>
          </tg>
       </mg>
    </e>
@@ -75423,7 +75424,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">seier</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">gevinst</t>
+            <t pos="N">utbytte</t>
          </tg>
       </mg>
    </e>
